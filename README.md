@@ -1,0 +1,3 @@
+# Shadowing practice app with custom sentences
+
+This application is designed just for improve pronounciation skills by using custome conversations in base of a clear and structured path in base of grammar, instead of just repeat a random sentence, with this you can create as many sentences you want for each grammar topic to fully understand the topic and have plenty of pronounciation practice for each one. 
