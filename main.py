@@ -1,7 +1,7 @@
 import os
 from pydub import AudioSegment
 from pydub.playback import play
-
+from pydub.silence import split_on_silence
 
 SCRIPTS_DIR = "scripts"
 AUDIOS_DIR = "audios"
@@ -19,6 +19,20 @@ def load_audio_segments(audio_path, number_of_segments):
     segment_duration = len(audio) // number_of_segments
     segments = [audio[i*segment_duration:(i+1)*segment_duration] for i in range(number_of_segments)]
     return segments
+
+def load_audio_segments_with_silence(audio_path, expected_segments):
+    audio = AudioSegment.from_file(audio_path)
+
+    chunks = split_on_silence(
+        audio,
+        min_silence_len=1000,
+        silence_thresh=audio.dBFS - 16,
+        keep_silence=200
+    )
+
+    if expected_segments and len(chunks) != expected_segments:
+        print(f"Warning: Found {len(chunks)} segments, but script has {expected_segments} lines.")
+    return chunks
 
 def select_file(directory, extension):
     files = list_files(directory, extension)
@@ -71,7 +85,7 @@ def main():
         return
 
     script_lines = load_script(script_file)
-    audio_segments = load_audio_segments(audio_file, len(script_lines))
+    audio_segments = load_audio_segments_with_silence(audio_file, len(script_lines))
 
     if len(audio_segments) != len(script_lines):
         print("Audio length and script length may not match perfectly")
