@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "speaking-shadowing"
+version = "0.1.0"
+description = ""
+authors = ["gian-guerra"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pydub = "0.25.1"
