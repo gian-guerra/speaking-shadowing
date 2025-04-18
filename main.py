@@ -2,6 +2,10 @@ import os
 from pydub import AudioSegment
 from pydub.playback import play
 from pydub.silence import split_on_silence
+import sounddevice as sd
+from scipy.io.wavfile import write, read
+import tempfile
+from modules import record
 
 SCRIPTS_DIR = "scripts"
 AUDIOS_DIR = "audios"
@@ -55,14 +59,14 @@ def select_file(directory, extension):
 
 def shadowing_session(script_lines, audio_segments):
     print("\n Shadowing Session Started ")
-    print("Instructions: [r]epeat | [n]ext | [q]uit\n")
+    print("Instructions: [r]epeat | [n]ext | [q]uit | [v]record and compare\n")
 
     for index, line in enumerate(script_lines):
         while True:
             print(f"\n📢 {line}")
             play(audio_segments[index])
 
-            command = input(">> [r]epeat | [n]ext | [q]uit\n").strip().lower()
+            command = input(">> [r]epeat | [n]ext | [q]uit | [v]record and compare\n").strip().lower()
             if command == "n":
                 break
             elif command == "q":
@@ -70,9 +74,12 @@ def shadowing_session(script_lines, audio_segments):
                 return
             elif command == "r":
                 continue
+            elif command == "v":
+                audio_data, sr = record.record_audio()
+                print("🔁 Playing your recording...")
+                record.play_recorded_audio(audio_data, sr)
             else:
-                print("Invalid input. Please try to use r/n/q")
-
+                print("Invalid input. Please try to use r/n/q/v")
 def main():
     print("Welcome to this pronounciation shadowing tool")
 
