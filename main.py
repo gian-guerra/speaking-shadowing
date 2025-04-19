@@ -2,9 +2,7 @@ import os
 from pydub import AudioSegment
 from pydub.playback import play
 from pydub.silence import split_on_silence
-import sounddevice as sd
 from scipy.io.wavfile import write, read
-import tempfile
 from modules import record
 
 SCRIPTS_DIR = "scripts"
@@ -75,9 +73,10 @@ def shadowing_session(script_lines, audio_segments):
             elif command == "r":
                 continue
             elif command == "v":
-                audio_data, sr = record.record_audio()
+                audio_data, sr = record.record_audio_until_keypress()
                 print("🔁 Playing your recording...")
-                record.play_recorded_audio(audio_data, sr)
+                record.save_and_play_recording(audio_data, sr)
+                break
             else:
                 print("Invalid input. Please try to use r/n/q/v")
 def main():
