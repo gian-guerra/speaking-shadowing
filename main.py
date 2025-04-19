@@ -5,8 +5,9 @@ from pydub.silence import split_on_silence
 from scipy.io.wavfile import write, read
 from modules import record
 
-SCRIPTS_DIR = "scripts"
-AUDIOS_DIR = "audios"
+SECTION_TO_PRACTICE = "section1A"
+SCRIPTS_DIR = f"scripts/{SECTION_TO_PRACTICE}"
+AUDIOS_DIR = f"audios/{SECTION_TO_PRACTICE}"
 
 def list_files(directory, extension=None):
     files = [f for f in os.listdir(directory) if not extension or f.endswith(extension)]
