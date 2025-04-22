@@ -1,11 +1,17 @@
 import os
+import re
 from pydub import AudioSegment
 from pydub.playback import play
 from pydub.silence import split_on_silence
 from scipy.io.wavfile import write, read
 from modules import record
 
-SECTION_TO_PRACTICE = "section1A"
+RESET = "\033[0m"
+BOLD = "\033[1m"
+BLUE = "\033[94m"
+
+
+SECTION_TO_PRACTICE = "section2"
 SCRIPTS_DIR = f"scripts/{SECTION_TO_PRACTICE}"
 AUDIOS_DIR = f"audios/{SECTION_TO_PRACTICE}"
 
@@ -13,9 +19,12 @@ def list_files(directory, extension=None):
     files = [f for f in os.listdir(directory) if not extension or f.endswith(extension)]
     return files
 
+def format_line(line):
+    return re.sub(r"\{(.*?)\}", f"{BOLD}{BLUE}\\1{RESET}", line)
+
 def load_script(script_path):
     with open(script_path, "r", encoding="utf-8") as f:
-        return [line.strip() for line in f if line.strip()]
+        return [format_line(line.strip()) for line in f if line.strip()]
 
 def load_audio_segments(audio_path, number_of_segments):
     audio = AudioSegment.from_file(audio_path)
@@ -95,7 +104,7 @@ def main():
     audio_segments = load_audio_segments_with_silence(audio_file, len(script_lines))
 
     if len(audio_segments) != len(script_lines):
-        print("Audio length and script length may not match perfectly")
+        print(f"Audio length: {len(audio_segments)} and script length: {len(script_lines)} may not match perfectly")
 
     shadowing_session(script_lines, audio_segments)
 
