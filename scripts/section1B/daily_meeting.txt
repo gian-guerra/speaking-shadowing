@@ -1,0 +1,13 @@
+Team Lead (Carlos): Morning, everyone. Let’s keep it quick. What are you working on today?
+You: Hey! I’m finishing up the validation logic for the new form. After that, I’m going to start writing unit tests.
+Carlos: Nice. Do you think you'll have time to push everything today?
+You: I hope so. I will probably submit the PR by 5 PM if nothing unexpected comes up.
+Dana (Front-end dev): Heads-up, I’m about to merge the layout refactor. It might affect your form styling.
+You: Got it! I’ll double-check once you’ve merged it. If needed, I will adjust the styles before pushing.
+Carlos: Great teamwork. Tomorrow we have that mini demo with stakeholders, right?
+You: Yeah, I am meeting with Matt later today to review the demo flow. We’re going to do a quick run-through.
+Carlos: Cool. Hopefully by the time we meet tomorrow, you will have finalized the demo version.
+You: Absolutely. I will be wrapping up everything this evening.
+Carlos: Awesome. Reminder: the CI/CD maintenance starts Thursday at 9 AM, so let’s avoid pushing that morning.
+You: Noted. I’m planning to push all changes by Wednesday night. That way, we won’t run into any delays.
+Carlos: Perfect. That’s all from me — let’s crush it!
