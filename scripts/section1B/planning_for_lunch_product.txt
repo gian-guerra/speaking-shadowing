@@ -1,0 +1,11 @@
+Emma (Product Manager): Alright team, let’s go over the launch timeline. By the end of this sprint, we will have finished the core implementation, right?
+You: Yep, we are wrapping up the final unit tests today. The CI/CD pipeline is going to be updated tomorrow to include staging deployments.
+Emma: Perfect. What about the new dashboard features?
+You: Kevin is working on them right now. He is going to finalize the UI by Friday, and then QA will be testing it over the weekend.
+Emma: Nice. So by Monday, we should have everything in place to start internal reviews.
+You: Exactly. If nothing breaks, we will be ready for release by next Thursday.
+Emma: That’s great to hear. And just a heads-up, the CEO is going to sit in on the final demo. No pressure, right?
+You: Haha, yeah, no pressure at all. I was about to ask if we should rehearse the demo together next week.
+Emma: Good call. Let’s schedule a dry run for Wednesday. That way we won’t be scrambling at the last minute.
+You: Sounds like a plan. I am planning to prepare a checklist over the weekend so we don’t miss anything.
+Emma: Awesome. If we keep this pace, we will have delivered one of our smoothest launches yet.

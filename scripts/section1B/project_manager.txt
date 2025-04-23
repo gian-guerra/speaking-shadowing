@@ -1,0 +1,25 @@
+Project Manager (Sarah): Alright, team — let’s talk about next week. First, what’s the plan for the payment module?
+
+You: I’m meeting with the backend team on Monday. We’re going to review the latest API changes.
+
+Sarah: Perfect. So you think you’ll be able to integrate it next sprint?
+
+You: Yes, I will start the integration on Tuesday. If all goes well, we will have completed it by Friday.
+
+Sarah: Nice. And what about the UI redesign?
+
+You: Jess is presenting the final Figma mockups on Wednesday. After that, we’re going to begin implementation.
+
+Sarah: Sounds good. Remember that the client calls us Thursday at 10 AM — they want a quick walkthrough.
+
+You: Right, I’ll be ready for that. I will be preparing the demo right before the meeting.
+
+Sarah: Great! What about the migration script?
+
+You: I’m about to test it locally. If no errors come up, I will deploy it to staging tonight.
+
+Sarah: Awesome. And by next Friday, we will have shipped all these updates to production?
+
+You: That’s the goal! We just need to stick to the timeline.
+
+Sarah: Alright team, let’s make it happen

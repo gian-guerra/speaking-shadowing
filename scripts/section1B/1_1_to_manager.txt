@@ -1,0 +1,12 @@
+Manager (Leo): Hey! Just wanted to catch up and see how the new authentication flow is going.
+You: Hey Leo! Yeah, things are moving forward. I was going to finish it yesterday, but I got caught up in a bug related to token refresh.
+Leo: No worries — happens to all of us. Do you think you will be able to wrap it up by tomorrow?
+You: Yeah, I’m confident I will have finished everything by tomorrow afternoon. I’m just polishing the error handling.
+Leo: Sounds good. What’s the next step after that?
+You: I am planning to move on to the front-end integration. By Friday, I will be working with Dana to get everything hooked up.
+Leo: Perfect. And for the sprint demo next week?
+You: If everything goes well, we will have completed the full flow by Monday. We are going to run some basic user tests over the weekend too.
+Leo: Nice. Just make sure we don’t fall behind on the timeline. The product team is counting on this feature.
+You: Absolutely. I’ve already blocked off time for bug fixing next week just in case.
+Leo: Good thinking. Let me know if you run into any blockers — I’ll try to free up support if needed.
+You: Thanks, Leo! Appreciate the support — I’ll keep you posted.

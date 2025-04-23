@@ -1,0 +1,13 @@
+You: Hey, welcome aboard, Sam! How’s your first week going?
+Sam: Thanks! It’s been good so far. A bit overwhelming, but I’m slowly getting the hang of everything.
+You: Totally normal. By next week, you will have settled in more. We're all here to help, so don’t hesitate to reach out.
+Sam: Appreciate it. I heard I’ll be working on the API refactor project. Is that right?
+You: Yeah! You are going to join the backend squad on Monday. By then, they will have wrapped up the initial planning.
+Sam: Great. I am planning to read through the API docs this weekend so I can hit the ground running.
+You: Awesome. And next Thursday, we are presenting the roadmap to stakeholders, so you’ll get a clear view of where things are headed.
+Sam: Nice! Will I be expected to contribute to the presentation?
+You: Not this time, but I’m sure by next quarter you will be leading one of them! If you keep up this pace, you will have learned a ton in just a few weeks.
+Sam: Haha, let’s hope so! Do you remember what your onboarding was like?
+You: Oh yeah, I was about to give up after the first few days. But I got used to it quickly once I started working on real tasks. Everyone was willing to help, so I never felt alone.
+Sam: That’s reassuring. Thanks for all the help so far!
+You: Of course! Let’s check in again after your first sprint. You’re off to a solid start!
