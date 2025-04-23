@@ -1,0 +1,15 @@
+Alex:Hey! It's been a while. How’s everything going with the project?
+You: Hey Alex! Good to see you. Honestly, things have been moving faster since we switched to microservices. It took a while to adjust, but we’ve made real progress.
+Alex: No way — you finally migrated? When I left, the monolith had been giving us headaches every single sprint.
+You: Oh yeah. It had caused so many bugs. We used to spend hours trying to fix one thing and accidentally break five others.
+Alex: Haha, I remember that pain. We would always end up working late before releases.
+You: Exactly. But now, we have deployed most of the core features as independent services. The team has been experimenting with gRPC too.
+Alex: That’s awesome! I wish I had stayed a little longer to see that transformation.
+You: Honestly, you’d love it. You remember how you used to push for more test coverage?
+Alex: Of course, but no one ever took me seriously back then haha
+You: Well, now everyone’s on board. We have written integration tests for almost every module. Even product managers have been contributing ideas for test scenarios.
+Alex: No way! PMs helping with tests? That’s wild.
+You: I know! And check this — we had been planning a feature flag system before you left, right?
+Alex: Yeah, but it never happened while I was there.
+You: We implemented it two months ago. It has already saved us from shipping two major bugs.
+Alex: Man, I would’ve loved to work in that setup. Sounds like things have evolved a lot.

@@ -1,0 +1,12 @@
+Tech Lead: So, what kind of projects have you worked on before joining us?
+You: I’ve worked on several backend-heavy projects. For the past year, I’ve been developing microservices in Node.js and Go. I’ve also been maintaining a CI/CD pipeline with GitHub Actions.
+Tech Lead: Nice. Have you ever dealt with a monolithic codebase?
+You: Yeah, actually — I used to work at a company where the entire platform was monolithic. Every time we made a change, we would need to test everything manually. It was exhausting.
+Tech Lead: I can imagine. How did you handle deployments?
+You: Back then, we would deploy once a week, usually on Friday evenings, which wasn’t ideal. I’ve had weekends where I was on call because something went wrong right after a release.
+Tech Lead: Oof. How has your workflow changed since then?
+You: A lot, actually. Since I started working with microservices, I’ve used Docker and Kubernetes. I’ve also improved my testing strategy — I’ve been writing more integration tests recently.
+Tech Lead: Sounds like you’ve gained some solid experience. Were there any major incidents?
+You: Yeah, there was one. Before we switched to feature flags, we had deployed a critical feature that wasn’t fully tested. I’d written the logic, but by the time the bug was found, I had already finished a sprint and moved to another task. I wish we had used feature flags back then.
+Tech Lead: Lessons learned. What would you say has been the biggest improvement in how you code?
+You: Honestly, I’ve become more careful with assumptions. I used to rush through requirements, but I’ve learned to ask better questions and take time to plan. That’s helped me avoid bugs early on.
