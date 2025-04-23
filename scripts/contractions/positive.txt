@@ -1,0 +1,50 @@
+TO BE 
+I'm, He's, She's, It's, You're, We're, They're
+I'm working on the new API right now.
+He's running late for the stand-up meeting.
+She's reviewing the pull requests from yesterday.
+It's not responding, probably a timeout issue.
+You're getting better.
+We're planning the next sprint this morning.
+They're deploying the new version tonight.
+HAS 
+She's, He's, It's
+She's already pushed the changes to the repo.
+He's just finished writing the tests.
+It's been acting weird since the last update
+HAVE 
+I've, You've, We've
+I've created a backup just in case.
+You've done a solid job with the frontend.
+We've been through this process before.
+HAD 
+I'd, You'd, She'd, He'd, We'd, They'd
+I'd already fixed that bug before you saw it.
+You'd told me it was working last night.
+She'd tried to reproduce the issue but couldn’t.
+He'd worked here for years before moving to Google.
+We'd just started the project when the scope changed.
+They'd expected better performance from that query.
+WOULD 
+I'd, You'd, He'd, She'd, It'd, We'd, They'd
+I'd love to join your open-source project.
+You'd probably enjoy learning Rust.
+He'd be great as a tech lead.
+She'd understand if you explained it well.
+It'd be better to add some logging there.
+We'd really appreciate your feedback.
+They'd already discussed that in the last meeting.
+WILL 
+I'll, You'll, He'll, She'll, It'll, We'll, They'll
+I'll review your PR after lunch.
+You'll get the hang of it soon enough.
+He'll handle the backend configuration.
+She'll join us remotely from Berlin.
+It'll take a few minutes to compile.
+We'll run the tests once the build is done.
+They'll need more time to finish the migration.
+MODALS + HAVE
+Should've, Would've, Could've
+I should've double-checked the environment variables
+You would've seen the error if you'd looked at the logs
+We could've finished earlier with better communication.
