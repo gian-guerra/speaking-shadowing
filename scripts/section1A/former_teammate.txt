@@ -1,0 +1,14 @@
+Former Teammate: Hey! Long time no see. What have you been up to?
+You: Hey! Great to see you too. I’ve been working at a fintech startup for the last 8 months — we’ve been building a new payment system from scratch.
+Former Teammate: Wow, sounds intense. What stack are you using?
+You: Mostly TypeScript and PostgreSQL. We’ve been using Prisma as our ORM, and I’ve been diving deep into performance tuning lately. Actually, I’ve just finished optimizing one of our most critical queries — it had been causing latency spikes for weeks.
+Former Teammate: That’s cool. Do you miss the old days at the agency?
+You: Sometimes! We used to ship stuff so fast. Remember how we would release a feature within two days of planning?
+Former Teammate: Oh yeah — and we used to push to production without proper code review. Wild times.
+You: Seriously. I’ve realized how much I’ve grown since then. I’ve become a lot more intentional with my decisions. Like, I’ve been spending more time designing before I even touch the code.
+Former Teammate: Same here. What’s one thing you wish you had learned earlier?
+You: Honestly? Writing clean pull request descriptions. There were times when I had written something vague, and by the time the reviewer asked for changes, I had already forgotten what the logic was supposed to do.
+Former Teammate: Haha, been there. Any project that really challenged you?
+You: Yeah — last quarter, we had to integrate with a legacy system. The devs had left, and nobody had touched the code in years. I had spent days just reading outdated docs before I even figured out where to start. It was painful, but I’ve learned a ton.
+Former Teammate: You’ve come a long way!
+You: Thanks! I’ve definitely been pushing myself more lately. I’ve been working on some open-source stuff after hours, and it’s helped me keep learning new tools.
