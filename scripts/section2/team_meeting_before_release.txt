@@ -1,0 +1,13 @@
+James (Team Lead): Hey Sofia, have you finished reviewing the {design documents}? I noticed there were {a few issues} last time.
+Sofia (Software Engineer): Yes, I’ve already fixed {most of them}. There were {some diagrams} missing, and I added {a lot of detail} to the {architecture section}.
+James: That’s great. How {much time} did you spend on it?
+Sofia: Not {too much} actually — just {a couple of hours}. I reused {some templates} from {the last project}, so that helped.
+James: Nice thinking. Did you check if {any features} are still pending?
+Sofia: Yeah, there are {a few} features that still need to be finalized. Especially {the search filter} — I think it needs {some more testing}.
+James: Let’s talk to {the QA team} then. Maybe {they} can handle it by tomorrow.
+Sofia: Sure. I’ll send {them} an update right after this call. Also, did you talk to {our new intern}?
+James: Yes, {he's} great! {His code} was clean, and {he} asked {a lot of questions}, which I really appreciate.
+Sofia: Awesome. We could ask {him} to document {the API endpoints}. That way, {everyone} on the team can benefit from it.
+James: Exactly. Let’s make sure {each module} has at least {some basic documentation}. Even {a little information} helps in the long run.
+Sofia: Totally agree. I’ll get started on {my part}, and I’ll let {you} know if I run into anything.
+James: Perfect. Thanks again — {your help} always makes a difference.

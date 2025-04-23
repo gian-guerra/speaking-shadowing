@@ -1,0 +1,14 @@
+Sarah (Admin Assistant): Hey Marcus, I’m about to place the monthly supply order. Do we still have {any notebooks} left?
+Marcus (DevOps Engineer): Not really. I checked the cabinet yesterday — there are just {a few} left, maybe {three} or {four}.
+Sarah: Got it. What about {printer paper}?
+Marcus: We’ve used up {most of it}. There’s just {a little} left in the tray.
+Sarah: Alright, I’ll order {a lot of paper} this time. Do we need {pens} too?
+Marcus: Actually, we have {plenty of pens}, but not {many highlighters}. I think we only have {two}.
+Sarah: Okay, I’ll add {some highlighters} to the list. Do you think we need {any USB drives}?
+Marcus: Not sure. I haven’t seen {many} in the drawer lately.
+Sarah: I'll include {a few}, just in case. And do you want me to grab {some snacks} for the kitchen too?
+Marcus: Yes please! Maybe {a few packs of granola bars} and {some coffee pods}. We ran out last week.
+Sarah: Noted. Anything else you can think of?
+Marcus: Hmm… maybe {some sticky notes} and {a couple of whiteboard markers}.
+Sarah: Perfect. I’ll send the order in today. We should have {everything we need} by tomorrow.
+Marcus: Awesome — thanks for always keeping us stocked!

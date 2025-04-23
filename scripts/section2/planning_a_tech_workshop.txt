@@ -1,0 +1,13 @@
+Emily (Team Lead): Hey Carlos, how’s the preparation for the internal workshop going? Do we have {enough chairs} and {projectors}?
+Carlos (Software Engineer): We’ve got {plenty of chairs}, but not {enough projectors}. There are only {two} available, and we might need {a few more}.
+Emily: Hmm. Can we borrow {some} from {the IT department}?
+Carlos: I already asked, but they said they don’t have {any spare ones} right now.
+Emily: Alright, maybe we can limit the number of participants. Do you know how {many people} have signed up?
+Carlos: About {thirty}. That’s actually {a lot of interest} for an internal event.
+Emily: Yeah, we didn’t expect {so many registrations}. What about {snacks} and {drinks}?
+Carlos: I’ve ordered {some coffee}, {water}, and {a few boxes of cookies}. I wasn’t sure how {much food} we’d need for a two-hour session.
+Emily: That sounds fine. We don’t need {a full meal}, just {a little something} to keep people comfortable.
+Carlos: Exactly. I also prepared {some printouts} of the exercises and brought {a bunch of markers} for the whiteboards.
+Emily: Awesome! Let’s just make sure there are {no missing materials} on the day of the event.
+Carlos: Will do. I’ve made {a checklist} to keep track of everything.
+Emily: Nice work, Carlos. Thanks — {your attention to detail} always makes events run smoothly.
