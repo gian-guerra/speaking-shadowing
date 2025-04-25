@@ -1,0 +1,16 @@
+Nora (Frontend Dev): Hey Marcus! You went to ReactConf last week, right? How was it?
+Marcus (Full-Stack Dev): Oh, it was {absolutely incredible}. The talks were {far more insightful} than I expected.
+Nora: That’s awesome. Was it {more focused on performance} or design patterns?
+Marcus: A bit of both. There was a session about micro frontends that was {just as relevant} for back-end folks too. They explained things {really clearly}.
+Nora: Sounds like it! I watched the recording of the animations talk, and the speaker was {so engaging}.
+Marcus: Yeah! She spoke {fluently} and {confidently}. Honestly, she was {the most convincing} speaker of the entire event.
+Nora: I’m {a bit jealous} now, haha. I should’ve gone. Was the venue nice?
+Marcus: Totally. It was {much better organized} than the one we attended last year. Also, the food was {surprisingly good}.
+Nora: Wait—better than last year’s? That’s {hard to believe}, considering last year we only had sandwiches.
+Marcus: Exactly! This time, they had actual meals and even {a few vegan options}. And the lines were {shorter}, too.
+Nora: Nice! Did you do any networking?
+Marcus: I did, but {not as much as} I should’ve. I was {mostly focused} on attending every talk I could.
+Nora: You’re always {more dedicated} than the rest of us when it comes to learning. I would’ve probably wandered around and missed a few sessions.
+Marcus: Haha maybe, but you’re {a lot better} at talking to new people. I always feel a bit awkward.
+Nora: We make a good team then — I’ll do the networking next time, and you can take notes.
+Marcus: Deal! Next time, we should both go. It’d be {twice as productive}.

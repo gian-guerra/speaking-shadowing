@@ -1,0 +1,15 @@
+Ava (Product Manager): Hey Dan, I just wanted to say — your demo was {super impressive} today. You handled the questions {so calmly}.
+Dan (Backend Developer): Thanks! I was {a little nervous}, honestly, but I tried to stay {as clear as possible}.
+Ava: Well, it worked. Compared to last sprint, your delivery was {much smoother}. It felt {more structured}.
+Dan: Yeah, I’ve been practicing. I realized I speak {too quickly} when I’m under pressure, so I’ve been working on slowing down.
+Ava: That’s a good move. Also, your diagrams were {way more detailed} than usual — the whole team understood the architecture {easily}.
+Dan: I used a new tool this time. It’s {slightly more flexible} than the one we used before, and {less clunky} too.
+Ava: Nice! You’re {definitely getting better} at visual explanations. I mean, that’s something even senior devs struggle with.
+Dan: Thanks, that means a lot. I think I’m still {not as confident} as I’d like to be, but I’m getting there.
+Ava: We all are. But honestly, you’re {one of the most consistent} people on the team. Your code is always {clean}, your commits are {well written}, and you never miss a deadline.
+Dan: Appreciate that! But I think Julia’s the real star — she’s been pushing herself {really hard} lately.
+Ava: True. She’s {just as reliable} as you, and her test coverage is {ridiculously high}.
+Dan: She told me she wants to be {even faster} at debugging. I was like, “You’re already {quicker than 90%} of us!”
+Ava: Haha, she’s got that drive. Honestly, both of you are raising the bar. The whole team is becoming {more efficient}.
+Dan: Yeah, I feel like this is {the strongest} our dev team has been in a while.
+Ava: Agreed! Let’s keep this energy up — we’ve got a product launch coming, and I want it to be {the smoothest} one yet.
