@@ -1,0 +1,18 @@
+Maya (Scrum Master): Hey Josh, you {entered} the meeting room {calmly}, like you {brought} good news. What's up?
+Josh (Frontend Engineer): Haha, maybe! I was just reviewing the last sprint. It was a bit of a {struggle}, but we made some {important} progress.
+Maya: I agree. We finally launched the new {mobile} layout, and the feedback has been {smoother} than I expected. Even the stakeholders {laughed} at that tiny Easter egg you hid!
+Josh: Right? My {daughter} helped me choose it — the tiny {giant} unicorn in dark mode. She {thought} it was hilarious.
+Maya: That’s so sweet! Honestly, the new UI feels much more {engaging}. And I think the way you {touched} up the navigation bar made a big difference.
+Josh: Thanks! I {wanted} to make it intuitive {throughout} the whole app. It was tricky to {maintain} consistency, especially on different devices.
+Maya: Yeah, especially with our current {schedule}. You probably {won't} have time for a full refactor this quarter.
+Josh: {Probably} not. But I can start working on the {structure} at least — small steps.
+Maya: Sounds good. By the way, the accessibility report came {through}. It’s {thorough}, and it looks like we’re compliant — except for the contrast on some buttons.
+Josh: Ah yes, I remember. That was {a bit of both} design and code issue. We’ll need to coordinate with the UX {folks} again.
+Maya: Got it. Hey, quick question — what made you {choose} to put the onboarding modal right after sign-up?
+Josh: Honestly? We looked at the heatmaps, and users always seemed {against} diving straight into the dashboard. That little delay made them feel {certain} about their next step.
+Maya: Smart move. UX is so subtle, huh? Even where you place a button matters.
+Josh: Exactly. And one more thing — the US team {flew} over yesterday. They {also} want to adopt our onboarding flow.
+Maya: Nice! I {thought} they were going with their own flow?
+Josh: Yeah, they were — but after testing ours, they changed their minds. It’s just {better structured}, {more engaging}, and they said it fits {their} market, {though} they might tweak a few things.
+Maya: That’s a win! I know we all {struggled} at first, but it's great to see it pay off.
+Josh: Agreed. Let’s just keep the momentum — this team is solid when we work {through} things together.
