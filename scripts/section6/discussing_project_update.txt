@@ -1,0 +1,15 @@
+Olivia: Hey, did you hear what Alex {said} during the meeting {yesterday}?
+Daniel: Not really. What {did} he {say}?
+Olivia: He {mentioned that} the deadline {had been moved} to {next Friday}. He also {explained that} the client {wanted} a few extra features added {this week}.
+Daniel: Oh wow. {Did} he {say} why they changed the plan?
+Olivia: Yeah, he {said that} the client {had requested} it because of new business needs. He {added that} we {would have to} prioritize the API integration first.
+Daniel: Makes sense. {Did} he {ask} us anything?
+Olivia: He {asked if} we {could} update the documentation {straight away}. He also {wanted to know whether} we {had started} testing the payment module.
+Daniel: And {had} we?
+Olivia: I {told} him that we {had completed} the initial tests {the day before}.
+Daniel: Good. {Did} he {mention} where we could find the updated requirements?
+Olivia: He {informed us that} they {had uploaded} everything to the new project board. Apparently, the design team {had finished} their revisions {earlier that morning}.
+Daniel: Alright. And {did} he {say} when the next review meeting would be?
+Olivia: He {said that} it {would be} {the following Monday}. He also {reminded us that} we {needed} to submit all changes by {then}.
+Daniel: Got it. {According to} Anna, they {might} also organize a final demo session {next week}.
+Olivia: Yeah, and {supposedly} the CTO {wants} to attend that demo too.

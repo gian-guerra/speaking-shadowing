@@ -1,0 +1,13 @@
+Olivia: Hey, {did} you {hear what} Daniel {announced} {earlier today} about the deployment?
+Lucas: Not fully. What {did} he {say}?
+Olivia: He {informed us that} the deployment window {had been moved} to {the following day} to avoid peak traffic. He {reminded us that} we {must finish} testing {by tonight}.
+Lucas: {Did} he {explain} why the schedule {changed}?
+Olivia: Yeah, he {explained that} the product team {had requested} extra QA time after finding a bug {this morning}.
+Lucas: That makes sense. {Did} he {ask if} we {could join} the final review meeting {later today}?
+Olivia: He {invited us to} join at 4 PM. He also {wanted to know whether} we {had updated} the rollback plan already.
+Lucas: And {had} we?
+Olivia: I {admitted that} we {were still working} on it but {promised that} it {would be ready} before the meeting.
+Lucas: Good. {Did} Daniel {mention} anything about communication with users?
+Olivia: He {said that} the marketing team {would send} out notifications {the next morning}. He {advised us on} being ready for support requests {that afternoon}.
+Lucas: Got it. {According to} the status page, everything {should be operational} throughout the deployment.
+Olivia: Yeah, but {apparently} support {might receive} some tickets if there’s any minor downtime.
