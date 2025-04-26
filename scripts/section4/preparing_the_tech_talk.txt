@@ -1,0 +1,10 @@
+Amir (Team Lead): Hey, I just received {an invitation to speak at the next developer summit}.
+Tessa (Software Engineer): No way, that’s awesome! That’s {a huge opportunity for someone leading our AI projects}.
+Amir: Exactly. They want {a session focused on practical use cases}.
+Tessa: You could present {a project developed by our team last quarter}. It’s super relevant.
+Amir: True. I’m planning to include {a section showing real-time ML predictions}, so it feels more interactive.
+Tessa: Nice. And what about {the demo involving the anomaly detection system}? That caught a lot of attention last time.
+Amir: Yeah, good call. I’ll prep {a version adapted for live presentation}.
+Tessa: Let me know if you need {a diagram explaining the model’s training loop}. I already have one sketched.
+Amir: That’d be great. Also, I might need {a volunteer to assist with the Q&A}.
+Tessa: You’ve got {a team willing to support you}. Just ask!
