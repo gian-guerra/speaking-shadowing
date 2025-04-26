@@ -1,0 +1,8 @@
+Emma: The client said they want the platform to support real-time notifications. Do you think we {can} integrate that without rewriting the whole backend?
+Noah: Hmm... we {could} try using WebSockets. It {might} save us a lot of time compared to polling.
+Emma: Yeah, WebSockets {are able to} handle real-time communication efficiently. But do you think our server {can} manage that load?
+Noah: It {might} struggle at first. We {could always} start with a small-scale version and then optimize once we {know} how many users will be active.
+Emma: That's smart. Alternatively, if WebSockets become too complex, we {could} implement push notifications via a third-party service like Firebase.
+Noah: Good call. It's important to remember that there {are alternatives to} building everything from scratch. Sometimes it's better to {be able to} deliver fast using existing services.
+Emma: Agreed! So, we {may} need to propose both options to the client and let them choose depending on the budget.
+Noah: Exactly. I'll {see if I can} draw up a quick comparison sheet before the meeting.
