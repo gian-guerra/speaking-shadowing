@@ -1,0 +1,13 @@
+Emma: {Did} you {see} what the security team {reported} {yesterday} about our API endpoints?
+Jack: Yeah, they {warned that} some of the authentication checks {weren't properly enforced}.
+Emma: Exactly. They also {advised us to} review the encryption process and {reminded us that} the token expiration {had to be shortened}.
+Jack: {Did} they {explain} how they {discovered} the vulnerability?
+Emma: They {said that} during a routine scan {the day before}, they {noticed} session tokens {were lasting} longer than expected.
+Jack: {Did} anyone {ask if} user data {had been compromised}?
+Emma: Yes, and the team {reassured us that} there {was} no data leak, but they {urged us to} patch the risk {straight away}.
+Jack: Good to hear. {Did} they {propose} any changes to our deployment workflow?
+Emma: They {suggested that} we {add} an automated security scan before every release {starting next week}.
+Jack: Makes sense. I {offered to} update the CI/CD pipeline scripts this evening.
+Emma: Perfect. By the way, they {asked whether} we {had completed} the OAuth audit we {promised} {last month}.
+Jack: Oh no — I {admitted that} it {was still pending}. I {promised that} I {would prioritize} it {tomorrow}.
+Emma: Great. {According to} their final report, if we fix these issues {by the end of the week}, we {should pass} the follow-up review easily.
