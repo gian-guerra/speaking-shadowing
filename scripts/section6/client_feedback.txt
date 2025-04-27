@@ -1,0 +1,13 @@
+Nora: {Did} you {hear} what the client {said} during {today's} meeting?
+Leo: Yeah, they {complained that} the new dashboard {wasn't loading} fast enough.
+Nora: They also {pointed out that} some graphs {weren't updating} {straight away}.
+Leo: {Did} they {mention} anything about the mobile version?
+Nora: Yes, they {requested that} we {optimize} the mobile UI and {suggested that} we {conduct} more testing {over the following week}.
+Leo: {Did} they {ask if} the fix {could be} ready {by next Friday}?
+Nora: They {asked whether} it {would be possible}. I {promised that} we {would do our best}, but I {warned that} it {might take} a bit longer depending on QA results.
+Leo: Fair. {Did} they {propose} any specific improvements?
+Nora: They {proposed} simplifying the navigation and {offered to} send a few UX suggestions {tomorrow}.
+Leo: Nice. I {think} we {ought to} schedule another review meeting {next week} to show them the updates.
+Nora: Good idea. By the way, they {reminded us that} the reporting module {had to be} compliant with the new accessibility standards.
+Leo: Right. {According to} the notes I {took}, they {seemingly} care a lot about screen reader compatibility too.
+Nora: Exactly. Let’s {make sure} to prioritize that before our next client call.
