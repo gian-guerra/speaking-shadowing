@@ -1,0 +1,13 @@
+Ava: We {plan to deploy} the update on Friday night, right?
+Liam: Yes, but we {ought to prepare} a full rollback strategy, just in case something goes wrong.
+Ava: Absolutely. I {offered to help} document the backup process yesterday.
+Liam: Thanks! Also, the managers {expect us to present} a risk analysis tomorrow.
+Ava: I'll get on that. I {don't mind staying} late today if necessary.
+Liam: By the way, I {can't stand dealing} with those database migration scripts — they’re a nightmare.
+Ava: Haha, I {don't mind handling} them if you prefer. Honestly, I {prefer focusing} on backend stuff over front-end anyway.
+Liam: That would be amazing. I {tried updating} them last week but ran into some issues.
+Ava: Maybe we should {consider testing} the scripts manually before running them in production.
+Liam: Good idea. Also, don't {forget to notify} the security team about the downtime window.
+Ava: Right. I'll {remember to send} them an email after this meeting.
+Liam: And if something fails, we {must stop to analyze} the logs before trying a second deployment.
+Ava: Definitely. Rushing could {end up causing} bigger problems.

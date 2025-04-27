@@ -1,0 +1,10 @@
+Emma: Noah, I {noticed you missing} some important comments in your last review. We {need to aim} for consistency across the team.
+Noah: You're right. I {intend to pay} more attention to code standards from now on. I {can't help feeling} a bit nervous when reviewing senior devs' code, though.
+Emma: I get that. But remember, you {are allowed to point} out anything that could improve the project, no matter who wrote it.
+Noah: Thanks, Emma. I {decided to start} writing notes during my reviews to organize my thoughts.
+Emma: That’s a great idea! Also, I {recommend focusing} on one thing at a time — like readability first, then performance.
+Noah: Got it. I {hope to get} faster at it too, because sometimes I {end up spending} hours on a single pull request.
+Emma: Totally normal at the beginning. You {must remember to check} the guidelines document we shared last week.
+Noah: Will do. And I {don't mind reviewing} extra PRs this week to get more practice.
+Emma: Awesome! Just {avoid rushing} through them — it {could lead} to missing critical bugs.
+Noah: Understood. I'll {continue taking} my time but try to be more efficient.
