@@ -1,0 +1,14 @@
+Josh: Emma, do you think it’s worth {attempting to learn} multiple frameworks at once?
+Emma: Honestly, I {advise focusing} on one at a time. Trying {to master} everything at once just {ends up involving} a lot of confusion.
+Josh: Yeah, I {considered learning} React, Vue, and Angular all together, but maybe that’s too much.
+Emma: Exactly. You should {choose to specialize} at first. Later, when you're confident, you can {go on expanding} your stack.
+Josh: Got it. Also, do you {approve of taking} online certifications, or do you think experience matters more?
+Emma: I {approve of getting} certifications — they {tend to open} doors, especially for juniors. But I always {recommend building} real-world projects too.
+Josh: Thanks! By the way, my manager {reminded me to update} my GitHub portfolio this week.
+Emma: Good! Don't {put off uploading} your best code. Recruiters {tend to check} portfolios before even {bothering to schedule} interviews.
+Josh: I'll keep that in mind. I {feel like trying} to build something new this weekend.
+Emma: That’s the spirit! I {can't help feeling} excited when juniors are this motivated.
+Josh: Haha, well, I’ll do my best. Sometimes I {need to ask} for help though.
+Emma: Of course! Everyone does. I {was made to rely} on teammates so many times early in my career.
+Josh: Really? You seem like you always knew everything!
+Emma: Trust me, I {remember struggling} a lot. But you {have to keep going} — that's how you grow.

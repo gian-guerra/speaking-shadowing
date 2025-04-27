@@ -1,0 +1,12 @@
+Mia: Hey, are you still planning {to join} the hackathon this Saturday?
+Lucas: Yeah, I {hope to submit} a working prototype by the end of the event. I {managed to finish} most of the backend yesterday.
+Mia: That's awesome! I {decided to work} on a different project, though. I just {couldn't help thinking about} that mobile app idea we talked about last week.
+Lucas: Oh, nice. Are you going to work alone?
+Mia: I {offered to team up} with Elena, but she {refused to participate}. She said she {couldn't stand working} under pressure like that.
+Lucas: Haha, fair enough. I {suggested asking} James to join me, but he {insisted on taking} the weekend off completely. He's been {thinking about moving} to a different team, so I guess he wants a break.
+Mia: Makes sense. I {prefer working} with a small team anyway — less chaos. Oh, and I {intend to submit} my project to that startup competition next month too.
+Lucas: Wow, ambitious! Don't forget {to back up} your files often. I {remember losing} my entire project once because I forgot {to save} it properly.
+Mia: Ouch. I {imagine feeling} so frustrated. By the way, if you want, I {can help} you {set up} your frontend faster.
+Lucas: Really? Thanks! I {can't stand dealing with} CSS — it always breaks everything!
+Mia: No worries. I actually {enjoy fixing} those little layout bugs.
+Lucas: You're a lifesaver. Maybe next time I’ll {offer to help} you {debug} some backend stuff.

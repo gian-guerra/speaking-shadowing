@@ -1,0 +1,12 @@
+Zoe: We {planned to release} the beta version last week, but a few unexpected bugs came up.
+Liam: Yeah, I {remember fixing} that authentication issue, but then the payment gateway started failing.
+Zoe: Exactly. At this point, we {can't stand delaying} the launch any longer. We {have to move} forward.
+Liam: Agreed. I {offered to stay} late tonight to finish the last few tasks.
+Zoe: Thanks! That {might help} us hit our new deadline. I {insist on testing} everything manually before we push it live.
+Liam: Good idea. Also, the marketing team {suggested preparing} a last-minute demo video. They {want us to highlight} the new features.
+Zoe: We {need to organize} that fast. Maybe we {could ask} Nathan to help with editing?
+Liam: Yeah, Nathan {agreed to help} last time, so he {might not mind doing} it again.
+Zoe: I'll {try calling} him after this meeting.
+Liam: Perfect. By the way, I {prefer handling} backend tasks, but if needed, I {don't mind fixing} some frontend bugs too.
+Zoe: Thanks, Liam. We all {must keep supporting} each other until launch day!
+Liam: Definitely. Launching a product always {involves making} sacrifices, but it’s so worth it in the end.
