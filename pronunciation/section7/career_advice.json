@@ -1,0 +1,42 @@
+[
+    {
+      "stress": "I really [hope] to [become] a [senior] [developer] someday. Do you [recommend] taking any specific [courses]?",
+      "ipa": "aɪ ˈɹɪli ˈhoʊp tə bɪˈkʌm ə ˈsinjɚ dəˈvɛləpɚ ˈsʌmˌdeɪ. du jə ˌɹɛkəˈmɛnd ˈteɪkɪŋ ˈɛni spəˈsɪfɪk ˈkɔɹsɪz",
+      "linking": "\"hope to\" → /hoʊp tə/ (to reduced)\n\"to become\" → /tə bɪˈkʌm/ (smooth link)\n\"do you\" → /du jə/ (you reduced)\n\"taking any\" → /ˈteɪkɪn ˈɛni/ (drop g)"
+    },
+    {
+      "stress": "Definitely. I usually [suggest] [focusing] on [backend] [skills] first. Also, don't [put] off [applying] for small [freelance] [jobs] — they [help] a lot.",
+      "ipa": "ˈdɛfənətli. aɪ ˈjuʒəˌli səˈdʒɛst ˈfoʊkəsɪŋ ɑn ˈbækˌɛnd skɪlz fɝst. ˈɔlsoʊ doʊnt pʊt ɔf əˈplaɪɪŋ fɚ smɔl ˈfriˌlæns ʤɑbz — ðeɪ hɛlp ə lɑt",
+      "linking": "\"suggest focusing\" → /səˈdʒɛst ˈfoʊkəsɪŋ/ (smooth link)\n\"put off applying\" → /pʊt ɔf əˈplaɪɪŋ/ (linking off + applying)\n\"freelance jobs\" → /ˈfriˌlæns ʤɑbz/ (smooth connection)"
+    },
+    {
+      "stress": "Got it. I [plan] to [start] a few side [projects] too. Do you [mind] [reviewing] them once they're [done]?",
+      "ipa": "gɑt ɪt. aɪ plæn tə stɑɹt ə fju saɪd ˈprɑˌʤɛkts tu. du jə maɪnd ɹɪˈvjuɪŋ ðɛm wʌns ðɛɹ dʌn",
+      "linking": "\"plan to start\" → /plæn tə stɑɹt/ (to reduced)\n\"mind reviewing\" → /maɪnd ɹɪˈvjuɪŋ/ (link d + reviewing)\n\"once they're done\" → /wʌns ðɛɹ dʌn/ (smooth transition)"
+    },
+    {
+      "stress": "Not at all! In fact, I [enjoy] [helping] [younger] [developers] [grow]. Also, [try] to [contribute] to [open-source] [projects] if you can.",
+      "ipa": "nɑt ət ɔl. ɪn fækt aɪ ɛnˈʤɔɪ ˈhɛlpɪŋ ˈjʌŋɡɚ dəˈvɛləpɚz ɡɹoʊ. ˈɔlsoʊ tɹaɪ tə kənˈtɹɪbjut tu ˈoʊpən sɔɹs ˈprɑˌʤɛkts ɪf jʊ kæn",
+      "linking": "\"enjoy helping\" → /ɛnˈʤɔɪ ˈhɛlpɪŋ/ (smooth link)\n\"try to contribute\" → /tɹaɪ tə kənˈtɹɪbjut/ (to reduced)\n\"open-source\" → /ˈoʊpən sɔɹs/ (smooth)"
+    },
+    {
+      "stress": "That [sounds] [exciting]. I [imagine] [working] with [big] [teams] could be [challenging] though.",
+      "ipa": "ðæt saʊndz ɪkˈsaɪtɪŋ. aɪ ɪˈmæʤɪn ˈwɝkɪŋ wɪð bɪɡ timz kʊd bi ˈʧælənʤɪŋ ðoʊ",
+      "linking": "\"imagine working\" → /ɪˈmæʤɪn ˈwɝkɪŋ/ (smooth link)\n\"big teams\" → /bɪɡ timz/ (link g + t lightly)\n\"could be challenging\" → /kʊd bi ˈʧælənʤɪŋ/ (link could + be)"
+    },
+    {
+      "stress": "True, but if you [learn] to [collaborate] well, you’ll [love] it. And remember to [avoid] [neglecting] your [soft] [skills] — they’re just as [important].",
+      "ipa": "tɹu bət ɪf jʊ lɝn tə kəˈlæbəˌɹeɪt wɛl. jʊl lʌv ɪt. ænd ɹɪˈmɛmbɚ tə əˈvɔɪd nəˈɡlɛktɪŋ jɚ sɔft skɪlz — ðɛɹ ʤəst æz ɪmˈpɔɹtənt",
+      "linking": "\"learn to collaborate\" → /lɝn tə kəˈlæbəˌɹeɪt/ (to reduced)\n\"avoid neglecting\" → /əˈvɔɪd nəˈɡlɛktɪŋ/ (smooth link)\n\"soft skills\" → /sɔft skɪlz/ (t links smoothly)"
+    },
+    {
+      "stress": "Thanks! Sometimes I [feel] like [giving] up when I [hit] [bugs] I can’t [solve].",
+      "ipa": "θæŋks. ˈsʌmˌtaɪmz aɪ fil laɪk ˈɡɪvɪŋ ʌp wɛn aɪ hɪt bʌɡz aɪ kænt sɑlv",
+      "linking": "\"feel like giving\" → /fil laɪk ˈɡɪvɪŋ/ (link feel + like)\n\"hit bugs\" → /hɪt bʌɡz/ (t links into bugs)\n\"can't solve\" → /kænt sɑlv/ (smooth connection)"
+    },
+    {
+      "stress": "Trust me, we all do. Just [keep] [practicing] and you’ll [get] there [faster] than you [think].",
+      "ipa": "tɹʌst mi, wi ɔl du. ʤəst kip ˈpræktɪsɪŋ ənd jʊl ɡɛt ðɛɹ ˈfæstɚ ðæn jʊ θɪŋk",
+      "linking": "\"keep practicing\" → /kip ˈpræktɪsɪŋ/ (smooth link)\n\"and you’ll\" → /ənd jʊl/ (and reduced)\n\"get there\" → /ɡɛt ðɛɹ/ (link t to there)"
+    }
+  ]

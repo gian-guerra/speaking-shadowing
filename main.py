@@ -1,5 +1,6 @@
 import os
 import re
+import json
 from pydub import AudioSegment
 from pydub.playback import play
 from pydub.silence import split_on_silence
@@ -11,9 +12,10 @@ BOLD = "\033[1m"
 BLUE = "\033[94m"
 
 
-SECTION_TO_PRACTICE = "section2"
+SECTION_TO_PRACTICE = "section7"
 SCRIPTS_DIR = f"scripts/{SECTION_TO_PRACTICE}"
 AUDIOS_DIR = f"audios/{SECTION_TO_PRACTICE}"
+PRONUNCIATION_DIR = f"pronunciation/{SECTION_TO_PRACTICE}"
 
 def list_files(directory, extension=None):
     files = [f for f in os.listdir(directory) if not extension or f.endswith(extension)]
@@ -46,6 +48,10 @@ def load_audio_segments_with_silence(audio_path, expected_segments):
         print(f"Warning: Found {len(chunks)} segments, but script has {expected_segments} lines.")
     return chunks
 
+def load_pronunciation_data(pronunciation_path):
+    with open(pronunciation_path, "r", encoding="utf-8") as f:
+        return json.load(f)
+    
 def select_file(directory, extension):
     files = list_files(directory, extension)
     if not files:
@@ -65,16 +71,16 @@ def select_file(directory, extension):
             pass
         print("Invalid selection. Please enter a valid number")
 
-def shadowing_session(script_lines, audio_segments):
+def shadowing_session(script_lines, audio_segments, pronunciation_data):
     print("\n Shadowing Session Started ")
-    print("Instructions: [r]epeat | [n]ext | [q]uit | [v]record and compare\n")
+    print("Instructions: [r]epeat | [n]ext | [q]uit | [v]record and compare | [s]stress | [i]ipa | [l]linking | [a]all\n")
 
     for index, line in enumerate(script_lines):
         while True:
             print(f"\n📢 {line}")
             play(audio_segments[index])
 
-            command = input(">> [r]epeat | [n]ext | [q]uit | [v]record and compare\n").strip().lower()
+            command = input(">> [r]epeat | [n]ext | [q]uit | [v]record and compare | [s]stress | [i]ipa | [l]linking | [a]all\n").strip().lower()
             if command == "n":
                 break
             elif command == "q":
@@ -87,8 +93,23 @@ def shadowing_session(script_lines, audio_segments):
                 print("🔁 Playing your recording...")
                 record.save_and_play_recording(audio_data, sr)
                 break
+            elif command in ("s", "i", "l", "a"):
+                if 0 <= index < len(pronunciation_data):
+                    data = pronunciation_data[index]
+                    if command == "s":
+                        print(f"Stress: {data.get('stress', 'N/A')}")
+                    elif command == "i":
+                        print(f"IPA: {data.get('ipa', 'N/A')}")
+                    elif command == "l":
+                        print(f"Linking:\n{data.get('linking', 'N/A')}")
+                    elif command == "a":
+                        print(f"Stress: {data.get('stress', 'N/A')}")
+                        print(f"IPA: {data.get('ipa', 'N/A')}")
+                        print(f"Linking:\n{data.get('linking', 'N/A')}")
+                else:
+                    print("No pronunciation data available for this line.")
             else:
-                print("Invalid input. Please try to use r/n/q/v")
+                print("Invalid input. Please try to use r/n/q/v/s/i/l/a")
 def main():
     print("Welcome to this pronounciation shadowing tool")
 
@@ -100,13 +121,19 @@ def main():
     if not audio_file:
         return
 
+    pronunciation_file = select_file(PRONUNCIATION_DIR, ".json")
+    if not pronunciation_file:
+        return
+
+    
     script_lines = load_script(script_file)
     audio_segments = load_audio_segments_with_silence(audio_file, len(script_lines))
+    pronunciation_data = load_pronunciation_data(pronunciation_file)
 
     if len(audio_segments) != len(script_lines):
         print(f"Audio length: {len(audio_segments)} and script length: {len(script_lines)} may not match perfectly")
 
-    shadowing_session(script_lines, audio_segments)
+    shadowing_session(script_lines, audio_segments, pronunciation_data)
 
 if __name__ == "__main__":
     main()
