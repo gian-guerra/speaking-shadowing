@@ -78,6 +78,7 @@ def shadowing_session(script_lines, audio_segments, pronunciation_data):
     for index, line in enumerate(script_lines):
         while True:
             print(f"\n📢 {line}")
+            print(f"IPA: {pronunciation_data[index].get('ipa', 'N/A')}")
             play(audio_segments[index])
 
             command = input(">> [r]epeat | [n]ext | [q]uit | [v]record and compare | [s]stress | [i]ipa | [l]linking | [a]all\n").strip().lower()
