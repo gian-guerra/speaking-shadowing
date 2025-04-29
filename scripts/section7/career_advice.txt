@@ -1,0 +1,8 @@
+Mia: I really {hope to become} a senior developer someday. Do you {recommend taking} any specific courses?
+Daniel: Definitely. I usually {suggest focusing} on backend skills first. Also, don't {put off applying} for small freelance jobs — they help a lot.
+Mia: Got it. I {plan to start} a few side projects too. Do you {mind reviewing} them once they're done?
+Daniel: Not at all! In fact, I {enjoy helping} younger developers grow. Also, {try to contribute} to open-source projects if you can.
+Mia: That sounds exciting. I {imagine working} with big teams could be challenging though.
+Daniel: True, but if you {learn to collaborate} well, you’ll love it. And remember to {avoid neglecting} your soft skills — they’re just as important.
+Mia: Thanks! Sometimes I {feel like giving} up when I hit bugs I can’t solve.
+Daniel: Trust me, we all do. Just {keep practicing} and you’ll get there faster than you think.
