@@ -1,0 +1,8 @@
+Nathan: I {agreed to give} a presentation on AI trends next month. Would you {consider joining} me as a co-speaker?
+Chloe: I'd love to! Actually, I {prefer sharing} the stage with someone — it's less stressful.
+Nathan: Exactly! I also {intend to start} working on the slides this week. Maybe we could {carry on brainstorming} some ideas together?
+Chloe: Sure. I'm thinking about {suggesting adding} a live demo too. What do you think?
+Nathan: That's a great idea. I {attempted doing} a live coding session once — it went well. We just {need to plan} it very carefully.
+Chloe: Absolutely. We shouldn't {risk failing} because of technical issues. Maybe we {ought to check} the venue setup in advance.
+Nathan: Good point. I {don't mind arriving} early on the day to test everything.
+Chloe: Neither do I. Also, {remember to confirm} the final schedule with the organizers. We {can't afford forgetting} anything important!
