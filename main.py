@@ -39,7 +39,7 @@ def load_audio_segments_with_silence(audio_path, expected_segments):
 
     chunks = split_on_silence(
         audio,
-        min_silence_len=1000,
+        min_silence_len=1500,
         silence_thresh=audio.dBFS - 16,
         keep_silence=200
     )
