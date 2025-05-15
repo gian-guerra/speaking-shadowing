@@ -1,0 +1,74 @@
+[
+    {
+        "speaker": "Tech Lead",
+        "text": "So, what kind of projects have you worked on before joining us?",
+        "ipa": "səʊ | wʌt ˈkaɪnd əv ˈprɒʤekts əv jə ˈwɜːkt ɒn bɪˈfɔː ˈʤɔɪnɪŋ əs",
+        "linking": "So → /səʊ/\nwhat kind of projects have you worked on before joining us → /wʌt ˈkaɪnd əv ˈprɒʤekts əv jə ˈwɜːkt ɒn bɪˈfɔː ˈʤɔɪnɪŋ əs/"
+    },
+    {
+        "speaker": "You",
+        "text": "I’ve worked on several backend-heavy projects. For the past year, I’ve been developing microservices in Node.js and Go. I’ve also been maintaining a CI/CD pipeline with GitHub Actions.",
+        "ipa": "aɪv ˈwɜːkt ɒn ˈsevərəl ˌbækend ˈhevi ˈprɒʤekts | fə ðə ˈpɑːst jɪə | aɪv bɪn dɪˈveləpɪŋ ˈmaɪkrəʊsɜːvɪsɪz ɪn nəʊd dʒiː ɛs ənd ɡəʊ | aɪv ˈɔːlsəʊ bɪn meɪnˈteɪnɪŋ ə ˈsiː aɪ ˈsiː diː ˈpaɪplaɪn wɪð ˈɡɪthʌb ˈækʃənz",
+        "linking": "I’ve worked on → /aɪv ˈwɜːkt ɒn/\nFor the past year → /fə ðə ˈpɑːst jɪə/\nmicroservices in Node.js and Go → /ˈmaɪkrəʊsɜːvɪsɪz ɪn nəʊd dʒiː ɛs ənd ɡəʊ/\npipeline with GitHub Actions → /ˈpaɪplaɪn wɪð ˈɡɪthʌb ˈækʃənz/"
+    },
+    {
+        "speaker": "Tech Lead",
+        "text": "Nice. Have you ever dealt with a monolithic codebase?",
+        "ipa": "naɪs | əv jə ˈevə ˈdɛlt wɪð ə ˌmɒnəˈlɪθɪk ˈkəʊdbeɪs",
+        "linking": "Have you ever → /əv jə ˈevə/\ndealt with a → /ˈdɛlt wɪð ə/"
+    },
+    {
+        "speaker": "You",
+        "text": "Yeah, actually — I used to work at a company where the entire platform was monolithic. Every time we made a change, we would need to test everything manually. It was exhausting.",
+        "ipa": "jæ | ˈækʧʊəli — aɪ ˈjuːst tə ˈwɜːk ət ə ˈkʌmpəni weə ði ɪnˈtaɪə ˈplætfɔːm wəz ˌmɒnəˈlɪθɪk | ˈevri taɪm wi meɪd ə ʧeɪnʤ | wi wəd niːd tə test ˈevriθɪŋ ˈmænjuəli | ɪt wəz ɪɡˈzɔːstɪŋ",
+        "linking": "I used to → /aɪ ˈjuːst tə/\nwork at a → /ˈwɜːk ət ə/\nmade a change → /meɪd ə ʧeɪnʤ/\nneed to test → /niːd tə test/"
+    },
+    {
+        "speaker": "Tech Lead",
+        "text": "I can imagine. How did you handle deployments?",
+        "ipa": "aɪ kən ɪˈmæʤɪn | haʊ dɪd jə ˈhændl dɪˈplɔɪmənts",
+        "linking": "How did you → /haʊ dɪd jə/\nhandle deployments → /ˈhændl dɪˈplɔɪmənts/"
+    },
+    {
+        "speaker": "You",
+        "text": "Back then, we would deploy once a week, usually on Friday evenings, which wasn’t ideal. I’ve had weekends where I was on call because something went wrong right after a release.",
+        "ipa": "bæk ðen | wi wəd dɪˈplɔɪ wʌns ə wiːk | ˈjuːʒuəli ɒn ˈfraɪdeɪ ˈiːvnɪŋz | wɪʧ ˈwɒznt aɪˈdɪəl | aɪv hæd ˈwiːkɛndz weə aɪ wəz ɒn kɔːl bɪˈkəz ˈsʌmθɪŋ wɛnt rɒŋ raɪt ˈɑːftə ə rɪˈliːs",
+        "linking": "would deploy → /wəd dɪˈplɔɪ/\nonce a week → /wʌns ə wiːk/\non Friday evenings → /ɒn ˈfraɪdeɪ ˈiːvnɪŋz/\nwent wrong right after → /wɛnt rɒŋ raɪt ˈɑːftə/"
+    },
+    {
+        "speaker": "Tech Lead",
+        "text": "Oof. How has your workflow changed since then?",
+        "ipa": "uːf | haʊ həz jə ˈwɜːkfləʊ ʧeɪnʤd sɪns ðen",
+        "linking": "How has your → /haʊ həz jə/\nworkflow changed → /ˈwɜːkfləʊ ʧeɪnʤd/"
+    },
+    {
+        "speaker": "You",
+        "text": "A lot, actually. Since I started working with microservices, I’ve used Docker and Kubernetes. I’ve also improved my testing strategy — I’ve been writing more integration tests recently.",
+        "ipa": "ə lɒt ˈækʧʊəli | sɪns aɪ ˈstɑːtɪd ˈwɜːkɪŋ wɪð ˈmaɪkrəʊsɜːvɪsɪz | aɪv juːzd ˈdɒkə ənd ˌkjuːbərˈniːtiːz | aɪv ˈɔːlsəʊ ɪmˈpruːvd maɪ ˈtestɪŋ ˈstrætəʤi — aɪv bɪn ˈraɪtɪŋ mɔːr ˌɪntɪˈɡreɪʃən tests ˈriːsntli",
+        "linking": "Since I started → /sɪns aɪ ˈstɑːtɪd/\nworking with microservices → /ˈwɜːkɪŋ wɪð ˈmaɪkrəʊsɜːvɪsɪz/\nDocker and Kubernetes → /ˈdɒkə ənd ˌkjuːbərˈniːtiːz/"
+    },
+    {
+        "speaker": "Tech Lead",
+        "text": "Sounds like you’ve gained some solid experience. Were there any major incidents?",
+        "ipa": "saʊndz laɪk jəv ɡeɪnd səm ˈsɒlɪd ɪkˈspɪəriəns | wə ðeər ˈeni ˈmeɪʤə ˈɪnsɪdənts",
+        "linking": "you’ve gained → /jəv ɡeɪnd/\nWere there any → /wə ðeər ˈeni/"
+    },
+    {
+        "speaker": "You",
+        "text": "Yeah, there was one. Before we switched to feature flags, we had deployed a critical feature that wasn’t fully tested. I’d written the logic, but by the time the bug was found, I had already finished a sprint and moved to another task. I wish we had used feature flags back then.",
+        "ipa": "jæ | ðeə wəz wʌn | bɪˈfɔː wi swɪʧt tə ˈfiːʧə flæɡz | wi həd dɪˈplɔɪd ə ˈkrɪtɪkəl ˈfiːʧə ðæt ˈwɒznt ˈfʊli ˈtestɪd | aɪd ˈrɪtn ðə ˈlɒʤɪk | bət baɪ ðə taɪm ðə bʌɡ wəz faʊnd | aɪ həd ɔːlˈredi ˈfɪnɪʃt ə sprɪnt ənd muːvd tʊ əˈnʌðə tɑːsk | aɪ wɪʃ wi həd juːzd ˈfiːʧə flæɡz bæk ðen",
+        "linking": "Before we switched → /bɪˈfɔː wi swɪʧt/\nwe had deployed → /wi həd dɪˈplɔɪd/\nbut by the time → /bət baɪ ðə taɪm/\nmoved to another → /muːvd tʊ əˈnʌðə/"
+    },
+    {
+        "speaker": "Tech Lead",
+        "text": "Lessons learned. What would you say has been the biggest improvement in how you code?",
+        "ipa": "ˈlesənz lɜːnd | wɒt wəd jə seɪ həz bɪn ðə ˈbɪɡɪst ɪmˈpruːvmənt ɪn haʊ jə kəʊd",
+        "linking": "What would you → /wɒt wəd jə/\nhas been the → /həz bɪn ðə/\nhow you code → /haʊ jə kəʊd/"
+    },
+    {
+        "speaker": "You",
+        "text": "Honestly, I’ve become more careful with assumptions. I used to rush through requirements, but I’ve learned to ask better questions and take time to plan. That’s helped me avoid bugs early on.",
+        "ipa": "ˈɒnɪstli | aɪv bɪˈkʌm mɔː ˈkeəfʊl wɪð əˈsʌmpʃənz | aɪ ˈjuːst tə rʌʃ θruː rɪˈkwaɪəmənts | bət aɪv lɜːnd tʊ ɑːsk ˈbetə ˈkwesʧənz ənd teɪk taɪm tə plæn | ðæts ˈhelpt mi əˈvɔɪd bʌɡz ˈɜːli ɒn",
+        "linking": "I used to → /aɪ ˈjuːst tə/\nrush through → /rʌʃ θruː/\nlearned to ask → /lɜːnd tʊ ɑːsk/\ntime to plan → /taɪm tə plæn/\nhelped me avoid → /ˈhelpt mi əˈvɔɪd/"
+    }
+]
