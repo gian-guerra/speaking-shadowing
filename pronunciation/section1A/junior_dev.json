@@ -1,0 +1,100 @@
+[
+    {
+        "speaker": "Junior Dev",
+        "text": "Hey! I’ve just pushed the refactored module. I tried to keep the functions small and clear, like you suggested.",
+        "ipa": "heɪ | aɪv dʒəst pʊʃt ðə riˈfæk.tɚd ˈmɑː.dʒuːl | aɪ traɪd tə kip ðə ˈfʌŋk.ʃənz smɔl ənd klɪr | laɪk ju səɡˈdʒɛs.tɪd",
+        "stress": "HEY | I’VE JUST PUSHED the REFACTORED MODULE | TRIED to KEEP the FUNCTIONS SMALL and CLEAR | LIKE you SUGGESTED",
+        "linking": "tried to → /traɪd tə/, like you → /laɪk ju/"
+    },
+    {
+        "speaker": "You",
+        "text": "Nice job! I’ve taken a quick look — it’s definitely cleaner. You’ve improved a lot since your first pull request.",
+        "ipa": "naɪs dʒɑːb | aɪv ˈteɪ.kən ə kwɪk lʊk | ɪts ˈdɛ.fə.nɪt.li ˈkliː.nɚ | juv ɪmˈpruːvd ə lɑt sɪns jɚ fɜrst pʊl rɪˈkwɛst",
+        "stress": "NICE JOB | I’VE TAKEN a QUICK LOOK | DEFINITELY CLEANER | YOU’VE IMPROVED a LOT SINCE your FIRST PULL REQUEST",
+        "linking": "taken a → /ˈteɪ.kən ə/, since your → /sɪns jɚ/"
+    },
+    {
+        "speaker": "Junior Dev",
+        "text": "Thanks! I’ve been practicing every day. Honestly, I didn’t even know what “clean code” meant when I joined.",
+        "ipa": "θæŋks | aɪv bɪn ˈpræk.tɪ.sɪŋ ˈɛv.ri deɪ | ˈɑː.nɪst.li | aɪ ˈdɪd.ənt ˈiː.vən noʊ wʌt kliːn koʊd mɛnt wɛn aɪ dʒɔɪnd",
+        "stress": "THANKS | I’VE BEEN PRACTICING EVERY DAY | HONESTLY | I DIDN’T EVEN KNOW what “CLEAN CODE” MEANT when I JOINED",
+        "linking": "didn’t even → /ˈdɪd.ənt ˈiː.vən/, when I → /wɛn aɪ/"
+    },
+    {
+        "speaker": "You",
+        "text": "Totally get it. When I started out, I used to write 500-line functions without thinking twice. I would just try to make it work and ship it.",
+        "ipa": "ˈtoʊ.tə.li ɡɛt ɪt | wɛn aɪ ˈstɑːr.tɪd aʊt | aɪ ˈjuːst tə raɪt faɪv ˈhʌn.drəd laɪn ˈfʌŋk.ʃənz wɪˈðaʊt ˈθɪŋ.kɪŋ twaɪs | aɪ wʊd dʒəst traɪ tə meɪk ɪt wɜrk ənd ʃɪp ɪt",
+        "stress": "TOTALLY GET IT | WHEN I STARTED OUT | USED to WRITE 500-LINE FUNCTIONS WITHOUT THINKING TWICE | WOULD JUST TRY to MAKE it WORK and SHIP it",
+        "linking": "used to → /ˈjuːst tə/, try to → /traɪ tə/"
+    },
+    {
+        "speaker": "Junior Dev",
+        "text": "Haha, I’ve done that too. I had written a class last month with almost 800 lines… It was a nightmare to debug.",
+        "ipa": "hɑː hɑː | aɪv dʌn ðæt tuː | aɪ həd ˈrɪt.n̩ ə klæs læst mʌnθ wɪð ˈɔːl.moʊst ˈeɪt ˈhʌn.drəd laɪnz | ɪt wəz ə ˈnaɪt.mɛr tə diːˈbʌɡ",
+        "stress": "HAHA | I’VE DONE THAT TOO | HAD WRITTEN a CLASS LAST MONTH with ALMOST 800 LINES | It was a NIGHTMARE to DEBUG",
+        "linking": "had written → /həd ˈrɪt.n̩/, to debug → /tə diːˈbʌɡ/"
+    },
+    {
+        "speaker": "You",
+        "text": "Trust me, we’ve all been there. Before we adopted code reviews, people would push straight to main. Things used to break constantly.",
+        "ipa": "trʌst mi | wiːv ɔːl bɪn ðɛr | bɪˈfɔr wi əˈdɑːp.tɪd koʊd rɪˈvjuːz | ˈpiː.pəl wʊd pʊʃ streɪt tə meɪn | θɪŋz ˈjuːst tə breɪk ˈkɑːn.stənt.li",
+        "stress": "TRUST ME | WE’VE ALL BEEN THERE | BEFORE WE ADOPTED CODE REVIEWS | PEOPLE WOULD PUSH STRAIGHT to MAIN | THINGS USED to BREAK CONSTANTLY",
+        "linking": "used to → /ˈjuːst tə/, straight to → /streɪt tə/"
+    },
+    {
+        "speaker": "Junior Dev",
+        "text": "Yeah, I’ve heard about those days. So chaotic!",
+        "ipa": "jæ | aɪv hɜrd əˈbaʊt ðoʊz deɪz | soʊ keɪˈɑː.tɪk",
+        "stress": "YEAH | I’VE HEARD ABOUT THOSE DAYS | SO CHAOTIC",
+        "linking": "heard about → /hɜrd əˈbaʊt/"
+    },
+    {
+        "speaker": "You",
+        "text": "Yeah. But it’s been much better lately. The team has been focusing on writing more testable components. And since we moved to GitHub Actions, our pipelines have been running faster and more reliably.",
+        "ipa": "jæ | bət ɪts bɪn mʌʧ ˈbɛt.ɚ ˈleɪt.li | ðə tiːm hæz bɪn ˈfoʊ.kə.sɪŋ ɑn ˈraɪ.tɪŋ mɔr ˈtɛs.tə.bəl kəmˈpoʊ.nənts | ənd sɪns wi muːvd tə ˈɡɪt.hʌb ˈæk.ʃənz | aʊr ˈpaɪp.laɪnz hæv bɪn ˈrʌn.ɪŋ ˈfæst.ɚ ənd mɔr rɪˈlaɪ.ə.bli",
+        "stress": "YEAH | BUT IT’S BEEN MUCH BETTER LATELY | THE TEAM HAS BEEN FOCUSING on WRITING MORE TESTABLE COMPONENTS | SINCE WE MOVED to GITHUB ACTIONS | OUR PIPELINES HAVE BEEN RUNNING FASTER and MORE RELIABLY",
+        "linking": "moved to → /muːvd tə/, running faster → /ˈrʌn.ɪŋ ˈfæst.ɚ/"
+    },
+    {
+        "speaker": "Junior Dev",
+        "text": "That explains why my builds have been so smooth. I had been struggling with the old CI configs before that switch.",
+        "ipa": "ðæt ɪkˈspleɪnz waɪ maɪ bɪldz hæv bɪn soʊ smuːð | aɪ həd bɪn ˈstrʌɡ.lɪŋ wɪð ði oʊld siː aɪ ˈkɑːn.fɪɡz bɪˈfɔr ðæt swɪʧ",
+        "stress": "THAT EXPLAINS WHY MY BUILDS HAVE BEEN SO SMOOTH | HAD BEEN STRUGGLING with the OLD CI CONFIGS BEFORE THAT SWITCH",
+        "linking": "had been → /həd bɪn/, before that → /bɪˈfɔr ðæt/"
+    },
+    {
+        "speaker": "You",
+        "text": "Same here. I had spent hours debugging build failures last year. Now I barely think about it.",
+        "ipa": "seɪm hɪr | aɪ həd spɛnt ˈaʊərz diːˈbʌɡ.ɪŋ bɪld ˈfeɪ.ljɚz læst jɪr | naʊ aɪ ˈbɛr.li θɪŋk əˈbaʊt ɪt",
+        "stress": "SAME HERE | HAD SPENT HOURS DEBUGGING BUILD FAILURES LAST YEAR | NOW I BARELY THINK ABOUT IT",
+        "linking": "had spent → /həd spɛnt/, think about → /θɪŋk əˈbaʊt/"
+    },
+    {
+        "speaker": "Junior Dev",
+        "text": "I feel like my understanding of Git has improved too. I’ve finally understood how rebase works — kind of.",
+        "ipa": "aɪ fiːl laɪk maɪ ˌʌn.dɚˈstæn.dɪŋ əv ɡɪt hæz ɪmˈpruːvd tuː | aɪv ˈfaɪ.nəl.i ˌʌn.dɚˈstʊd haʊ ˈriː.beɪs wɝːks — kaɪnd əv",
+        "stress": "I FEEL LIKE my UNDERSTANDING of GIT has IMPROVED TOO | FINALLY UNDERSTOOD how REBASE WORKS — KIND of",
+        "linking": "kind of → /kaɪnd əv/, understood how → /ˌʌn.dɚˈstʊd haʊ/"
+    },
+    {
+        "speaker": "You",
+        "text": "Oh man, rebasing. It used to terrify me. I would always prefer merging to avoid conflicts, even if it made the history messy.",
+        "ipa": "oʊ mæn | ˈriː.beɪ.sɪŋ | ɪt ˈjuːst tə ˈtɛ.rəˌfaɪ miː | aɪ wʊd ˈɔːl.weɪz prɪˈfɝː ˈmɝː.dʒɪŋ tə əˈvɔɪd ˈkɑːn.flɪkts | ˈiː.vən ɪf ɪt meɪd ðə ˈhɪs.tɚ.i ˈmɛ.si",
+        "stress": "OH MAN | REBASING | USED to TERRIFY ME | WOULD ALWAYS PREFER MERGING to AVOID CONFLICTS | EVEN IF IT MADE the HISTORY MESSY",
+        "linking": "used to → /ˈjuːst tə/, to terrify → /tə ˈtɛ.rəˌfaɪ/"
+    },
+    {
+        "speaker": "Junior Dev",
+        "text": "Exactly! That’s still me sometimes. But I’ve been practicing with dummy branches just to get comfortable.",
+        "ipa": "ɪɡˈzæk(t)li | ðæts stɪl miː ˈsʌm.taɪmz | bət aɪv bɪn ˈpræk.tɪ.sɪŋ wɪð ˈdʌ.mi ˈbræn.tʃɪz dʒəst tə ɡɛt ˈkʌm.fɚ.tə.bəl",
+        "stress": "EXACTLY | THAT’S STILL ME SOMETIMES | BUT I’VE BEEN PRACTICING with DUMMY BRANCHES just to GET COMFORTABLE",
+        "linking": "just to → /dʒəst tə/, get comfortable → /ɡɛt ˈkʌm.fɚ.tə.bəl/"
+    },
+    {
+        "speaker": "You",
+        "text": "That’s the way. And it shows — your last rebase was super clean. Keep doing what you’ve been doing.",
+        "ipa": "ðæts ðə weɪ | ənd ɪt ʃoʊz | jɚ læst ˈriː.beɪs wəz ˈsuː.pɚ kliːn | kip ˈduː.ɪŋ wʌt juv bɪn ˈduː.ɪŋ",
+        "stress": "THAT’S THE WAY | AND IT SHOWS | YOUR LAST REBASE was SUPER CLEAN | KEEP DOING WHAT YOU’VE BEEN DOING",
+        "linking": "what you’ve → /wʌt juv/, doing what → /ˈduː.ɪŋ wʌt/"
+    }
+]
