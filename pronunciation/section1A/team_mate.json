@@ -4,97 +4,97 @@
         "text": "Hey, did you get a chance to review my PR for the payment validation bug?",
         "ipa": "heɪ | dɪdʒə ɡɛt ə ʧæns tə rɪˈvjuː maɪ piː ɑːr fər ðə ˈpeɪ.mənt ˌvæ.ləˈdeɪ.ʃən bʌɡ",
         "stress": "HEY | did you GET a CHANCE to REVIEW my PR for the PAYMENT VALIDATION BUG",
-        "linking": "did you → /dɪdʒə/, to review → /tə rɪˈvjuː/"
+        "linking": "\"did you\" → /dɪdʒə/ (did + you contracted)\n\"get a chance\" → /ɡɛɾ ə ʧæns/ (flap T, 'a' reduced)\n\"to review\" → /tə rɪˈvjuː/ (to reduced)"
     },
     {
         "speaker": "You",
         "text": "Yeah, I’ve just finished going through it. Honestly, I think you nailed it. The fix was clean. How long had the bug been affecting users?",
         "ipa": "jæ | aɪv dʒəst ˈfɪ.nɪʃt ˈɡoʊ.ɪŋ θruː ɪt | ˈɑː.nəst.li | aɪ θɪŋk ju ˈneɪld ɪt | ðə fɪks wəz kliːn | haʊ lɔŋ həd ðə bʌɡ bɪn əˈfɛk.tɪŋ ˈjuː.zɚz",
         "stress": "YEAH | I’VE JUST FINISHED GOING THROUGH IT | HONESTLY | I THINK YOU NAILED IT | THE FIX WAS CLEAN | HOW LONG HAD the BUG BEEN AFFECTING USERS",
-        "linking": "nailed it → /ˈneɪld ɪt/, had the → /həd ðə/"
+        "linking": "\"just finished\" → /dʒəst ˈfɪnɪʃt/ (t released)\n\"going through it\" → /ˈɡoʊ.ɪŋ θruː ɪt/ (through + it linked)\n\"nailed it\" → /neɪld ɪt/ (d links to it)\n\"had the\" → /həd ðə/ (had reduced)"
     },
     {
         "speaker": "Teammate",
         "text": "Since last week, I believe. I had been debugging it for three days straight before I figured out it wasn’t our code — it was a third-party API returning bad data.",
         "ipa": "sɪns læst wiːk | aɪ bəˈliːv | aɪ həd bɪn ˈdiː.bʌɡ.ɪŋ ɪt fər θriː deɪz streɪt | bɪˈfɔːr aɪ ˈfɪɡ.jɚd aʊt ɪt ˈwɑː.zənt aʊɚ koʊd | ɪt wəz ə θɝːd ˈpɑːr.ti ˌeɪ.piːˈaɪ rɪˈtɝː.nɪŋ bæd ˈdeɪ.tə",
         "stress": "SINCE LAST WEEK | I BELIEVE | HAD BEEN DEBUGGING IT FOR THREE DAYS STRAIGHT | BEFORE I FIGURED OUT it WASN’T OUR CODE | it WAS a THIRD-PARTY API RETURNING BAD DATA",
-        "linking": "before I → /bɪˈfɔːr aɪ/, wasn’t our → /ˈwɑː.zənt aʊɚ/"
+        "linking": "\"had been\" → /həd bɪn/ (had reduced)\n\"debugging it\" → /diːˈbʌɡɪŋ ɪt/ (linking gerund to pronoun)\n\"before I\" → /bɪˈfɔːr aɪ/ (before links into pronoun)\n\"wasn’t our\" → /ˈwɑː.zənt aʊɚ/ (smooth transition)\n\"third-party\" → /θɝːd ˈpɑːr.ti/ (d links into P)"
     },
     {
         "speaker": "You",
         "text": "Damn. That’s rough. I’ve been in that situation. I remember a time when we had a similar issue — we had used a third-party service that silently failed, and we didn't realize for weeks.",
         "ipa": "dæm | ðæts rʌf | aɪv bɪn ɪn ðæt ˌsɪ.tʃuˈeɪ.ʃən | aɪ rɪˈmɛm.bɚ ə taɪm wɛn wi həd ə ˈsɪ.mə.lɚ ˈɪʃ.uː | wi həd juːzd ə θɝːd-ˈpɑːr.ti ˈsɝː.vɪs ðæt ˈsaɪ.lənt.li feɪld | ənd wi ˈdɪd.ənt ˈriː.ə.laɪz fər wiːks",
         "stress": "DAMN | THAT’S ROUGH | I’VE BEEN in THAT SITUATION | REMEMBER a TIME WHEN we HAD a SIMILAR ISSUE | USED a THIRD-PARTY SERVICE that SILENTLY FAILED | DIDN’T REALIZE FOR WEEKS",
-        "linking": "didn’t realize → /ˈdɪd.ənt ˈriː.ə.laɪz/, we had used → /wi həd juːzd/"
+        "linking": "\"been in\" → /bɪn ɪn/ (smooth link)\n\"we had used\" → /wi həd juːzd/ (had reduced)\n\"didn't realize\" → /ˈdɪd.ənt ˈrɪə.laɪz/ (glottal or full t)"
     },
     {
         "speaker": "Teammate",
         "text": "Right! We used to log errors but didn’t really monitor them. We would check logs only if something broke completely.",
         "ipa": "raɪt | wi ˈjuːst tə lɔɡ ˈɛr.ɚz bət ˈdɪd.ənt ˈrɪə.li ˈmɑː.nə.tɚ ðəm | wi wəd ʧɛk lɔɡz ˈoʊn.li ɪf ˈsʌm.θɪŋ broʊk kəmˈpliːt.li",
         "stress": "RIGHT | WE USED to LOG ERRORS but DIDN’T REALLY MONITOR THEM | WE WOULD CHECK LOGS ONLY IF SOMETHING BROKE COMPLETELY",
-        "linking": "used to → /ˈjuːst tə/, didn’t really → /ˈdɪd.ənt ˈrɪə.li/"
+        "linking": "\"used to\" → /ˈjuːst tə/ (to reduced)\n\"but didn’t really\" → /bət ˈdɪd.ənt ˈrɪəli/ (but + didn’t reduced, 'really' smooth)"
     },
     {
         "speaker": "You",
         "text": "Yeah, those were the early days. We would deploy without automated tests too. I can’t believe how far we’ve come.",
         "ipa": "jæ | ðoʊz wɚ ði ˈɝː.li deɪz | wi wəd dɪˈplɔɪ wɪˈðaʊt ˈɑː.təˌmeɪ.tɪd tɛsts tuː | aɪ kænt bəˈliːv haʊ fɑːr wiːv kʌm",
         "stress": "YEAH | THOSE WERE the EARLY DAYS | WE WOULD DEPLOY WITHOUT AUTOMATED TESTS TOO | CAN’T BELIEVE HOW FAR WE’VE COME",
-        "linking": "can’t believe → /kænt bəˈliːv/, we've come → /wiːv kʌm/"
+        "linking": "\"those were\" → /ðoʊz wɚ/ (z links into were)\n\"can’t believe\" → /kænt bəˈliːv/ (t links into b)"
     },
     {
         "speaker": "Teammate",
         "text": "Absolutely. I’ve actually been working on improving our logging system since last sprint. I’ve added trace IDs to help track issues across services — it’s been really useful.",
         "ipa": "ˌæb.səˈluːt.li | aɪv ˈæk.tʃu.ə.li bɪn ˈwɝː.kɪŋ ɑn ɪmˈpruː.vɪŋ aʊɚ ˈlɔː.ɡɪŋ ˈsɪs.təm sɪns læst sprɪnt | aɪv ˈæ.dɪd treɪs ˌaɪˈdiːz tə hɛlp træk ˈɪʃ.uːz əˈkrɔs ˈsɝː.vɪ.sɪz — ɪts bɪn ˈrɪə.li ˈjuːs.fəl",
         "stress": "ABSOLUTELY | ACTUALLY BEEN WORKING on IMPROVING our LOGGING SYSTEM since LAST SPRINT | ADDED TRACE IDs to HELP TRACK ISSUES ACROSS SERVICES — IT’S BEEN REALLY USEFUL",
-        "linking": "added trace → /ˈæ.dɪd treɪs/, it's been → /ɪts bɪn/"
+        "linking": "\"been working on\" → /bɪn ˈwɝkɪŋ ɑn/ (on links naturally)\n\"added trace\" → /ˈæ.dɪd treɪs/ (d links to next word)\n\"issues across\" → /ˈɪʃuːz əˈkrɔs/ (z links to a)"
     },
     {
         "speaker": "You",
         "text": "That’s smart. And it shows — I’ve noticed we’ve been solving bugs faster lately. I’ve been more productive too since I switched to using the new feature flags library.",
         "ipa": "ðæts smɑːrt | ənd ɪt ʃoʊz | aɪv ˈnoʊ.tɪst wiːv bɪn ˈsɑːlvɪŋ bʌɡz ˈfæstɚ ˈleɪt.li | aɪv bɪn mɔːr prəˈdʌk.tɪv tuː sɪns aɪ swɪʧt tə ˈjuː.zɪŋ ðə nuː ˈfiː.tʃɚ flæɡz ˈlaɪ.brɛ.ri",
         "stress": "THAT’S SMART | AND IT SHOWS | I’VE NOTICED WE’VE BEEN SOLVING BUGS FASTER LATELY | BEEN MORE PRODUCTIVE TOO since I SWITCHED to USING the NEW FEATURE FLAGS LIBRARY",
-        "linking": "switched to → /swɪʧt tə/, using the → /ˈjuː.zɪŋ ðə/"
+        "linking": "\"and it\" → /ənd ɪt/ (and reduced)\n\"noticed we’ve\" → /ˈnoʊ.tɪst wiːv/ (t links into we)\n\"switched to\" → /swɪʧt tə/ (to reduced)\n\"using the\" → /ˈjuː.zɪŋ ðə/ (smooth link)"
     },
     {
         "speaker": "Teammate",
         "text": "I heard about that! You’ve been experimenting with it for a while, haven’t you?",
         "ipa": "aɪ hɝːd əˈbaʊt ðæt | juːv bɪn ɪkˈspɛr.ə.mɛn.tɪŋ wɪð ɪt fər ə waɪl | ˈhævənt juː",
         "stress": "HEARD ABOUT THAT | YOU’VE BEEN EXPERIMENTING WITH IT FOR A WHILE | HAVEN’T YOU",
-        "linking": "about that → /əˈbaʊt ðæt/, haven’t you → /ˈhævəntʃu/"
+        "linking": "\"heard about\" → /hɝːd əˈbaʊt/ (d links into a)\n\"haven’t you\" → /ˈhævəntʃu/ (you contracted with T)"
     },
     {
         "speaker": "You",
         "text": "Yeah, I had started testing it before our last release. By the time the sprint started, I had already written some wrappers to integrate it smoothly.",
         "ipa": "jæ | aɪ həd ˈstɑːr.tɪd ˈtɛs.tɪŋ ɪt bɪˈfɔːr aʊɚ læst rɪˈliːs | baɪ ðə taɪm ðə sprɪnt ˈstɑːr.tɪd | aɪ həd ɔːlˈrɛ.di ˈrɪt.n̩ səm ˈræ.pɚz tə ˈɪn.tə.ɡreɪt ɪt ˈsmuːð.li",
         "stress": "YEAH | HAD STARTED TESTING IT BEFORE OUR LAST RELEASE | BY THE TIME THE SPRINT STARTED | HAD ALREADY WRITTEN some WRAPPERS TO INTEGRATE IT SMOOTHLY",
-        "linking": "started testing → /ˈstɑːr.tɪd ˈtɛs.tɪŋ/, to integrate → /tə ˈɪn.tə.ɡreɪt/"
+        "linking": "\"had started\" → /həd ˈstɑːr.tɪd/ (had reduced)\n\"before our\" → /bɪˈfɔːr aʊɚ/ (smooth connection)\n\"had already\" → /həd ɔːlˈrɛ.di/ (had reduced)\n\"to integrate\" → /tə ˈɪn.tə.ɡreɪt/ (to reduced)"
     },
     {
         "speaker": "Teammate",
         "text": "That’s cool. So overall, how’s your week been?",
         "ipa": "ðæts kuːl | soʊ ˈoʊ.vɚ.ɔːl | haʊz jɚ wiːk bɪn",
         "stress": "THAT’S COOL | SO OVERALL | HOW’S YOUR WEEK BEEN",
-        "linking": "how's your → /haʊz jɚ/"
+        "linking": "\"how’s your\" → /haʊz jɚ/ (how is your contracted)"
     },
     {
         "speaker": "You",
         "text": "Pretty good. I’ve been focusing on documentation. I’ve written more internal docs this week than in the last three months combined.",
         "ipa": "ˈprɪ.ti ɡʊd | aɪv bɪn ˈfoʊ.kə.sɪŋ ɑn ˌdɑː.kju.mənˈteɪ.ʃən | aɪv ˈrɪt.n̩ mɔːr ɪnˈtɝː.nəl dɑːks ðɪs wiːk ðən ɪn ðə læst θriː mʌnθs kəmˈbaɪnd",
         "stress": "PRETTY GOOD | I’VE BEEN FOCUSING on DOCUMENTATION | WRITTEN MORE INTERNAL DOCS THIS WEEK than in the LAST THREE MONTHS COMBINED",
-        "linking": "written more → /ˈrɪt.n̩ mɔːr/, this week → /ðɪs wiːk/"
+        "linking": "\"been focusing\" → /bɪn ˈfoʊ.kə.sɪŋ/ (smooth connection)\n\"written more\" → /ˈrɪt.n̩ mɔːr/ (held T)\n\"this week\" → /ðɪs wiːk/ (smooth link)"
     },
     {
         "speaker": "Teammate",
         "text": "Haha, I used to hate writing docs, but now I kind of enjoy it. It’s satisfying to make things clear for others.",
         "ipa": "ˈhɑːhɑː | aɪ ˈjuːst tə heɪt ˈraɪ.tɪŋ dɑːks | bət naʊ aɪ ˈkaɪnd əv ɪnˈdʒɔɪ ɪt | ɪts ˈsæ.tɪsˌfaɪ.ɪŋ tə meɪk θɪŋz klɪr fər ˈʌð.ɚz",
         "stress": "HAHA | USED to HATE WRITING DOCS | NOW I KIND OF ENJOY IT | SATISFYING TO MAKE THINGS CLEAR FOR OTHERS",
-        "linking": "used to → /ˈjuːst tə/, kind of → /ˈkaɪnd əv/"
+        "linking": "\"used to\" → /ˈjuːst tə/ (to reduced)\n\"kind of\" → /kaɪnd əv/ (of reduced)\n\"enjoy it\" → /ɪnˈdʒɔɪ ɪt/ (smooth link)"
     },
     {
         "speaker": "You",
         "text": "Same. Honestly, I would write more if I had time. But you know how it is — meetings, sprint planning, code reviews...",
         "ipa": "seɪm | ˈɑː.nɪst.li | aɪ wʊd raɪt mɔːr ɪf aɪ həd taɪm | bət ju noʊ haʊ ɪt ɪz — ˈmiː.tɪŋz | sprɪnt ˈplæn.ɪŋ | koʊd rɪˈvjuːz",
         "stress": "SAME | HONESTLY | I WOULD WRITE MORE IF I HAD TIME | BUT YOU KNOW HOW IT IS — MEETINGS, SPRINT PLANNING, CODE REVIEWS",
-        "linking": "write more → /raɪt mɔːr/, if I → /ɪf aɪ/"
+        "linking": "\"would write\" → /wʊd raɪt/ (smooth verb phrase)\n\"if I\" → /ɪf aɪ/ (smooth link)\n\"but you\" → /bət ju/ (but reduced)"
     }
 ]

@@ -2,50 +2,106 @@
   {
     "speaker": "Alex",
     "text": "Hey! It's been a while. How’s everything going with the project?",
-    "ipa": "heɪ | ɪts bɪn ə waɪl | haʊz ˈɛvrɪθɪŋ ˈɡoʊɪŋ wɪð ðə ˈprɑːdʒɛkt",
-    "stress": "HEY! it's BEEN a WHILE. HOW’S EVerYthing GOing with the PROject?",
-    "linking": "it's been → /ɪts bɪn/\nbeen a → /bɪn ə/\neverything going → /ˈɛvrɪθɪŋ ˈɡoʊɪŋ/\ngoing with the → /ˈɡoʊɪŋ wɪð ðə/"
+    "ipa": "heɪ | ɪts bɪn ə waɪl | haʊz ˈɛvɚθɪŋ ˈɡoʊɪŋ wɪð ðə ˈprɑːʤɛkt",
+    "stress": "HEY | IT’S BEEN A WHILE | HOW’S EVERYTHING GOING with the PROJECT",
+    "linking": "\"it's been\" → /ɪts bɪn/ (t links smoothly)\n\"how’s everything\" → /haʊz ˈɛvɚθɪŋ/ (how is → how’s)\n\"going with\" → /ˈɡoʊɪŋ wɪð/ (smooth connection)"
   },
   {
     "speaker": "You",
     "text": "Hey Alex! Good to see you. Honestly, things have been moving faster since we switched to microservices. It took a while to adjust, but we’ve made real progress.",
-    "ipa": "heɪ ˈælɪks | ɡʊd tə si ju | ˈɑːnɪstli | ˈθɪŋz həv bɪn ˈmuːvɪŋ ˈfæstər sɪns wi swɪʧt tə ˈmaɪkroʊˌsɝːvəsɪz | ɪt tʊk ə waɪl tʊ əˈʤʌst | bət wiːv meɪd rɪəl ˈprɑːɡrɛs",
-    "stress": "HEY ALex! GOOD to SEE you. HONestly, THINGS have been MOVing FASTer since we SWITCHED to MIcroSERVices. It TOOK a WHILE to adJUST, but WE’VE made REAL PROgress.",
-    "linking": "good to → /ɡʊd tə/\nsee you → /si ju/\nthings have → /θɪŋz həv/\nhave been → /həv bɪn/\nbeen moving → /bɪn ˈmuːvɪŋ/\nsince we → /sɪns wi/\nswitched to → /swɪʧt tə/\ntook a → /tʊk ə/\nto adjust → /tə əˈʤʌst/\nwe’ve made → /wiːv meɪd/"
+    "ipa": "heɪ ˈælɪks | ɡʊd tə si ju | ˈɑːnəstli | θɪŋz həv bɪn ˈmuːvɪŋ ˈfæstɚ sɪns wi swɪʧt tə ˈmaɪkɹoʊˌsɝːvɪsɪz | ɪt tʊk ə waɪl tə əˈʤʌst | bət wiːv meɪd ˈrɪəl ˈprɑːɡrɛs",
+    "stress": "HEY ALEX | GOOD to SEE YOU | HONESTLY | THINGS HAVE BEEN MOVING FASTER | SINCE we SWITCHED to MICROSERVICES | TOOK a WHILE to ADJUST | WE’VE MADE REAL PROGRESS",
+    "linking": "\"good to\" → /ɡʊd tə/ (to reduced)\n\"switched to\" → /swɪʧt tə/ (to reduced)\n\"took a\" → /tʊk ə/ (a reduced)\n\"but we’ve\" → /bət wiːv/ (but reduced)"
   },
   {
     "speaker": "Alex",
     "text": "No way — you finally migrated? When I left, the monolith had been giving us headaches every single sprint.",
-    "ipa": "noʊ weɪ — ju ˈfaɪnəli ˈmaɪˌɡreɪtɪd | wɛn aɪ lɛft | ðə ˈmɑːnəˌlɪθ həd bɪn ˈɡɪvɪŋ əs ˈhɛdˌeɪks ˈɛvri ˈsɪŋɡəl sprɪnt",
-    "stress": "NO WAY — you FINally MIgrated? WHEN I LEFT, the MONolith had been GIVing us HEADaches EVery SINGle SPRINT.",
-    "linking": "you finally → /ju ˈfaɪnəli/\nhad been → /həd bɪn/\nbeen giving → /bɪn ˈɡɪvɪŋ/\ngiving us → /ˈɡɪvɪŋ əs/\nevery single → /ˈɛvri ˈsɪŋɡəl/"
+    "ipa": "noʊ weɪ | ju ˈfaɪnəli ˈmaɪɡreɪtɪd | wɛn aɪ lɛft | ðə ˈmɑːnəlɪθ həd bɪn ˈɡɪvɪŋ əs ˈhɛd.eɪks ˈɛvɚi ˈsɪŋɡəl sprɪnt",
+    "stress": "NO WAY | YOU FINALLY MIGRATED | WHEN I LEFT | the MONOLITH HAD BEEN GIVING US HEADACHES | EVERY SINGLE SPRINT",
+    "linking": "\"had been\" → /həd bɪn/ (had reduced)\n\"giving us\" → /ˈɡɪvɪŋ əs/ (gerund + pronoun smooth)"
   },
   {
     "speaker": "You",
     "text": "Oh yeah. It had caused so many bugs. We used to spend hours trying to fix one thing and accidentally break five others.",
-    "ipa": "oʊ jæ | ɪt həd kɔːzd soʊ ˈmɛni bʌɡz | wi juːzd tə spɛnd ˈaʊərz ˈtraɪɪŋ tə fɪks wʌn θɪŋ ənd ˌæksɪˈdɛntəli breɪk faɪv ˈʌðərz",
-    "stress": "OH YEAH. It had CAUSED so MANY BUGS. We USED to SPEND HOURS TRYing to FIX ONE THING and acciDENtally BREAK FIVE OTHers.",
-    "linking": "oh yeah → /oʊ jæ/\nit had → /ɪt həd/\nhad caused → /həd kɔːzd/\nused to → /juːzd tə/\ntrying to → /ˈtraɪɪŋ tə/\nfix one → /fɪks wʌn/\nand accidentally → /ənd ˌæksɪˈdɛntəli/\nbreak five → /breɪk faɪv/"
+    "ipa": "oʊ jæ | ɪt həd kɔːzd soʊ ˈmɛni bʌɡz | wi ˈjuːst tə spɛnd ˈaʊɚz ˈtraɪɪŋ tə fɪks wʌn θɪŋ ənd ˌæksɪˈdɛntəli breɪk faɪv ˈʌðɚz",
+    "stress": "OH YEAH | IT HAD CAUSED SO MANY BUGS | USED TO SPEND HOURS | TRYING TO FIX ONE THING and ACCIDENTALLY BREAK FIVE OTHERS",
+    "linking": "\"had caused\" → /həd kɔːzd/ (had reduced)\n\"used to\" → /ˈjuːst tə/ (to reduced)\n\"trying to\" → /ˈtraɪɪŋ tə/ (to reduced)"
   },
   {
     "speaker": "Alex",
     "text": "Haha, I remember that pain. We would always end up working late before releases.",
-    "ipa": "ˈhɑː hɑː | aɪ rɪˈmɛmbər ðæt peɪn | wi wʊd ˈɔːlweɪz ɛnd ʌp ˈwɜːrkɪŋ leɪt bɪˈfɔːr rɪˈliːsɪz",
-    "stress": "HAha, I reMEMber that PAIN. We would ALways END UP WORKing LATE beFORE reLEASES.",
-    "linking": "I remember → /aɪ rɪˈmɛmbər/\nthat pain → /ðæt peɪn/\nwould always → /wʊd ˈɔːlweɪz/\nend up → /ɛnd ʌp/\nworking late → /ˈwɜːrkɪŋ leɪt/\nlate before → /leɪt bɪˈfɔːr/"
+    "ipa": "ˈhɑːhɑː | aɪ rɪˈmɛmbɚ ðæt peɪn | wi wʊd ˈɔːlweɪz ɛnd ʌp ˈwɝkɪŋ leɪt bɪˈfɔːr rɪˈliːsɪz",
+    "stress": "HAHA | I REMEMBER THAT PAIN | WE WOULD ALWAYS END UP WORKING LATE BEFORE RELEASES",
+    "linking": "\"end up\" → /ɛnd ʌp/ (d links into up)\n\"late before\" → /leɪt bɪˈfɔːr/ (t links into preposition)"
   },
   {
     "speaker": "You",
     "text": "Exactly. But now, we have deployed most of the core features as independent services. The team has been experimenting with gRPC too.",
-    "ipa": "ɪɡˈzæktli | bət naʊ | wi həv dɪˈplɔɪd moʊst əv ðə kɔːr ˈfiːʧərz əz ˌɪndɪˈpɛndənt ˈsɜːrvɪsɪz | ðə tiːm həz bɪn ɪkˈspɛrɪˌmɛntɪŋ wɪð dʒiː ɑːr piː siː tuː",
-    "stress": "EXactly. But NOW, we have dePLOYED MOST of the CORE FEA-tures as indePENDent SERVices. The TEAM has been exPERimenting with gRPC TOO.",
-    "linking": "but now → /bət naʊ/\nwe have → /wi həv/\nhave deployed → /həv dɪˈplɔɪd/\nmost of the → /moʊst əv ðə/\nfeatures as → /ˈfiːʧərz əz/\nthe team → /ðə tiːm/\nhas been → /həz bɪn/\nexperimenting with → /ɪkˈspɛrɪˌmɛntɪŋ wɪð/"
+    "ipa": "ɪɡˈzæktli | bət naʊ | wi həv dɪˈplɔɪd moʊst əv ðə kɔːr ˈfiːʧɚz əz ˌɪndəˈpɛndənt ˈsɝːvɪsɪz | ðə tiːm həz bɪn ɪkˈspɛrəməntɪŋ wɪð ˈʤiːɑːɹpiːsi tuː",
+    "stress": "EXACTLY | BUT NOW | DEPLOYED CORE FEATURES as INDEPENDENT SERVICES | TEAM HAS BEEN EXPERIMENTING with gRPC TOO",
+    "linking": "\"but now\" → /bət naʊ/ (but reduced)\n\"deployed most of\" → /dɪˈplɔɪd moʊst əv/ (smooth link)\n\"with gRPC\" → /wɪð ˈʤiːɑːɹpiːsi/ (voiced th links into G)"
   },
   {
     "speaker": "Alex",
     "text": "That’s awesome! I wish I had stayed a little longer to see that transformation.",
-    "ipa": "ðæts ˈɔːsəm | aɪ wɪʃ aɪ həd steɪd ə ˈlɪtl ˈlɔːŋɡər tə si ðæt ˌtrænsfərˈmeɪʃən",
-    "stress": "That’s AWEsome! I WISH I had STAYED a LITtle LONGer to SEE that TRANSforMAtion.",
-    "linking": "wish I → /wɪʃ aɪ/\nI had → /aɪ həd/\nhad stayed → /həd steɪd/\nstayed a → /steɪd ə/\nlittle longer → /ˈlɪtl ˈlɔːŋɡər/\nto see → /tə si/"
+    "ipa": "ðæts ˈɔːsəm | aɪ wɪʃ aɪ həd steɪd ə ˈlɪɾl ˈlɔːŋɡɚ tə si ðæt ˌtrænsfɚˈmeɪʃən",
+    "stress": "THAT’S AWESOME | I WISH I HAD STAYED A LITTLE LONGER | TO SEE THAT TRANSFORMATION",
+    "linking": "\"had stayed\" → /həd steɪd/ (had reduced)\n\"a little\" → /ə ˈlɪɾl/ (flap T)\n\"to see\" → /tə si/ (to reduced)"
+  },
+  {
+    "speaker": "You",
+    "text": "Honestly, you’d love it. You remember how you used to push for more test coverage?",
+    "ipa": "ˈɑːnəstli | juːd lʌv ɪt | ju rɪˈmɛmbɚ haʊ ju ˈjuːst tə pʊʃ fər mɔːr tɛst ˈkʌvɚɪdʒ",
+    "stress": "HONESTLY | YOU’D LOVE IT | YOU REMEMBER HOW YOU USED TO PUSH FOR MORE TEST COVERAGE",
+    "linking": "\"you’d love\" → /juːd lʌv/ (you + would contracted)\n\"used to\" → /ˈjuːst tə/ (to reduced)\n\"push for\" → /pʊʃ fər/ (smooth connection)"
+  },
+  {
+    "speaker": "Alex",
+    "text": "Of course, but no one ever took me seriously back then haha",
+    "ipa": "əv kɔːrs | bət noʊ wʌn ˈɛvɚ tʊk mi ˈsɪriəsli bæk ðɛn",
+    "stress": "OF COURSE | BUT NO ONE EVER TOOK ME SERIOUSLY BACK THEN",
+    "linking": "\"but no one\" → /bət noʊ wʌn/ (but reduced)\n\"took me\" → /tʊk mi/ (k links into pronoun)"
+  },
+  {
+    "speaker": "You",
+    "text": "Well, now everyone’s on board. We have written integration tests for almost every module. Even product managers have been contributing ideas for test scenarios.",
+    "ipa": "wɛl | naʊ ˈɛvɚwʌnz ɑn bɔːrd | wi həv ˈrɪt.n̩ ˌɪntəˈɡreɪʃən tɛsts fər ˈɔːlmoʊst ˈɛvɚi ˈmɑːdʒuːl | ˈiːvən ˈprɑːdʌkt ˈmænɪdʒɚz həv bɪn kənˈtrɪbjutɪŋ aɪˈdiəz fər tɛst səˈnɛrioʊz",
+    "stress": "NOW EVERYONE’S ON BOARD | HAVE WRITTEN INTEGRATION TESTS | FOR ALMOST EVERY MODULE | PRODUCT MANAGERS CONTRIBUTING IDEAS FOR TEST SCENARIOS",
+    "linking": "\"have written\" → /həv ˈrɪt.n̩/ (held T)\n\"tests for\" → /tɛsts fər/ (plural + function word)\n\"ideas for\" → /aɪˈdiəz fər/ (z links into for)"
+  },
+  {
+    "speaker": "Alex",
+    "text": "No way! PMs helping with tests? That’s wild.",
+    "ipa": "noʊ weɪ | ˈpiːɛmz ˈhɛlpɪŋ wɪð tɛsts | ðæts waɪld",
+    "stress": "NO WAY | PMS HELPING WITH TESTS | THAT’S WILD",
+    "linking": "\"helping with\" → /ˈhɛlpɪŋ wɪð/ (gerund + preposition)\n\"with tests\" → /wɪð tɛsts/ (smooth connection)"
+  },
+  {
+    "speaker": "You",
+    "text": "I know! And check this — we had been planning a feature flag system before you left, right?",
+    "ipa": "aɪ noʊ | ənd ʧɛk ðɪs | wi həd bɪn ˈplænɪŋ ə ˈfiːʧɚ flæɡ ˈsɪstəm bɪˈfɔːr ju lɛft",
+    "stress": "I KNOW | AND CHECK THIS | HAD BEEN PLANNING A FEATURE FLAG SYSTEM | BEFORE YOU LEFT",
+    "linking": "\"had been\" → /həd bɪn/ (had reduced)\n\"before you\" → /bɪˈfɔːr ju/ (smooth transition)"
+  },
+  {
+    "speaker": "Alex",
+    "text": "Yeah, but it never happened while I was there.",
+    "ipa": "jæ | bət ɪt ˈnɛvɚ ˈhæpənd waɪl aɪ wəz ðɛr",
+    "stress": "YEAH | BUT IT NEVER HAPPENED WHILE I WAS THERE",
+    "linking": "\"but it\" → /bət ɪt/ (but reduced)\n\"while I was\" → /waɪl aɪ wəz/ (link l to aɪ)"
+  },
+  {
+    "speaker": "You",
+    "text": "We implemented it two months ago. It has already saved us from shipping two major bugs.",
+    "ipa": "wi ˈɪmpləˌmɛntɪd ɪt tuː mʌnθs əˈɡoʊ | ɪt həz ɔːlˈrɛdi seɪvd əs frəm ˈʃɪpɪŋ tuː ˈmeɪʤɚ bʌɡz",
+    "stress": "WE IMPLEMENTED IT TWO MONTHS AGO | HAS ALREADY SAVED US | FROM SHIPPING TWO MAJOR BUGS",
+    "linking": "\"saved us\" → /seɪvd əs/ (d links into pronoun)\n\"shipping two\" → /ˈʃɪpɪŋ tuː/ (smooth verb + number)"
+  },
+  {
+    "speaker": "Alex",
+    "text": "Man, I would’ve loved to work in that setup. Sounds like things have evolved a lot.",
+    "ipa": "mæn | aɪ ˈwʊdəv lʌvd tə wɝk ɪn ðæt ˈsɛt.ʌp | saʊndz laɪk θɪŋz həv ɪˈvɑːlvd ə lɑːt",
+    "stress": "MAN | I WOULD’VE LOVED TO WORK IN THAT SETUP | SOUNDS LIKE THINGS HAVE EVOLVED A LOT",
+    "linking": "\"would’ve loved\" → /ˈwʊdəv lʌvd/ (contraction)\n\"in that\" → /ɪn ðæt/ (link n + th)\n\"evolved a lot\" → /ɪˈvɑːlvd ə lɑt/ (d links into vowel)"
   }
 ]
