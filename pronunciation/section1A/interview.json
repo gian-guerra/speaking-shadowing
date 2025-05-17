@@ -2,25 +2,25 @@
     {
         "speaker": "Tech Lead",
         "text": "So, what kind of projects have you worked on before joining us?",
-        "ipa": "səʊ | wʌt ˈkaɪnd əv ˈprɒʤekts əv jə ˈwɜːkt ɒn bɪˈfɔː ˈʤɔɪnɪŋ əs",
+        "ipa": "səʊ | wʌt ˈkaɪnd əv ˈprɑʤekts əv jə ˈwɜːkt ɑn bɪˈfɔː ˈʤɔɪnɪŋ əs",
         "linking": "\"what kind of\" → /wʌt kaɪnd əv/ (link 'kind' to 'of', reduced)\n\"have you\" → /həv jə/ (you reduced)\n\"worked on\" → /wɝkt ɑn/ (link k + on)\n\"before joining\" → /bɪˈfɔːr ˈdʒɔɪ.nɪŋ/ (smooth connection)"
     },
     {
         "speaker": "You",
         "text": "I’ve worked on several backend-heavy projects. For the past year, I’ve been developing microservices in Node.js and Go. I’ve also been maintaining a CI/CD pipeline with GitHub Actions.",
-        "ipa": "aɪv ˈwɜːkt ɒn ˈsevərəl ˌbækend ˈhevi ˈprɒʤekts | fə ðə ˈpɑːst jɪə | aɪv bɪn dɪˈveləpɪŋ ˈmaɪkrəʊsɜːvɪsɪz ɪn nəʊd dʒiː ɛs ənd ɡəʊ | aɪv ˈɔːlsəʊ bɪn meɪnˈteɪnɪŋ ə ˈsiː aɪ ˈsiː diː ˈpaɪplaɪn wɪð ˈɡɪthʌb ˈækʃənz",
+        "ipa": "aɪv ˈwɜːkt ɑn ˈsevərəl ˌbækend ˈhevi ˈprɑʤekts | fə ðə ˈpɑːst jɪə | aɪv bɪn dɪˈveləpɪŋ ˈmaɪkrəʊsɜːvɪsɪz ɪn nəʊd dʒiː ɛs ənd ɡəʊ | aɪv ˈɔːlsəʊ bɪn meɪnˈteɪnɪŋ ə ˈsiː aɪ ˈsiː diː ˈpaɪplaɪn wɪð ˈɡɪthʌb ˈækʃənz",
         "linking": "\"worked on\" → /wɝkt ɑn/ (t links to on)\n\"past year\" → /pæst jɪr/ (t links into year)\n\"been developing\" → /bɪn dɪˈvɛləpɪŋ/ (been links to verb)\n\"with GitHub\" → /wɪð ˈɡɪt.hʌb/ (link voiced th + G)"
     },
     {
         "speaker": "Tech Lead",
         "text": "Nice. Have you ever dealt with a monolithic codebase?",
-        "ipa": "naɪs | əv jə ˈevə ˈdɛlt wɪð ə ˌmɒnəˈlɪθɪk ˈkəʊdbeɪs",
+        "ipa": "naɪs | əv jə ˈevə ˈdɛlt wɪð ə ˌmɑnəˈlɪθɪk ˈkəʊdbeɪs",
         "linking": "\"have you\" → /həv jə/ (you reduced)\n\"dealt with\" → /dɛlt wɪð/ (t links into with)"
     },
     {
         "speaker": "You",
         "text": "Yeah, actually — I used to work at a company where the entire platform was monolithic. Every time we made a change, we would need to test everything manually. It was exhausting.",
-        "ipa": "jæ | ˈækʧʊəli — aɪ ˈjuːst tə ˈwɜːk ət ə ˈkʌmpəni weə ði ɪnˈtaɪə ˈplætfɔːm wəz ˌmɒnəˈlɪθɪk | ˈevri taɪm wi meɪd ə ʧeɪnʤ | wi wəd niːd tə test ˈevriθɪŋ ˈmænjuəli | ɪt wəz ɪɡˈzɔːstɪŋ",
+        "ipa": "jæ | ˈækʧʊəli — aɪ ˈjuːst tə ˈwɜːk ət ə ˈkʌmpəni weə ði ɪnˈtaɪə ˈplætfɔːm wəz ˌmɑnəˈlɪθɪk | ˈevri taɪm wi meɪd ə ʧeɪnʤ | wi wəd niːd tə test ˈevriθɪŋ ˈmænjuəli | ɪt wəz ɪɡˈzɔːstɪŋ",
         "linking": "\"used to\" → /ˈjuːst tə/ (to reduced)\n\"work at a\" → /wɝk ət ə/ (at a reduced)\n\"need to test\" → /niːd tə tɛst/ (to reduced)\n\"was exhausting\" → /wəz ɪɡˈzɔːstɪŋ/ (was links into vowel)"
     },
     {
@@ -32,7 +32,7 @@
     {
         "speaker": "You",
         "text": "Back then, we would deploy once a week, usually on Friday evenings, which wasn’t ideal. I’ve had weekends where I was on call because something went wrong right after a release.",
-        "ipa": "bæk ðen | wi wəd dɪˈplɔɪ wʌns ə wiːk | ˈjuːʒuəli ɒn ˈfraɪdeɪ ˈiːvnɪŋz | wɪʧ ˈwɒznt aɪˈdɪəl | aɪv hæd ˈwiːkɛndz weə aɪ wəz ɒn kɔːl bɪˈkəz ˈsʌmθɪŋ wɛnt rɒŋ raɪt ˈɑːftə ə rɪˈliːs",
+        "ipa": "bæk ðen | wi wəd dɪˈplɔɪ wʌns ə wiːk | ˈjuːʒuəli ɑn ˈfraɪdeɪ ˈiːvnɪŋz | wɪʧ ˈwɑznt aɪˈdɪəl | aɪv hæd ˈwiːkɛndz weə aɪ wəz ɑn kɔːl bɪˈkəz ˈsʌmθɪŋ wɛnt rɑŋ raɪt ˈɑːftə ə rɪˈliːs",
         "linking": "\"would deploy\" → /wʊd dɪˈplɔɪ/ (smooth)\n\"wasn’t ideal\" → /ˈwɑː.zənt aɪˈdiəl/ (wasn’t links into vowel)\n\"right after\" → /raɪt ˈæftɚ/ (t links into after)"
     },
     {
@@ -44,31 +44,31 @@
     {
         "speaker": "You",
         "text": "A lot, actually. Since I started working with microservices, I’ve used Docker and Kubernetes. I’ve also improved my testing strategy — I’ve been writing more integration tests recently.",
-        "ipa": "ə lɒt ˈækʧʊəli | sɪns aɪ ˈstɑːtɪd ˈwɜːkɪŋ wɪð ˈmaɪkrəʊsɜːvɪsɪz | aɪv juːzd ˈdɒkə ənd ˌkjuːbərˈniːtiːz | aɪv ˈɔːlsəʊ ɪmˈpruːvd maɪ ˈtestɪŋ ˈstrætəʤi — aɪv bɪn ˈraɪtɪŋ mɔːr ˌɪntɪˈɡreɪʃən tests ˈriːsntli",
+        "ipa": "ə lɑt ˈækʧʊəli | sɪns aɪ ˈstɑːtɪd ˈwɜːkɪŋ wɪð ˈmaɪkrəʊsɜːvɪsɪz | aɪv juːzd ˈdɑkə ənd ˌkjuːbərˈniːtiːz | aɪv ˈɔːlsəʊ ɪmˈpruːvd maɪ ˈtestɪŋ ˈstrætəʤi — aɪv bɪn ˈraɪtɪŋ mɔːr ˌɪntɪˈɡreɪʃən tests ˈriːsntli",
         "linking": "\"started working\" → /ˈstɑːrtɪd ˈwɝkɪŋ/ (flap or clear t)\n\"used Docker\" → /juːzd ˈdɑːkɚ/ (used links to noun)\n\"improved my\" → /ɪmˈpruːvd maɪ/ (d links into pronoun)"
     },
     {
         "speaker": "Tech Lead",
         "text": "Sounds like you’ve gained some solid experience. Were there any major incidents?",
-        "ipa": "saʊndz laɪk jəv ɡeɪnd səm ˈsɒlɪd ɪkˈspɪəriəns | wə ðeər ˈeni ˈmeɪʤə ˈɪnsɪdənts",
+        "ipa": "saʊndz laɪk jəv ɡeɪnd səm ˈsɑlɪd ɪkˈspɪəriəns | wə ðeər ˈeni ˈmeɪʤə ˈɪnsɪdənts",
         "linking": "\"sounds like\" → /saʊndz laɪk/ (z links to like)\n\"were there\" → /wɚ ðɚ/ (smooth transition)"
     },
     {
         "speaker": "You",
         "text": "Yeah, there was one. Before we switched to feature flags, we had deployed a critical feature that wasn’t fully tested. I’d written the logic, but by the time the bug was found, I had already finished a sprint and moved to another task. I wish we had used feature flags back then.",
-        "ipa": "jæ | ðeə wəz wʌn | bɪˈfɔː wi swɪʧt tə ˈfiːʧə flæɡz | wi həd dɪˈplɔɪd ə ˈkrɪtɪkəl ˈfiːʧə ðæt ˈwɒznt ˈfʊli ˈtestɪd | aɪd ˈrɪtn ðə ˈlɒʤɪk | bət baɪ ðə taɪm ðə bʌɡ wəz faʊnd | aɪ həd ɔːlˈredi ˈfɪnɪʃt ə sprɪnt ənd muːvd tʊ əˈnʌðə tɑːsk | aɪ wɪʃ wi həd juːzd ˈfiːʧə flæɡz bæk ðen",
+        "ipa": "jæ | ðeə wəz wʌn | bɪˈfɔː wi swɪʧt tə ˈfiːʧə flæɡz | wi həd dɪˈplɔɪd ə ˈkrɪtɪkəl ˈfiːʧə ðæt ˈwɑznt ˈfʊli ˈtestɪd | aɪd ˈrɪtn ðə ˈlɑʤɪk | bət baɪ ðə taɪm ðə bʌɡ wəz faʊnd | aɪ həd ɔːlˈredi ˈfɪnɪʃt ə sprɪnt ənd muːvd tʊ əˈnʌðə tɑːsk | aɪ wɪʃ wi həd juːzd ˈfiːʧə flæɡz bæk ðen",
         "linking": "\"before we\" → /bɪˈfɔːr wi/\n\"switched to\" → /swɪʧt tə/ (to reduced)\n\"had deployed\" → /həd dɪˈplɔɪd/ (had reduced)\n\"by the time\" → /baɪ ðə taɪm/ (smooth flow)\n\"had already\" → /həd ɔːlˈrɛdi/ (had reduced)\n\"moved to\" → /muːvd tə/ (to reduced)\n\"used feature\" → /juːzd ˈfiːʧɚ/ (z links into F)"
     },
     {
         "speaker": "Tech Lead",
         "text": "Lessons learned. What would you say has been the biggest improvement in how you code?",
-        "ipa": "ˈlesənz lɜːnd | wɒt wəd jə seɪ həz bɪn ðə ˈbɪɡɪst ɪmˈpruːvmənt ɪn haʊ jə kəʊd",
+        "ipa": "ˈlesənz lɜːnd | wɑt wəd jə seɪ həz bɪn ðə ˈbɪɡɪst ɪmˈpruːvmənt ɪn haʊ jə kəʊd",
         "linking": "\"what would you\" → /wʌt wʊd jə/ (would you contracted)\n\"has been\" → /hæz bɪn/ (smooth)\n\"how you code\" → /haʊ jə koʊd/ (you reduced)"
     },
     {
         "speaker": "You",
         "text": "Honestly, I’ve become more careful with assumptions. I used to rush through requirements, but I’ve learned to ask better questions and take time to plan. That’s helped me avoid bugs early on.",
-        "ipa": "ˈɒnɪstli | aɪv bɪˈkʌm mɔː ˈkeəfʊl wɪð əˈsʌmpʃənz | aɪ ˈjuːst tə rʌʃ θruː rɪˈkwaɪəmənts | bət aɪv lɜːnd tʊ ɑːsk ˈbetə ˈkwesʧənz ənd teɪk taɪm tə plæn | ðæts ˈhelpt mi əˈvɔɪd bʌɡz ˈɜːli ɒn",
+        "ipa": "ˈɑnɪstli | aɪv bɪˈkʌm mɔː ˈkeəfʊl wɪð əˈsʌmpʃənz | aɪ ˈjuːst tə rʌʃ θruː rɪˈkwaɪəmənts | bət aɪv lɜːnd tʊ ɑːsk ˈbetə ˈkwesʧənz ənd teɪk taɪm tə plæn | ðæts ˈhelpt mi əˈvɔɪd bʌɡz ˈɜːli ɑn",
         "linking": "\"used to\" → /ˈjuːst tə/ (to reduced)\n\"rush through\" → /rʌʃ θruː/ (smooth verb + preposition)\n\"but I’ve learned\" → /bət aɪv lɝnd/ (but reduced)\n\"helped me\" → /hɛlpt mi/ (t links to me)\n\"avoid bugs\" → /əˈvɔɪd bʌɡz/ (d links to noun)"
     }
 ]
