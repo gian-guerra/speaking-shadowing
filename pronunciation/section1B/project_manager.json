@@ -1,0 +1,93 @@
+[
+    {
+        "speaker": "Sarah",
+        "text": "Alright, team — let’s talk about next week. First, what’s the plan for the payment module?",
+        "ipa": "ɔlˈraɪt tiːm | lɛts tɔk əˈbaʊt nɛkst wiːk | fɝst | wʌts ðə plæn fər ðə ˈpeɪmənt ˈmɑːʤuːl",
+        "stress": "ALRIGHT TEAM | LET’S TALK ABOUT NEXT WEEK | FIRST | WHAT’S THE PLAN FOR THE PAYMENT MODULE",
+        "linking": "\"talk about\" → /tɔk əˈbaʊt/ (k links into vowel)\n\"plan for\" → /plæn fər/ (n links into for)\n\"payment module\" → /ˈpeɪmənt ˈmɑːʤuːl/ (t links into noun)"
+    },
+    {
+        "speaker": "You",
+        "text": "I’m meeting with the backend team on Monday. We’re going to review the latest API changes.",
+        "ipa": "aɪm ˈmiːtɪŋ wɪð ðə ˈbækˌɛnd tiːm ɑn ˈmʌndeɪ | wɪr ˈɡoʊɪŋ tə rɪˈvju ðə ˈleɪtəst ˌeɪpiːˈaɪ ˈʧeɪnʤəz",
+        "stress": "I’M MEETING WITH THE BACKEND TEAM ON MONDAY | WE’RE GOING TO REVIEW THE LATEST API CHANGES",
+        "linking": "\"meeting with\" → /ˈmiːtɪŋ wɪð/ (gerund + preposition)\n\"going to\" → /ˈɡoʊɪŋ tə/ (to reduced)\n\"review the\" → /rɪˈvju ðə/ (smooth transition)"
+    },
+    {
+        "speaker": "Sarah",
+        "text": "Perfect. So you think you’ll be able to integrate it next sprint?",
+        "ipa": "ˈpɝːfɪkt | soʊ ju θɪŋk juːl bi ˈeɪbəl tə ˈɪntəˌɡreɪt ɪt nɛkst sprɪnt",
+        "stress": "PERFECT | SO YOU THINK YOU’LL BE ABLE TO INTEGRATE IT NEXT SPRINT",
+        "linking": "\"you’ll be\" → /juːl bi/ (contracted form)\n\"able to\" → /ˈeɪbəl tə/ (to reduced)\n\"integrate it\" → /ˈɪntəˌɡreɪt ɪt/ (T links to pronoun)"
+    },
+    {
+        "speaker": "You",
+        "text": "Yes, I will start the integration on Tuesday. If all goes well, we will have completed it by Friday.",
+        "ipa": "jɛs | aɪ wɪl stɑrt ði ˌɪntəˈɡreɪʃən ɑn ˈtuːzdeɪ | ɪf ɔl ɡoʊz wɛl | wi wɪl həv kəmˈpliːtɪd ɪt baɪ ˈfraɪdeɪ",
+        "stress": "YES | I WILL START THE INTEGRATION ON TUESDAY | IF ALL GOES WELL | WE WILL HAVE COMPLETED IT BY FRIDAY",
+        "linking": "\"start the\" → /stɑrt ði/ (t links into article)\n\"have completed\" → /həv kəmˈpliːtɪd/ (have reduced)\n\"completed it\" → /kəmˈpliːtɪd ɪt/ (D links into vowel)"
+    },
+    {
+        "speaker": "Sarah",
+        "text": "Nice. And what about the UI redesign?",
+        "ipa": "naɪs | ənd wʌt əˈbaʊt ðə ˌjuːˈaɪ ˌridɪˈzaɪn",
+        "stress": "NICE | AND WHAT ABOUT THE UI REDESIGN",
+        "linking": "\"what about\" → /wʌt əˈbaʊt/ (t links into next word)\n\"UI redesign\" → /ˌjuːˈaɪ ˌridɪˈzaɪn/ (smooth transition)"
+    },
+    {
+        "speaker": "You",
+        "text": "Jess is presenting the final Figma mockups on Wednesday. After that, we’re going to begin implementation.",
+        "ipa": "ʤɛs ɪz prɪˈzɛntɪŋ ðə ˈfaɪnəl ˈfɪɡmə ˈmɑːkʌps ɑn ˈwɛnzdeɪ | ˈæftɚ ðæt | wɪr ˈɡoʊɪŋ tə bɪˈɡɪn ˌɪmpləmɛnˈteɪʃən",
+        "stress": "JESS IS PRESENTING THE FINAL FIGMA MOCKUPS ON WEDNESDAY | AFTER THAT | WE’RE GOING TO BEGIN IMPLEMENTATION",
+        "linking": "\"presenting the\" → /prɪˈzɛntɪŋ ðə/ (smooth)\n\"going to\" → /ˈɡoʊɪŋ tə/ (to reduced)\n\"begin implementation\" → /bɪˈɡɪn ˌɪmpləmɛnˈteɪʃən/ (n links into vowel)"
+    },
+    {
+        "speaker": "Sarah",
+        "text": "Sounds good. Remember that the client calls us Thursday at 10 AM — they want a quick walkthrough.",
+        "ipa": "saʊndz ɡʊd | rɪˈmɛmbɚ ðət ðə ˈklaɪənt kɔlz əs ˈθɝzdeɪ ət tɛn eɪɛm | ðeɪ wɑnt ə kwɪk ˈwɔkˌθruː",
+        "stress": "SOUNDS GOOD | REMEMBER THAT THE CLIENT CALLS US THURSDAY AT 10 AM | THEY WANT A QUICK WALKTHROUGH",
+        "linking": "\"calls us\" → /kɔlz əs/ (z links into us)\n\"want a\" → /wɑnt ə/ (t links into a)"
+    },
+    {
+        "speaker": "You",
+        "text": "Right, I’ll be ready for that. I will be preparing the demo right before the meeting.",
+        "ipa": "raɪt | aɪl bi ˈrɛdi fər ðæt | aɪ wɪl bi prɪˈpɛrɪŋ ðə ˈdɛmoʊ raɪt bɪˈfɔːr ðə ˈmiːtɪŋ",
+        "stress": "RIGHT | I’LL BE READY FOR THAT | I WILL BE PREPARING THE DEMO RIGHT BEFORE THE MEETING",
+        "linking": "\"ready for\" → /ˈrɛdi fər/ (y links into article)\n\"right before\" → /raɪt bɪˈfɔːr/ (t links into preposition)"
+    },
+    {
+        "speaker": "Sarah",
+        "text": "Great! What about the migration script?",
+        "ipa": "ɡreɪt | wʌt əˈbaʊt ðə maɪˈɡreɪʃən skrɪpt",
+        "stress": "GREAT | WHAT ABOUT THE MIGRATION SCRIPT",
+        "linking": "\"what about\" → /wʌt əˈbaʊt/ (T links to article)\n\"migration script\" → /maɪˈɡreɪʃən skrɪpt/ (n links into s)"
+    },
+    {
+        "speaker": "You",
+        "text": "I’m about to test it locally. If no errors come up, I will deploy it to staging tonight.",
+        "ipa": "aɪm əˈbaʊt tə tɛst ɪt ˈloʊkəli | ɪf noʊ ˈɛrɚz kʌm ʌp | aɪ wɪl dɪˈplɔɪ ɪt tə ˈsteɪʤɪŋ təˈnaɪt",
+        "stress": "I’M ABOUT TO TEST IT LOCALLY | IF NO ERRORS COME UP | I WILL DEPLOY IT TO STAGING TONIGHT",
+        "linking": "\"about to\" → /əˈbaʊt tə/ (to reduced)\n\"test it\" → /tɛst ɪt/ (T links to vowel)\n\"deploy it\" → /dɪˈplɔɪ ɪt/ (y links to pronoun)"
+    },
+    {
+        "speaker": "Sarah",
+        "text": "Awesome. And by next Friday, we will have shipped all these updates to production?",
+        "ipa": "ˈɔsəm | ənd baɪ nɛkst ˈfraɪdeɪ | wi wɪl həv ʃɪpt ɔl ðiːz ˈʌpˌdeɪts tə prəˈdʌkʃən",
+        "stress": "AWESOME | AND BY NEXT FRIDAY | WE WILL HAVE SHIPPED ALL THESE UPDATES TO PRODUCTION",
+        "linking": "\"will have\" → /wɪl həv/ (have reduced)\n\"shipped all\" → /ʃɪpt ɔl/ (T links into article)"
+    },
+    {
+        "speaker": "You",
+        "text": "That’s the goal! We just need to stick to the timeline.",
+        "ipa": "ðæts ðə ɡoʊl | wi ʤəst niːd tə stɪk tə ðə ˈtaɪmlaɪn",
+        "stress": "THAT’S THE GOAL | WE JUST NEED TO STICK TO THE TIMELINE",
+        "linking": "\"just need to\" → /ʤəst niːd tə/ (to reduced)\n\"stick to\" → /stɪk tə/ (to reduced)"
+    },
+    {
+        "speaker": "Sarah",
+        "text": "Alright team, let’s make it happen.",
+        "ipa": "ɔlˈraɪt tiːm | lɛts meɪk ɪt ˈhæpən",
+        "stress": "ALRIGHT TEAM | LET’S MAKE IT HAPPEN",
+        "linking": "\"make it\" → /meɪk ɪt/ (k links into vowel)\n\"it happen\" → /ɪt ˈhæpən/ (T links to next word)"
+    }
+]

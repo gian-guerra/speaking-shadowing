@@ -1,0 +1,93 @@
+[
+    {
+        "speaker": "You",
+        "text": "Hey, welcome aboard, Sam! How’s your first week going?",
+        "ipa": "heɪ | ˈwɛlkəm əˈbɔrd sæm | haʊz jɚ fɝst wiːk ˈɡoʊɪŋ",
+        "stress": "HEY | WELCOME ABOARD, SAM | HOW’S YOUR FIRST WEEK GOING",
+        "linking": "\"welcome aboard\" → /ˈwɛlkəm əˈbɔrd/ (m links into a)\n\"how’s your\" → /haʊz jɚ/ (how is + your contracted)\n\"first week\" → /fɝst wiːk/ (t links into W)"
+    },
+    {
+        "speaker": "Sam",
+        "text": "Thanks! It’s been good so far. A bit overwhelming, but I’m slowly getting the hang of everything.",
+        "ipa": "θæŋks | ɪts bɪn ɡʊd soʊ fɑr | ə bɪt ˌoʊvɚˈwɛlmɪŋ | bət aɪm ˈsloʊli ˈɡɛtɪŋ ðə hæŋ əv ˈɛvrɪθɪŋ",
+        "stress": "THANKS | IT’S BEEN GOOD SO FAR | A BIT OVERWHELMING | BUT I’M SLOWLY GETTING THE HANG OF EVERYTHING",
+        "linking": "\"bit overwhelming\" → /bɪt ˌoʊvɚˈwɛlmɪŋ/ (t links into vowel)\n\"getting the\" → /ˈɡɛtɪŋ ðə/ (link T + article)\n\"hang of\" → /hæŋ əv/ (link NG + of)"
+    },
+    {
+        "speaker": "You",
+        "text": "Totally normal. By next week, you will have settled in more. We're all here to help, so don’t hesitate to reach out.",
+        "ipa": "ˈtoʊtəli ˈnɔrməl | baɪ nɛkst wiːk | ju wɪl həv ˈsɛtld ɪn mɔr | wɚ ɔl hɪr tə hɛlp | soʊ doʊnt ˈhɛzɪˌteɪt tə ˈriːʧ aʊt",
+        "stress": "TOTALLY NORMAL | BY NEXT WEEK | YOU WILL HAVE SETTLED IN MORE | WE’RE ALL HERE TO HELP | SO DON’T HESITATE TO REACH OUT",
+        "linking": "\"will have\" → /wɪl həv/ (have reduced)\n\"settled in\" → /ˈsɛtld ɪn/ (d links to vowel)\n\"hesitate to\" → /ˈhɛzɪˌteɪt tə/ (to reduced)\n\"reach out\" → /ˈriːʧ aʊt/ (smooth phrasal)"
+    },
+    {
+        "speaker": "Sam",
+        "text": "Appreciate it. I heard I’ll be working on the API refactor project. Is that right?",
+        "ipa": "əˈpriːʃieɪt ɪt | aɪ hɝd aɪl bi ˈwɝkɪŋ ɑn ði ˌeɪpiˈaɪ riˈfæktɚ ˈprɑːʤɛkt | ɪz ðæt raɪt",
+        "stress": "APPRECIATE IT | I HEARD I’LL BE WORKING ON THE API REFACTOR PROJECT | IS THAT RIGHT",
+        "linking": "\"heard I’ll\" → /hɝd aɪl/ (d links into contraction)\n\"working on\" → /ˈwɝkɪŋ ɑn/ (smooth)\n\"is that\" → /ɪz ðæt/ (z links to th)"
+    },
+    {
+        "speaker": "You",
+        "text": "Yeah! You are going to join the backend squad on Monday. By then, they will have wrapped up the initial planning.",
+        "ipa": "jæ | ju ɑr ˈɡoʊɪŋ tə ʤɔɪn ðə ˈbækˌɛnd skwɑd ɑn ˈmʌndeɪ | baɪ ðɛn | ðeɪ wɪl həv ræpt ʌp ði ɪˈnɪʃəl ˈplænɪŋ",
+        "stress": "YEAH | YOU ARE GOING TO JOIN THE BACKEND SQUAD ON MONDAY | BY THEN | THEY WILL HAVE WRAPPED UP THE INITIAL PLANNING",
+        "linking": "\"going to\" → /ˈɡoʊɪŋ tə/ (to reduced)\n\"wrapped up\" → /ræpt ʌp/ (t links to up)\n\"planning\" → /ˈplænɪŋ/ (smooth finish)"
+    },
+    {
+        "speaker": "Sam",
+        "text": "Great. I am planning to read through the API docs this weekend so I can hit the ground running.",
+        "ipa": "ɡreɪt | aɪ əm ˈplænɪŋ tə riːd θru ði ˌeɪpiˈaɪ dɑks ðɪs ˈwiːkˌɛnd | soʊ aɪ kən hɪt ðə ɡraʊnd ˈrʌnɪŋ",
+        "stress": "GREAT | I AM PLANNING TO READ THROUGH THE API DOCS THIS WEEKEND | SO I CAN HIT THE GROUND RUNNING",
+        "linking": "\"planning to\" → /ˈplænɪŋ tə/ (to reduced)\n\"so I can\" → /soʊ aɪ kən/ (smooth sequence)\n\"hit the\" → /hɪt ðə/ (T links to article)"
+    },
+    {
+        "speaker": "You",
+        "text": "Awesome. And next Thursday, we are presenting the roadmap to stakeholders, so you’ll get a clear view of where things are headed.",
+        "ipa": "ˈɔsəm | ənd nɛkst ˈθɝzdeɪ | wi ɑr prɪˈzɛntɪŋ ðə ˈroʊdˌmæp tə ˈsteɪkˌhoʊldɚz | soʊ jul ɡɛt ə klɪr vju əv wɛr θɪŋz ɑr ˈhɛdɪd",
+        "stress": "AWESOME | NEXT THURSDAY | WE ARE PRESENTING THE ROADMAP TO STAKEHOLDERS | YOU’LL GET A CLEAR VIEW OF WHERE THINGS ARE HEADED",
+        "linking": "\"presenting the\" → /prɪˈzɛntɪŋ ðə/ (smooth)\n\"get a\" → /ɡɛt ə/ (t links to a)\n\"view of\" → /vju əv/ (view links into article)"
+    },
+    {
+        "speaker": "Sam",
+        "text": "Nice! Will I be expected to contribute to the presentation?",
+        "ipa": "naɪs | wɪl aɪ bi ɪkˈspɛktɪd tə kənˈtrɪbjut tə ðə ˌprɛzənˈteɪʃən",
+        "stress": "NICE | WILL I BE EXPECTED TO CONTRIBUTE TO THE PRESENTATION",
+        "linking": "\"expected to\" → /ɪkˈspɛktɪd tə/ (to reduced)\n\"contribute to\" → /kənˈtrɪbjut tə/ (to reduced)"
+    },
+    {
+        "speaker": "You",
+        "text": "Not this time, but I’m sure by next quarter you will be leading one of them! If you keep up this pace, you will have learned a ton in just a few weeks.",
+        "ipa": "nɑt ðɪs taɪm | bət aɪm ʃʊr baɪ nɛkst ˈkwɔrtɚ ju wɪl bi ˈliːdɪŋ wʌn əv ðɛm | ɪf ju kiːp ʌp ðɪs peɪs | ju wɪl həv lɝnd ə tʌn ɪn ʤəst ə fju wiːks",
+        "stress": "NOT THIS TIME | BUT I’M SURE BY NEXT QUARTER YOU WILL BE LEADING ONE OF THEM | IF YOU KEEP UP THIS PACE | YOU WILL HAVE LEARNED A TON IN JUST A FEW WEEKS",
+        "linking": "\"but I’m\" → /bət aɪm/ (but reduced)\n\"one of them\" → /wʌn əv ðɛm/ (of reduced)\n\"have learned\" → /həv lɝnd/ (have reduced)"
+    },
+    {
+        "speaker": "Sam",
+        "text": "Haha, let’s hope so! Do you remember what your onboarding was like?",
+        "ipa": "ˈhɑːhɑː | lɛts hoʊp soʊ | dʊ ju rɪˈmɛmbɚ wʌt jɚ ˈɑːnbɔrdɪŋ wəz laɪk",
+        "stress": "HAHA | LET’S HOPE SO | DO YOU REMEMBER WHAT YOUR ONBOARDING WAS LIKE",
+        "linking": "\"let’s hope\" → /lɛts hoʊp/ (s links into h)\n\"what your\" → /wʌt jɚ/ (T links into pronoun)"
+    },
+    {
+        "speaker": "You",
+        "text": "Oh yeah, I was about to give up after the first few days. But I got used to it quickly once I started working on real tasks. Everyone was willing to help, so I never felt alone.",
+        "ipa": "oʊ jæ | aɪ wəz əˈbaʊt tə ɡɪv ʌp ˈæftɚ ðə fɝst fju deɪz | bət aɪ ɡɑt ˈjuːst tə ɪt ˈkwɪkli wʌns aɪ ˈstɑːrtɪd ˈwɝkɪŋ ɑn riːəl tæsks | ˈɛvrɪwʌn wəz ˈwɪlɪŋ tə hɛlp | soʊ aɪ ˈnɛvɚ fɛlt əˈloʊn",
+        "stress": "OH YEAH | I WAS ABOUT TO GIVE UP AFTER THE FIRST FEW DAYS | BUT I GOT USED TO IT QUICKLY | STARTED WORKING ON REAL TASKS | EVERYONE WAS WILLING TO HELP | I NEVER FELT ALONE",
+        "linking": "\"about to\" → /əˈbaʊt tə/ (to reduced)\n\"used to\" → /ˈjuːst tə/ (to reduced)\n\"working on\" → /ˈwɝkɪŋ ɑn/ (verb + preposition)"
+    },
+    {
+        "speaker": "Sam",
+        "text": "That’s reassuring. Thanks for all the help so far!",
+        "ipa": "ðæts ˌriːəˈʃʊrɪŋ | θæŋks fər ɔl ðə hɛlp soʊ fɑr",
+        "stress": "THAT’S REASSURING | THANKS FOR ALL THE HELP SO FAR",
+        "linking": "\"thanks for\" → /θæŋks fər/ (ks links into preposition)\n\"so far\" → /soʊ fɑr/ (smooth connection)"
+    },
+    {
+        "speaker": "You",
+        "text": "Of course! Let’s check in again after your first sprint. You’re off to a solid start!",
+        "ipa": "əv kɔrs | lɛts ʧɛk ɪn əˈɡɛn ˈæftɚ jɚ fɝst sprɪnt | jɚ ɑf tə ə ˈsɑːlɪd stɑrt",
+        "stress": "OF COURSE | LET’S CHECK IN AGAIN AFTER YOUR FIRST SPRINT | YOU’RE OFF TO A SOLID START",
+        "linking": "\"check in\" → /ʧɛk ɪn/ (smooth phrasal)\n\"after your\" → /ˈæftɚ jɚ/ (r links into pronoun)\n\"off to a\" → /ɑf tə ə/ (to + a reduced)"
+    }
+]
