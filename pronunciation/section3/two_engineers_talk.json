@@ -1,0 +1,114 @@
+[
+    {
+        "speaker": "Nora",
+        "text": "Hey Marcus! You went to ReactConf last week, right? How was it?",
+        "ipa": "heɪ ˈmɑrkəs | ju wɛnt tu riˈækt kɑnf læst wik | raɪt | haʊ wəz ɪt",
+        "stress": "HEY MARCUS | YOU WENT TO REACTCONF LAST WEEK | RIGHT | HOW WAS IT",
+        "linking": "\"went to\" → /wɛnt tu/ (t links to t)\n\"how was it\" → /haʊ wəz ɪt/ (w links to i)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "Oh, it was absolutely incredible. The talks were far more insightful than I expected.",
+        "ipa": "oʊ | ɪt wəz ˌæbsəˈlutli ɪnˈkrɛdəbəl | ðə tɔks wɚ fɑr mɔr ɪnˈsaɪtfəl ðən aɪ ɪkˈspɛktɪd",
+        "stress": "OH | IT WAS ABSOLUTELY INCREDIBLE | THE TALKS WERE FAR MORE INSIGHTFUL THAN I EXPECTED",
+        "linking": "\"it was\" → /ɪt wəz/ (t links to w)\n\"talks were\" → /tɔks wɚ/ (s links to w)"
+    },
+    {
+        "speaker": "Nora",
+        "text": "That’s awesome. Was it more focused on performance or design patterns?",
+        "ipa": "ðæts ˈɔsəm | wəz ɪt mɔr ˈfoʊkəst ɑn pɚˈfɔrməns ɔr dɪˈzaɪn ˈpætɚnz",
+        "stress": "THAT’S AWESOME | WAS IT MORE FOCUSED ON PERFORMANCE OR DESIGN PATTERNS",
+        "linking": "\"focused on\" → /ˈfoʊkəst ɑn/ (t links to o)\n\"design patterns\" → /dɪˈzaɪn ˈpætɚnz/ (n links to p)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "A bit of both. There was a session about micro frontends that was just as relevant for back-end folks too. They explained things really clearly.",
+        "ipa": "ə bɪt əv boʊθ | ðɛr wəz ə ˈsɛʃən əˈbaʊt ˈmaɪkroʊ ˈfrʌntɛndz ðæt wəz dʒəst æz ˈrɛləvənt fɚ ˈbækˌɛnd foʊks tu | ðeɪ ɪkˈspleɪnd θɪŋz ˈrɪli ˈklɪrli",
+        "stress": "A BIT OF BOTH | THERE WAS A SESSION ABOUT MICRO FRONTENDS THAT WAS JUST AS RELEVANT FOR BACK-END FOLKS TOO | THEY EXPLAINED THINGS REALLY CLEARLY",
+        "linking": "\"bit of\" → /bɪt əv/ (t links to o)\n\"just as\" → /dʒəst æz/ (t links to a)"
+    },
+    {
+        "speaker": "Nora",
+        "text": "Sounds like it! I watched the recording of the animations talk, and the speaker was so engaging.",
+        "ipa": "saʊndz laɪk ɪt | aɪ wɑʧt ðə rɪˈkɔrdɪŋ əv ði ˌænəˈmeɪʃənz tɔk | ənd ðə ˈspiːkɚ wəz soʊ ɪnˈɡeɪdʒɪŋ",
+        "stress": "SOUNDS LIKE IT | I WATCHED THE RECORDING OF THE ANIMATIONS TALK | AND THE SPEAKER WAS SO ENGAGING",
+        "linking": "\"watched the\" → /wɑʧt ðə/ (t links to th)\n\"so engaging\" → /soʊ ɪnˈɡeɪdʒɪŋ/ (o links to e)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "Yeah! She spoke fluently and confidently. Honestly, she was the most convincing speaker of the entire event.",
+        "ipa": "jæ | ʃi spoʊk ˈfluəntli ənd ˈkɑnfɪdəntli | ˈɑnɪstli | ʃi wəz ðə moʊst kənˈvɪnsɪŋ ˈspiːkɚ əv ði ɪnˈtaɪɚ ɪˈvɛnt",
+        "stress": "YEAH | SHE SPOKE FLUENTLY AND CONFIDENTLY | HONESTLY | SHE WAS THE MOST CONVINCING SPEAKER OF THE ENTIRE EVENT",
+        "linking": "\"spoke fluently\" → /spoʊk ˈfluəntli/ (k links to f)\n\"most convincing\" → /moʊst kənˈvɪnsɪŋ/ (t links to c)"
+    },
+    {
+        "speaker": "Nora",
+        "text": "I’m a bit jealous now, haha. I should’ve gone. Was the venue nice?",
+        "ipa": "aɪm ə bɪt ˈʤɛləs naʊ | hɑ hɑ | aɪ ʃʊdəv ɡɔn | wəz ðə ˈvɛnju naɪs",
+        "stress": "I’M A BIT JEALOUS NOW | HAHA | I SHOULD’VE GONE | WAS THE VENUE NICE",
+        "linking": "\"should’ve gone\" → /ʃʊdəv ɡɔn/ (v links to g)\n\"venue nice\" → /ˈvɛnju naɪs/ (u links to n)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "Totally. It was much better organized than the one we attended last year. Also, the food was surprisingly good.",
+        "ipa": "ˈtoʊtəli | ɪt wəz mʌʧ ˈbɛtɚ ˈɔrɡəˌnaɪzd ðən ðə wʌn wi əˈtɛndɪd læst jɪr | ˈɔlsoʊ | ðə fud wəz sərˈpraɪzɪŋli ɡʊd",
+        "stress": "TOTALLY | IT WAS MUCH BETTER ORGANIZED THAN THE ONE WE ATTENDED LAST YEAR | ALSO | THE FOOD WAS SURPRISINGLY GOOD",
+        "linking": "\"better organized\" → /ˈbɛtɚ ˈɔrɡəˌnaɪzd/ (r links to o)\n\"food was\" → /fud wəz/ (d links to w)"
+    },
+    {
+        "speaker": "Nora",
+        "text": "Wait—better than last year’s? That’s hard to believe, considering last year we only had sandwiches.",
+        "ipa": "weɪt | ˈbɛtɚ ðən læst jɪrz | ðæts hɑrd tu bɪˈliv | kənˈsɪdɚɪŋ læst jɪr wi ˈoʊnli hæd ˈsænwɪʧɪz",
+        "stress": "WAIT | BETTER THAN LAST YEAR’S | THAT’S HARD TO BELIEVE | CONSIDERING LAST YEAR WE ONLY HAD SANDWICHES",
+        "linking": "\"better than\" → /ˈbɛtɚ ðən/ (r links to th)\n\"last year\" → /læst jɪr/ (t links to y)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "Exactly! This time, they had actual meals and even a few vegan options. And the lines were shorter, too.",
+        "ipa": "ɪɡˈzæktli | ðɪs taɪm | ðeɪ hæd ˈækʧuəl milz ənd ˈivɪn ə fju ˈviɡən ˈɑpʃənz | ənd ðə laɪnz wɚ ˈʃɔrtɚ | tu",
+        "stress": "EXACTLY | THIS TIME | THEY HAD ACTUAL MEALS AND EVEN A FEW VEGAN OPTIONS | AND THE LINES WERE SHORTER | TOO",
+        "linking": "\"had actual\" → /hæd ˈækʧuəl/ (d links to a)\n\"lines were\" → /laɪnz wɚ/ (s links to w)"
+    },
+    {
+        "speaker": "Nora",
+        "text": "Nice! Did you do any networking?",
+        "ipa": "naɪs | dɪd ju du ˈɛni ˈnɛtwɝkɪŋ",
+        "stress": "NICE | DID YOU DO ANY NETWORKING",
+        "linking": "\"did you\" → /dɪd ju/ (d links to y)\n\"any networking\" → /ˈɛni ˈnɛtwɝkɪŋ/ (y links to n)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "I did, but not as much as I should’ve. I was mostly focused on attending every talk I could.",
+        "ipa": "aɪ dɪd | bət nɑt æz mʌʧ æz aɪ ˈʃʊdəv | aɪ wəz ˈmoʊstli ˈfoʊkəst ɑn əˈtɛndɪŋ ˈɛvri tɔk aɪ kʊd",
+        "stress": "I DID | BUT NOT AS MUCH AS I SHOULD’VE | I WAS MOSTLY FOCUSED ON ATTENDING EVERY TALK I COULD",
+        "linking": "\"not as\" → /nɑt æz/ (t links into a)\n\"focused on\" → /ˈfoʊkəst ɑn/ (t links into o)\n\"talk I\" → /tɔk aɪ/ (k links to a)"
+    },
+    {
+        "speaker": "Nora",
+        "text": "You’re always more dedicated than the rest of us when it comes to learning. I would’ve probably wandered around and missed a few sessions.",
+        "ipa": "jʊr ˈɔlweɪz mɔr ˈdɛdɪˌkeɪtɪd ðən ðə rɛst əv ʌs wɛn ɪt kʌmz tə ˈlɝnɪŋ | aɪ ˈwʊdəv ˈprɑbəbli ˈwɑndɚd əˈraʊnd ənd mɪst ə fju ˈsɛʃənz",
+        "stress": "YOU’RE ALWAYS MORE DEDICATED THAN THE REST OF US WHEN IT COMES TO LEARNING | I WOULD’VE PROBABLY WANDERED AROUND AND MISSED A FEW SESSIONS",
+        "linking": "\"rest of us\" → /rɛst əv ʌs/ (t links to v)\n\"wandered around\" → /ˈwɑndɚd əˈraʊnd/ (d links to a)\n\"missed a\" → /mɪst ə/ (t links to a)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "Haha maybe, but you’re a lot better at talking to new people. I always feel a bit awkward.",
+        "ipa": "hɑ hɑ ˈmeɪbi | bət jʊr ə lɑt ˈbɛtɚ ət ˈtɔkɪŋ tə nu ˈpipəl | aɪ ˈɔlweɪz fil ə bɪt ˈɔkwɚd",
+        "stress": "HAHA MAYBE | BUT YOU’RE A LOT BETTER AT TALKING TO NEW PEOPLE | I ALWAYS FEEL A BIT AWKWARD",
+        "linking": "\"you’re a\" → /jʊr ə/ (r links to a)\n\"bit awkward\" → /bɪt ˈɔkwɚd/ (t links to o)"
+    },
+    {
+        "speaker": "Nora",
+        "text": "We make a good team then — I’ll do the networking next time, and you can take notes.",
+        "ipa": "wi meɪk ə ɡʊd tiːm ðɛn | aɪl du ðə ˈnɛtwɝkɪŋ nɛkst taɪm | ənd ju kən teɪk noʊts",
+        "stress": "WE MAKE A GOOD TEAM THEN | I’LL DO THE NETWORKING NEXT TIME | AND YOU CAN TAKE NOTES",
+        "linking": "\"networking next\" → /ˈnɛtwɝkɪŋ nɛkst/ (g links to n)\n\"can take\" → /kən teɪk/ (n links to t)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "Deal! Next time, we should both go. It’d be twice as productive.",
+        "ipa": "diːl | nɛkst taɪm | wi ʃəd boʊθ ɡoʊ | ɪd bi twaɪs æz prəˈdʌktɪv",
+        "stress": "DEAL | NEXT TIME | WE SHOULD BOTH GO | IT’D BE TWICE AS PRODUCTIVE",
+        "linking": "\"should both\" → /ʃəd boʊθ/ (d links to b)\n\"twice as\" → /twaɪs æz/ (s links to a)"
+    }
+]

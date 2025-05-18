@@ -1,0 +1,72 @@
+[
+    {
+        "speaker": "Emma",
+        "text": "Hey Jake, I just finished reviewing your PR. The UI updates look really clean and much smoother than the previous version.",
+        "ipa": "heɪ ʤeɪk | aɪ ʤəst ˈfɪnɪʃt rɪˈvjuːɪŋ jʊr piː ɑr | ðə ˌjuː ˈaɪ ˈʌpˌdeɪts lʊk ˈrɪəli kliːn ənd mʌʧ ˈsmuːðɚ ðən ðə ˈpriːviəs ˈvɝʒən",
+        "stress": "HEY JAKE | I JUST FINISHED REVIEWING YOUR PR | THE UI UPDATES LOOK REALLY CLEAN AND MUCH SMOOTHER THAN THE PREVIOUS VERSION",
+        "linking": "\"just finished\" → /ʤəst ˈfɪnɪʃt/ (t links into f)\n\"reviewing your\" → /rɪˈvjuːɪŋ jʊr/ (g links into y)\n\"updates look\" → /ˈʌpˌdeɪts lʊk/ (s links into l)"
+    },
+    {
+        "speaker": "Jake",
+        "text": "Thanks! I tried to keep things as simple as possible. I also made the animations slightly faster so they feel more responsive.",
+        "ipa": "θæŋks | aɪ traɪd tə kiːp θɪŋz əz ˈsɪmpəl əz ˈpɑsəbəl | aɪ ˈɔlsoʊ meɪd ði ˌænəˈmeɪʃənz ˈslaɪtli ˈfæstɚ soʊ ðeɪ fiːl mɔr rɪˈspɑnsɪv",
+        "stress": "THANKS | I TRIED TO KEEP THINGS AS SIMPLE AS POSSIBLE | I ALSO MADE THE ANIMATIONS SLIGHTLY FASTER SO THEY FEEL MORE RESPONSIVE",
+        "linking": "\"tried to\" → /traɪd tə/ (d links into t)\n\"as simple as\" → /əz ˈsɪmpəl əz/ (z links into s)\n\"feel more\" → /fiːl mɔr/ (l links into m)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "Yeah, the transitions are definitely smoother now. The old ones were a bit choppy, especially on slower devices.",
+        "ipa": "jæ | ðə trænˈzɪʃənz ɑr ˈdɛfənətli ˈsmuːðɚ naʊ | ði oʊld wʌnz wɚ ə bɪt ˈʧɑpi | əˈspɛʃəli ɑn ˈsloʊɚ dɪˈvaɪsɪz",
+        "stress": "YEAH | THE TRANSITIONS ARE DEFINITELY SMOOTHER NOW | THE OLD ONES WERE A BIT CHOPPY | ESPECIALLY ON SLOWER DEVICES",
+        "linking": "\"definitely smoother\" → /ˈdɛfənətli ˈsmuːðɚ/ (y links into s)\n\"bit choppy\" → /bɪt ˈʧɑpi/ (t links into ch)"
+    },
+    {
+        "speaker": "Jake",
+        "text": "I ran some tests on mobile too. The performance is significantly better — loading times are now under two seconds.",
+        "ipa": "aɪ ræn səm tɛsts ɑn ˈmoʊˌbaɪl tuː | ðə pɚˈfɔrməns ɪz sɪɡˈnɪfəkəntli ˈbɛtɚ — ˈloʊdɪŋ taɪmz ɑr naʊ ˈʌndɚ tuː ˈsɛkəndz",
+        "stress": "I RAN SOME TESTS ON MOBILE TOO | THE PERFORMANCE IS SIGNIFICANTLY BETTER — LOADING TIMES ARE NOW UNDER TWO SECONDS",
+        "linking": "\"tests on\" → /tɛsts ɑn/ (s links into o)\n\"loading times\" → /ˈloʊdɪŋ taɪmz/ (g links into t)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "That’s impressive! Mine still loads a little slower, probably because I’m using heavier components.",
+        "ipa": "ðæts ɪmˈprɛsɪv | maɪn stɪl loʊdz ə ˈlɪtl ˈsloʊɚ | ˈprɑbəbli bɪˈkəz aɪm ˈjuːzɪŋ ˈhɛviɚ kəmˈpoʊnənts",
+        "stress": "THAT’S IMPRESSIVE | MINE STILL LOADS A LITTLE SLOWER | PROBABLY BECAUSE I’M USING HEAVIER COMPONENTS",
+        "linking": "\"loads a\" → /loʊdz ə/ (z links into a)\n\"using heavier\" → /ˈjuːzɪŋ ˈhɛviɚ/ (g links into h)"
+    },
+    {
+        "speaker": "Jake",
+        "text": "You could try switching to the lightweight version of the chart library. It’s less powerful, but much faster.",
+        "ipa": "ju kəd traɪ ˈswɪʧɪŋ tə ðə ˈlaɪtˌweɪt ˈvɝʒən əv ðə ʧɑrt ˈlaɪˌbrɛri | ɪts lɛs ˈpaʊɚfəl | bət mʌʧ ˈfæstɚ",
+        "stress": "YOU COULD TRY SWITCHING TO THE LIGHTWEIGHT VERSION OF THE CHART LIBRARY | IT’S LESS POWERFUL | BUT MUCH FASTER",
+        "linking": "\"switching to\" → /ˈswɪʧɪŋ tə/ (g links into t)\n\"much faster\" → /mʌʧ ˈfæstɚ/ (ch links into f)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "Good idea. I also noticed your CSS is more organized now. How did you manage that?",
+        "ipa": "ɡʊd aɪˈdiə | aɪ ˈɔlsoʊ ˈnoʊtɪst jʊr si ɛs ɛs ɪz mɔr ˈɔrɡəˌnaɪzd naʊ | haʊ dɪd ju ˈmænɪʤ ðæt",
+        "stress": "GOOD IDEA | I ALSO NOTICED YOUR CSS IS MORE ORGANIZED NOW | HOW DID YOU MANAGE THAT",
+        "linking": "\"noticed your\" → /ˈnoʊtɪst jʊr/ (d links into y)\n\"manage that\" → /ˈmænɪʤ ðæt/ (g links into th)"
+    },
+    {
+        "speaker": "Jake",
+        "text": "I followed a utility-first approach and removed redundant styles. It’s definitely easier to maintain now.",
+        "ipa": "aɪ ˈfɑloʊd ə juˈtɪləti fɝst əˈproʊʧ ənd rɪˈmuːvd rɪˈdʌndənt staɪlz | ɪts ˈdɛfənətli ˈiːziɚ tə meɪnˈteɪn naʊ",
+        "stress": "I FOLLOWED A UTILITY-FIRST APPROACH AND REMOVED REDUNDANT STYLES | IT’S DEFINITELY EASIER TO MAINTAIN NOW",
+        "linking": "\"approach and\" → /əˈproʊʧ ənd/ (ch links into a)\n\"easier to\" → /ˈiːziɚ tə/ (r links into t)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "I like it! Honestly, this is one of your best pull requests — cleaner, faster, and more readable.",
+        "ipa": "aɪ laɪk ɪt | ˈɑnɪstli | ðɪs ɪz wʌn əv jʊr bɛst pʊl rɪˈkwɛsts — ˈkliːnɚ | ˈfæstɚ | ənd mɔr ˈriːdəbl",
+        "stress": "I LIKE IT | HONESTLY | THIS IS ONE OF YOUR BEST PULL REQUESTS — CLEANER | FASTER | AND MORE READABLE",
+        "linking": "\"one of your\" → /wʌn əv jʊr/ (n links into v)\n\"pull requests\" → /pʊl rɪˈkwɛsts/ (l links into r)"
+    },
+    {
+        "speaker": "Jake",
+        "text": "Appreciate it. Took a lot of tweaking, but I think it paid off.",
+        "ipa": "əˈpriːʃiˌeɪt ɪt | tʊk ə lɑt əv ˈtwiːkɪŋ | bət aɪ θɪŋk ɪt peɪd ɔf",
+        "stress": "APPRECIATE IT | TOOK A LOT OF TWEAKING | BUT I THINK IT PAID OFF",
+        "linking": "\"appreciate it\" → /əˈpriːʃiˌeɪt ɪt/ (t links into it)\n\"lot of\" → /lɑt əv/ (t links into v)\n\"paid off\" → /peɪd ɔf/ (d links to vowel)"
+    }
+]
