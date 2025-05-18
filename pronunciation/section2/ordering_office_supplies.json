@@ -1,0 +1,100 @@
+[
+    {
+        "speaker": "Sarah",
+        "text": "Hey Marcus, I’m about to place the monthly supply order. Do we still have any notebooks left?",
+        "ipa": "heɪ ˈmɑrkəs | aɪm əˈbaʊt tə pleɪs ðə ˈmʌnθli səˈplaɪ ˈɔrdɚ | du wi stɪl hæv ˈɛni ˈnoʊtbʊks lɛft",
+        "stress": "HEY MARCUS | I’M ABOUT TO PLACE THE MONTHLY SUPPLY ORDER | DO WE STILL HAVE ANY NOTEBOOKS LEFT",
+        "linking": "\"about to\" → /əˈbaʊt tə/ (to reduced)\n\"supply order\" → /səˈplaɪ ˈɔrdɚ/ (smooth transition)\n\"do we\" → /du wi/ (consonant-vowel link)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "Not really. I checked the cabinet yesterday — there are just a few left, maybe three or four.",
+        "ipa": "nɑt ˈrɪəli | aɪ ʧɛkt ðə ˈkæbənɪt ˈjɛstɚdeɪ | ðɛr ɑr ʤəst ə fju lɛft | ˈmeɪbi θriː ɔr fɔr",
+        "stress": "NOT REALLY | I CHECKED THE CABINET YESTERDAY | THERE ARE JUST A FEW LEFT | MAYBE THREE OR FOUR",
+        "linking": "\"checked the\" → /ʧɛkt ðə/ (T links into article)\n\"just a\" → /ʤəst ə/ (t links to article)\n\"three or\" → /θriː ɔr/ (vowel-vowel smooth)"
+    },
+    {
+        "speaker": "Sarah",
+        "text": "Got it. What about printer paper?",
+        "ipa": "ɡɑt ɪt | wʌt əˈbaʊt ˈprɪntɚ ˈpeɪpɚ",
+        "stress": "GOT IT | WHAT ABOUT PRINTER PAPER",
+        "linking": "\"got it\" → /ɡɑt ɪt/ (t links into pronoun)\n\"what about\" → /wʌt əˈbaʊt/ (t links to article)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "We’ve used up most of it. There’s just a little left in the tray.",
+        "ipa": "wiv juːzd ʌp moʊst əv ɪt | ðɛrz ʤəst ə ˈlɪtl lɛft ɪn ðə treɪ",
+        "stress": "WE’VE USED UP MOST OF IT | THERE’S JUST A LITTLE LEFT IN THE TRAY",
+        "linking": "\"used up\" → /juːzd ʌp/ (d links into up)\n\"just a\" → /ʤəst ə/ (t links to article)\n\"left in\" → /lɛft ɪn/ (t links into preposition)"
+    },
+    {
+        "speaker": "Sarah",
+        "text": "Alright, I’ll order a lot of paper this time. Do we need pens too?",
+        "ipa": "ɔlˈraɪt | aɪl ˈɔrdɚ ə lɑt əv ˈpeɪpɚ ðɪs taɪm | du wi niːd pɛnz tuː",
+        "stress": "ALRIGHT | I’LL ORDER A LOT OF PAPER THIS TIME | DO WE NEED PENS TOO",
+        "linking": "\"order a\" → /ˈɔrdɚ ə/ (r links into article)\n\"lot of\" → /lɑt əv/ (t links to of)\n\"do we\" → /du wi/ (smooth transition)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "Actually, we have plenty of pens, but not many highlighters. I think we only have two.",
+        "ipa": "ˈækʃuəli | wi hæv ˈplɛnti əv pɛnz | bət nɑt ˈmɛni ˈhaɪˌlaɪtɚz | aɪ θɪŋk wi ˈoʊnli hæv tuː",
+        "stress": "ACTUALLY | WE HAVE PLENTY OF PENS | BUT NOT MANY HIGHLIGHTERS | I THINK WE ONLY HAVE TWO",
+        "linking": "\"plenty of\" → /ˈplɛnti əv/ (y links to of)\n\"not many\" → /nɑt ˈmɛni/ (t links into m)\n\"have two\" → /hæv tuː/ (v links into next word)"
+    },
+    {
+        "speaker": "Sarah",
+        "text": "Okay, I’ll add some highlighters to the list. Do you think we need any USB drives?",
+        "ipa": "ˌoʊˈkeɪ | aɪl æd səm ˈhaɪˌlaɪtɚz tə ðə lɪst | du ju θɪŋk wi niːd ˈɛni ˌjuːɛsˈbiː draɪvz",
+        "stress": "OKAY | I’LL ADD SOME HIGHLIGHTERS TO THE LIST | DO YOU THINK WE NEED ANY USB DRIVES",
+        "linking": "\"add some\" → /æd səm/ (d links into s)\n\"to the\" → /tə ðə/ (to reduced)\n\"do you\" → /du ju/ (smooth verb + pronoun)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "Not sure. I haven’t seen many in the drawer lately.",
+        "ipa": "nɑt ʃʊr | aɪ ˈhævənt siːn ˈmɛni ɪn ðə ˈdrɔːɚ ˈleɪtli",
+        "stress": "NOT SURE | I HAVEN’T SEEN MANY IN THE DRAWER LATELY",
+        "linking": "\"seen many\" → /siːn ˈmɛni/ (n links into noun)\n\"in the\" → /ɪn ðə/ (n links into article)"
+    },
+    {
+        "speaker": "Sarah",
+        "text": "I'll include a few, just in case. And do you want me to grab some snacks for the kitchen too?",
+        "ipa": "aɪl ɪnˈkluːd ə fjuː | ʤəst ɪn keɪs | ənd du ju wɑnt mi tə ɡræb səm snæks fər ðə ˈkɪʧən tuː",
+        "stress": "I’LL INCLUDE A FEW | JUST IN CASE | AND DO YOU WANT ME TO GRAB SOME SNACKS FOR THE KITCHEN TOO",
+        "linking": "\"include a\" → /ɪnˈkluːd ə/ (d links to article)\n\"just in\" → /ʤəst ɪn/ (t links into in)\n\"want me to\" → /wɑnt mi tə/ (t links through whole phrase)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "Yes please! Maybe a few packs of granola bars and some coffee pods. We ran out last week.",
+        "ipa": "jɛs pliːz | ˈmeɪbi ə fjuː pæks əv ɡrəˈnoʊlə bɑrz | ənd səm ˈkɔfi pɑdz | wi ræn aʊt læst wiːk",
+        "stress": "YES PLEASE | MAYBE A FEW PACKS OF GRANOLA BARS | AND SOME COFFEE PODS | WE RAN OUT LAST WEEK",
+        "linking": "\"packs of\" → /pæks əv/ (ks links to of)\n\"out last\" → /aʊt læst/ (t links into next word)"
+    },
+    {
+        "speaker": "Sarah",
+        "text": "Noted. Anything else you can think of?",
+        "ipa": "ˈnoʊtɪd | ˈɛnɪθɪŋ ɛls ju kən θɪŋk əv",
+        "stress": "NOTED | ANYTHING ELSE YOU CAN THINK OF",
+        "linking": "\"else you\" → /ɛls ju/ (s links to pronoun)\n\"think of\" → /θɪŋk əv/ (k links into of)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "Hmm… maybe some sticky notes and a couple of whiteboard markers.",
+        "ipa": "m… ˈmeɪbi səm ˈstɪki noʊts ənd ə ˈkʌpəl əv ˈwaɪtbɔrd ˈmɑrkɚz",
+        "stress": "MAYBE SOME STICKY NOTES | AND A COUPLE OF WHITEBOARD MARKERS",
+        "linking": "\"sticky notes\" → /ˈstɪki noʊts/ (y links to plural)\n\"couple of\" → /ˈkʌpəl əv/ (of reduced)\n\"whiteboard markers\" → /ˈwaɪtbɔrd ˈmɑrkɚz/ (d links to m)"
+    },
+    {
+        "speaker": "Sarah",
+        "text": "Perfect. I’ll send the order in today. We should have everything we need by tomorrow.",
+        "ipa": "ˈpɝːfɪkt | aɪl sɛnd ði ˈɔrdɚ ɪn təˈdeɪ | wi ʃʊd hæv ˈɛvrɪθɪŋ wi niːd baɪ təˈmɑːroʊ",
+        "stress": "PERFECT | I’LL SEND THE ORDER IN TODAY | WE SHOULD HAVE EVERYTHING WE NEED BY TOMORROW",
+        "linking": "\"send the\" → /sɛnd ði/ (d links to article)\n\"order in\" → /ˈɔrdɚ ɪn/ (r links into preposition)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "Awesome — thanks for always keeping us stocked!",
+        "ipa": "ˈɔsəm | θæŋks fər ˈɔlˌweɪz ˈkiːpɪŋ əs stɑkt",
+        "stress": "AWESOME | THANKS FOR ALWAYS KEEPING US STOCKED",
+        "linking": "\"thanks for\" → /θæŋks fər/ (s links to preposition)\n\"keeping us\" → /ˈkiːpɪŋ əs/ (g links to pronoun)"
+    }
+]

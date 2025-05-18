@@ -1,0 +1,93 @@
+[
+    {
+        "speaker": "James",
+        "text": "Hey Sofia, have you finished reviewing the design documents? I noticed there were a few issues last time.",
+        "ipa": "heɪ soʊˈfiə | həv ju ˈfɪnɪʃt rɪˈvjuɪŋ ðə dɪˈzaɪn ˈdɑkjəmənts | aɪ ˈnoʊtɪst ðɛr wɚ ə fju ˈɪʃuz læst taɪm",
+        "stress": "HEY SOFIA | HAVE YOU FINISHED REVIEWING THE DESIGN DOCUMENTS | I NOTICED THERE WERE A FEW ISSUES LAST TIME",
+        "linking": "\"have you\" → /həv ju/ (linking v to y)\n\"finished reviewing\" → /ˈfɪnɪʃt rɪˈvjuɪŋ/ (t links to r)\n\"design documents\" → /dɪˈzaɪn ˈdɑkjəmənts/ (n links to d)"
+    },
+    {
+        "speaker": "Sofia",
+        "text": "Yes, I’ve already fixed most of them. There were some diagrams missing, and I added a lot of detail to the architecture section.",
+        "ipa": "jɛs | aɪv ɔlˈrɛdi fɪkst moʊst əv ðɛm | ðɛr wɚ səm ˈdaɪəˌɡræmz ˈmɪsɪŋ | ənd aɪ ˈædɪd ə lɑt əv ˈdiˌteɪl tə ði ˈɑrkəˌtɛkʧɚ ˈsɛkʃən",
+        "stress": "YES | I’VE ALREADY FIXED MOST OF THEM | THERE WERE SOME DIAGRAMS MISSING | AND I ADDED A LOT OF DETAIL TO THE ARCHITECTURE SECTION",
+        "linking": "\"I’ve already\" → /aɪv ɔlˈrɛdi/ (v links to vowel)\n\"added a\" → /ˈædɪd ə/ (d links to a)\n\"detail to\" → /ˈdiˌteɪl tə/ (l links to t)"
+    },
+    {
+        "speaker": "James",
+        "text": "That’s great. How much time did you spend on it?",
+        "ipa": "ðæts ɡreɪt | haʊ mʌʧ taɪm dɪd ju spɛnd ɑn ɪt",
+        "stress": "THAT’S GREAT | HOW MUCH TIME DID YOU SPEND ON IT",
+        "linking": "\"did you\" → /dɪd ju/ (d links to y)\n\"spend on\" → /spɛnd ɑn/ (d links to o)"
+    },
+    {
+        "speaker": "Sofia",
+        "text": "Not too much actually — just a couple of hours. I reused some templates from the last project, so that helped.",
+        "ipa": "nɑt tu mʌʧ ˈækʧuəli | ʤəst ə ˈkʌpəl əv ˈaʊɚz | aɪ riˈjuzd səm ˈtɛmpləts frəm ðə læst ˈprɑʤɛkt | soʊ ðæt hɛlpt",
+        "stress": "NOT TOO MUCH ACTUALLY | JUST A COUPLE OF HOURS | I REUSED SOME TEMPLATES FROM THE LAST PROJECT | SO THAT HELPED",
+        "linking": "\"just a\" → /ʤəst ə/ (t links to a)\n\"couple of\" → /ˈkʌpəl əv/ (l links to v)\n\"that helped\" → /ðæt hɛlpt/ (t links to h)"
+    },
+    {
+        "speaker": "James",
+        "text": "Nice thinking. Did you check if any features are still pending?",
+        "ipa": "naɪs ˈθɪŋkɪŋ | dɪd ju ʧɛk ɪf ˈɛni ˈfiʧɚz ɑr stɪl ˈpɛndɪŋ",
+        "stress": "NICE THINKING | DID YOU CHECK IF ANY FEATURES ARE STILL PENDING",
+        "linking": "\"did you\" → /dɪd ju/ (d links to y)\n\"features are\" → /ˈfiʧɚz ɑr/ (z links to a)"
+    },
+    {
+        "speaker": "Sofia",
+        "text": "Yeah, there are a few features that still need to be finalized. Especially the search filter — I think it needs some more testing.",
+        "ipa": "jæ | ðɛr ɑr ə fju ˈfiʧɚz ðæt stɪl nid tə bi ˈfaɪnəˌlaɪzd | əˈspɛʃəli ðə sɝʧ ˈfɪltɚ | aɪ θɪŋk ɪt nidz səm mɔr ˈtɛstɪŋ",
+        "stress": "YEAH | THERE ARE A FEW FEATURES THAT STILL NEED TO BE FINALIZED | ESPECIALLY THE SEARCH FILTER | I THINK IT NEEDS SOME MORE TESTING",
+        "linking": "\"need to\" → /nid tə/ (d links to t)\n\"think it\" → /θɪŋk ɪt/ (k links to i)"
+    },
+    {
+        "speaker": "James",
+        "text": "Let’s talk to the QA team then. Maybe they can handle it by tomorrow.",
+        "ipa": "lɛts tɔk tə ðə ˌkjuˈeɪ tim ðɛn | ˈmeɪbi ðeɪ kən ˈhændəl ɪt baɪ təˈmɑroʊ",
+        "stress": "LET’S TALK TO THE QA TEAM THEN | MAYBE THEY CAN HANDLE IT BY TOMORROW",
+        "linking": "\"talk to\" → /tɔk tə/ (k links to t)\n\"handle it\" → /ˈhændəl ɪt/ (l links to i)"
+    },
+    {
+        "speaker": "Sofia",
+        "text": "Sure. I’ll send them an update right after this call. Also, did you talk to our new intern?",
+        "ipa": "ʃʊr | aɪl sɛnd ðɛm ən ˈʌpˌdeɪt raɪt ˈæftɚ ðɪs kɔl | ˈɔlsoʊ | dɪd ju tɔk tə aʊɚ nu ˈɪnˌtɝn",
+        "stress": "SURE | I’LL SEND THEM AN UPDATE RIGHT AFTER THIS CALL | ALSO | DID YOU TALK TO OUR NEW INTERN",
+        "linking": "\"send them\" → /sɛnd ðɛm/ (d links to th)\n\"talk to\" → /tɔk tə/ (k links to t)"
+    },
+    {
+        "speaker": "James",
+        "text": "Yes, he's great! His code was clean, and he asked a lot of questions, which I really appreciate.",
+        "ipa": "jɛs | hiz ɡreɪt | hɪz koʊd wəz klin | ənd hi æskt ə lɑt əv ˈkwɛsʧənz | wɪʧ aɪ ˈrɪli əˈpriʃiˌeɪt",
+        "stress": "YES | HE'S GREAT | HIS CODE WAS CLEAN | AND HE ASKED A LOT OF QUESTIONS | WHICH I REALLY APPRECIATE",
+        "linking": "\"code was\" → /koʊd wəz/ (d links to w)\n\"lot of\" → /lɑt əv/ (t links to v)"
+    },
+    {
+        "speaker": "Sofia",
+        "text": "Awesome. We could ask him to document the API endpoints. That way, everyone on the team can benefit from it.",
+        "ipa": "ˈɔsəm | wi kəd æsk hɪm tə ˈdɑkjəmənt ði ˌeɪpiˈaɪ ˈɛndˌpɔɪnts | ðæt weɪ | ˈɛvrɪˌwʌn ɑn ðə tim kən ˈbɛnəfɪt frəm ɪt",
+        "stress": "AWESOME | WE COULD ASK HIM TO DOCUMENT THE API ENDPOINTS | THAT WAY | EVERYONE ON THE TEAM CAN BENEFIT FROM IT",
+        "linking": "\"ask him\" → /æsk hɪm/ (k links to h)\n\"benefit from\" → /ˈbɛnəfɪt frəm/ (t links to f)"
+    },
+    {
+        "speaker": "James",
+        "text": "Exactly. Let’s make sure each module has at least some basic documentation. Even a little information helps in the long run.",
+        "ipa": "ɪɡˈzæktli | lɛts meɪk ʃʊr itʃ ˈmɑʤul hæz æt list səm ˈbeɪsɪk ˌdɑkjəˌmɛnˈteɪʃən | ˈivən ə ˈlɪtl ˌɪnfɚˈmeɪʃən hɛlps ɪn ðə lɔŋ rʌn",
+        "stress": "EXACTLY | LET’S MAKE SURE EACH MODULE HAS AT LEAST SOME BASIC DOCUMENTATION | EVEN A LITTLE INFORMATION HELPS IN THE LONG RUN",
+        "linking": "\"make sure\" → /meɪk ʃʊr/ (k links to sh)\n\"each module\" → /itʃ ˈmɑʤul/ (ch links to m)\n\"little information\" → /ˈlɪtl ˌɪnfɚˈmeɪʃən/ (easily blended)\n\"helps in\" → /hɛlps ɪn/ (s links into vowel)"
+    },
+    {
+        "speaker": "Sofia",
+        "text": "Totally agree. I’ll get started on my part, and I’ll let you know if I run into anything.",
+        "ipa": "ˈtoʊtəli əˈɡri | aɪl ɡɛt ˈstɑrtɪd ɑn maɪ pɑrt | ənd aɪl lɛt ju noʊ ɪf aɪ rʌn ˈɪntu ˈɛniˌθɪŋ",
+        "stress": "TOTALLY AGREE | I’LL GET STARTED ON MY PART | AND I’LL LET YOU KNOW IF I RUN INTO ANYTHING",
+        "linking": "\"get started\" → /ɡɛt ˈstɑrtɪd/ (t links into s)\n\"run into\" → /rʌn ˈɪntu/ (n links to i)\n\"let you\" → /lɛt ju/ (t links into y)"
+    },
+    {
+        "speaker": "James",
+        "text": "Perfect. Thanks again — your help always makes a difference.",
+        "ipa": "ˈpɝfɪkt | θæŋks əˈɡɛn | jʊr hɛlp ˈɔlweɪz meɪks ə ˈdɪfɚəns",
+        "stress": "PERFECT | THANKS AGAIN | YOUR HELP ALWAYS MAKES A DIFFERENCE",
+        "linking": "\"thanks again\" → /θæŋks əˈɡɛn/ (s links to a)\n\"makes a\" → /meɪks ə/ (s links to article)"
+    }
+]
