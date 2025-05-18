@@ -1,0 +1,93 @@
+[
+    {
+        "speaker": "Lena",
+        "text": "Morning, team! Let’s keep this brief and productive today. Tim, how’s the backend migration going?",
+        "ipa": "ˈmɔrnɪŋ tiːm | lɛts kiːp ðɪs briːf ənd prəˈdʌktɪv təˈdeɪ | tɪm | haʊz ðə ˈbækˌɛnd ˌmaɪˈɡreɪʃən ˈɡoʊɪŋ",
+        "stress": "MORNING TEAM | LET’S KEEP THIS BRIEF AND PRODUCTIVE TODAY | TIM | HOW’S THE BACKEND MIGRATION GOING",
+        "linking": "\"let’s keep\" → /lɛts kiːp/ (s links to k)\n\"brief and\" → /briːf ənd/ (f links into vowel)\n\"how’s the\" → /haʊz ðə/ (z links to article)"
+    },
+    {
+        "speaker": "Tim",
+        "text": "Hey! It’s going pretty smoothly. I’ve moved the most critical endpoints already. The new structure is far more efficient than the previous one.",
+        "ipa": "heɪ | ɪts ˈɡoʊɪŋ ˈprɪɾi ˈsmuːðli | aɪv muːvd ðə ˈmoʊst ˈkrɪtɪkəl ˈɛndˌpɔɪnts ɔlˈrɛdi | ðə nu ˈstrʌktʃɚ ɪz fɑr mɔr ɪˈfɪʃənt ðən ðə ˈpriːviəs wʌn",
+        "stress": "HEY | IT’S GOING PRETTY SMOOTHLY | I’VE MOVED THE MOST CRITICAL ENDPOINTS ALREADY | THE NEW STRUCTURE IS FAR MORE EFFICIENT THAN THE PREVIOUS ONE",
+        "linking": "\"going pretty\" → /ˈɡoʊɪŋ ˈprɪɾi/ (flap t)\n\"structure is\" → /ˈstrʌktʃɚ ɪz/ (r links to vowel)"
+    },
+    {
+        "speaker": "Lena",
+        "text": "Nice. Is it stable enough for us to start QA testing?",
+        "ipa": "naɪs | ɪz ɪt ˈsteɪbəl əˈnʌf fər ʌs tə stɑrt ˈkjuːˈeɪ ˈtɛstɪŋ",
+        "stress": "NICE | IS IT STABLE ENOUGH FOR US TO START QA TESTING",
+        "linking": "\"is it\" → /ɪz ɪt/ (z links to i)\n\"for us to\" → /fər ʌs tə/ (smooth prepositional flow)"
+    },
+    {
+        "speaker": "Tim",
+        "text": "Yes, but I’d recommend waiting a little longer. I’ll finish the database sync today — it’s taking slightly more time than expected.",
+        "ipa": "jɛs | bət aɪd ˌrɛkəˈmɛnd ˈweɪtɪŋ ə ˈlɪɾl ˈlɔŋɡɚ | aɪl ˈfɪnɪʃ ðə ˈdeɪtəˌbeɪs sɪŋk təˈdeɪ | ɪts ˈteɪkɪŋ ˈslaɪtli mɔr taɪm ðən ɪkˈspɛktɪd",
+        "stress": "YES | BUT I’D RECOMMEND WAITING A LITTLE LONGER | I’LL FINISH THE DATABASE SYNC TODAY | IT’S TAKING SLIGHTLY MORE TIME THAN EXPECTED",
+        "linking": "\"waiting a\" → /ˈweɪtɪŋ ə/ (g links to article)\n\"finish the\" → /ˈfɪnɪʃ ðə/ (sh links to th)"
+    },
+    {
+        "speaker": "Lena",
+        "text": "No worries. Maya, how’s the frontend integration?",
+        "ipa": "noʊ ˈwɝriz | ˈmaɪə | haʊz ðə ˈfrʌntˌɛnd ˌɪntəˈɡreɪʃən",
+        "stress": "NO WORRIES | MAYA | HOW’S THE FRONTEND INTEGRATION",
+        "linking": "\"how’s the\" → /haʊz ðə/ (z links to article)\n\"frontend integration\" → /ˈfrʌntˌɛnd ˌɪntəˈɡreɪʃən/ (d links to vowel)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "It’s coming together. The new design is cleaner, and the layout feels more intuitive. I added some transitions to make it visually smoother.",
+        "ipa": "ɪts ˈkʌmɪŋ təˈɡɛðɚ | ðə nu dɪˈzaɪn ɪz ˈkliːnɚ | ənd ðə ˈleɪˌaʊt fiːlz mɔr ɪnˈtuːɪtɪv | aɪ ˈædɪd səm trænˈzɪʃənz tə meɪk ɪt ˈvɪʒuəli ˈsmuːðɚ",
+        "stress": "IT’S COMING TOGETHER | THE NEW DESIGN IS CLEANER | AND THE LAYOUT FEELS MORE INTUITIVE | I ADDED SOME TRANSITIONS TO MAKE IT VISUALLY SMOOTHER",
+        "linking": "\"coming together\" → /ˈkʌmɪŋ təˈɡɛðɚ/ (g links into t)\n\"make it\" → /meɪk ɪt/ (k links to i)"
+    },
+    {
+        "speaker": "Lena",
+        "text": "Awesome. Does it work well on mobile?",
+        "ipa": "ˈɔsəm | dʌz ɪt wɝk wɛl ɑn ˈmoʊbəl",
+        "stress": "AWESOME | DOES IT WORK WELL ON MOBILE",
+        "linking": "\"does it\" → /dʌz ɪt/ (z links to i)\n\"well on\" → /wɛl ɑn/ (l links to o)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "Yes! Actually, it runs even better on phones than before. I simplified the components and used lighter assets.",
+        "ipa": "jɛs | ˈækʧuəli | ɪt rʌnz ˈivən ˈbɛɾɚ ɑn foʊnz ðən bɪˈfɔr | aɪ ˈsɪmplɪˌfaɪd ðə kəmˈpoʊnənts ənd juːzd ˈlaɪtɚ ˈæsɛts",
+        "stress": "YES | ACTUALLY | IT RUNS EVEN BETTER ON PHONES THAN BEFORE | I SIMPLIFIED THE COMPONENTS AND USED LIGHTER ASSETS",
+        "linking": "\"runs even\" → /rʌnz ˈivən/ (z links into e)\n\"used lighter\" → /juːzd ˈlaɪtɚ/ (d links to l)"
+    },
+    {
+        "speaker": "Lena",
+        "text": "That’s great to hear. Out of curiosity, whose module loaded fastest during your last test?",
+        "ipa": "ðæts ɡreɪt tə hɪr | aʊt əv ˌkjʊriˈɑsəti | huz ˈmɑʤul ˈloʊdɪd ˈfæstəst ˈdʊrɪŋ jʊr læst tɛst",
+        "stress": "THAT’S GREAT TO HEAR | OUT OF CURIOSITY | WHOSE MODULE LOADED FASTEST DURING YOUR LAST TEST",
+        "linking": "\"out of\" → /aʊt əv/ (t links to v)\n\"loaded fastest\" → /ˈloʊdɪd ˈfæstəst/ (d links to f)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "Surprisingly, Tim’s API was the quickest, even with partial data. Mine came in second fastest.",
+        "ipa": "sɚˈpraɪzɪŋli | tɪmz ˌeɪpiˈaɪ wəz ðə ˈkwɪkəst | ˈivən wɪθ ˈpɑrʃəl ˈdeɪtə | maɪn keɪm ɪn ˈsɛkənd ˈfæstəst",
+        "stress": "SURPRISINGLY | TIM’S API WAS THE QUICKEST | EVEN WITH PARTIAL DATA | MINE CAME IN SECOND FASTEST",
+        "linking": "\"was the\" → /wəz ðə/ (z links to article)\n\"came in\" → /keɪm ɪn/ (m links into i)"
+    },
+    {
+        "speaker": "Tim",
+        "text": "Whoa! That’s a first, haha.",
+        "ipa": "woʊ | ðæts ə fɝst | hɑːhɑː",
+        "stress": "WHOA | THAT’S A FIRST | HAHA",
+        "linking": "\"that’s a\" → /ðæts ə/ (s links into article)"
+    },
+    {
+        "speaker": "Lena",
+        "text": "Haha, well done! Let’s aim to wrap up testing by the end of the week, so we can start polishing. Sound good?",
+        "ipa": "hɑːhɑː | wɛl dʌn | lɛts eɪm tə ræp ʌp ˈtɛstɪŋ baɪ ði ɛnd əv ðə wiːk | soʊ wi kən stɑrt ˈpɑlɪʃɪŋ | saʊnd ɡʊd",
+        "stress": "HAHA | WELL DONE | LET’S AIM TO WRAP UP TESTING BY THE END OF THE WEEK | SO WE CAN START POLISHING | SOUND GOOD",
+        "linking": "\"wrap up\" → /ræp ʌp/ (p links into u)\n\"end of\" → /ɛnd əv/ (d links to v)"
+    },
+    {
+        "speaker": "Both",
+        "text": "Sounds good!",
+        "ipa": "saʊndz ɡʊd",
+        "stress": "SOUNDS GOOD",
+        "linking": "\"sounds good\" → /saʊndz ɡʊd/ (z links into g)"
+    }
+]

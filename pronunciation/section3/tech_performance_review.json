@@ -1,0 +1,93 @@
+[
+    {
+        "speaker": "Alex",
+        "text": "Hey Priya, I just finished reviewing your code. Overall, your recent commits are cleaner and more consistent than last month’s. Great job!",
+        "ipa": "heɪ ˈpriːjə | aɪ dʒəst ˈfɪnɪʃt rɪˈvjuːɪŋ jʊr koʊd | ˈoʊvɚˌɔl | jʊr ˈriːsənt kəˈmɪts ɑr ˈkliːnɚ ənd mɔr kənˈsɪstənt ðən læst mʌnθs | ɡreɪt dʒɑb",
+        "stress": "HEY PRIYA | I JUST FINISHED REVIEWING YOUR CODE | OVERALL | YOUR RECENT COMMITS ARE CLEANER AND MORE CONSISTENT THAN LAST MONTH’S | GREAT JOB",
+        "linking": "\"just finished\" → /dʒəst ˈfɪnɪʃt/ (t links to f)\n\"reviewing your\" → /rɪˈvjuːɪŋ jʊr/ (g links to y)\n\"cleaner and\" → /ˈkliːnɚ ənd/ (r links to a)"
+    },
+    {
+        "speaker": "Priya",
+        "text": "Thanks, Alex! I’ve been trying to write more readable functions and reduce the number of nested conditions. I think the result is much easier to maintain.",
+        "ipa": "θæŋks ˈælɪks | aɪv bɪn ˈtraɪɪŋ tə raɪt mɔr ˈriːdəbl ˈfʌŋkʃənz ənd rɪˈduːs ðə ˈnʌmbɚ əv ˈnɛstɪd kənˈdɪʃənz | aɪ θɪŋk ðə rɪˈzʌlt ɪz mʌʧ ˈiːziɚ tə meɪnˈteɪn",
+        "stress": "THANKS ALEX | I’VE BEEN TRYING TO WRITE MORE READABLE FUNCTIONS AND REDUCE THE NUMBER OF NESTED CONDITIONS | I THINK THE RESULT IS MUCH EASIER TO MAINTAIN",
+        "linking": "\"trying to\" → /ˈtraɪɪŋ tə/ (g links to t)\n\"functions and\" → /ˈfʌŋkʃənz ənd/ (s links to a)\n\"result is\" → /rɪˈzʌlt ɪz/ (t links to i)"
+    },
+    {
+        "speaker": "Alex",
+        "text": "Absolutely. I also noticed your tests are running faster now.",
+        "ipa": "ˌæbsəˈluːtli | aɪ ˈɔlsoʊ ˈnoʊtɪst jʊr tɛsts ɑr ˈrʌnɪŋ ˈfæstɚ naʊ",
+        "stress": "ABSOLUTELY | I ALSO NOTICED YOUR TESTS ARE RUNNING FASTER NOW",
+        "linking": "\"noticed your\" → /ˈnoʊtɪst jʊr/ (t links to y)\n\"running faster\" → /ˈrʌnɪŋ ˈfæstɚ/ (g links to f)"
+    },
+    {
+        "speaker": "Priya",
+        "text": "Yeah! I refactored the mock data generation. Now the suite runs almost twice as fast as before.",
+        "ipa": "jæ | aɪ riˈfæktɚd ðə mɑk ˈdeɪtə ˌdʒɛnəˈreɪʃən | naʊ ðə swit rʌnz ˈɔlmoʊst twaɪs æz fæst æz bɪˈfɔr",
+        "stress": "YEAH | I REFACTORED THE MOCK DATA GENERATION | NOW THE SUITE RUNS ALMOST TWICE AS FAST AS BEFORE",
+        "linking": "\"refactored the\" → /riˈfæktɚd ðə/ (d links to th)\n\"suite runs\" → /swit rʌnz/ (t links to r)"
+    },
+    {
+        "speaker": "Alex",
+        "text": "Nice. Compared to others on the team, your modules are loading with less latency. Only Omar’s service is performing just as well.",
+        "ipa": "naɪs | kəmˈpɛrd tə ˈʌðɚz ɑn ðə tiːm | jʊr ˈmɑdʒulz ɑr ˈloʊdɪŋ wɪð lɛs ˈleɪtənsi | ˈoʊnli oʊˈmɑrz ˈsɝvɪs ɪz pɚˈfɔrmɪŋ dʒəst æz wɛl",
+        "stress": "NICE | COMPARED TO OTHERS ON THE TEAM | YOUR MODULES ARE LOADING WITH LESS LATENCY | ONLY OMAR’S SERVICE IS PERFORMING JUST AS WELL",
+        "linking": "\"compared to\" → /kəmˈpɛrd tə/ (d links to t)\n\"loading with\" → /ˈloʊdɪŋ wɪð/ (g links to w)"
+    },
+    {
+        "speaker": "Priya",
+        "text": "Haha, he’s always been slightly quicker than me on optimization. But I’m catching up!",
+        "ipa": "hɑ hɑ | hiz ˈɔlweɪz bɪn ˈslaɪtli ˈkwɪkɚ ðən mi ɑn ˌɑptɪməˈzeɪʃən | bət aɪm ˈkæʧɪŋ ʌp",
+        "stress": "HAHA | HE’S ALWAYS BEEN SLIGHTLY QUICKER THAN ME ON OPTIMIZATION | BUT I’M CATCHING UP",
+        "linking": "\"he’s always\" → /hiz ˈɔlweɪz/ (z links to a)\n\"catching up\" → /ˈkæʧɪŋ ʌp/ (g links to u)"
+    },
+    {
+        "speaker": "Alex",
+        "text": "Honestly, the UI integration part was less seamless than the API work, though. Any blockers?",
+        "ipa": "ˈɑnəstli | ðə ˌjuːˈaɪ ˌɪntəˈɡreɪʃən pɑrt wəz lɛs ˈsiːmləs ðən ði ˌeɪpiˈaɪ wɝk ðoʊ | ˈɛni ˈblɑkɚz",
+        "stress": "HONESTLY | THE UI INTEGRATION PART WAS LESS SEAMLESS THAN THE API WORK, THOUGH | ANY BLOCKERS",
+        "linking": "\"integration part\" → /ˌɪntəˈɡreɪʃən pɑrt/ (n links to p)\n\"work though\" → /wɝk ðoʊ/ (k links to th)"
+    },
+    {
+        "speaker": "Priya",
+        "text": "Yes, I had trouble aligning the styles. Our CSS variables are not as flexible as they should be.",
+        "ipa": "jɛs | aɪ hæd ˈtrʌbəl əˈlaɪnɪŋ ðə staɪlz | aʊɚ si ɛs ɛs ˈvɛriəbəlz ɑr nɑt æz ˈflɛksəbəl æz ðeɪ ʃʊd bi",
+        "stress": "YES | I HAD TROUBLE ALIGNING THE STYLES | OUR CSS VARIABLES ARE NOT AS FLEXIBLE AS THEY SHOULD BE",
+        "linking": "\"trouble aligning\" → /ˈtrʌbəl əˈlaɪnɪŋ/ (l links to a)\n\"should be\" → /ʃʊd bi/ (d links to b)"
+    },
+    {
+        "speaker": "Alex",
+        "text": "I agree. We’ll schedule some time to clean that up. But I’ll say your bug rate has been significantly lower than the team average.",
+        "ipa": "aɪ əˈɡri | wil ˈskɛdʒuːl səm taɪm tə kliːn ðæt ʌp | bət aɪl seɪ jʊr bʌɡ reɪt hæz bɪn sɪɡˈnɪfɪkəntli ˈloʊɚ ðən ðə tiːm ˈævərɪdʒ",
+        "stress": "I AGREE | WE’LL SCHEDULE SOME TIME TO CLEAN THAT UP | BUT I’LL SAY YOUR BUG RATE HAS BEEN SIGNIFICANTLY LOWER THAN THE TEAM AVERAGE",
+        "linking": "\"schedule some\" → /ˈskɛdʒuːl səm/ (l links to s)\n\"bug rate\" → /bʌɡ reɪt/ (g links to r)"
+    },
+    {
+        "speaker": "Priya",
+        "text": "That’s reassuring! I’ve been extra careful with test coverage and edge cases.",
+        "ipa": "ðæts ˌriːəˈʃʊrɪŋ | aɪv bɪn ˈɛkstrə ˈkɛɚfəl wɪð tɛst ˈkʌvɚɪʤ ənd ɛʤ ˈkeɪsɪz",
+        "stress": "THAT’S REASSURING | I’VE BEEN EXTRA CAREFUL WITH TEST COVERAGE AND EDGE CASES",
+        "linking": "\"extra careful\" → /ˈɛkstrə ˈkɛɚfəl/ (a links to c)\n\"test coverage\" → /tɛst ˈkʌvɚɪʤ/ (t links into c)"
+    },
+    {
+        "speaker": "Alex",
+        "text": "Keep that up. Between you and Liam, your codebases are the most stable right now. Just focus a bit more on UI consistency.",
+        "ipa": "kip ðæt ʌp | bɪˈtwin ju ənd ˈliəm | jʊr ˈkoʊdˌbeɪsɪz ɑr ðə moʊst ˈsteɪbəl raɪt naʊ | ʤəst ˈfoʊkəs ə bɪt mɔr ɑn ˌjuːˈaɪ kənˈsɪstənsi",
+        "stress": "KEEP THAT UP | BETWEEN YOU AND LIAM | YOUR CODEBASES ARE THE MOST STABLE RIGHT NOW | JUST FOCUS A BIT MORE ON UI CONSISTENCY",
+        "linking": "\"that up\" → /ðæt ʌp/ (t links into vowel)\n\"focus a bit\" → /ˈfoʊkəs ə bɪt/ (s links into a)"
+    },
+    {
+        "speaker": "Priya",
+        "text": "Will do! I think if I work on spacing and visual hierarchy, it’ll feel almost as polished as Liam’s.",
+        "ipa": "wɪl du | aɪ θɪŋk ɪf aɪ wɝk ɑn ˈspeɪsɪŋ ənd ˈvɪʒuəl ˈhaɪəˌrɑrki | ˈɪɾəl fil ˈɔlmoʊst æz ˈpɑlɪʃt æz ˈliəmz",
+        "stress": "WILL DO | I THINK IF I WORK ON SPACING AND VISUAL HIERARCHY | IT’LL FEEL ALMOST AS POLISHED AS LIAM’S",
+        "linking": "\"work on\" → /wɝk ɑn/ (k links into a)\n\"polished as\" → /ˈpɑlɪʃt æz/ (t links into a)"
+    },
+    {
+        "speaker": "Alex",
+        "text": "Exactly. You’re really close. Thanks again for your effort — it's been consistently impressive.",
+        "ipa": "ɪɡˈzæktli | jʊr ˈrɪəli kloʊs | θæŋks əˈɡɛn fər jʊr ˈɛfɚt | ɪts bɪn kənˈsɪstəntli ɪmˈprɛsɪv",
+        "stress": "EXACTLY | YOU’RE REALLY CLOSE | THANKS AGAIN FOR YOUR EFFORT | IT’S BEEN CONSISTENTLY IMPRESSIVE",
+        "linking": "\"thanks again\" → /θæŋks əˈɡɛn/ (s links to a)\n\"for your\" → /fər jʊr/ (r links into y)"
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "speaker": "Ava",
+        "text": "Hey Dan, I just wanted to say — your demo was super impressive today. You handled the questions so calmly.",
+        "ipa": "heɪ dæn | aɪ ʤəst ˈwɑnɪd tə seɪ | jʊr ˈdɛmoʊ wəz ˈsuːpɚ ɪmˈprɛsɪv təˈdeɪ | ju ˈhændəld ðə ˈkwɛsʧənz soʊ ˈkɑmli",
+        "stress": "HEY DAN | I JUST WANTED TO SAY | YOUR DEMO WAS SUPER IMPRESSIVE TODAY | YOU HANDLED THE QUESTIONS SO CALMLY",
+        "linking": "\"wanted to\" → /ˈwɑnɪd tə/ (to reduced)\n\"super impressive\" → /ˈsuːpɚ ɪmˈprɛsɪv/ (r links into vowel)\n\"so calmly\" → /soʊ ˈkɑmli/ (smooth flow)"
+    },
+    {
+        "speaker": "Dan",
+        "text": "Thanks! I was a little nervous, honestly, but I tried to stay as clear as possible.",
+        "ipa": "θæŋks | aɪ wəz ə ˈlɪtl ˈnɝvəs | ˈɑnəstli | bət aɪ traɪd tə steɪ əz klɪr əz ˈpɑsəbəl",
+        "stress": "THANKS | I WAS A LITTLE NERVOUS | HONESTLY | BUT I TRIED TO STAY AS CLEAR AS POSSIBLE",
+        "linking": "\"a little\" → /ə ˈlɪtl/ (ə links to l)\n\"tried to\" → /traɪd tə/ (to reduced)\n\"as clear as\" → /əz klɪr əz/ (smooth chain of z to consonant)"
+    },
+    {
+        "speaker": "Ava",
+        "text": "Well, it worked. Compared to last sprint, your delivery was much smoother. It felt more structured.",
+        "ipa": "wɛl | ɪt wɝkt | kəmˈpɛrd tə læst sprɪnt | jʊr dɪˈlɪvɚi wəz mʌʧ ˈsmuːðɚ | ɪt fɛlt mɔr ˈstrʌkʧɚd",
+        "stress": "WELL | IT WORKED | COMPARED TO LAST SPRINT | YOUR DELIVERY WAS MUCH SMOOTHER | IT FELT MORE STRUCTURED",
+        "linking": "\"compared to\" → /kəmˈpɛrd tə/ (d links into t)\n\"much smoother\" → /mʌʧ ˈsmuːðɚ/ (ch links into s)"
+    },
+    {
+        "speaker": "Dan",
+        "text": "Yeah, I’ve been practicing. I realized I speak too quickly when I’m under pressure, so I’ve been working on slowing down.",
+        "ipa": "jæ | aɪv bɪn ˈpræktəsɪŋ | aɪ ˈriəlaɪzd aɪ spiːk tu ˈkwɪkli wɛn aɪm ˈʌndɚ ˈprɛʃɚ | soʊ aɪv bɪn ˈwɝkɪŋ ɑn ˈsloʊɪŋ daʊn",
+        "stress": "YEAH | I’VE BEEN PRACTICING | I REALIZED I SPEAK TOO QUICKLY WHEN I’M UNDER PRESSURE | SO I’VE BEEN WORKING ON SLOWING DOWN",
+        "linking": "\"speak too\" → /spiːk tu/ (k links into t)\n\"working on\" → /ˈwɝkɪŋ ɑn/ (g links into vowel)"
+    },
+    {
+        "speaker": "Ava",
+        "text": "That’s a good move. Also, your diagrams were way more detailed than usual — the whole team understood the architecture easily.",
+        "ipa": "ðæts ə ɡʊd muv | ˈɔlsoʊ | jʊr ˈdaɪəˌɡræmz wɚ weɪ mɔr ˈdiˌteɪld ðən ˈjuːʒəwəl | ðə hoʊl tim ˌʌndɚˈstʊd ði ˈɑrkəˌtɛkʧɚ ˈiːzəli",
+        "stress": "THAT’S A GOOD MOVE | ALSO | YOUR DIAGRAMS WERE WAY MORE DETAILED THAN USUAL | THE WHOLE TEAM UNDERSTOOD THE ARCHITECTURE EASILY",
+        "linking": "\"good move\" → /ɡʊd muv/ (d links into m)\n\"understood the\" → /ˌʌndɚˈstʊd ði/ (d links to article)"
+    },
+    {
+        "speaker": "Dan",
+        "text": "I used a new tool this time. It’s slightly more flexible than the one we used before, and less clunky too.",
+        "ipa": "aɪ juːzd ə nu tuːl ðɪs taɪm | ɪts ˈslaɪtli mɔr ˈflɛksəbəl ðən ði wʌn wi juːzd bɪˈfɔr | ənd lɛs ˈklʌŋki tuː",
+        "stress": "I USED A NEW TOOL THIS TIME | IT’S SLIGHTLY MORE FLEXIBLE THAN THE ONE WE USED BEFORE | AND LESS CLUNKY TOO",
+        "linking": "\"used a\" → /juːzd ə/ (d links to article)\n\"than the\" → /ðən ði/ (n links to article)"
+    },
+    {
+        "speaker": "Ava",
+        "text": "Nice! You’re definitely getting better at visual explanations. I mean, that’s something even senior devs struggle with.",
+        "ipa": "naɪs | jʊr ˈdɛfənətli ˈɡɛtɪŋ ˈbɛtɚ ət ˈvɪʒuəl ˌɛkspləˈneɪʃənz | aɪ miːn | ðæts ˈsʌmθɪŋ ˈivən ˈsiːnjɚ dɛvz ˈstrʌɡəl wɪð",
+        "stress": "NICE | YOU’RE DEFINITELY GETTING BETTER AT VISUAL EXPLANATIONS | I MEAN | THAT’S SOMETHING EVEN SENIOR DEVS STRUGGLE WITH",
+        "linking": "\"getting better\" → /ˈɡɛtɪŋ ˈbɛtɚ/ (ing links to b)\n\"struggle with\" → /ˈstrʌɡəl wɪð/ (l links to w)"
+    },
+    {
+        "speaker": "Dan",
+        "text": "Thanks, that means a lot. I think I’m still not as confident as I’d like to be, but I’m getting there.",
+        "ipa": "θæŋks | ðæt minz ə lɑt | aɪ θɪŋk aɪm stɪl nɑt əz ˈkɑnfɪdənt əz aɪd laɪk tə bi | bət aɪm ˈɡɛtɪŋ ðɛr",
+        "stress": "THANKS | THAT MEANS A LOT | I THINK I’M STILL NOT AS CONFIDENT AS I’D LIKE TO BE | BUT I’M GETTING THERE",
+        "linking": "\"means a\" → /minz ə/ (z links to article)\n\"not as\" → /nɑt əz/ (t links to z)"
+    },
+    {
+        "speaker": "Ava",
+        "text": "We all are. But honestly, you’re one of the most consistent people on the team. Your code is always clean, your commits are well written, and you never miss a deadline.",
+        "ipa": "wi ɑl ɑr | bət ˈɑnɪstli | jʊr wʌn əv ðə moʊst kənˈsɪstənt ˈpipəl ɑn ðə tiːm | jʊr koʊd ɪz ˈɔlweɪz kliːn | jʊr kəˈmɪts ɑr ˈwɛl ˈrɪtən | ənd ju ˈnɛvɚ mɪs ə ˈdɛdlaɪn",
+        "stress": "WE ALL ARE | BUT HONESTLY | YOU’RE ONE OF THE MOST CONSISTENT PEOPLE ON THE TEAM | YOUR CODE IS ALWAYS CLEAN | YOUR COMMITS ARE WELL WRITTEN | AND YOU NEVER MISS A DEADLINE",
+        "linking": "\"one of the\" → /wʌn əv ðə/ (n links to of)\n\"miss a\" → /mɪs ə/ (s links to article)"
+    },
+    {
+        "speaker": "Dan",
+        "text": "Appreciate that! But I think Julia’s the real star — she’s been pushing herself really hard lately.",
+        "ipa": "əˈpriʃiˌeɪt ðæt | bət aɪ θɪŋk ˈʤuliəz ðə riːl stɑr | ʃiz bɪn ˈpʊʃɪŋ hɚˈsɛlf ˈrɪli hɑrd ˈleɪtli",
+        "stress": "APPRECIATE THAT | BUT I THINK JULIA’S THE REAL STAR | SHE’S BEEN PUSHING HERSELF REALLY HARD LATELY",
+        "linking": "\"pushing herself\" → /ˈpʊʃɪŋ hɚˈsɛlf/ (g links to h)\n\"really hard\" → /ˈrɪli hɑrd/ (y links to h)"
+    },
+    {
+        "speaker": "Ava",
+        "text": "True. She’s just as reliable as you, and her test coverage is ridiculously high.",
+        "ipa": "truː | ʃiz ʤəst əz rɪˈlaɪəbəl əz ju | ənd hɚ tɛst ˈkʌvɚɪʤ ɪz rɪˈdɪkjələsli haɪ",
+        "stress": "TRUE | SHE’S JUST AS RELIABLE AS YOU | AND HER TEST COVERAGE IS RIDICULOUSLY HIGH",
+        "linking": "\"just as\" → /ʤəst əz/ (t links to z)\n\"coverage is\" → /ˈkʌvɚɪʤ ɪz/ (g links into vowel)"
+    },
+    {
+        "speaker": "Dan",
+        "text": "She told me she wants to be even faster at debugging. I was like, “You’re already quicker than 90% of us!”",
+        "ipa": "ʃi toʊld mi ʃi wɑnts tə bi ˈivən ˈfæstɚ ət diˈbʌɡɪŋ | aɪ wəz laɪk | jʊr ɑlˈrɛdi ˈkwɪkɚ ðən ˈnaɪnti pɚˈsɛnt əv ʌs",
+        "stress": "SHE TOLD ME SHE WANTS TO BE EVEN FASTER AT DEBUGGING | I WAS LIKE | YOU’RE ALREADY QUICKER THAN 90% OF US",
+        "linking": "\"wants to\" → /wɑnts tə/ (to reduced)\n\"quicker than\" → /ˈkwɪkɚ ðən/ (r links to than)"
+    },
+    {
+        "speaker": "Ava",
+        "text": "Haha, she’s got that drive. Honestly, both of you are raising the bar. The whole team is becoming more efficient.",
+        "ipa": "ˈhɑˌhɑ | ʃiz ɡɑt ðæt draɪv | ˈɑnɪstli | boʊθ əv ju ɑr ˈreɪzɪŋ ðə bɑr | ðə hoʊl tim ɪz bɪˈkʌmɪŋ mɔr ɪˈfɪʃənt",
+        "stress": "HAHA | SHE’S GOT THAT DRIVE | HONESTLY | BOTH OF YOU ARE RAISING THE BAR | THE WHOLE TEAM IS BECOMING MORE EFFICIENT",
+        "linking": "\"of you\" → /əv ju/ (v links to y)\n\"raising the\" → /ˈreɪzɪŋ ðə/ (g links into article)"
+    },
+    {
+        "speaker": "Dan",
+        "text": "Yeah, I feel like this is the strongest our dev team has been in a while.",
+        "ipa": "jæ | aɪ fil laɪk ðɪs ɪz ðə ˈstrɔŋəst ɑr dɛv tim hæz bɪn ɪn ə waɪl",
+        "stress": "YEAH | I FEEL LIKE THIS IS THE STRONGEST OUR DEV TEAM HAS BEEN IN A WHILE",
+        "linking": "\"feel like\" → /fil laɪk/ (l links to l)\n\"been in\" → /bɪn ɪn/ (n links into vowel)"
+    },
+    {
+        "speaker": "Ava",
+        "text": "Agreed! Let’s keep this energy up — we’ve got a product launch coming, and I want it to be the smoothest one yet.",
+        "ipa": "əˈɡrid | lɛts kiːp ðɪs ˈɛnɚʤi ʌp | wiv ɡɑt ə ˈprɑdʌkt lɔnʧ ˈkʌmɪŋ | ənd aɪ wɑnt ɪt tə bi ðə ˈsmuðəst wʌn jɛt",
+        "stress": "AGREED | LET’S KEEP THIS ENERGY UP | WE’VE GOT A PRODUCT LAUNCH COMING | AND I WANT IT TO BE THE SMOOTHEST ONE YET",
+        "linking": "\"keep this\" → /kiːp ðɪs/ (p links into th)\n\"want it\" → /wɑnt ɪt/ (t links into pronoun)"
+    }
+]
