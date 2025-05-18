@@ -1,0 +1,93 @@
+[
+    {
+        "speaker": "Carlos",
+        "text": "Morning, everyone. Let’s keep it quick. What are you working on today?",
+        "ipa": "ˈmɔrnɪŋ ˈɛvrɪwʌn | lɛts kiːp ɪt kwɪk | wʌt ɑr ju ˈwɝkɪŋ ɑn təˈdeɪ",
+        "stress": "MORNING, EVERYONE | LET’S KEEP IT QUICK | WHAT ARE YOU WORKING ON TODAY",
+        "linking": "\"keep it\" → /kiːp ɪt/ (p links into it)\n\"working on\" → /ˈwɝkɪŋ ɑn/ (verb + preposition)\n\"on today\" → /ɑn təˈdeɪ/ (on links into to)"
+    },
+    {
+        "speaker": "You",
+        "text": "Hey! I’m finishing up the validation logic for the new form. After that, I’m going to start writing unit tests.",
+        "ipa": "heɪ | aɪm ˈfɪnɪʃɪŋ ʌp ðə ˌvæləˈdeɪʃən ˈlɑːʤɪk fər ðə nuː fɔrm | ˈæftɚ ðæt aɪm ˈɡoʊɪŋ tə stɑrt ˈraɪtɪŋ ˈjuːnɪt tɛsts",
+        "stress": "HEY | I’M FINISHING UP THE VALIDATION LOGIC | FOR THE NEW FORM | AFTER THAT | I’M GOING TO START WRITING UNIT TESTS",
+        "linking": "\"finishing up\" → /ˈfɪnɪʃɪŋ ʌp/ (smooth link)\n\"going to\" → /ˈɡoʊɪŋ tə/ (to reduced)\n\"start writing\" → /stɑrt ˈraɪtɪŋ/ (t links into R)"
+    },
+    {
+        "speaker": "Carlos",
+        "text": "Nice. Do you think you'll have time to push everything today?",
+        "ipa": "naɪs | dʊ jə θɪŋk juːl hæv taɪm tə pʊʃ ˈɛvrɪθɪŋ təˈdeɪ",
+        "stress": "NICE | DO YOU THINK YOU’LL HAVE TIME TO PUSH EVERYTHING TODAY",
+        "linking": "\"do you\" → /dʊ jə/ (do you reduced)\n\"you’ll have\" → /juːl hæv/ (contracted ‘you will’)\n\"time to\" → /taɪm tə/ (to reduced)"
+    },
+    {
+        "speaker": "You",
+        "text": "I hope so. I will probably submit the PR by 5 PM if nothing unexpected comes up.",
+        "ipa": "aɪ hoʊp soʊ | aɪ wɪl ˈprɑːbəbli səbˈmɪt ðə piː ɑr baɪ faɪv piː ɛm | ɪf ˈnʌθɪŋ ˌʌnɪkˈspɛktɪd kʌmz ʌp",
+        "stress": "I HOPE SO | I WILL PROBABLY SUBMIT THE PR BY FIVE PM | IF NOTHING UNEXPECTED COMES UP",
+        "linking": "\"will probably\" → /wɪl ˈprɑːbəbli/ (will links to adverb)\n\"submit the\" → /səbˈmɪt ðə/ (t links into article)\n\"comes up\" → /kʌmz ʌp/ (z links into vowel)"
+    },
+    {
+        "speaker": "Dana",
+        "text": "Heads-up, I’m about to merge the layout refactor. It might affect your form styling.",
+        "ipa": "hɛdz ʌp | aɪm əˈbaʊt tə mɝːʤ ðə ˈleɪ.aʊt riˈfæktɚ | ɪt maɪt əˈfɛkt jɚ fɔrm ˈstaɪlɪŋ",
+        "stress": "HEADS-UP | I’M ABOUT TO MERGE THE LAYOUT REFACTOR | IT MIGHT AFFECT YOUR FORM STYLING",
+        "linking": "\"about to\" → /əˈbaʊt tə/ (to reduced)\n\"affect your\" → /əˈfɛkt jɚ/ (smooth consonant to pronoun)"
+    },
+    {
+        "speaker": "You",
+        "text": "Got it! I’ll double-check once you’ve merged it. If needed, I will adjust the styles before pushing.",
+        "ipa": "ɡɑt ɪt | aɪl ˈdʌbəl ʧɛk wʌns juv mɝrdʒd ɪt | ɪf ˈniːdɪd | aɪ wɪl əˈʤʌst ðə staɪlz bɪˈfɔːr ˈpʊʃɪŋ",
+        "stress": "GOT IT | I’LL DOUBLE-CHECK ONCE YOU’VE MERGED IT | IF NEEDED | I WILL ADJUST THE STYLES BEFORE PUSHING",
+        "linking": "\"once you’ve\" → /wʌns juv/ (you have contracted)\n\"merged it\" → /mɝrdʒd ɪt/ (d links into it)\n\"adjust the\" → /əˈʤʌst ðə/ (smooth verb + article)"
+    },
+    {
+        "speaker": "Carlos",
+        "text": "Great teamwork. Tomorrow we have that mini demo with stakeholders, right?",
+        "ipa": "ɡreɪt ˈtiːmwɝk | təˈmɑːroʊ wi hæv ðæt ˈmɪni ˈdɛmoʊ wɪð ˈsteɪkˌhoʊldɚz | raɪt",
+        "stress": "GREAT TEAMWORK | TOMORROW WE HAVE THAT MINI DEMO WITH STAKEHOLDERS | RIGHT?",
+        "linking": "\"have that\" → /hæv ðæt/ (v links to that)\n\"demo with\" → /ˈdɛmoʊ wɪð/ (smooth connection)"
+    },
+    {
+        "speaker": "You",
+        "text": "Yeah, I am meeting with Matt later today to review the demo flow. We’re going to do a quick run-through.",
+        "ipa": "jæ | aɪ əm ˈmiːtɪŋ wɪð mæt ˈleɪtɚ təˈdeɪ tə rɪˈvju ðə ˈdɛmoʊ floʊ | wɪr ˈɡoʊɪŋ tə du ə kwɪk ˈrʌnθruː",
+        "stress": "YEAH | I AM MEETING WITH MATT LATER TODAY TO REVIEW THE DEMO FLOW | WE’RE GOING TO DO A QUICK RUN-THROUGH",
+        "linking": "\"meeting with\" → /ˈmiːtɪŋ wɪð/ (verb + preposition)\n\"going to do\" → /ˈɡoʊɪŋ tə du/ (to reduced)\n\"quick run-through\" → /kwɪk ˈrʌnθruː/ (ck links into next noun)"
+    },
+    {
+        "speaker": "Carlos",
+        "text": "Cool. Hopefully by the time we meet tomorrow, you will have finalized the demo version.",
+        "ipa": "kuːl | ˈhoʊpfəli baɪ ðə taɪm wi miːt təˈmɑːroʊ | ju wɪl həv ˈfaɪnəˌlaɪzd ðə ˈdɛmoʊ ˈvɝːʒən",
+        "stress": "COOL | HOPEFULLY BY THE TIME WE MEET TOMORROW | YOU WILL HAVE FINALIZED THE DEMO VERSION",
+        "linking": "\"will have\" → /wɪl həv/ (have reduced)\n\"finalized the\" → /ˈfaɪnəˌlaɪzd ðə/ (d links to article)"
+    },
+    {
+        "speaker": "You",
+        "text": "Absolutely. I will be wrapping up everything this evening.",
+        "ipa": "ˌæbsəˈluːtli | aɪ wɪl bi ˈræpɪŋ ʌp ˈɛvrɪθɪŋ ðɪs ˈivnɪŋ",
+        "stress": "ABSOLUTELY | I WILL BE WRAPPING UP EVERYTHING THIS EVENING",
+        "linking": "\"wrapping up\" → /ˈræpɪŋ ʌp/ (smooth phrasal verb)\n\"this evening\" → /ðɪs ˈivnɪŋ/ (s links into vowel)"
+    },
+    {
+        "speaker": "Carlos",
+        "text": "Awesome. Reminder: the CI/CD maintenance starts Thursday at 9 AM, so let’s avoid pushing that morning.",
+        "ipa": "ˈɔːsəm | rɪˈmaɪndɚ | ðə si aɪ si di ˈmeɪntənəns stɑrts ˈθɝzdeɪ ət naɪn ˈeɪɛm | soʊ lɛts əˈvɔɪd ˈpʊʃɪŋ ðæt ˈmɔrnɪŋ",
+        "stress": "AWESOME | REMINDER | MAINTENANCE STARTS THURSDAY AT NINE AM | SO LET’S AVOID PUSHING THAT MORNING",
+        "linking": "\"starts Thursday\" → /stɑrts ˈθɝzdeɪ/ (T links to voiced TH)\n\"avoid pushing\" → /əˈvɔɪd ˈpʊʃɪŋ/ (d links to verb)"
+    },
+    {
+        "speaker": "You",
+        "text": "Noted. I’m planning to push all changes by Wednesday night. That way, we won’t run into any delays.",
+        "ipa": "ˈnoʊtɪd | aɪm ˈplænɪŋ tə pʊʃ ɔl ˈʧeɪndʒɪz baɪ ˈwɛnzdeɪ naɪt | ðæt weɪ wi woʊnt rʌn ˈɪntu ˈɛni dɪˈleɪz",
+        "stress": "NOTED | I’M PLANNING TO PUSH ALL CHANGES BY WEDNESDAY NIGHT | THAT WAY WE WON’T RUN INTO ANY DELAYS",
+        "linking": "\"planning to\" → /ˈplænɪŋ tə/ (to reduced)\n\"run into\" → /rʌn ˈɪntu/ (run links to preposition)"
+    },
+    {
+        "speaker": "Carlos",
+        "text": "Perfect. That’s all from me — let’s crush it!",
+        "ipa": "ˈpɝːfɪkt | ðæts ɔl frəm mi | lɛts krʌʃ ɪt",
+        "stress": "PERFECT | THAT’S ALL FROM ME | LET’S CRUSH IT",
+        "linking": "\"from me\" → /frəm mi/ (m links into pronoun)\n\"crush it\" → /krʌʃ ɪt/ (sh links to vowel)"
+    }
+]

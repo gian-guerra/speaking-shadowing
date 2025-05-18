@@ -1,0 +1,79 @@
+[
+    {
+        "speaker": "Emma",
+        "text": "Alright team, let’s go over the launch timeline. By the end of this sprint, we will have finished the core implementation, right?",
+        "ipa": "ɔlˈraɪt tiːm | lɛts ɡoʊ ˈoʊvɚ ðə lɑnʧ ˈtaɪmlaɪn | baɪ ði ɛnd əv ðɪs sprɪnt | wi wɪl həv ˈfɪnɪʃt ðə kɔr ˌɪmpləmɛnˈteɪʃən | raɪt",
+        "stress": "ALRIGHT TEAM | LET’S GO OVER THE LAUNCH TIMELINE | BY THE END OF THIS SPRINT | WE WILL HAVE FINISHED THE CORE IMPLEMENTATION | RIGHT?",
+        "linking": "\"go over\" → /ɡoʊ ˈoʊvɚ/ (smooth connection)\n\"will have\" → /wɪl həv/ (have reduced)\n\"finished the\" → /ˈfɪnɪʃt ðə/ (T links to article)"
+    },
+    {
+        "speaker": "You",
+        "text": "Yep, we are wrapping up the final unit tests today. The CI/CD pipeline is going to be updated tomorrow to include staging deployments.",
+        "ipa": "jɛp | wi ɑr ˈræpɪŋ ʌp ðə ˈfaɪnəl ˈjuːnɪt tɛsts təˈdeɪ | ðə si aɪ si di ˈpaɪplaɪn ɪz ˈɡoʊɪŋ tə bi ʌpˈdeɪtɪd təˈmɑːroʊ tə ɪnˈkluːd ˈsteɪʤɪŋ dɪˈplɔɪmənts",
+        "stress": "YEP | WE ARE WRAPPING UP THE FINAL UNIT TESTS TODAY | THE CI/CD PIPELINE IS GOING TO BE UPDATED TOMORROW TO INCLUDE STAGING DEPLOYMENTS",
+        "linking": "\"wrapping up\" → /ˈræpɪŋ ʌp/ (smooth phrasal verb)\n\"going to be\" → /ˈɡoʊɪŋ tə bi/ (to reduced)\n\"updated tomorrow\" → /ʌpˈdeɪtɪd təˈmɑːroʊ/ (d links to t)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "Perfect. What about the new dashboard features?",
+        "ipa": "ˈpɝːfɪkt | wʌt əˈbaʊt ðə nuː ˈdæʃbɔrd ˈfiːʧɚz",
+        "stress": "PERFECT | WHAT ABOUT THE NEW DASHBOARD FEATURES",
+        "linking": "\"what about\" → /wʌt əˈbaʊt/ (t links to about)\n\"dashboard features\" → /ˈdæʃbɔrd ˈfiːʧɚz/ (d links to features)"
+    },
+    {
+        "speaker": "You",
+        "text": "Kevin is working on them right now. He is going to finalize the UI by Friday, and then QA will be testing it over the weekend.",
+        "ipa": "ˈkɛvɪn ɪz ˈwɝkɪŋ ɑn ðɛm raɪt naʊ | hi ɪz ˈɡoʊɪŋ tə ˈfaɪnəlaɪz ðə ˌjuːˈaɪ baɪ ˈfraɪdeɪ | ənd ðɛn ˌkjuːˈeɪ wɪl bi ˈtɛstɪŋ ɪt ˈoʊvɚ ðə ˈwiːkˌɛnd",
+        "stress": "KEVIN IS WORKING ON THEM RIGHT NOW | HE IS GOING TO FINALIZE THE UI BY FRIDAY | THEN QA WILL BE TESTING IT OVER THE WEEKEND",
+        "linking": "\"working on\" → /ˈwɝkɪŋ ɑn/ (verb + preposition)\n\"going to\" → /ˈɡoʊɪŋ tə/ (to reduced)\n\"testing it\" → /ˈtɛstɪŋ ɪt/ (g links to pronoun)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "Nice. So by Monday, we should have everything in place to start internal reviews.",
+        "ipa": "naɪs | soʊ baɪ ˈmʌndeɪ | wi ʃʊd həv ˈɛvrɪθɪŋ ɪn pleɪs tə stɑrt ɪnˈtɝːnəl rɪˈvjuːz",
+        "stress": "NICE | SO BY MONDAY | WE SHOULD HAVE EVERYTHING IN PLACE TO START INTERNAL REVIEWS",
+        "linking": "\"should have\" → /ʃʊd həv/ (have reduced)\n\"to start\" → /tə stɑrt/ (to reduced)\n\"internal reviews\" → /ɪnˈtɝːnəl rɪˈvjuːz/ (l links to r)"
+    },
+    {
+        "speaker": "You",
+        "text": "Exactly. If nothing breaks, we will be ready for release by next Thursday.",
+        "ipa": "ɪɡˈzæktli | ɪf ˈnʌθɪŋ breɪks | wi wɪl bi ˈrɛdi fər rɪˈliːs baɪ nɛkst ˈθɝzdeɪ",
+        "stress": "EXACTLY | IF NOTHING BREAKS | WE WILL BE READY FOR RELEASE BY NEXT THURSDAY",
+        "linking": "\"will be\" → /wɪl bi/ (smooth connection)\n\"ready for\" → /ˈrɛdi fər/ (r blends with preposition)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "That’s great to hear. And just a heads-up, the CEO is going to sit in on the final demo. No pressure, right?",
+        "ipa": "ðæts ɡreɪt tə hɪr | ənd dʒəst ə hɛdz ʌp | ðə ˌsiː.iːˈoʊ ɪz ˈɡoʊɪŋ tə sɪt ɪn ɑn ðə ˈfaɪnəl ˈdɛmoʊ | noʊ ˈprɛʃɚ raɪt",
+        "stress": "THAT’S GREAT TO HEAR | AND JUST A HEADS-UP | THE CEO IS GOING TO SIT IN ON THE FINAL DEMO | NO PRESSURE, RIGHT?",
+        "linking": "\"great to\" → /ɡreɪt tə/ (to reduced)\n\"going to\" → /ˈɡoʊɪŋ tə/ (to reduced)\n\"sit in on\" → /sɪt ɪn ɑn/ (phrasal + preposition)"
+    },
+    {
+        "speaker": "You",
+        "text": "Haha, yeah, no pressure at all. I was about to ask if we should rehearse the demo together next week.",
+        "ipa": "ˈhɑːhɑː jæ noʊ ˈprɛʃɚ ət ɔl | aɪ wəz əˈbaʊt tə æsk ɪf wi ʃʊd rɪˈhɝs ðə ˈdɛmoʊ təˈɡɛðɚ nɛkst wiːk",
+        "stress": "HAHA | YEAH | NO PRESSURE AT ALL | I WAS ABOUT TO ASK IF WE SHOULD REHEARSE THE DEMO TOGETHER NEXT WEEK",
+        "linking": "\"about to\" → /əˈbaʊt tə/ (to reduced)\n\"rehearse the\" → /rɪˈhɝs ðə/ (smooth transition)\n\"demo together\" → /ˈdɛmoʊ təˈɡɛðɚ/ (smooth link)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "Good call. Let’s schedule a dry run for Wednesday. That way we won’t be scrambling at the last minute.",
+        "ipa": "ɡʊd kɔl | lɛts ˈskɛʤuːl ə draɪ rʌn fər ˈwɛnzdeɪ | ðæt weɪ wi woʊnt bi ˈskræmblɪŋ ət ðə læst ˈmɪnɪt",
+        "stress": "GOOD CALL | LET’S SCHEDULE A DRY RUN FOR WEDNESDAY | THAT WAY WE WON’T BE SCRAMBLING AT THE LAST MINUTE",
+        "linking": "\"dry run for\" → /draɪ rʌn fər/ (n links into preposition)\n\"scrambling at\" → /ˈskræmblɪŋ ət/ (g links to article)"
+    },
+    {
+        "speaker": "You",
+        "text": "Sounds like a plan. I am planning to prepare a checklist over the weekend so we don’t miss anything.",
+        "ipa": "saʊndz laɪk ə plæn | aɪ əm ˈplænɪŋ tə prɪˈpɛr ə ˈʧɛklɪst ˈoʊvɚ ðə ˈwiːkˌɛnd | soʊ wi doʊnt mɪs ˈɛnɪˌθɪŋ",
+        "stress": "SOUNDS LIKE A PLAN | I AM PLANNING TO PREPARE A CHECKLIST OVER THE WEEKEND | SO WE DON’T MISS ANYTHING",
+        "linking": "\"planning to\" → /ˈplænɪŋ tə/ (to reduced)\n\"over the\" → /ˈoʊvɚ ðə/ (r links to article)\n\"don’t miss\" → /doʊnt mɪs/ (t links into verb)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "Awesome. If we keep this pace, we will have delivered one of our smoothest launches yet.",
+        "ipa": "ˈɔsəm | ɪf wi kiːp ðɪs peɪs | wi wɪl həv dɪˈlɪvɚd wʌn əv ɑr ˈsmuːðəst ˈlɑnʧɪz jɛt",
+        "stress": "AWESOME | IF WE KEEP THIS PACE | WE WILL HAVE DELIVERED ONE OF OUR SMOOTHEST LAUNCHES YET",
+        "linking": "\"keep this\" → /kiːp ðɪs/ (p links to th)\n\"have delivered\" → /həv dɪˈlɪvɚd/ (have reduced)\n\"one of our\" → /wʌn əv ɑr/ (of reduced)"
+    }
+]

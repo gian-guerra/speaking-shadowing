@@ -1,0 +1,86 @@
+[
+    {
+        "speaker": "Manager (Leo)",
+        "text": "Hey! Just wanted to catch up and see how the new authentication flow is going.",
+        "ipa": "heɪ | dʒəst ˈwɑːnɪd tə kæʧ ʌp ənd si haʊ ðə nuː ɔːˌθɛn.tɪˈkeɪ.ʃən floʊ ɪz ˈɡoʊ.ɪŋ",
+        "stress": "HEY | JUST WANTED TO CATCH UP and SEE HOW the NEW AUTHENTICATION FLOW is GOING",
+        "linking": "\"wanted to\" → /ˈwɑːnɪd tə/ (to reduced)\n\"catch up and\" → /kæʧ ʌp ənd/ (smooth consonant + vowel)\n\"see how\" → /si haʊ/ (smooth verb + question word)"
+    },
+    {
+        "speaker": "You",
+        "text": "Hey Leo! Yeah, things are moving forward. I was going to finish it yesterday, but I got caught up in a bug related to token refresh.",
+        "ipa": "heɪ ˈliː.oʊ | jæ | θɪŋz ɑːr ˈmuːvɪŋ ˈfɔrwɚd | aɪ wəz ˈɡoʊɪŋ tə ˈfɪnɪʃ ɪt ˈjɛstɚdeɪ | bət aɪ ɡɑt kɔt ʌp ɪn ə bʌɡ rɪˈleɪtɪd tə ˈtoʊkən rɪˈfrɛʃ",
+        "stress": "HEY LEO | YEAH | THINGS ARE MOVING FORWARD | I WAS GOING TO FINISH IT YESTERDAY | BUT I GOT CAUGHT UP in a BUG RELATED TO TOKEN REFRESH",
+        "linking": "\"going to\" → /ˈɡoʊɪŋ tə/ (to reduced)\n\"finish it\" → /ˈfɪnɪʃ ɪt/ (sh + it linked)\n\"caught up in\" → /kɔt ʌp ɪn/ (link T + up + in)\n\"related to\" → /rɪˈleɪtɪd tə/ (to reduced)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "No worries — happens to all of us. Do you think you will be able to wrap it up by tomorrow?",
+        "ipa": "noʊ ˈwɝːriz | ˈhæpənz tə ɔːl əv ʌs | dʊ jə θɪŋk ju wɪl bi ˈeɪbəl tə ræp ɪt ʌp baɪ təˈmɑːroʊ",
+        "stress": "NO WORRIES | HAPPENS TO ALL OF US | DO YOU THINK YOU WILL BE ABLE TO WRAP IT UP BY TOMORROW",
+        "linking": "\"happens to\" → /ˈhæpənz tə/ (to reduced)\n\"do you\" → /dʊ jə/ (you reduced)\n\"wrap it up\" → /ræp ɪt ʌp/ (T links to it and up)"
+    },
+    {
+        "speaker": "You",
+        "text": "Yeah, I’m confident I will have finished everything by tomorrow afternoon. I’m just polishing the error handling.",
+        "ipa": "jæ | aɪm ˈkɑːnfɪdənt aɪ wɪl həv ˈfɪnɪʃt ˈɛvrɪθɪŋ baɪ təˈmɑːroʊ ˌæftɚˈnuːn | aɪm dʒəst ˈpɑːlɪʃɪŋ ði ˈɛrɚ ˈhændlɪŋ",
+        "stress": "YEAH | I’M CONFIDENT I WILL HAVE FINISHED EVERYTHING BY TOMORROW AFTERNOON | I’M JUST POLISHING the ERROR HANDLING",
+        "linking": "\"will have\" → /wɪl həv/ (have reduced)\n\"finished everything\" → /ˈfɪnɪʃt ˈɛvrɪθɪŋ/ (T links smoothly)\n\"just polishing\" → /dʒəst ˈpɑːlɪʃɪŋ/ (just links into verb)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "Sounds good. What’s the next step after that?",
+        "ipa": "saʊndz ɡʊd | wʌts ðə nɛkst stɛp ˈæftɚ ðæt",
+        "stress": "SOUNDS GOOD | WHAT’S THE NEXT STEP AFTER THAT",
+        "linking": "\"what’s the\" → /wʌts ðə/ (contraction + reduced article)\n\"step after\" → /stɛp ˈæftɚ/ (p links into after)"
+    },
+    {
+        "speaker": "You",
+        "text": "I am planning to move on to the front-end integration. By Friday, I will be working with Dana to get everything hooked up.",
+        "ipa": "aɪ əm ˈplænɪŋ tə muːv ɑn tə ðə ˈfrʌnt ˌɛnd ˌɪntɪˈɡreɪʃən | baɪ ˈfraɪdeɪ | aɪ wɪl bi ˈwɝːkɪŋ wɪð ˈdeɪnə tə ɡɛt ˈɛvrɪθɪŋ hʊkt ʌp",
+        "stress": "I’M PLANNING TO MOVE ON TO THE FRONT-END INTEGRATION | BY FRIDAY | I’LL BE WORKING WITH DANA TO GET EVERYTHING HOOKED UP",
+        "linking": "\"to move on to\" → /tə muːv ɑn tə/ (multiple reductions)\n\"working with\" → /ˈwɝːkɪŋ wɪð/ (smooth connection)\n\"hooked up\" → /hʊkt ʌp/ (T links to up)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "Perfect. And for the sprint demo next week?",
+        "ipa": "ˈpɝːfɪkt | ənd fər ðə sprɪnt ˈdɛmoʊ nɛkst wiːk",
+        "stress": "PERFECT | AND FOR THE SPRINT DEMO NEXT WEEK",
+        "linking": "\"and for\" → /ənd fər/ (and reduced)\n\"next week\" → /nɛkst wiːk/ (T links into W)"
+    },
+    {
+        "speaker": "You",
+        "text": "If everything goes well, we will have completed the full flow by Monday. We are going to run some basic user tests over the weekend too.",
+        "ipa": "ɪf ˈɛvrɪθɪŋ ɡoʊz wɛl | wi wɪl həv kəmˈpliːtɪd ðə fʊl floʊ baɪ ˈmʌndeɪ | wi ɑːr ˈɡoʊɪŋ tə rʌn səm ˈbeɪsɪk ˈjuːzɚ tɛsts ˈoʊvɚ ðə ˈwiːkɛnd tuː",
+        "stress": "IF EVERYTHING GOES WELL | WE WILL HAVE COMPLETED THE FULL FLOW BY MONDAY | WE ARE GOING TO RUN BASIC USER TESTS OVER THE WEEKEND TOO",
+        "linking": "\"will have\" → /wɪl həv/ (have reduced)\n\"going to run\" → /ˈɡoʊɪŋ tə rʌn/ (to reduced)\n\"tests over\" → /tɛsts ˈoʊvɚ/ (S links into vowel)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "Nice. Just make sure we don’t fall behind on the timeline. The product team is counting on this feature.",
+        "ipa": "naɪs | dʒəst meɪk ʃʊr wi doʊnt fɑːl bɪˈhaɪnd ɑn ðə ˈtaɪmlaɪn | ðə ˈprɑːdʌkt tiːm ɪz ˈkaʊntɪŋ ɑn ðɪs ˈfiːʧɚ",
+        "stress": "NICE | JUST MAKE SURE WE DON’T FALL BEHIND ON THE TIMELINE | THE PRODUCT TEAM IS COUNTING ON THIS FEATURE",
+        "linking": "\"don’t fall\" → /doʊnt fɑːl/ (t links into verb)\n\"counting on\" → /ˈkaʊntɪŋ ɑn/ (smooth verb + preposition)"
+    },
+    {
+        "speaker": "You",
+        "text": "Absolutely. I’ve already blocked off time for bug fixing next week just in case.",
+        "ipa": "ˌæbsəˈluːtli | aɪv ɔːlˈrɛdi blɑːkt ɔf taɪm fər bʌɡ ˈfɪksɪŋ nɛkst wiːk | dʒəst ɪn keɪs",
+        "stress": "ABSOLUTELY | I’VE ALREADY BLOCKED OFF TIME FOR BUG FIXING NEXT WEEK | JUST IN CASE",
+        "linking": "\"blocked off\" → /blɑːkt ɔf/ (T links into off)\n\"next week\" → /nɛkst wiːk/ (T links into week)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "Good thinking. Let me know if you run into any blockers — I’ll try to free up support if needed.",
+        "ipa": "ɡʊd ˈθɪŋkɪŋ | lɛt mi noʊ ɪf ju rʌn ˈɪntu ˈɛni ˈblɑːkɚz | aɪl traɪ tə fri ʌp səˈpɔrt ɪf ˈniːdɪd",
+        "stress": "GOOD THINKING | LET ME KNOW IF YOU RUN INTO ANY BLOCKERS | I’LL TRY TO FREE UP SUPPORT IF NEEDED",
+        "linking": "\"let me\" → /lɛt mi/ (T links into pronoun)\n\"try to\" → /traɪ tə/ (to reduced)"
+    },
+    {
+        "speaker": "You",
+        "text": "Thanks, Leo! Appreciate the support — I’ll keep you posted.",
+        "ipa": "θæŋks ˈliː.oʊ | əˈpriːʃieɪt ðə səˈpɔrt | aɪl kiːp ju ˈpoʊstɪd",
+        "stress": "THANKS, LEO | APPRECIATE THE SUPPORT | I’LL KEEP YOU POSTED",
+        "linking": "\"keep you\" → /kiːp ju/ (smooth verb + pronoun)\n\"I’ll keep\" → /aɪl kiːp/ (contraction)"
+    }
+]
