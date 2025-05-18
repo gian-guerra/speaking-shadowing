@@ -1,0 +1,93 @@
+[
+    {
+        "speaker": "Emily",
+        "text": "Hey Carlos, how’s the preparation for the internal workshop going? Do we have enough chairs and projectors?",
+        "ipa": "heɪ ˈkɑrlos | haʊz ðə ˌprɛpəˈreɪʃən fər ði ɪnˈtɝnəl ˈwɝkʃɑp ˈɡoʊɪŋ | du wi hæv ɪˈnʌf ʧɛrz ənd prəˈʤɛktɚz",
+        "stress": "HEY CARLOS | HOW’S THE PREPARATION FOR THE INTERNAL WORKSHOP GOING | DO WE HAVE ENOUGH CHAIRS AND PROJECTORS",
+        "linking": "\"how’s the\" → /haʊz ðə/ (contraction + article)\n\"enough chairs\" → /ɪˈnʌf ʧɛrz/ (f links into next word)\n\"chairs and\" → /ʧɛrz ənd/ (z links to conjunction)"
+    },
+    {
+        "speaker": "Carlos",
+        "text": "We’ve got plenty of chairs, but not enough projectors. There are only two available, and we might need a few more.",
+        "ipa": "wiv ɡɑt ˈplɛnti əv ʧɛrz | bət nɑt ɪˈnʌf prəˈʤɛktɚz | ðɛr ɑr ˈoʊnli tu əˈveɪləbəl | ənd wi maɪt niːd ə fju mɔr",
+        "stress": "WE’VE GOT PLENTY OF CHAIRS | BUT NOT ENOUGH PROJECTORS | THERE ARE ONLY TWO AVAILABLE | AND WE MIGHT NEED A FEW MORE",
+        "linking": "\"plenty of\" → /ˈplɛnti əv/ (y links to of)\n\"not enough\" → /nɑt ɪˈnʌf/ (t links to next word)\n\"need a\" → /niːd ə/ (d links to article)"
+    },
+    {
+        "speaker": "Emily",
+        "text": "Hmm. Can we borrow some from the IT department?",
+        "ipa": "hmm | kən wi ˈbɑroʊ səm frəm ði ˌaɪˈti dɪˈpɑrtmənt",
+        "stress": "CAN WE BORROW SOME FROM THE IT DEPARTMENT",
+        "linking": "\"can we\" → /kən wi/ (smooth question)\n\"borrow some\" → /ˈbɑroʊ səm/ (w links into s)\n\"from the\" → /frəm ði/ (m links to article)"
+    },
+    {
+        "speaker": "Carlos",
+        "text": "I already asked, but they said they don’t have any spare ones right now.",
+        "ipa": "aɪ ɔlˈrɛdi æskt | bət ðeɪ sɛd ðeɪ doʊnt hæv ˈɛni spɛr wʌnz raɪt naʊ",
+        "stress": "I ALREADY ASKED | BUT THEY SAID THEY DON’T HAVE ANY SPARE ONES RIGHT NOW",
+        "linking": "\"asked but\" → /æskt bət/ (t links to conjunction)\n\"right now\" → /raɪt naʊ/ (t links into now)"
+    },
+    {
+        "speaker": "Emily",
+        "text": "Alright, maybe we can limit the number of participants. Do you know how many people have signed up?",
+        "ipa": "ɔlˈraɪt | ˈmeɪbi wi kən ˈlɪmɪt ðə ˈnʌmbɚ əv pɑrˈtɪsəpənts | du ju noʊ haʊ ˈmɛni ˈpipəl hæv saɪnd ʌp",
+        "stress": "ALRIGHT | MAYBE WE CAN LIMIT THE NUMBER OF PARTICIPANTS | DO YOU KNOW HOW MANY PEOPLE HAVE SIGNED UP",
+        "linking": "\"limit the\" → /ˈlɪmɪt ðə/ (t links to article)\n\"number of\" → /ˈnʌmbɚ əv/ (r flows into of)\n\"signed up\" → /saɪnd ʌp/ (d links into phrasal verb)"
+    },
+    {
+        "speaker": "Carlos",
+        "text": "About thirty. That’s actually a lot of interest for an internal event.",
+        "ipa": "əˈbaʊt ˈθɝti | ðæts ˈækʧuəli ə lɑt əv ˈɪntrəst fər ən ɪnˈtɝnəl ɪˈvɛnt",
+        "stress": "ABOUT THIRTY | THAT’S ACTUALLY A LOT OF INTEREST FOR AN INTERNAL EVENT",
+        "linking": "\"that’s actually\" → /ðæts ˈækʧuəli/ (s links to vowel)\n\"lot of\" → /lɑt əv/ (t links to of)\n\"for an\" → /fər ən/ (r links to article)"
+    },
+    {
+        "speaker": "Emily",
+        "text": "Yeah, we didn’t expect so many registrations. What about snacks and drinks?",
+        "ipa": "jæ | wi ˈdɪdnt ɪkˈspɛkt soʊ ˈmɛni ˌrɛʤɪˈstreɪʃənz | wʌt əˈbaʊt snæks ənd drɪŋks",
+        "stress": "YEAH | WE DIDN’T EXPECT SO MANY REGISTRATIONS | WHAT ABOUT SNACKS AND DRINKS",
+        "linking": "\"didn’t expect\" → /ˈdɪdnt ɪkˈspɛkt/ (t links into next word)\n\"what about\" → /wʌt əˈbaʊt/ (t links to article)"
+    },
+    {
+        "speaker": "Carlos",
+        "text": "I’ve ordered some coffee, water, and a few boxes of cookies. I wasn’t sure how much food we’d need for a two-hour session.",
+        "ipa": "aɪv ˈɔrdɚd səm ˈkɔfi | ˈwɑtɚ ənd ə fju ˈbɑksəz əv ˈkʊkiz | aɪ ˈwɑznt ʃʊr haʊ mʌʧ fuːd wid niːd fər ə ˈtuː aʊɚ ˈsɛʃən",
+        "stress": "I’VE ORDERED SOME COFFEE, WATER, AND A FEW BOXES OF COOKIES | I WASN’T SURE HOW MUCH FOOD WE’D NEED FOR A TWO-HOUR SESSION",
+        "linking": "\"ordered some\" → /ˈɔrdɚd səm/ (d links into next word)\n\"boxes of\" → /ˈbɑksəz əv/ (z links to of)\n\"we’d need\" → /wid niːd/ (contracted we would)"
+    },
+    {
+        "speaker": "Emily",
+        "text": "That sounds fine. We don’t need a full meal, just a little something to keep people comfortable.",
+        "ipa": "ðæt saʊndz faɪn | wi doʊnt niːd ə fʊl miːl | ʤəst ə ˈlɪtl ˈsʌmθɪŋ tə kiːp ˈpipəl ˈkʌmfɚtəbəl",
+        "stress": "THAT SOUNDS FINE | WE DON’T NEED A FULL MEAL | JUST A LITTLE SOMETHING TO KEEP PEOPLE COMFORTABLE",
+        "linking": "\"just a\" → /ʤəst ə/ (t links to article)\n\"something to\" → /ˈsʌmθɪŋ tə/ (to reduced)\n\"keep people\" → /kiːp ˈpipəl/ (p links into noun)"
+    },
+    {
+        "speaker": "Carlos",
+        "text": "Exactly. I also prepared some printouts of the exercises and brought a bunch of markers for the whiteboards.",
+        "ipa": "ɪɡˈzæktli | aɪ ˈɔlsoʊ prɪˈpɛrd səm ˈprɪntaʊts əv ði ˈɛksɚˌsaɪzəz | ənd brɔt ə bʌnʧ əv ˈmɑrkɚz fər ðə ˈwaɪtbɔrdz",
+        "stress": "EXACTLY | I ALSO PREPARED SOME PRINTOUTS OF THE EXERCISES | AND BROUGHT A BUNCH OF MARKERS FOR THE WHITEBOARDS",
+        "linking": "\"prepared some\" → /prɪˈpɛrd səm/ (d links into s)\n\"bunch of\" → /bʌnʧ əv/ (smooth chunking)\n\"markers for\" → /ˈmɑrkɚz fər/ (z links to for)"
+    },
+    {
+        "speaker": "Emily",
+        "text": "Awesome! Let’s just make sure there are no missing materials on the day of the event.",
+        "ipa": "ˈɔsəm | lɛts ʤəst meɪk ʃʊr ðɛr ɑr noʊ ˈmɪsɪŋ məˈtɪriəlz ɑn ðə deɪ əv ði ɪˈvɛnt",
+        "stress": "AWESOME | LET’S JUST MAKE SURE THERE ARE NO MISSING MATERIALS ON THE DAY OF THE EVENT",
+        "linking": "\"let’s just\" → /lɛts ʤəst/ (s links to j)\n\"day of the\" → /deɪ əv ðə/ (day links into phrase)"
+    },
+    {
+        "speaker": "Carlos",
+        "text": "Will do. I’ve made a checklist to keep track of everything.",
+        "ipa": "wɪl duː | aɪv meɪd ə ˈʧɛklɪst tə kiːp træk əv ˈɛvrɪθɪŋ",
+        "stress": "WILL DO | I’VE MADE A CHECKLIST TO KEEP TRACK OF EVERYTHING",
+        "linking": "\"made a\" → /meɪd ə/ (d links into a)\n\"keep track\" → /kiːp træk/ (p links into t)"
+    },
+    {
+        "speaker": "Emily",
+        "text": "Nice work, Carlos. Thanks — your attention to detail always makes events run smoothly.",
+        "ipa": "naɪs wɝk ˈkɑrlos | θæŋks | jʊr əˈtɛnʃən tə ˈdiːteɪl ˈɔlweɪz meɪks ɪˈvɛnts rʌn ˈsmuːðli",
+        "stress": "NICE WORK, CARLOS | THANKS | YOUR ATTENTION TO DETAIL ALWAYS MAKES EVENTS RUN SMOOTHLY",
+        "linking": "\"thanks — your\" → /θæŋks jʊr/ (s links to pronoun)\n\"to detail\" → /tə ˈdiːteɪl/ (to reduced)\n\"makes events\" → /meɪks ɪˈvɛnts/ (s links into next word)"
+    }
+]
