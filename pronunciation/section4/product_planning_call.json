@@ -1,0 +1,65 @@
+[
+    {
+        "speaker": "Sofia",
+        "text": "We’ve finally defined the scope of the new feature, and it aligns with the needs of our clients.",
+        "ipa": "wiːv ˈfaɪnəli dɪˈfaɪnd ðə skoʊp əv ðə nu ˈfiːʧər | ənd ɪt əˈlaɪnz wɪð ðə nidz əv aʊər ˈklaɪənts",
+        "stress": "WE'VE FINALLY DEFINED the SCOPE of the NEW FEATURE | and it ALIGNS with the NEEDS of our CLIENTS",
+        "linking": "\"defined the\" → /dɪˈfaɪnd ðə/ (d links to th)\n\"aligns with\" → /əˈlaɪnz wɪð/ (z links to w)"
+    },
+    {
+        "speaker": "Tomás",
+        "text": "That’s great! I already started designing a solution with minimal infrastructure changes. I think that’ll help speed up development.",
+        "ipa": "ðæts ɡreɪt | aɪ ɔlˈrɛdi ˈstɑrtɪd dɪˈzaɪnɪŋ ə səˈluʃən wɪð ˈmɪnəməl ˌɪnfrəˈstrʌkʧər ˈʧeɪnʤəz | aɪ θɪŋk ðætəl hɛlp spiːd ʌp dɪˈvɛləpmənt",
+        "stress": "THAT'S GREAT | I ALREADY STARTED DESIGNING a SOLUTION with MINIMAL INFRASTRUCTURE CHANGES | I THINK THAT'LL HELP SPEED UP DEVELOPMENT",
+        "linking": "\"started designing\" → /ˈstɑrtɪd dɪˈzaɪnɪŋ/ (d links to d)\n\"help speed\" → /hɛlp spiːd/ (p links to s)"
+    },
+    {
+        "speaker": "Sofia",
+        "text": "I like that. We also reviewed the plan to reduce user drop-off during onboarding, and the team agreed it's a top priority.",
+        "ipa": "aɪ laɪk ðæt | wi ˈɔlsoʊ rɪˈvjud ðə plæn tu rɪˈdus ˈjuzər ˈdrɑp ɔf ˈdʊrɪŋ ˈɑnˌbɔrdɪŋ | ənd ðə tim əˈɡrid ɪts ə tɑp praɪˈɔrəti",
+        "stress": "I LIKE THAT | we ALSO REVIEWED the PLAN to REDUCE USER DROP-OFF during ONBOARDING | and the TEAM AGREED it's a TOP PRIORITY",
+        "linking": "\"reviewed the\" → /rɪˈvjud ðə/ (d links to th)\n\"agreed it's\" → /əˈɡrid ɪts/ (d links to i)"
+    },
+    {
+        "speaker": "Tomás",
+        "text": "Yeah, I saw that in the document shared by the UX team. They had some ideas based on the recent feedback.",
+        "ipa": "jæ | aɪ sɔ ðæt ɪn ðə ˈdɑkjəmənt ʃɛrd baɪ ðə ju ɛks tim | ðeɪ hæd səm aɪˈdiəz beɪst ɑn ðə ˈrisənt ˈfidbæk",
+        "stress": "YEAH | I SAW THAT in the DOCUMENT SHARED by the UX TEAM | they HAD SOME IDEAS BASED on the RECENT FEEDBACK",
+        "linking": "\"document shared\" → /ˈdɑkjəmənt ʃɛrd/ (t links to sh)\n\"based on\" → /beɪst ɑn/ (d links to o)"
+    },
+    {
+        "speaker": "Sofia",
+        "text": "Exactly. Plus, we got a list of action items from the meeting with the investors. They want to see faster results.",
+        "ipa": "ɪɡˈzæktli | plʌs | wi ɡɑt ə lɪst əv ˈækʃən ˈaɪtəmz frəm ðə ˈmitɪŋ wɪð ði ɪnˈvɛstərz | ðeɪ wɑnt tu si ˈfæstər rɪˈzʌlts",
+        "stress": "EXACTLY | PLUS | we GOT a LIST of ACTION ITEMS from the MEETING with the INVESTORS | they WANT to SEE FASTER RESULTS",
+        "linking": "\"list of\" → /lɪst əv/ (t links to ə)\n\"meeting with\" → /ˈmitɪŋ wɪð/ (g links to w)"
+    },
+    {
+        "speaker": "Tomás",
+        "text": "What about the backend module updated last month? Is it stable?",
+        "ipa": "wʌt əˈbaʊt ðə ˈbækˌɛnd ˈmɑʤul ˈʌpˌdeɪtɪd læst mʌnθ | ɪz ɪt ˈsteɪbəl",
+        "stress": "WHAT ABOUT the BACKEND MODULE UPDATED LAST MONTH | is it STABLE",
+        "linking": "\"about the\" → /əˈbaʊt ðə/ (t links to th)\n\"updated last\" → /ˈʌpˌdeɪtɪd læst/ (d links to l)"
+    },
+    {
+        "speaker": "Sofia",
+        "text": "Yes, that’s a module tested with high concurrency scenarios. No major issues reported.",
+        "ipa": "jɛs | ðæts ə ˈmɑʤul ˈtɛstɪd wɪð haɪ kənˈkɜrənsi səˈnɛrioʊz | noʊ ˈmeɪʤər ˈɪʃuz rɪˈpɔrtɪd",
+        "stress": "YES | that's a MODULE TESTED with HIGH CONCURRENCY SCENARIOS | no MAJOR ISSUES REPORTED",
+        "linking": "\"tested with\" → /ˈtɛstɪd wɪð/ (d links to w)\n\"issues reported\" → /ˈɪʃuz rɪˈpɔrtɪd/ (s links to r)"
+    },
+    {
+        "speaker": "Tomás",
+        "text": "Awesome. That’ll give us a good base to implement the changes. Just send me the final version of the requirements, and I’ll get started.",
+        "ipa": "ˈɔsəm | ðætəl ɡɪv ʌs ə ɡʊd beɪs tu ˈɪmpləˌmɛnt ðə ˈʧeɪnʤəz | ʤəst sɛnd mi ðə ˈfaɪnəl ˈvɜrʒən əv ðə rɪˈkwaɪərmənts | ənd aɪl ɡɛt ˈstɑrtɪd",
+        "stress": "AWESOME | that'll GIVE US a GOOD BASE to IMPLEMENT the CHANGES | just SEND ME the FINAL VERSION of the REQUIREMENTS | and I'LL GET STARTED",
+        "linking": "\"give us\" → /ɡɪv ʌs/ (v links to u)\n\"send me\" → /sɛnd mi/ (d links to m)"
+    },
+    {
+        "speaker": "Sofia",
+        "text": "Will do! Let’s also meet next week to discuss the best time to launch the beta version.",
+        "ipa": "wɪl du | lɛts ˈɔlsoʊ mit nɛkst wik tu dɪˈskʌs ðə bɛst taɪm tu lɔnʧ ðə ˈbeɪtə ˈvɜrʒən",
+        "stress": "WILL DO | let's ALSO MEET NEXT WEEK to DISCUSS the BEST TIME to LAUNCH the BETA VERSION",
+        "linking": "\"meet next\" → /mit nɛkst/ (t links to n)\n\"launch the\" → /lɔnʧ ðə/ (ch links to th)"
+    }
+]
