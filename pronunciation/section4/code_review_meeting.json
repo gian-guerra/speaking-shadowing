@@ -1,0 +1,79 @@
+[
+    {
+        "speaker": "Lucas",
+        "text": "Thanks for joining the session, everyone. Let's start with the feature requested by the product team.",
+        "ipa": "θæŋks fɔr ˈʤɔɪnɪŋ ðə ˈsɛʃən, ˈɛvrɪˌwʌn | lɛts stɑrt wɪð ðə ˈfiʧər rɪˈkwɛstɪd baɪ ðə ˈprɑdəkt tim",
+        "stress": "THANKS for JOINING the SESSION, EVERYONE | Let's START with the FEATURE REQUESTED by the PRODUCT TEAM",
+        "linking": "\"joining the\" → /ˈʤɔɪnɪŋ ðə/ (g links to th)\n\"start with\" → /stɑrt wɪð/ (t links to w)"
+    },
+    {
+        "speaker": "Erin",
+        "text": "Sure, I worked on the part of the service handling authentication. It's now much faster.",
+        "ipa": "ʃʊr | aɪ wɜrkt ɑn ðə pɑrt əv ðə ˈsɜrvəs ˈhændlɪŋ ˌɔθənˈtɪkeɪʃən | ɪts naʊ mʌʧ ˈfæstər",
+        "stress": "SURE | I WORKED on the PART of the SERVICE HANDLING AUTHENTICATION | It's NOW MUCH FASTER",
+        "linking": "\"worked on\" → /wɜrkt ɑn/ (d links to o)\n\"handling authentication\" → /ˈhændlɪŋ ˌɔθənˈtɪkeɪʃən/ (g links to a)"
+    },
+    {
+        "speaker": "Jin",
+        "text": "I noticed a change affecting the login flow too. It seems smoother now.",
+        "ipa": "aɪ ˈnoʊtɪst ə ʧeɪnʤ əˈfɛktɪŋ ðə ˈlɔgɪn floʊ tu | ɪt simz ˈsmuðər naʊ",
+        "stress": "I NOTICED a CHANGE AFFECTING the LOGIN FLOW TOO | It SEEMS SMOOTHER NOW",
+        "linking": "\"noticed a\" → /ˈnoʊtɪst ə/ (d links to a)\n\"login flow\" → /ˈlɔgɪn floʊ/ (n links to f)"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "Nice. Erin, can you walk us through the logic used to verify tokens? We need to make sure it’s secure.",
+        "ipa": "naɪs | ˈɛrɪn | kæn ju wɔk ʌs θru ðə ˈlɑʤɪk juzd tə ˈvɛrəˌfaɪ ˈtoʊkənz | wi nid tə meɪk ʃʊr ɪts sɪˈkjʊr",
+        "stress": "NICE | ERIN, CAN you WALK us THROUGH the LOGIC USED to VERIFY TOKENS | We NEED to MAKE SURE it's SECURE",
+        "linking": "\"walk us\" → /wɔk ʌs/ (k links to u)\n\"verify tokens\" → /ˈvɛrəˌfaɪ ˈtoʊkənz/ (y links to t)"
+    },
+    {
+        "speaker": "Erin",
+        "text": "Of course. I reused a method tested in our last security audit. It's reliable and fast.",
+        "ipa": "əv kɔrs | aɪ riˈjuzd ə ˈmɛθəd ˈtɛstɪd ɪn aʊr læst sɪˈkjʊrəti ˈɔdɪt | ɪts rɪˈlaɪəbəl ənd fæst",
+        "stress": "OF COURSE | I REUSED a METHOD TESTED in our LAST SECURITY AUDIT | It's RELIABLE and FAST",
+        "linking": "\"reused a\" → /riˈjuzd ə/ (d links to a)\n\"security audit\" → /sɪˈkjʊrəti ˈɔdɪt/ (y links to a)"
+    },
+    {
+        "speaker": "Jin",
+        "text": "By the way, I added a banner informing users of session timeouts, just in case.",
+        "ipa": "baɪ ðə weɪ | aɪ ˈædɪd ə ˈbænər ɪnˈfɔrmɪŋ ˈjuzərz əv ˈsɛʃən ˈtaɪmaʊts | ʤəst ɪn keɪs",
+        "stress": "BY the WAY | I ADDED a BANNER INFORMING USERS of SESSION TIMEOUTS | JUST in CASE",
+        "linking": "\"added a\" → /ˈædɪd ə/ (d links to a)\n\"session timeouts\" → /ˈsɛʃən ˈtaɪmaʊts/ (n links to t)"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "Great. That’s a thoughtful addition improving user experience.",
+        "ipa": "ɡreɪt | ðæts ə ˈθɔtfəl əˈdɪʃən ɪmˈpruvɪŋ ˈjuzər ɪkˈspɪriəns",
+        "stress": "GREAT | THAT'S a THOUGHTFUL ADDITION IMPROVING USER EXPERIENCE",
+        "linking": "\"thoughtful addition\" → /ˈθɔtfəl əˈdɪʃən/ (l links to a)\n\"improving user\" → /ɪmˈpruvɪŋ ˈjuzər/ (g links to u)"
+    },
+    {
+        "speaker": "Erin",
+        "text": "Next, there's a bug reported during staging—it was due to a race condition.",
+        "ipa": "nɛkst | ðɛrz ə bʌg rɪˈpɔrtɪd ˈdʊrɪŋ ˈsteɪʤɪŋ—it wəz du tə ə reɪs kənˈdɪʃən",
+        "stress": "NEXT | THERE'S a BUG REPORTED DURING STAGING—it was DUE to a RACE CONDITION",
+        "linking": "\"bug reported\" → /bʌg rɪˈpɔrtɪd/ (g links to r)\n\"race condition\" → /reɪs kənˈdɪʃən/ (e links to c)"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "Right, I read a comment explaining the root cause. It made things much clearer.",
+        "ipa": "raɪt | aɪ rɛd ə ˈkɑmɛnt ɪkˈspleɪnɪŋ ðə rut kɔz | ɪt meɪd θɪŋz mʌʧ ˈklɪrər",
+        "stress": "RIGHT | I READ a COMMENT EXPLAINING the ROOT CAUSE | It MADE THINGS MUCH CLEARER",
+        "linking": "\"comment explaining\" → /ˈkɑmɛnt ɪkˈspleɪnɪŋ/ (t links to e)\n\"made things\" → /meɪd θɪŋz/ (d links to th)"
+    },
+    {
+        "speaker": "Jin",
+        "text": "There’s also a suggestion to refactor the error handler. Should we add that to the backlog?",
+        "ipa": "ðɛrz ˈɔlsoʊ ə səˈʤɛstʃən tə riˈfæktər ði ˈɛrər ˈhændlər | ʃʊd wi æd ðæt tə ðə ˈbæklɔg",
+        "stress": "THERE'S ALSO a SUGGESTION to REFACTOR the ERROR HANDLER | SHOULD we ADD THAT to the BACKLOG",
+        "linking": "\"suggestion to\" → /səˈʤɛstʃən tə/ (n links to t)\n\"add that\" → /æd ðæt/ (d links to th)"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "Yeah, add it. That’s an important fix to implement before the next release.",
+        "ipa": "jæ | æd ɪt | ðæts ən ɪmˈpɔrtənt fɪks tə ˈɪmpləˌmɛnt bɪˈfɔr ðə nɛkst rɪˈlis",
+        "stress": "YEAH | ADD IT | THAT'S an IMPORTANT FIX to IMPLEMENT BEFORE the NEXT RELEASE",
+        "linking": "\"add it\" → /æd ɪt/ (d links to i)\n\"fix to\" → /fɪks tə/ (x links to t)"
+    }
+]

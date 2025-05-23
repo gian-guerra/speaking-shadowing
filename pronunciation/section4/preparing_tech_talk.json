@@ -1,0 +1,72 @@
+[
+    {
+        "speaker": "Amir",
+        "text": "Hey, I just received an invitation to speak at the next developer summit.",
+        "ipa": "heɪ | aɪ ʤəst rɪˈsivd ən ˌɪnvɪˈteɪʃən tə spiːk æt ðə nɛkst dɪˈvɛləpər ˈsʌmɪt",
+        "stress": "HEY | I just RECEIVED an INVITATION to SPEAK at the NEXT DEVELOPER SUMMIT",
+        "linking": "\"received an\" → /rɪˈsivd ən/ (d links to ə)\n\"invitation to\" → /ˌɪnvɪˈteɪʃən tə/ (n links to t)"
+    },
+    {
+        "speaker": "Tessa",
+        "text": "No way, that’s awesome! That’s a huge opportunity for someone leading our AI projects.",
+        "ipa": "noʊ weɪ | ðæts ˈɔsəm | ðæts ə hjuʤ ˌɑpərˈtunəti fɔr ˈsʌmwʌn ˈlidiŋ aʊər eɪ aɪ ˈprɑʤɛkts",
+        "stress": "NO WAY | that's AWESOME | that's a HUGE OPPORTUNITY for SOMEONE LEADING our AI PROJECTS",
+        "linking": "\"that's a\" → /ðæts ə/ (s links to ə)\n\"opportunity for\" → /ˌɑpərˈtunəti fɔr/ (i links to f)"
+    },
+    {
+        "speaker": "Amir",
+        "text": "Exactly. They want a session focused on practical use cases.",
+        "ipa": "ɪɡˈzæktli | ðeɪ wɑnt ə ˈsɛʃən ˈfoʊkəst ɑn ˈpræktɪkəl jus ˈkeɪsəz",
+        "stress": "EXACTLY | they WANT a SESSION FOCUSED on PRACTICAL USE CASES",
+        "linking": "\"want a\" → /wɑnt ə/ (t links to ə)\n\"focused on\" → /ˈfoʊkəst ɑn/ (d links to ɑ)"
+    },
+    {
+        "speaker": "Tessa",
+        "text": "You could present a project developed by our team last quarter. It’s super relevant.",
+        "ipa": "ju kʊd prɪˈzɛnt ə ˈprɑʤɛkt dɪˈvɛləpt baɪ aʊər tim læst ˈkwɔrtər | ɪts ˈsupər ˈrɛləvənt",
+        "stress": "YOU could PRESENT a PROJECT DEVELOPED by our TEAM last QUARTER | it's SUPER RELEVANT",
+        "linking": "\"could present\" → /kʊd prɪˈzɛnt/ (d links to p)\n\"developed by\" → /dɪˈvɛləpt baɪ/ (d links to b)"
+    },
+    {
+        "speaker": "Amir",
+        "text": "True. I’m planning to include a section showing real-time ML predictions, so it feels more interactive.",
+        "ipa": "tru | aɪm ˈplænɪŋ tu ɪnˈklud ə ˈsɛkʃən ˈʃoʊɪŋ ˈriəl taɪm ɛm ɛl prɪˈdɪkʃənz | soʊ ɪt filz mɔr ˌɪntəˈræktɪv",
+        "stress": "TRUE | I'm PLANNING to INCLUDE a SECTION SHOWING REAL-TIME ML PREDICTIONS | so it FEELS more INTERACTIVE",
+        "linking": "\"planning to\" → /ˈplænɪŋ tu/ (g links to t)\n\"showing real-time\" → /ˈʃoʊɪŋ ˈriəl taɪm/ (g links to r)"
+    },
+    {
+        "speaker": "Tessa",
+        "text": "Nice. And what about the demo involving the anomaly detection system? That caught a lot of attention last time.",
+        "ipa": "naɪs | ænd wʌt əˈbaʊt ðə ˈdɛmoʊ ɪnˈvɑlvɪŋ ði əˈnɑməli dɪˈtɛkʃən ˈsɪstəm | ðæt kɔt ə lɑt əv əˈtɛnʃən læst taɪm",
+        "stress": "NICE | and WHAT about the DEMO INVOLVING the ANOMALY DETECTION SYSTEM | that CAUGHT a LOT of ATTENTION last TIME",
+        "linking": "\"what about\" → /wʌt əˈbaʊt/ (t links to ə)\n\"demo involving\" → /ˈdɛmoʊ ɪnˈvɑlvɪŋ/ (o links to i)"
+    },
+    {
+        "speaker": "Amir",
+        "text": "Yeah, good call. I’ll prep a version adapted for live presentation.",
+        "ipa": "jæ | ɡʊd kɔl | aɪl prɛp ə ˈvɜrʒən əˈdæptɪd fɔr laɪv ˌprɛzənˈteɪʃən",
+        "stress": "YEAH | GOOD CALL | I'll PREP a VERSION ADAPTED for LIVE PRESENTATION",
+        "linking": "\"prep a\" → /prɛp ə/ (p links to ə)\n\"version adapted\" → /ˈvɜrʒən əˈdæptɪd/ (n links to a)"
+    },
+    {
+        "speaker": "Tessa",
+        "text": "Let me know if you need a diagram explaining the model’s training loop. I already have one sketched.",
+        "ipa": "lɛt mi noʊ ɪf ju nid ə ˈdaɪəˌɡræm ɪkˈspleɪnɪŋ ðə ˈmɑdəlz ˈtreɪnɪŋ lup | aɪ ɔlˈrɛdi hæv wʌn skɛʧt",
+        "stress": "LET me KNOW if you NEED a DIAGRAM EXPLAINING the MODEL'S TRAINING LOOP | I ALREADY HAVE one SKETCHED",
+        "linking": "\"need a\" → /nid ə/ (d links to ə)\n\"diagram explaining\" → /ˈdaɪəˌɡræm ɪkˈspleɪnɪŋ/ (m links to e)"
+    },
+    {
+        "speaker": "Amir",
+        "text": "That’d be great. Also, I might need a volunteer to assist with the Q&A.",
+        "ipa": "ðæd bi ɡreɪt | ˈɔlsoʊ | aɪ maɪt nid ə ˌvɑlənˈtɪr tu əˈsɪst wɪð ðə ˌkju ənd eɪ",
+        "stress": "THAT'D be GREAT | ALSO | I MIGHT NEED a VOLUNTEER to ASSIST with the Q&A",
+        "linking": "\"need a\" → /nid ə/ (d links to ə)\n\"volunteer to\" → /ˌvɑlənˈtɪr tu/ (r links to t)"
+    },
+    {
+        "speaker": "Tessa",
+        "text": "You’ve got a team willing to support you. Just ask!",
+        "ipa": "juv ɡɑt ə tim ˈwɪlɪŋ tu səˈpɔrt ju | ʤəst æsk",
+        "stress": "YOU'VE GOT a TEAM WILLING to SUPPORT YOU | JUST ASK",
+        "linking": "\"got a\" → /ɡɑt ə/ (t links to ə)\n\"willing to\" → /ˈwɪlɪŋ tu/ (g links to t)"
+    }
+]

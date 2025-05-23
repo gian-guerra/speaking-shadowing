@@ -1,0 +1,72 @@
+[
+    {
+        "speaker": "Lucas",
+        "text": "There’s been an increase in the number of errors in the logs, mostly in the module handling user authentication.",
+        "ipa": "ðɛrz bɪn ən ˈɪnˌkris ɪn ðə ˈnʌmbər əv ˈɛrərz ɪn ðə lɔgz | ˈmoʊstli ɪn ðə ˈmɑʤul ˈhændlɪŋ ˈjuzər ɔˌθɛntɪˈkeɪʃən",
+        "stress": "THERE'S BEEN an INCREASE in the NUMBER of ERRORS in the LOGS | MOSTLY in the MODULE HANDLING USER AUTHENTICATION",
+        "linking": "\"increase in\" → /ˈɪnˌkris ɪn/ (s links to i)\n\"errors in\" → /ˈɛrərz ɪn/ (z links to i)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "Ugh, that’s not good. Was it caused by the patch released on Friday?",
+        "ipa": "ʌɡ | ðæts nɑt ɡʊd | wəz ɪt kɔzd baɪ ðə pæʧ rɪˈlist ɑn ˈfraɪdeɪ",
+        "stress": "UGH | THAT'S NOT GOOD | WAS it CAUSED by the PATCH RELEASED on FRIDAY",
+        "linking": "\"caused by\" → /kɔzd baɪ/ (d links to b)\n\"released on\" → /rɪˈlist ɑn/ (d links to o)"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "Looks like it. I checked the service interacting with the token provider, and it’s throwing unexpected responses.",
+        "ipa": "lʊks laɪk ɪt | aɪ ʧɛkt ðə ˈsɜrvəs ˌɪntəˈræktɪŋ wɪð ðə ˈtoʊkən prəˈvaɪdər | ənd ɪts ˈθroʊɪŋ ˌʌnɪkˈspɛktɪd rɪˈspɑnsəz",
+        "stress": "LOOKS LIKE IT | I CHECKED the SERVICE INTERACTING with the TOKEN PROVIDER | and IT'S THROWING UNEXPECTED RESPONSES",
+        "linking": "\"checked the\" → /ʧɛkt ðə/ (d links to th)\n\"throwing unexpected\" → /ˈθroʊɪŋ ˌʌnɪkˈspɛktɪd/ (g links to u)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "That could be related to the change affecting session validation. Let me look at the function returning the session info.",
+        "ipa": "ðæt kʊd bi rɪˈleɪtɪd tu ðə ʧeɪnʤ əˈfɛktɪŋ ˈsɛʃən ˌvælɪˈdeɪʃən | lɛt mi lʊk æt ðə ˈfʌŋkʃən rɪˈtɜrnɪŋ ðə ˈsɛʃən ˈɪnfoʊ",
+        "stress": "THAT COULD be RELATED to the CHANGE AFFECTING SESSION VALIDATION | LET me LOOK at the FUNCTION RETURNING the SESSION INFO",
+        "linking": "\"related to\" → /rɪˈleɪtɪd tu/ (d links to t)\n\"function returning\" → /ˈfʌŋkʃən rɪˈtɜrnɪŋ/ (n links to r)"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "Here’s a screenshot showing the failed requests. You’ll see the pattern clearly.",
+        "ipa": "hɪrz ə ˈskrinˌʃɑt ˈʃoʊɪŋ ðə feɪld rɪˈkwɛsts | jul si ðə ˈpætərn ˈklɪrli",
+        "stress": "HERE'S a SCREENSHOT SHOWING the FAILED REQUESTS | YOU'LL SEE the PATTERN CLEARLY",
+        "linking": "\"screenshot showing\" → /ˈskrinˌʃɑt ˈʃoʊɪŋ/ (t links to sh)\n\"failed requests\" → /feɪld rɪˈkwɛsts/ (d links to r)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "Got it. Also, there was a developer working remotely last week who mentioned the same issue.",
+        "ipa": "ɡɑt ɪt | ˈɔlsoʊ | ðɛr wəz ə dɪˈvɛləpər ˈwɜrkɪŋ rɪˈmoʊtli læst wik hu ˈmɛnʃənd ðə seɪm ˈɪʃu",
+        "stress": "GOT IT | ALSO | THERE WAS a DEVELOPER WORKING REMOTELY LAST WEEK who MENTIONED the SAME ISSUE",
+        "linking": "\"developer working\" → /dɪˈvɛləpər ˈwɜrkɪŋ/ (r links to w)\n\"mentioned the\" → /ˈmɛnʃənd ðə/ (d links to th)"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "Yeah, I remember that. And just FYI, we got a request to report on incident response time by tomorrow.",
+        "ipa": "jæ | aɪ rɪˈmɛmbər ðæt | ənd ʤəst ɛf waɪ aɪ | wi ɡɑt ə rɪˈkwɛst tu rɪˈpɔrt ɑn ˈɪnsədənt rɪˈspɑns taɪm baɪ təˈmɑroʊ",
+        "stress": "YEAH | I REMEMBER THAT | and JUST FYI | WE GOT a REQUEST to REPORT on INCIDENT RESPONSE TIME by TOMORROW",
+        "linking": "\"request to\" → /rɪˈkwɛst tu/ (t links to t)\n\"report on\" → /rɪˈpɔrt ɑn/ (t links to o)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "I’ll try to prepare a summary to present in the morning standup.",
+        "ipa": "aɪl traɪ tu prɪˈpɛr ə ˈsʌməri tu prɪˈzɛnt ɪn ðə ˈmɔrnɪŋ ˈstændˌʌp",
+        "stress": "I'LL TRY to PREPARE a SUMMARY to PRESENT in the MORNING STANDUP",
+        "linking": "\"prepare a\" → /prɪˈpɛr ə/ (r links to a)\n\"present in\" → /prɪˈzɛnt ɪn/ (t links to i)"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "Thanks. If possible, include a suggestion to prevent this kind of regression.",
+        "ipa": "θæŋks | ɪf ˈpɑsəbəl | ɪnˈklud ə səɡˈʤɛstʃən tu prɪˈvɛnt ðɪs kaɪnd əv rɪˈɡrɛʃən",
+        "stress": "THANKS | IF POSSIBLE | INCLUDE a SUGGESTION to PREVENT this KIND of REGRESSION",
+        "linking": "\"include a\" → /ɪnˈklud ə/ (d links to a)\n\"prevent this\" → /prɪˈvɛnt ðɪs/ (t links to th)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "Absolutely. I’ll also write a test case simulating the edge scenario we missed.",
+        "ipa": "ˈæbsəˌlutli | aɪl ˈɔlsoʊ raɪt ə tɛst keɪs ˈsɪmjəˌleɪtɪŋ ði ɛʤ səˈnɛrioʊ wi mɪst",
+        "stress": "ABSOLUTELY | I'LL ALSO WRITE a TEST CASE SIMULATING the EDGE SCENARIO we MISSED",
+        "linking": "\"write a\" → /raɪt ə/ (t links to a)\n\"test case\" → /tɛst keɪs/ (t links to k)"
+    }
+]

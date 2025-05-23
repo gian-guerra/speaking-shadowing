@@ -1,0 +1,86 @@
+[
+    {
+        "speaker": "Amanda",
+        "text": "Thanks for joining, Josh. Today we need to finalize the architecture of the system. There’s a lot to discuss.",
+        "ipa": "θæŋks fɔr ˈʤɔɪnɪŋ ʤɑʃ | təˈdeɪ wi nid tə ˈfaɪnəˌlaɪz ði ˈɑrkəˌtɛkʧɚ əv ðə ˈsɪstəm | ðɛrz ə lɑt tə dɪˈskʌs",
+        "stress": "THANKS for JOINING, JOSH | TODAY we NEED to FINALIZE the ARCHITECTURE of the SYSTEM | THERE’S a LOT to DISCUSS",
+        "linking": "\"joining, Josh\" → /ˈʤɔɪnɪŋ ʤɑʃ/ (g links to J)\n\"need to\" → /nid tə/ (d links to t)\n\"lot to\" → /lɑt tə/ (t links to t)"
+    },
+    {
+        "speaker": "Josh",
+        "text": "Absolutely. I was looking at the structure of the new modules. The diagram showing the data flow looks much clearer than before.",
+        "ipa": "ˌæbsəˈlutli | aɪ wəz ˈlʊkɪŋ æt ðə ˈstrʌkʧɚ əv ðə nu ˈmɑʤulz | ðə ˈdaɪəˌɡræm ˈʃoʊɪŋ ðə ˈdeɪtə floʊ lʊks mʌʧ ˈklɪrɚ ðən bɪˈfɔr",
+        "stress": "ABSOLUTELY | I was LOOKING at the STRUCTURE of the NEW MODULES | The DIAGRAM showing the DATA FLOW LOOKS much CLEARER than BEFORE",
+        "linking": "\"looking at\" → /ˈlʊkɪŋ æt/ (g links to a)\n\"data flow\" → /ˈdeɪtə floʊ/ (a links to f)"
+    },
+    {
+        "speaker": "Amanda",
+        "text": "I'm glad you think so. We also have a document containing the API specifications to review. It’s important that everything is aligned.",
+        "ipa": "aɪm glæd ju θɪŋk soʊ | wi ˈɔlsoʊ hæv ə ˈdɑkjəmənt kənˈteɪnɪŋ ði ˌeɪpiˈaɪ ˌspɛsəfəˈkeɪʃənz tə rɪˈvju | ɪts ɪmˈpɔrtənt ðæt ˈɛvrɪθɪŋ ɪz əˈlaɪnd",
+        "stress": "I'M GLAD you THINK so | We ALSO have a DOCUMENT containing the API SPECIFICATIONS to REVIEW | It’s IMPORTANT that EVERYTHING is ALIGNED",
+        "linking": "\"document containing\" → /ˈdɑkjəmənt kənˈteɪnɪŋ/ (t links to k)\n\"specifications to\" → /ˌspɛsəfəˈkeɪʃənz tə/ (s links to t)"
+    },
+    {
+        "speaker": "Josh",
+        "text": "Right. I noticed the service with multiple dependencies might cause delays during deployment. Maybe we could suggest a plan to minimize dependencies?",
+        "ipa": "raɪt | aɪ ˈnoʊtɪst ðə ˈsɜrvəs wɪð ˈmʌltəpəl dɪˈpɛndənsiz maɪt kɔz dɪˈleɪz ˈdʊrɪŋ dɪˈplɔɪmənt | ˈmeɪbi wi kəd səgˈʤɛst ə plæn tə ˈmɪnəˌmaɪz dɪˈpɛndənsiz",
+        "stress": "RIGHT | I NOTICED the SERVICE with MULTIPLE DEPENDENCIES might cause DELAYS during DEPLOYMENT | Maybe we could SUGGEST a PLAN to MINIMIZE DEPENDENCIES",
+        "linking": "\"service with\" → /ˈsɜrvəs wɪð/ (s links to w)\n\"plan to\" → /plæn tə/ (n links to t)"
+    },
+    {
+        "speaker": "Amanda",
+        "text": "That sounds good. Oh, and did you see the diagram created by the frontend team? It helped me understand their needs better.",
+        "ipa": "ðæt saʊndz ɡʊd | oʊ | ənd dɪd ju si ðə ˈdaɪəˌɡræm kriˈeɪtɪd baɪ ðə ˈfrʌntˌɛnd tim | ɪt hɛlpt mi ˌʌndərˈstænd ðɛr nidz ˈbɛtər",
+        "stress": "THAT SOUNDS GOOD | OH | and DID you SEE the DIAGRAM created by the FRONTEND TEAM | It HELPED me UNDERSTAND their NEEDS BETTER",
+        "linking": "\"did you\" → /dɪd ju/ (d links to y)\n\"helped me\" → /hɛlpt mi/ (t links to m)"
+    },
+    {
+        "speaker": "Josh",
+        "text": "Yes, it's very useful. There’s also a list of features to prioritize based on client feedback. We’ll need a meeting to go through it carefully.",
+        "ipa": "jɛs | ɪts ˈvɛri ˈjusfəl | ðɛrz ˈɔlsoʊ ə lɪst əv ˈfiʧərz tə praɪˈɔrəˌtaɪz beɪst ɑn ˈklaɪənt ˈfidˌbæk | wil nid ə ˈmitɪŋ tə ɡoʊ θru ɪt ˈkɛrfəli",
+        "stress": "YES | it's VERY USEFUL | There's ALSO a LIST of FEATURES to PRIORITIZE based on CLIENT FEEDBACK | We'll NEED a MEETING to GO THROUGH it CAREFULLY",
+        "linking": "\"list of\" → /lɪst əv/ (t links to v)\n\"go through\" → /ɡoʊ θru/ (o links to th)"
+    },
+    {
+        "speaker": "Amanda",
+        "text": "Agreed. Besides that, there’s a component being developed offshore that might need extra support. I’ll assign a mentor to assist them.",
+        "ipa": "əˈɡrid | bɪˈsaɪdz ðæt | ðɛrz ə kəmˈpoʊnənt ˈbiɪŋ dɪˈvɛləpt ˈɔfˌʃɔr ðæt maɪt nid ˈɛkstrə səˈpɔrt | aɪl əˈsaɪn ə ˈmɛntɔr tu əˈsɪst ðɛm",
+        "stress": "AGREED | BESIDES THAT | there's a COMPONENT being DEVELOPED OFFSHORE that might need EXTRA SUPPORT | I'll ASSIGN a MENTOR to ASSIST them",
+        "linking": "\"component being\" → /kəmˈpoʊnənt ˈbiɪŋ/ (t links to b)\n\"assign a\" → /əˈsaɪn ə/ (n links to a)"
+    },
+    {
+        "speaker": "Josh",
+        "text": "Perfect. Also, for the mobile app, we need to design a screen layout to improve user onboarding. It's something to start soon.",
+        "ipa": "ˈpɜrfɪkt | ˈɔlsoʊ | fɔr ðə ˈmoʊbəl æp | wi nid tə dɪˈzaɪn ə skrin ˈleɪˌaʊt tə ɪmˈpruv ˈjuzər ˈɑnˌbɔrdɪŋ | ɪts ˈsʌmθɪŋ tə stɑrt sun",
+        "stress": "PERFECT | ALSO | for the MOBILE APP | we NEED to DESIGN a SCREEN LAYOUT to IMPROVE USER ONBOARDING | It's SOMETHING to START SOON",
+        "linking": "\"design a\" → /dɪˈzaɪn ə/ (n links to a)\n\"start soon\" → /stɑrt sun/ (t links to s)"
+    },
+    {
+        "speaker": "Amanda",
+        "text": "Great. Could you prepare a presentation summarizing your findings for the team meeting on Friday?",
+        "ipa": "ɡreɪt | kʊd ju prɪˈpɛr ə ˌprɛzənˈteɪʃən ˈsʌməˌraɪzɪŋ jʊr ˈfaɪndɪŋz fɔr ðə tim ˈmitɪŋ ɑn ˈfraɪdeɪ",
+        "stress": "GREAT | Could you PREPARE a PRESENTATION SUMMARIZING your FINDINGS for the TEAM MEETING on FRIDAY",
+        "linking": "\"could you\" → /kʊd ju/ (d links to y)\n\"summarizing your\" → /ˈsʌməˌraɪzɪŋ jʊr/ (g links to y)"
+    },
+    {
+        "speaker": "Josh",
+        "text": "Sure thing. I already have a draft prepared for review. I’ll finalize it by tomorrow.",
+        "ipa": "ʃʊr θɪŋ | aɪ ɔlˈrɛdi hæv ə dræft prɪˈpɛrd fɔr rɪˈvju | aɪl ˈfaɪnəˌlaɪz ɪt baɪ təˈmɑːroʊ",
+        "stress": "SURE THING | I ALREADY HAVE A DRAFT PREPARED FOR REVIEW | I’LL FINALIZE IT BY TOMORROW",
+        "linking": "\"draft prepared\" → /dræft prɪˈpɛrd/ (t links to p)\n\"review. I’ll\" → /rɪˈvju aɪl/ (w links to a)"
+    },
+    {
+        "speaker": "Amanda",
+        "text": "Thanks, Josh. I appreciate your attention to detail and your willingness to propose solutions.",
+        "ipa": "θæŋks ʤɑʃ | aɪ əˈpriʃiˌeɪt jʊr əˈtɛnʃən tə ˈdiˌteɪl ənd jʊr ˈwɪlɪŋnəs tə prəˈpoʊz səˈluʃənz",
+        "stress": "THANKS, JOSH | I APPRECIATE YOUR ATTENTION TO DETAIL AND YOUR WILLINGNESS TO PROPOSE SOLUTIONS",
+        "linking": "\"attention to\" → /əˈtɛnʃən tə/ (n links to t)\n\"propose solutions\" → /prəˈpoʊz səˈluʃənz/ (z links to s)"
+    },
+    {
+        "speaker": "Josh",
+        "text": "No problem. It's always exciting to contribute to a big launch like this!",
+        "ipa": "noʊ ˈprɑbləm | ɪts ˈɔlweɪz ɪkˈsaɪtɪŋ tə kənˈtrɪbjut tə ə bɪɡ lɔnʧ laɪk ðɪs",
+        "stress": "NO PROBLEM | IT’S ALWAYS EXCITING TO CONTRIBUTE TO A BIG LAUNCH LIKE THIS",
+        "linking": "\"exciting to\" → /ɪkˈsaɪtɪŋ tə/ (g links to t)\n\"to a big\" → /tə ə bɪɡ/ (ə links to b)"
+    }
+]
