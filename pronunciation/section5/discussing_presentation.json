@@ -1,0 +1,65 @@
+[
+    {
+        "speaker": "Daniel",
+        "text": "We must finish the slides by tonight. The meeting’s first thing tomorrow morning.",
+        "ipa": "wi mʌst ˈfɪnɪʃ ðə slaɪdz baɪ təˈnaɪt | ðə ˈmitɪŋz ˈfɜrst θɪŋ təˈmɑroʊ ˈmɔrnɪŋ",
+        "stress": "WE must FINISH the SLIDES by toNIGHT | the MEETING’S FIRST THING toMORROW MORNING",
+        "linking": "\"must finish\" → /mʌst ˈfɪnɪʃ/ (t links to f)\n\"slides by\" → /slaɪdz baɪ/ (z links to b)\n\"meeting's first\" → /ˈmitɪŋz ˈfɜrst/ (z links to f)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "Yeah, you're right. We should also double-check the data. Last time, a typo could have cost us the project.",
+        "ipa": "jæ | jʊr raɪt | wi ʃʊd ˈɔlsoʊ ˈdʌbəl ʧɛk ðə ˈdeɪtə | læst taɪm | ə ˈtaɪpoʊ kʊd həv kɔst ʌs ðə ˈprɑʤɛkt",
+        "stress": "YEAH | you're RIGHT | we SHOULD ALSO DOUBLE-CHECK the DATA | LAST TIME | a TYPO could have COST us the PROJECT",
+        "linking": "\"should also\" → /ʃʊd ˈɔlsoʊ/ (d links to a)\n\"double-check\" → /ˈdʌbəl ʧɛk/ (l links to ch)\n\"could have\" → /kʊd həv/ (d links to h)"
+    },
+    {
+        "speaker": "Daniel",
+        "text": "Good point. Maybe we ought to run a practice session too, just to be sure everything flows well.",
+        "ipa": "ɡʊd pɔɪnt | ˈmeɪbi wi ɔt tu rʌn ə ˈpræktɪs ˈsɛʃən tu | ʤʌst tu bi ʃʊr ˈɛvrɪθɪŋ floʊz wɛl",
+        "stress": "GOOD POINT | MAYBE we OUGHT TO RUN a PRACTICE SESSION TOO | JUST TO BE SURE EVERYTHING FLOWS WELL",
+        "linking": "\"ought to\" → /ɔt tu/ (t links to t)\n\"just to\" → /ʤʌst tu/ (t links to t)\n\"flows well\" → /floʊz wɛl/ (z links to w)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "Agreed. Also, the boss said we have to include the new market analysis. I might stay a bit late to work on it if needed.",
+        "ipa": "əˈɡrid | ˈɔlsoʊ | ðə bɔs sɛd wi hæv tu ɪnˈklud ðə nu ˈmɑrkɪt əˈnæləsɪs | aɪ maɪt steɪ ə bɪt leɪt tu wɜrk ɑn ɪt ɪf ˈnidɪd",
+        "stress": "AGREED | ALSO | the BOSS SAID we HAVE TO INCLUDE the NEW MARKET ANALYSIS | I MIGHT STAY a BIT LATE to WORK on IT if NEEDED",
+        "linking": "\"have to\" → /hæv tu/ (v links to t)\n\"stay a\" → /steɪ ə/ (y links to a)\n\"work on\" → /wɜrk ɑn/ (k links to o)"
+    },
+    {
+        "speaker": "Daniel",
+        "text": "Thanks, Emma. I could help you if you want. Two heads are better than one.",
+        "ipa": "θæŋks ˈɛmə | aɪ kʊd hɛlp ju ɪf ju wɑnt | tu hɛdz ɑr ˈbɛtər ðæn wʌn",
+        "stress": "THANKS, EMMA | I COULD HELP YOU if YOU WANT | TWO HEADS are BETTER than ONE",
+        "linking": "\"could help\" → /kʊd hɛlp/ (d links to h)\n\"help you\" → /hɛlp ju/ (p links to y)\n\"are better\" → /ɑr ˈbɛtər/ (r links to b)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "That would be great! Plus, we shouldn't forget to update the client list. I almost left it out last time.",
+        "ipa": "ðæt wʊd bi ɡreɪt | plʌs | wi ˈʃʊdənt fərˈɡɛt tu ˈʌpˌdeɪt ðə ˈklaɪənt lɪst | aɪ ˈɔlmoʊst lɛft ɪt aʊt læst taɪm",
+        "stress": "THAT WOULD BE GREAT | PLUS | we SHOULDN'T FORGET to UPDATE the CLIENT LIST | I ALMOST LEFT IT OUT LAST TIME",
+        "linking": "\"would be\" → /wʊd bi/ (d links to b)\n\"shouldn't forget\" → /ˈʃʊdənt fərˈɡɛt/ (t links to f)\n\"left it\" → /lɛft ɪt/ (t links to i)"
+    },
+    {
+        "speaker": "Daniel",
+        "text": "Haha, no worries. Oh, by the way — we don't have to bring printed copies, right? I heard it's all digital now.",
+        "ipa": "hɑ hɑ | noʊ ˈwɜriz | oʊ | baɪ ðə weɪ — wi doʊnt hæv tu brɪŋ ˈprɪntɪd ˈkɑpiz | raɪt | aɪ hɜrd ɪts ɔl ˈdɪʤɪtəl naʊ",
+        "stress": "HAHA | NO WORRIES | OH | BY THE WAY — we DON'T HAVE TO BRING PRINTED COPIES | RIGHT | I HEARD IT'S ALL DIGITAL NOW",
+        "linking": "\"don't have to\" → /doʊnt hæv tu/ (t links to h)\n\"have to bring\" → /hæv tu brɪŋ/ (v links to b)\n\"heard it's\" → /hɜrd ɪts/ (d links to i)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "Yeah, that's true. But we might want to bring a few, just in case the projector fails or something.",
+        "ipa": "jæ | ðæts tru | bʌt wi maɪt wɑnt tu brɪŋ ə fju | ʤʌst ɪn keɪs ðə prəˈʤɛktər feɪlz ɔr ˈsʌmθɪŋ",
+        "stress": "YEAH | THAT'S TRUE | BUT we MIGHT WANT TO BRING a FEW | JUST IN CASE the PROJECTOR FAILS or SOMETHING",
+        "linking": "\"might want to\" → /maɪt wɑnt tu/ (t links to w)\n\"just in\" → /ʤʌst ɪn/ (t links to i)\n\"projector fails\" → /prəˈʤɛktər feɪlz/ (r links to f)"
+    },
+    {
+        "speaker": "Daniel",
+        "text": "Good thinking. Better safe than sorry.",
+        "ipa": "ɡʊd ˈθɪŋkɪŋ | ˈbɛtər seɪf ðæn ˈsɑri",
+        "stress": "GOOD THINKING | BETTER SAFE than SORRY",
+        "linking": "\"better safe\" → /ˈbɛtər seɪf/ (r links to s)\n\"safe than\" → /seɪf ðæn/ (f links to th)"
+    }
+]
