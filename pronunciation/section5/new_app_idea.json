@@ -1,0 +1,58 @@
+[
+    {
+        "speaker": "Liam",
+        "text": "Hey, do you think we could create a mobile app that recommends coding tutorials based on someone's skill level?",
+        "ipa": "heɪ | dʊ jə θɪŋk wi kʊd kriˈeɪt ə ˈmoʊbəl æp ðæt ˌrɛkəˈmɛndz ˈkoʊdɪŋ tʊˈtɔriəlz beɪst ɑn ˈsʌmwʌnz skɪl ˈlɛvəl",
+        "stress": "HEY | do YOU THINK we COULD CREATE a MOBILE APP that RECOMMENDS CODING TUTORIALS based on SOMEONE'S SKILL LEVEL",
+        "linking": "\"do you\" → /dʊ jə/ (linking 'do' to 'you')\n\"could create\" → /kʊd kriˈeɪt/ (linking 'could' to 'create')\n\"based on\" → /beɪst ɑn/ (linking 'based' to 'on')"
+    },
+    {
+        "speaker": "Sophia",
+        "text": "Yeah, that could work! We might need a solid algorithm, though. Have you heard of any tools we can use to build recommendation systems easily?",
+        "ipa": "jæ | ðæt kʊd wɜrk | wi maɪt nid ə ˈsɑlɪd ˈælɡəˌrɪðəm ðoʊ | hæv jʊ hɜrd əv ˈɛni tulz wi kən juz tə bɪld ˌrɛkəˈmɛndeɪʃən ˈsɪstəmz ˈiːzəli",
+        "stress": "YEAH | that COULD WORK | we MIGHT NEED a SOLID ALGORITHM, THOUGH | HAVE YOU HEARD of ANY TOOLS we can USE to BUILD RECOMMENDATION SYSTEMS EASILY",
+        "linking": "\"have you\" → /hæv jʊ/ (linking 'have' to 'you')\n\"can use\" → /kən juz/ (linking 'can' to 'use')"
+    },
+    {
+        "speaker": "Liam",
+        "text": "Actually, TensorFlow can be an option. Or, if that's too complex, we are able to use some simpler APIs like RapidAPI.",
+        "ipa": "ˈækʧuəli | ˈtɛnsɚfloʊ kən bi ən ˈɑpʃən | ɔr | ɪf ðæts tu kəmˈplɛks | wi ɑr ˈeɪbəl tə juz səm ˈsɪmplɚ ˌeɪpiˈaɪz laɪk ˌræpɪdˌeɪpiˈaɪ",
+        "stress": "ACTUALLY | TENSORFLOW can be an OPTION | OR | if THAT'S TOO COMPLEX | we ARE ABLE to USE some SIMPLER APIs like RAPIDAPI",
+        "linking": "\"can be\" → /kən bi/ (linking 'can' to 'be')\n\"are able\" → /ɑr ˈeɪbəl/ (linking 'are' to 'able')"
+    },
+    {
+        "speaker": "Sophia",
+        "text": "Good point. Also, we may want to think about scalability. If a lot of users join, we might have to upgrade our server pretty quickly.",
+        "ipa": "ɡʊd pɔɪnt | ˈɔlsoʊ | wi meɪ wɑnt tə θɪŋk əˈbaʊt ˌskeɪləˈbɪlɪti | ɪf ə lɑt əv ˈjuzɚz ʤɔɪn | wi maɪt hæv tə ˈʌpɡreɪd aʊɚ ˈsɜrvɚ ˈprɪti ˈkwɪkli",
+        "stress": "GOOD POINT | ALSO | we MAY WANT to THINK about SCALABILITY | if a LOT of USERS JOIN | we MIGHT HAVE to UPGRADE our SERVER PRETTY QUICKLY",
+        "linking": "\"may want to\" → /meɪ wɑnt tə/ (linking 'may' to 'want to')\n\"have to\" → /hæf tə/ (linking 'have' to 'to')"
+    },
+    {
+        "speaker": "Liam",
+        "text": "True. And in case TensorFlow feels like overkill, we could always switch to basic filtering methods at first.",
+        "ipa": "tru | ənd ɪn keɪs ˈtɛnsɚfloʊ filz laɪk ˈoʊvɚˌkɪl | wi kʊd ˈɔlweɪz swɪʧ tə ˈbeɪsɪk ˈfɪltərɪŋ ˈmɛθədz ət fɜrst",
+        "stress": "TRUE | and in CASE TENSORFLOW FEELS like OVERKILL | we COULD ALWAYS SWITCH to BASIC FILTERING METHODS at FIRST",
+        "linking": "\"could always\" → /kʊd ˈɔlweɪz/ (linking 'could' to 'always')\n\"switch to\" → /swɪʧ tə/ (linking 'switch' to 'to')"
+    },
+    {
+        "speaker": "Sophia",
+        "text": "Exactly! It's good to remember that there are alternatives to heavy machine learning solutions. Sometimes a smart SQL query is able to do the trick!",
+        "ipa": "ɪɡˈzæktli | ɪts ɡʊd tə rɪˈmɛmbɚ ðæt ðɛr ɑr ɔlˈtɜrnətɪvz tə ˈhɛvi məˈʃin ˈlɜrnɪŋ səˈluʃənz | ˈsʌmtaɪmz ə smɑrt ˌɛsˌkjuˈɛl ˈkwɛri ɪz ˈeɪbəl tə du ðə trɪk",
+        "stress": "EXACTLY | it's GOOD to REMEMBER that there are ALTERNATIVES to HEAVY MACHINE LEARNING SOLUTIONS | SOMETIMES a SMART SQL QUERY is ABLE to DO the TRICK",
+        "linking": "\"is able\" → /ɪz ˈeɪbəl/ (linking 'is' to 'able')\n\"to do\" → /tə du/ (linking 'to' to 'do')"
+    },
+    {
+        "speaker": "Liam",
+        "text": "Haha, so true! And who knows — we might even get some investors if the app takes off.",
+        "ipa": "hɑ hɑ | soʊ tru | ənd hu noʊz — wi maɪt ˈivən ɡɛt səm ɪnˈvɛstɚz ɪf ði æp teɪks ɔf",
+        "stress": "HAHA | SO TRUE | and WHO KNOWS — we MIGHT EVEN GET some INVESTORS if the APP TAKES OFF",
+        "linking": "\"might even\" → /maɪt ˈivən/ (linking 'might' to 'even')\n\"takes off\" → /teɪks ɔf/ (linking 'takes' to 'off')"
+    },
+    {
+        "speaker": "Sophia",
+        "text": "I like your optimism. Let's see if we can draft a basic plan tonight.",
+        "ipa": "aɪ laɪk jʊɚ ˈɑptɪˌmɪzəm | lɛts si ɪf wi kən dræft ə ˈbeɪsɪk plæn təˈnaɪt",
+        "stress": "I LIKE your OPTIMISM | LET'S SEE if we can DRAFT a BASIC PLAN TONIGHT",
+        "linking": "\"let's see\" → /lɛts si/ (linking 'let's' to 'see')\n\"draft a\" → /dræft ə/ (linking 'draft' to 'a')"
+    }
+]
