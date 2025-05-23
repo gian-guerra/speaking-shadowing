@@ -1,0 +1,58 @@
+[
+    {
+        "speaker": "Lucas",
+        "text": "Hey, do you think we can hike up to Crystal Peak this Saturday?",
+        "ipa": "heɪ | dʊ jə θɪŋk wi kən haɪk ʌp tə ˈkrɪstəl piːk ðɪs ˈsæɾɚdeɪ",
+        "stress": "HEY | do YOU THINK we can HIKE UP to CRYSTAL PEAK this SATURDAY",
+        "linking": "\"do you\" → /dʊ jə/ (linking 'do' to 'you')\n\"can hike\" → /kən haɪk/ (linking 'can' to 'hike')\n\"up to\" → /ʌp tə/ (linking 'up' to 'to')"
+    },
+    {
+        "speaker": "Sophia",
+        "text": "Maybe! But we should check the weather forecast first. It might rain all weekend.",
+        "ipa": "ˈmeɪbi | bət wi ʃəd ʧɛk ðə ˈwɛðɚ ˈfɔrkæst fɚst | ɪt maɪt reɪn ɔl ˈwiːkɛnd",
+        "stress": "MAYBE | but WE SHOULD CHECK the WEATHER FORECAST FIRST | it MIGHT RAIN all WEEKEND",
+        "linking": "\"should check\" → /ʃəd ʧɛk/ (linking 'should' to 'check')\n\"might rain\" → /maɪt reɪn/ (linking 'might' to 'rain')"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "True. If it pours, we could always pick an easier trail. Also, do you think Jake will be able to join us? He’s been super busy lately.",
+        "ipa": "tru | ɪf ɪt pɔrz | wi kəd ˈɔlweɪz pɪk ən ˈiːziɚ treɪl | ˈɔlsoʊ | dʊ jə θɪŋk ʤeɪk wɪl bi ˈeɪbəl tə ʤɔɪn ʌs | hiz bɪn ˈsuːpɚ ˈbɪzi ˈleɪtli",
+        "stress": "TRUE | if it POURS | we COULD ALWAYS PICK an EASIER TRAIL | ALSO | do YOU THINK JAKE will be ABLE to JOIN US | he's been SUPER BUSY LATELY",
+        "linking": "\"could always\" → /kəd ˈɔlweɪz/ (linking 'could' to 'always')\n\"do you\" → /dʊ jə/ (linking 'do' to 'you')\n\"will be\" → /wɪl bi/ (linking 'will' to 'be')"
+    },
+    {
+        "speaker": "Sophia",
+        "text": "I asked him yesterday, and he said he might come if he finishes his project by Friday. Otherwise, he may have to work overtime.",
+        "ipa": "aɪ æskt ɪm ˈjɛstɚdeɪ | ənd hi sɛd hi maɪt kʌm ɪf hi ˈfɪnɪʃɪz hɪz ˈprɑʤɛkt baɪ ˈfraɪdeɪ | ˈʌðɚwaɪz | hi meɪ hæv tə wɜrk ˈoʊvɚtaɪm",
+        "stress": "I ASKED HIM YESTERDAY | and HE SAID he MIGHT COME if he FINISHES his PROJECT by FRIDAY | OTHERWISE | he MAY HAVE to WORK OVERTIME",
+        "linking": "\"asked him\" → /æskt ɪm/ (linking 'asked' to 'him')\n\"have to\" → /hæv tə/ (linking 'have' to 'to')"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "Got it. We could also invite Mia and Tom. They're usually up for spontaneous trips.",
+        "ipa": "ɡɑt ɪt | wi kəd ˈɔlsoʊ ɪnˈvaɪt ˈmiə ənd tɑm | ðɛr ˈjuʒəwəli ʌp fɔr spɑnˈteɪniəs trɪps",
+        "stress": "GOT IT | we COULD ALSO INVITE MIA and TOM | they're USUALLY UP for SPONTANEOUS TRIPS",
+        "linking": "\"could also\" → /kəd ˈɔlsoʊ/ (linking 'could' to 'also')\n\"invite Mia\" → /ɪnˈvaɪt ˈmiə/ (linking 'invite' to 'Mia')"
+    },
+    {
+        "speaker": "Sophia",
+        "text": "Good idea! Even if Jake can't make it, we won't have to cancel everything. Plus, Tom can drive if we need an extra car.",
+        "ipa": "ɡʊd aɪˈdiə | ˈivən ɪf ʤeɪk kænt meɪk ɪt | wi woʊnt hæv tə ˈkænsəl ˈɛvrɪθɪŋ | plʌs | tɑm kən draɪv ɪf wi nid ən ˈɛkstrə kɑr",
+        "stress": "GOOD IDEA | EVEN if JAKE CAN'T MAKE IT | we WON'T HAVE to CANCEL EVERYTHING | PLUS | TOM can DRIVE if we NEED an EXTRA CAR",
+        "linking": "\"can't make\" → /kænt meɪk/ (linking 'can't' to 'make')\n\"have to\" → /hæv tə/ (linking 'have' to 'to')"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "Awesome. We could bring some snacks too — you know, just in case we get stuck somewhere and can't find food.",
+        "ipa": "ˈɔsəm | wi kəd brɪŋ səm snæks tu — ju noʊ | ʤʌst ɪn keɪs wi ɡɛt stʌk ˈsʌmˌwɛr ənd kænt faɪnd fuːd",
+        "stress": "AWESOME | we COULD BRING some SNACKS TOO — you KNOW | JUST IN CASE we GET STUCK SOMEWHERE and CAN'T FIND FOOD",
+        "linking": "\"could bring\" → /kəd brɪŋ/ (linking 'could' to 'bring')\n\"just in\" → /ʤʌst ɪn/ (linking 'just' to 'in')"
+    },
+    {
+        "speaker": "Sophia",
+        "text": "Haha, classic you. Always thinking ahead. Alright, let’s make sure we can finalize the plan by Thursday!",
+        "ipa": "hɑ hɑ | ˈklæsɪk ju | ˈɔlweɪz ˈθɪŋkɪŋ əˈhɛd | ɔlˈraɪt | lɛts meɪk ʃʊr wi kən ˈfaɪnəˌlaɪz ðə plæn baɪ ˈθɜrzdeɪ",
+        "stress": "HAHA | CLASSIC YOU | ALWAYS THINKING AHEAD | ALRIGHT | LET'S MAKE SURE we can FINALIZE the PLAN by THURSDAY",
+        "linking": "\"thinking ahead\" → /ˈθɪŋkɪŋ əˈhɛd/ (linking 'thinking' to 'ahead')\n\"make sure\" → /meɪk ʃʊr/ (linking 'make' to 'sure')"
+    }
+]
