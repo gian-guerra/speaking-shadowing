@@ -36,9 +36,16 @@
     },
     {
         "speaker": "Sophia",
-        "text": "Exactly! It's good to remember that there are alternatives to heavy machine learning solutions. Sometimes a smart SQL query is able to do the trick!",
-        "ipa": "ɪɡˈzæktli | ɪts ɡʊd tə rɪˈmɛmbɚ ðæt ðɛr ɑr ɔlˈtɜrnətɪvz tə ˈhɛvi məˈʃin ˈlɜrnɪŋ səˈluʃənz | ˈsʌmtaɪmz ə smɑrt ˌɛsˌkjuˈɛl ˈkwɛri ɪz ˈeɪbəl tə du ðə trɪk",
-        "stress": "EXACTLY | it's GOOD to REMEMBER that there are ALTERNATIVES to HEAVY MACHINE LEARNING SOLUTIONS | SOMETIMES a SMART SQL QUERY is ABLE to DO the TRICK",
+        "text": "Exactly! It's good to remember that there are alternatives to heavy machine learning solutions.",
+        "ipa": "ɪɡˈzæktli | ɪts ɡʊd tə rɪˈmɛmbɚ ðæt ðɛr ɑr ɔlˈtɜrnətɪvz tə ˈhɛvi məˈʃin ˈlɜrnɪŋ səˈluʃənz",
+        "stress": "EXACTLY | it's GOOD to REMEMBER that there are ALTERNATIVES to HEAVY MACHINE LEARNING SOLUTIONS",
+        "linking": "\"is able\" → /ɪz ˈeɪbəl/ (linking 'is' to 'able')\n\"to do\" → /tə du/ (linking 'to' to 'do')"
+    },
+    {
+        "speaker": "Sophia",
+        "text": "Sometimes a smart SQL query is able to do the trick!",
+        "ipa": "ˈsʌmtaɪmz ə smɑrt ˌɛsˌkjuˈɛl ˈkwɛri ɪz ˈeɪbəl tə du ðə trɪk",
+        "stress": "SOMETIMES a SMART SQL QUERY is ABLE to DO the TRICK",
         "linking": "\"is able\" → /ɪz ˈeɪbəl/ (linking 'is' to 'able')\n\"to do\" → /tə du/ (linking 'to' to 'do')"
     },
     {

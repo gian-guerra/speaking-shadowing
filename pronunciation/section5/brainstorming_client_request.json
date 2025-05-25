@@ -1,72 +1,58 @@
 [
     {
-        "speaker": "Laura",
-        "text": "Hey, we should start early on Saturday if we want to reach the summit before noon.",
-        "ipa": "heɪ | wi ʃʊd stɑrt ˈɜrli ɑn ˈsætərˌdeɪ | ɪf wi wɑnt tu riʧ ðə ˈsʌmɪt bɪˈfɔr nun",
-        "stress": "HEY | we SHOULD START EARLY on SATURDAY | if we WANT to REACH the SUMMIT before NOON",
-        "linking": "\"should start\" → /ʃʊd stɑrt/ (d links to s)\n\"want to\" → /wɑnt tu/ (t links to t)"
+        "speaker": "Emma",
+        "text": "The client said they want the platform to support real-time notifications. Do you think we can integrate that without rewriting the whole backend?",
+        "ipa": "ðə ˈklaɪənt sɛd ðeɪ wɑnt ðə ˈplætˌfɔrm tə səˈpɔrt ˈriəl taɪm ˌnoʊtəfɪˈkeɪʃənz | dʊ jə θɪŋk wi kən ˈɪntəˌɡreɪt ðæt wɪˈðaʊt ˈriˌraɪtɪŋ ðə hoʊl ˈbækˌɛnd",
+        "stress": "The CLIENT SAID they WANT the PLATFORM to SUPPORT REAL-TIME NOTIFICATIONS | do YOU THINK we can INTEGRATE that WITHOUT REWRITING the WHOLE BACKEND",
+        "linking": "\"do you\" → /dʊ jə/ (link 'do' to 'you')\n\"can integrate\" → /kən ˈɪntəˌɡreɪt/ (link 'can' to 'integrate')\n\"without rewriting\" → /wɪˈðaʊt ˈriˌraɪtɪŋ/ (connected phrase)"
     },
     {
-        "speaker": "Ben",
-        "text": "Yeah, especially because the weather might change later in the day. We must pack enough water and snacks too.",
-        "ipa": "jæ | ɪˈspɛʃəli bɪˈkɔz ðə ˈwɛðər maɪt ʧeɪnʤ ˈleɪtər ɪn ðə deɪ | wi mʌst pæk ɪˈnʌf ˈwɔtər ənd snæks tu",
-        "stress": "YEAH | especially BECAUSE the WEATHER might CHANGE LATER in the DAY | we MUST PACK enough WATER and SNACKS too",
-        "linking": "\"weather might\" → /ˈwɛðər maɪt/ (r links to m)\n\"must pack\" → /mʌst pæk/ (t links to p)"
+        "speaker": "Noah",
+        "text": "Hmm... we could try using WebSockets. It might save us a lot of time compared to polling.",
+        "ipa": "hmm | wi kʊd traɪ ˈjuzɪŋ ˈwɛbˌsɑkɪts | ɪt maɪt seɪv ʌs ə lɑt əv taɪm kəmˈpɛrd tə ˈpɑlɪŋ",
+        "stress": "Hmm... we COULD TRY USING WEBSOCKETS | it MIGHT SAVE US a LOT of TIME compared to POLLING",
+        "linking": "\"could try\" → /kʊd traɪ/ (link 'could' to 'try')\n\"save us\" → /seɪv ʌs/ (link 'save' to 'us')"
     },
     {
-        "speaker": "Laura",
-        "text": "Definitely. Also, we ought to check the trail conditions online. Some paths could still be closed after last week's storm.",
-        "ipa": "ˈdɛfənətli | ˈɔlsoʊ | wi ɔt tu ʧɛk ðə treɪl kənˈdɪʃənz ˈɔnˌlaɪn | səm pæθs kʊd stɪl bi kloʊzd ˈæftər læst wiks stɔrm",
-        "stress": "DEFINITELY | ALSO | we OUGHT TO CHECK the TRAIL CONDITIONS ONLINE | some PATHS could STILL be CLOSED after LAST WEEK'S STORM",
-        "linking": "\"ought to\" → /ɔt tu/ (t links to t)\n\"be closed\" → /bi kloʊzd/ (i links to k)"
+        "speaker": "Emma",
+        "text": "Yeah, WebSockets are able to handle real-time communication efficiently. But do you think our server can manage that load?",
+        "ipa": "jæ | ˈwɛbˌsɑkɪts ɑr ˈeɪbəl tə ˈhændəl ˈriəl taɪm kəˌmjunəˈkeɪʃən ɪˈfɪʃəntli | bət dʊ jə θɪŋk ɑr ˈsɜrvɚ kən ˈmænɪʤ ðæt loʊd",
+        "stress": "Yeah | WEBSOCKETS are ABLE to HANDLE REAL-TIME COMMUNICATION EFFICIENTLY | but DO YOU THINK our SERVER can MANAGE that LOAD",
+        "linking": "\"are able to\" → /ɑr ˈeɪbəl tə/ (smooth linking)\n\"do you\" → /dʊ jə/ (common reduction)\n\"can manage\" → /kən ˈmænɪʤ/ (link 'can' to 'manage')"
     },
     {
-        "speaker": "Ben",
-        "text": "Good idea. Oh, and remember, we have to get a hiking permit from the park office. They won't let us in without it.",
-        "ipa": "ɡʊd aɪˈdiə | oʊ | ənd rɪˈmɛmbər | wi hæv tu ɡɛt ə ˈhaɪkɪŋ ˈpɜrmɪt frəm ðə pɑrk ˈɔfəs | ðeɪ woʊnt lɛt ʌs ɪn wɪˈðaʊt ɪt",
-        "stress": "GOOD IDEA | OH | and REMEMBER | we HAVE TO GET a HIKING PERMIT from the PARK OFFICE | they WON'T LET US IN WITHOUT IT",
-        "linking": "\"have to\" → /hæv tu/ (v links to t)\n\"let us\" → /lɛt ʌs/ (t links to u)"
+        "speaker": "Noah",
+        "text": "It might struggle at first. We could always start with a small-scale version and then optimize once we know how many users will be active.",
+        "ipa": "ɪt maɪt ˈstrʌɡəl ət fɜrst | wi kʊd ˈɔlweɪz stɑrt wɪð ə smɔl skeɪl ˈvɜrʒən ənd ðɛn ˈɑptəˌmaɪz wʌns wi noʊ haʊ ˈmɛni ˈjuzɚz wɪl bi ˈæktɪv",
+        "stress": "IT MIGHT STRUGGLE at FIRST | we COULD ALWAYS START with a SMALL-SCALE VERSION and THEN OPTIMIZE once we KNOW how MANY USERS will be ACTIVE",
+        "linking": "\"could always\" → /kʊd ˈɔlweɪz/ (linking)\n\"start with\" → /stɑrt wɪð/ (link 'start' to 'with')\n\"once we know\" → /wʌns wi noʊ/ (smooth transition)"
     },
     {
-        "speaker": "Laura",
-        "text": "Right, I almost forgot! Do you think we should bring an extra jacket? It might get cold up there.",
-        "ipa": "raɪt | aɪ ˈɔlmoʊst fərˈɡɑt | du ju θɪŋk wi ʃʊd brɪŋ ən ˈɛkstrə ˈʤækɪt | ɪt maɪt ɡɛt koʊld ʌp ðɛr",
-        "stress": "RIGHT | I ALMOST FORGOT | do YOU THINK we SHOULD BRING an EXTRA JACKET | it MIGHT GET COLD UP THERE",
-        "linking": "\"should bring\" → /ʃʊd brɪŋ/ (d links to b)\n\"get cold\" → /ɡɛt koʊld/ (t links to k)"
+        "speaker": "Emma",
+        "text": "That's smart. Alternatively, if WebSockets become too complex, we could implement push notifications via a third-party service like Firebase.",
+        "ipa": "ðæts smɑrt | ɔlˈtɜrnətɪvli | ɪf ˈwɛbˌsɑkɪts bɪˈkʌm tu kəmˈplɛks | wi kʊd ˈɪmpləˌmɛnt pʊʃ ˌnoʊtəfɪˈkeɪʃənz ˈvaɪə ə θɜrd ˈpɑrti ˈsɜrvɪs laɪk ˈfaɪɚˌbeɪs",
+        "stress": "That's SMART | Alternatively, if WEBSOCKETS become TOO COMPLEX | we COULD IMPLEMENT PUSH NOTIFICATIONS via a THIRD-PARTY SERVICE like FIREBASE",
+        "linking": "\"could implement\" → /kʊd ˈɪmpləˌmɛnt/ (link 'could' to 'implement')\n\"service like\" → /ˈsɜrvɪs laɪk/ (smooth link)"
     },
     {
-        "speaker": "Ben",
-        "text": "Better to be prepared. You don't have to bring heavy gear, but a windbreaker would be smart.",
-        "ipa": "ˈbɛtər tu bi prɪˈpɛrd | ju doʊnt hæv tu brɪŋ ˈhɛvi ɡɪr | bʌt ə ˈwɪndˌbreɪkər wʊd bi smɑrt",
-        "stress": "BETTER TO BE PREPARED | you DON'T HAVE TO BRING HEAVY GEAR | but a WINDBREAKER WOULD BE SMART",
-        "linking": "\"don't have\" → /doʊnt hæv/ (t links to h)\n\"would be\" → /wʊd bi/ (d links to b)"
+        "speaker": "Noah",
+        "text": "Good call. It's important to remember that there are alternatives to building everything from scratch. Sometimes it's better to be able to deliver fast using existing services.",
+        "ipa": "ɡʊd kɔl | ɪts ɪmˈpɔrtənt tə rɪˈmɛmbɚ ðæt ðɛr ɑr ɔlˈtɜrnətɪvz tə ˈbɪldɪŋ ˈɛvrɪθɪŋ frəm skræʧ | ˈsʌmtaɪmz ɪts ˈbɛtɚ tə bi ˈeɪbəl tə dɪˈlɪvɚ fæst ˈjuzɪŋ ɪɡˈzɪstɪŋ ˈsɜrvɪsɪz",
+        "stress": "GOOD CALL | It's IMPORTANT to REMEMBER that there are ALTERNATIVES to BUILDING EVERYTHING from SCRATCH | SOMETIMES it's BETTER to BE ABLE to DELIVER FAST using EXISTING SERVICES",
+        "linking": "\"to be able to\" → /tə bi ˈeɪbəl tə/ (smooth link)\n\"using existing\" → /ˈjuzɪŋ ɪɡˈzɪstɪŋ/ (z links to e)"
     },
     {
-        "speaker": "Laura",
-        "text": "Got it. Also, we might want to bring a flashlight. Just in case something delays us.",
-        "ipa": "ɡɑt ɪt | ˈɔlsoʊ | wi maɪt wɑnt tu brɪŋ ə ˈflæʃˌlaɪt | ʤʌst ɪn keɪs ˈsʌmθɪŋ dɪˈleɪz ʌs",
-        "stress": "GOT IT | ALSO | we MIGHT WANT TO BRING a FLASHLIGHT | JUST IN CASE SOMETHING DELAYS US",
-        "linking": "\"want to\" → /wɑnt tu/ (t links to t)\n\"just in\" → /ʤʌst ɪn/ (t links to i)"
-    },
-    {
-        "speaker": "Ben",
-        "text": "True. Even though we plan to be back before dark, anything could happen. We shouldn't underestimate the trail.",
-        "ipa": "tru | ˈivən ðoʊ wi plæn tu bi bæk bɪˈfɔr dɑrk | ˈɛniˌθɪŋ kʊd ˈhæpən | wi ˈʃʊdənt ˌʌndərˈɛstəˌmeɪt ðə treɪl",
-        "stress": "TRUE | EVEN THOUGH we PLAN TO BE BACK BEFORE DARK | ANYTHING COULD HAPPEN | we SHOULDN'T UNDERESTIMATE the TRAIL",
-        "linking": "\"plan to\" → /plæn tu/ (n links to t)\n\"shouldn't underestimate\" → /ˈʃʊdənt ˌʌndərˈɛstəˌmeɪt/ (t links to u)"
-    },
-    {
-        "speaker": "Laura",
-        "text": "Agreed! I'm excited — this will be an awesome adventure if we plan it right!",
-        "ipa": "əˈɡrid | aɪm ɪkˈsaɪtɪd | ðɪs wɪl bi ən ˈɔsəm ædˈvɛnʧər ɪf wi plæn ɪt raɪt",
-        "stress": "AGREED | I'M EXCITED — this WILL BE an AWESOME ADVENTURE if we PLAN IT RIGHT",
-        "linking": "\"will be\" → /wɪl bi/ (l links to b)\n\"plan it\" → /plæn ɪt/ (n links to i)"
+        "speaker": "Emma",
+        "text": "Agreed! So, we may need to propose both options to the client and let them choose depending on the budget.",
+        "ipa": "əˈɡrid | soʊ | wi meɪ nid tə prəˈpoʊz boʊθ ˈɑpʃənz tə ðə ˈklaɪənt ənd lɛt ðɛm ʧuz dɪˈpɛndɪŋ ɑn ðə ˈbʌʤɪt",
+        "stress": "AGREED | So, we MAY NEED to PROPOSE BOTH OPTIONS to the CLIENT and LET them CHOOSE depending on the BUDGET",
+        "linking": "\"need to\" → /nid tə/ (d links to t)\n\"let them\" → /lɛt ðɛm/ (t links to th)"
     },
     {
         "speaker": "Noah",
         "text": "Exactly. I'll see if I can draw up a quick comparison sheet before the meeting.",
         "ipa": "ɪɡˈzæktli | aɪl si ɪf aɪ kən drɔ ʌp ə kwɪk kəmˈpɛrəsən ʃit bɪˈfɔr ðə ˈmitɪŋ",
         "stress": "EXACTLY | I'll SEE if I CAN DRAW UP a QUICK COMPARISON SHEET before the MEETING",
-        "linking": "\"I'll see\" → /aɪl si/ (l links to s)\n\"see if I can\" → /si ɪf aɪ kən/ (smooth transitions)\n\"draw up\" → /drɔ ʌp/ (draw + up linked)\n\"sheet before\" → /ʃit bɪˈfɔr/ (t links to b)"
+        "linking": "\"I'll see\" → /aɪl si/ (l links to s)\n\"draw up\" → /drɔ ʌp/ (w links to u)\n\"sheet before\" → /ʃit bɪˈfɔr/ (t links to b)"
     }
 ]
