@@ -1,0 +1,93 @@
+[
+    {
+        "speaker": "Ava",
+        "text": "We plan to deploy the update on Friday night, right?",
+        "ipa": "wi plæn tə dɪˈplɔɪ ði ˈʌpˌdeɪt ɑn ˈfraɪdeɪ naɪt, raɪt?",
+        "stress": "We PLAN to DEPLOY the UPDATE on FRIDAY NIGHT, right?",
+        "linking": "\"plan to\" → /plæn tə/ (n + t linking)\n\"deploy the\" → /dɪˈplɔɪ ði/ (y + th linking)"
+    },
+    {
+        "speaker": "Liam",
+        "text": "Yes, but we ought to prepare a full rollback strategy, just in case something goes wrong.",
+        "ipa": "jɛs, bət wi ɔt tə prɪˈpɛɹ ə fʊl ˈroʊlˌbæk ˈstrætəʤi, ʤəst ɪn keɪs ˈsʌmθɪŋ ɡoʊz rɔŋ.",
+        "stress": "Yes, but we OUGHT to PREPARE a FULL ROLLBACK STRATEGY, just in case SOMETHING goes WRONG.",
+        "linking": "\"ought to\" → /ɔt tə/ (t + t linking)\n\"prepare a\" → /prɪˈpɛɹ ə/ (r + a linking)"
+    },
+    {
+        "speaker": "Ava",
+        "text": "Absolutely. I offered to help document the backup process yesterday.",
+        "ipa": "ˌæbsəˈlutli. aɪ ˈɔfɚd tə hɛlp ˈdɑkjəˌmɛnt ðə ˈbækˌʌp ˈprɑsɛs ˈjɛstɚˌdeɪ.",
+        "stress": "Absolutely. I OFFERED to HELP DOCUMENT the BACKUP PROCESS YESTERDAY.",
+        "linking": "\"offered to\" → /ˈɔfɚd tə/ (d + t linking)\n\"help document\" → /hɛlp ˈdɑkjəˌmɛnt/ (p + d linking)"
+    },
+    {
+        "speaker": "Liam",
+        "text": "Thanks! Also, the managers expect us to present a risk analysis tomorrow.",
+        "ipa": "θæŋks! ˈɔlsoʊ, ðə ˈmænəʤɚz ɪkˈspɛkt ʌs tə prɪˈzɛnt ə rɪsk əˈnæləsɪs təˈmɑroʊ.",
+        "stress": "Thanks! Also, the MANAGERS EXPECT us to PRESENT a RISK ANALYSIS TOMORROW.",
+        "linking": "\"expect us\" → /ɪkˈspɛkt ʌs/ (t + u linking)\n\"present a\" → /prɪˈzɛnt ə/ (t + a linking)"
+    },
+    {
+        "speaker": "Ava",
+        "text": "I'll get on that. I don't mind staying late today if necessary.",
+        "ipa": "aɪl ɡɛt ɑn ðæt. aɪ doʊnt maɪnd ˈsteɪɪŋ leɪt təˈdeɪ ɪf ˈnɛsəˌsɛri.",
+        "stress": "I'll GET on THAT. I DON'T MIND STAYING LATE TODAY if NECESSARY.",
+        "linking": "\"get on\" → /ɡɛt ɑn/ (t + o linking)\n\"staying late\" → /ˈsteɪɪŋ leɪt/ (ng + l linking)"
+    },
+    {
+        "speaker": "Liam",
+        "text": "By the way, I can't stand dealing with those database migration scripts — they’re a nightmare.",
+        "ipa": "baɪ ðə weɪ, aɪ kænt stænd ˈdiːlɪŋ wɪð ðoʊz ˈdeɪtəˌbeɪs maɪˈɡreɪʃən skrɪpts — ðeɪr ə ˈnaɪtˌmɛr.",
+        "stress": "By the WAY, I CAN'T STAND DEALING with those DATABASE MIGRATION SCRIPTS — they're a NIGHTMARE.",
+        "linking": "\"can't stand\" → /kænt stænd/ (t + s linking)\n\"dealing with\" → /ˈdiːlɪŋ wɪð/ (ng + w linking)"
+    },
+    {
+        "speaker": "Ava",
+        "text": "Haha, I don't mind handling them if you prefer. Honestly, I prefer focusing on backend stuff over front-end anyway.",
+        "ipa": "ˈhɑˌhɑ, aɪ doʊnt maɪnd ˈhændlɪŋ ðɛm ɪf ju prəˈfɜr. ˈhɑnəstli, aɪ prəˈfɜr ˈfoʊkəsɪŋ ɑn ˈbækˌɛnd stʌf ˈoʊvɚ ˈfrʌntˌɛnd ˈɛniˌweɪ.",
+        "stress": "Haha, I DON'T MIND HANDLING them if YOU PREFER. Honestly, I PREFER FOCUSING on BACKEND STUFF over FRONT-END ANYWAY.",
+        "linking": "\"handling them\" → /ˈhændlɪŋ ðɛm/ (ng + th linking)\n\"focusing on\" → /ˈfoʊkəsɪŋ ɑn/ (ng + o linking)"
+    },
+    {
+        "speaker": "Liam",
+        "text": "That would be amazing. I tried updating them last week but ran into some issues.",
+        "ipa": "ðæt wʊd bi əˈmeɪzɪŋ. aɪ traɪd ˈʌpˌdeɪtɪŋ ðɛm læst wik bət ræn ˈɪntu səm ˈɪʃuz.",
+        "stress": "That WOULD be AMAZING. I TRIED UPDATING them LAST WEEK but RAN into some ISSUES.",
+        "linking": "\"tried updating\" → /traɪd ˈʌpˌdeɪtɪŋ/ (d + u linking)\n\"ran into\" → /ræn ˈɪntu/ (n + i linking)"
+    },
+    {
+        "speaker": "Ava",
+        "text": "Maybe we should consider testing the scripts manually before running them in production.",
+        "ipa": "ˈmeɪbi wi ʃəd kənˈsɪdɚ ˈtɛstɪŋ ðə skrɪpts ˈmænjuəli bɪˈfɔr ˈrʌnɪŋ ðɛm ɪn prəˈdʌkʃən.",
+        "stress": "Maybe WE should CONSIDER TESTING the SCRIPTS MANUALLY before RUNNING them in PRODUCTION.",
+        "linking": "\"should consider\" → /ʃəd kənˈsɪdɚ/ (d + c linking)\n\"testing the\" → /ˈtɛstɪŋ ðə/ (ng + th linking)"
+    },
+    {
+        "speaker": "Liam",
+        "text": "Good idea. Also, don't forget to notify the security team about the downtime window.",
+        "ipa": "ɡʊd aɪˈdiə. ˈɔlsoʊ, doʊnt fɚˈɡɛt tə ˈnoʊtəˌfaɪ ðə sɪˈkjʊrəti tim əˈbaʊt ðə ˈdaʊnˌtaɪm ˈwɪndoʊ.",
+        "stress": "Good IDEA. Also, DON'T FORGET to NOTIFY the SECURITY TEAM about the DOWNTIME WINDOW.",
+        "linking": "\"don't forget\" → /doʊnt fɚˈɡɛt/ (t + f linking)\n\"notify the\" → /ˈnoʊtəˌfaɪ ðə/ (y + th linking)"
+    },
+    {
+        "speaker": "Ava",
+        "text": "Right. I'll remember to send them an email after this meeting.",
+        "ipa": "raɪt. aɪl rɪˈmɛmbɚ tə sɛnd ðɛm ən ˈiˌmeɪl ˈæftɚ ðɪs ˈmitɪŋ.",
+        "stress": "Right. I'll REMEMBER to SEND them an EMAIL after this MEETING.",
+        "linking": "\"remember to\" → /rɪˈmɛmbɚ tə/ (r + t linking)\n\"send them\" → /sɛnd ðɛm/ (d + th linking)"
+    },
+    {
+        "speaker": "Liam",
+        "text": "And if something fails, we must stop to analyze the logs before trying a second deployment.",
+        "ipa": "ænd ɪf ˈsʌmθɪŋ feɪlz | wi məst stɑp tə ˈænəˌlaɪz ðə lɔɡz bɪˈfɔr ˈtraɪɪŋ ə ˈsɛkənd dɪˈplɔɪmənt",
+        "stress": "And if SOMETHING FAILS | we MUST STOP to ANALYZE the LOGS before TRYING a SECOND DEPLOYMENT",
+        "linking": "\"must stop to\" → /məst stɑp tə/ (stop + to smooth link)\n\"analyze the\" → /ˈænəˌlaɪz ðə/ (z + th link)\n\"trying a\" → /ˈtraɪɪŋ ə/ (ng + a glide)\n\"second deployment\" → /ˈsɛkənd dɪˈplɔɪmənt/ (d + d smooth link)"
+    },
+    {
+        "speaker": "Ava",
+        "text": "Definitely. Rushing could end up causing bigger problems.",
+        "ipa": "ˈdɛfɪnətli | ˈrʌʃɪŋ kəd ɛnd ʌp ˈkɔzɪŋ ˈbɪɡɚ ˈprɑbləmz",
+        "stress": "DEFINITELY | RUSHING could END UP CAUSING BIGGER PROBLEMS",
+        "linking": "\"could end up\" → /kəd ɛnd ʌp/ (d + ɛ, p + k smooth connection)\n\"causing bigger\" → /ˈkɔzɪŋ ˈbɪɡɚ/ (ng + b soft link)"
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "speaker": "Josh",
+        "text": "Emma, do you think it’s worth attempting to learn multiple frameworks at once?",
+        "ipa": "ˈɛmə | du jʊ θɪŋk ɪts wɝθ əˈtɛmptɪŋ tə lɝn ˈmʌltəpəl ˈfɹeɪmˌwɝks æt wʌns",
+        "stress": "EMMA | do YOU THINK it’s WORTH ATTEMPTING to LEARN MULTIPLE FRAMEWORKS at ONCE",
+        "linking": "\"worth attempting\" → /wɝθ əˈtɛmptɪŋ/ (th + a linking)\n\"attempting to\" → /əˈtɛmptɪŋ tə/ (ng + t linking)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "Honestly, I advise focusing on one at a time. Trying to master everything at once just ends up involving a lot of confusion.",
+        "ipa": "ˈɑnəstli | aɪ ædˈvaɪz ˈfoʊkəsɪŋ ɑn wʌn æt ə taɪm | ˈtraɪɪŋ tə ˈmæstɚ ˈɛvɹiθɪŋ æt wʌns ʤəst ɛndz ʌp ɪnˈvɑlvɪŋ ə lɑt əv kənˈfjuʒən",
+        "stress": "HONESTLY | I ADVISE FOCUSING on ONE at a TIME | TRYING to MASTER EVERYTHING at ONCE just ENDS UP INVOLVING a LOT of CONFUSION",
+        "linking": "\"focusing on\" → /ˈfoʊkəsɪŋ ɑn/ (ng + o linking)\n\"ends up\" → /ɛndz ʌp/ (z + u linking)"
+    },
+    {
+        "speaker": "Josh",
+        "text": "Yeah, I considered learning React, Vue, and Angular all together, but maybe that’s too much.",
+        "ipa": "jæ | aɪ kənˈsɪdɚd ˈlɝnɪŋ ɹiˈækt | vju | ænd ˈæŋɡjələr ɔl təˈɡɛðɚ | bət ˈmeɪbi ðæts tu mʌʧ",
+        "stress": "YEAH | I CONSIDERED LEARNING REACT, VUE, and ANGULAR all TOGETHER | but MAYBE that’s TOO MUCH",
+        "linking": "\"learning React\" → /ˈlɝnɪŋ ɹiˈækt/ (ng + r linking)\n\"all together\" → /ɔl təˈɡɛðɚ/ (l + t linking)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "Exactly. You should choose to specialize at first. Later, when you're confident, you can go on expanding your stack.",
+        "ipa": "ɪɡˈzæktli | ju ʃəd ʧuz tə ˈspɛʃəˌlaɪz æt fɝst | ˈleɪtɚ | wɛn jʊɹ ˈkɑnfɪdənt | ju kən ɡoʊ ɑn ɪkˈspændɪŋ jʊɹ stæk",
+        "stress": "EXACTLY | You SHOULD CHOOSE to SPECIALIZE at FIRST | LATER, when you're CONFIDENT, you can GO ON EXPANDING your STACK",
+        "linking": "\"choose to\" → /ʧuz tə/ (z + t linking)\n\"go on\" → /ɡoʊ ɑn/ (w + o linking)"
+    },
+    {
+        "speaker": "Josh",
+        "text": "Got it. Also, do you approve of taking online certifications, or do you think experience matters more?",
+        "ipa": "ɡɑt ɪt | ˈɔlsoʊ | du jʊ əˈpɹuv əv ˈteɪkɪŋ ˈɑnˌlaɪn ˌsɝtɪfɪˈkeɪʃənz | ɔɹ du jʊ θɪŋk ɪkˈspɪɹiəns ˈmætɚz mɔɹ",
+        "stress": "GOT IT | ALSO, do YOU APPROVE of TAKING ONLINE CERTIFICATIONS | or do YOU THINK EXPERIENCE MATTERS MORE",
+        "linking": "\"approve of\" → /əˈpɹuv əv/ (v + o linking)\n\"taking online\" → /ˈteɪkɪŋ ˈɑnˌlaɪn/ (ng + o linking)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "I approve of getting certifications — they tend to open doors, especially for juniors. But I always recommend building real-world projects too.",
+        "ipa": "aɪ əˈpɹuv əv ˈɡɛtɪŋ ˌsɝtɪfɪˈkeɪʃənz — ðeɪ tɛnd tə ˈoʊpən dɔɹz | əˈspɛʃəli fɔɹ ˈʤunjɚz | bət aɪ ˈɔlweɪz ˌrɛkəˈmɛnd ˈbɪldɪŋ ˈɹiəl wɝld ˈpɹɑʤɛkts tu",
+        "stress": "I APPROVE of GETTING CERTIFICATIONS — they TEND to OPEN DOORS, especially for JUNIORS | But I ALWAYS RECOMMEND BUILDING REAL-WORLD PROJECTS too",
+        "linking": "\"approve of\" → /əˈpɹuv əv/ (v + o linking)\n\"building real-world\" → /ˈbɪldɪŋ ˈɹiəl wɝld/ (ng + r linking)"
+    },
+    {
+        "speaker": "Josh",
+        "text": "Thanks! By the way, my manager reminded me to update my GitHub portfolio this week.",
+        "ipa": "θæŋks | baɪ ðə weɪ | maɪ ˈmænɪʤɚ ɹɪˈmaɪndɪd mi tə ˈʌpˌdeɪt maɪ ˈɡɪtˌhʌb pɔɹtˈfoʊlioʊ ðɪs wik",
+        "stress": "THANKS | BY THE WAY, my MANAGER REMINDED me to UPDATE my GITHUB PORTFOLIO this WEEK",
+        "linking": "\"reminded me\" → /ɹɪˈmaɪndɪd mi/ (d + m linking)\n\"update my\" → /ˈʌpˌdeɪt maɪ/ (t + m linking)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "Good! Don't put off uploading your best code. Recruiters tend to check portfolios before even bothering to schedule interviews.",
+        "ipa": "ɡʊd | doʊnt pʊt ɔf ˈʌpˌloʊdɪŋ jʊɹ bɛst koʊd | ɹɪˈkɹutɚz tɛnd tə ʧɛk pɔɹtˈfoʊlioʊz bɪˈfɔɹ ˈivɪn ˈbɑðɚɪŋ tə ˈskɛʤuəl ˈɪntɚˌvjuz",
+        "stress": "GOOD | DON'T PUT OFF UPLOADING your BEST CODE | RECRUITERS TEND to CHECK PORTFOLIOS BEFORE even BOTHERING to SCHEDULE INTERVIEWS",
+        "linking": "\"put off\" → /pʊt ɔf/ (t + o linking)\n\"check portfolios\" → /ʧɛk pɔɹtˈfoʊlioʊz/ (k + p linking)"
+    },
+    {
+        "speaker": "Josh",
+        "text": "I'll keep that in mind. I feel like trying to build something new this weekend.",
+        "ipa": "aɪl kip ðæt ɪn maɪnd | aɪ fil laɪk ˈtraɪɪŋ tə bɪld ˈsʌmθɪŋ nu ðɪs ˈwikˌɛnd",
+        "stress": "I'LL KEEP that in MIND | I FEEL like TRYING to BUILD SOMETHING NEW this WEEKEND",
+        "linking": "\"trying to\" → /ˈtraɪɪŋ tə/ (ng + t linking)\n\"build something\" → /bɪld ˈsʌmθɪŋ/ (d + s linking)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "That’s the spirit! I can't help feeling excited when juniors are this motivated.",
+        "ipa": "ðæts ðə ˈspɪɹɪt | aɪ kænt hɛlp ˈfiːlɪŋ ɪkˈsaɪtɪd wɛn ˈʤuːnjɚz ɑɹ ðɪs ˈmoʊtəˌveɪtɪd",
+        "stress": "THAT’S the SPIRIT | I CAN'T HELP FEELING EXCITED when JUNIORS are this MOTIVATED",
+        "linking": "\"can’t help\" → /kænt hɛlp/ (t + h linking)\n\"help feeling\" → /hɛlp ˈfiːlɪŋ/ (p + f linking)\n\"feeling excited\" → /ˈfiːlɪŋ ɪkˈsaɪtɪd/ (ng + e linking)"
+    },
+    {
+        "speaker": "Josh",
+        "text": "Haha, well, I’ll do my best. Sometimes I need to ask for help though.",
+        "ipa": "ˈhɑːhɑː | wɛl | aɪl du maɪ bɛst | ˈsʌmˌtaɪmz aɪ niːd tə æsk fɚ hɛlp ðoʊ",
+        "stress": "HAHA | WELL | I’LL DO MY BEST | SOMETIMES I NEED to ASK for HELP though",
+        "linking": "\"need to\" → /niːd tə/ (d + t linking)\n\"ask for\" → /æsk fɚ/ (k + f linking)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "Of course! Everyone does. I was made to rely on teammates so many times early in my career.",
+        "ipa": "əv kɔɹs | ˈɛvɹiˌwʌn dʌz | aɪ wəz meɪd tə ɹɪˈlaɪ ɑn ˈtiːmmeɪts səʊ ˈmɛni taɪmz ˈɝːli ɪn maɪ kəˈɹɪɹ",
+        "stress": "OF COURSE | EVERYONE DOES | I WAS MADE to RELY on TEAMMATES so MANY TIMES EARLY in MY CAREER",
+        "linking": "\"made to\" → /meɪd tə/ (d + t linking)\n\"rely on\" → /ɹɪˈlaɪ ɑn/ (y + o linking)\n\"so many\" → /səʊ ˈmɛni/ (smooth link)"
+    },
+    {
+        "speaker": "Josh",
+        "text": "Really? You seem like you always knew everything!",
+        "ipa": "ˈɹɪəli | ju sim laɪk ju ˈɔlweɪz nu ˈɛvɹiθɪŋ",
+        "stress": "REALLY? You SEEM like you ALWAYS KNEW EVERYTHING",
+        "linking": "\"seem like\" → /sim laɪk/ (m + l linking)\n\"knew everything\" → /nu ˈɛvɹiθɪŋ/ (w + e smooth link)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "Trust me, I remember struggling a lot. But you have to keep going — that's how you grow.",
+        "ipa": "tɹʌst mi | aɪ ɹɪˈmɛmbɚ ˈstɹʌɡəlɪŋ ə lɑt | bət ju hæv tə kip ˈɡoʊɪŋ — ðæts haʊ ju ɡɹoʊ",
+        "stress": "TRUST ME | I REMEMBER STRUGGLING a LOT | But YOU HAVE to KEEP GOING — THAT’S HOW YOU GROW",
+        "linking": "\"have to\" → /hæv tə/ (v + t linking)\n\"keep going\" → /kip ˈɡoʊɪŋ/ (p + g linking)\n\"that’s how\" → /ðæts haʊ/ (s + h linking)"
+    }
+]

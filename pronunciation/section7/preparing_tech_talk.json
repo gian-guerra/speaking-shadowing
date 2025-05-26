@@ -1,0 +1,58 @@
+[
+    {
+        "speaker": "Nathan",
+        "text": "I agreed to give a presentation on AI trends next month. Would you consider joining me as a co-speaker?",
+        "ipa": "aɪ əˈɡɹid tə ɡɪv ə ˌpɹɛzənˈteɪʃən ɑn ˌeɪˈaɪ tɹɛndz nɛkst mʌnθ | wʊd jʊ kənˈsɪdɚ ˈʤɔɪnɪŋ mi æz ə koʊˈspiːkɚ",
+        "stress": "I AGREED to GIVE a PRESENTATION on AI TRENDS NEXT MONTH | Would YOU CONSIDER JOINING ME as a CO-SPEAKER",
+        "linking": "\"agreed to\" → /əˈɡɹid tə/ (d + t linking)\n\"presentation on\" → /ˌpɹɛzənˈteɪʃən ɑn/ (n + o linking)"
+    },
+    {
+        "speaker": "Chloe",
+        "text": "I'd love to! Actually, I prefer sharing the stage with someone — it's less stressful.",
+        "ipa": "aɪd lʌv tu | ˈækʧuəli | aɪ pɹəˈfɝ ˈʃɛɹɪŋ ðə steɪʤ wɪð ˈsʌmwʌn | ɪts lɛs ˈstɹɛsfəl",
+        "stress": "I'd LOVE to! ACTUALLY, I PREFER SHARING the STAGE with SOMEONE — it's LESS STRESSFUL",
+        "linking": "\"prefer sharing\" → /pɹəˈfɝ ˈʃɛɹɪŋ/ (r + sh linking)\n\"stage with\" → /steɪʤ wɪð/ (g + w linking)"
+    },
+    {
+        "speaker": "Nathan",
+        "text": "Exactly! I also intend to start working on the slides this week. Maybe we could carry on brainstorming some ideas together?",
+        "ipa": "ɪɡˈzæktli | aɪ ˈɔlsoʊ ɪnˈtɛnd tə stɑɹt ˈwɝkɪŋ ɑn ðə slaɪdz ðɪs wik | ˈmeɪbi wi kʊd ˈkæɹi ɑn ˈbɹeɪnˌstɔɹmɪŋ səm aɪˈdiəz təˈɡɛðɚ",
+        "stress": "EXACTLY! I ALSO INTEND to START WORKING on the SLIDES this WEEK | Maybe we could CARRY ON BRAINSTORMING some IDEAS TOGETHER",
+        "linking": "\"intend to\" → /ɪnˈtɛnd tə/ (d + t linking)\n\"carry on\" → /ˈkæɹi ɑn/ (y + o linking)"
+    },
+    {
+        "speaker": "Chloe",
+        "text": "Sure. I'm thinking about suggesting adding a live demo too. What do you think?",
+        "ipa": "ʃʊɹ | aɪm ˈθɪŋkɪŋ əˈbaʊt səˈʤɛstɪŋ ˈædɪŋ ə laɪv ˈdɛmoʊ tu | wʌt du jʊ θɪŋk",
+        "stress": "SURE. I'm THINKING about SUGGESTING ADDING a LIVE DEMO too | What do YOU THINK",
+        "linking": "\"thinking about\" → /ˈθɪŋkɪŋ əˈbaʊt/ (ng + a linking)\n\"adding a\" → /ˈædɪŋ ə/ (ng + a linking)"
+    },
+    {
+        "speaker": "Nathan",
+        "text": "That's a great idea. I attempted doing a live coding session once — it went well. We just need to plan it very carefully.",
+        "ipa": "ðæts ə ɡɹeɪt aɪˈdiə | aɪ əˈtɛmptɪd ˈduɪŋ ə laɪv ˈkoʊdɪŋ ˈsɛʃən wʌns — ɪt wɛnt wɛl | wi ʤəst nid tə plæn ɪt ˈvɛɹi ˈkɛɹfəli",
+        "stress": "That's a GREAT IDEA | I ATTEMPTED DOING a LIVE CODING SESSION once — it WENT WELL | We just NEED to PLAN it VERY CAREFULLY",
+        "linking": "\"attempted doing\" → /əˈtɛmptɪd ˈduɪŋ/ (d + d linking)\n\"plan it\" → /plæn ɪt/ (n + i linking)"
+    },
+    {
+        "speaker": "Chloe",
+        "text": "Absolutely. We shouldn't risk failing because of technical issues. Maybe we ought to check the venue setup in advance.",
+        "ipa": "ˌæbsəˈlutli | wi ˈʃʊdənt ɹɪsk ˈfeɪlɪŋ bɪˈkəz əv ˈtɛknɪkəl ˈɪʃuz | ˈmeɪbi wi ɔt tə ʧɛk ðə ˈvɛnju ˈsɛtʌp ɪn ədˈvæns",
+        "stress": "ABSOLUTELY | We SHOULDN'T RISK FAILING because of TECHNICAL ISSUES | Maybe we OUGHT to CHECK the VENUE SETUP in ADVANCE",
+        "linking": "\"risk failing\" → /ɹɪsk ˈfeɪlɪŋ/ (k + f linking)\n\"check the\" → /ʧɛk ðə/ (k + th linking)"
+    },
+    {
+        "speaker": "Nathan",
+        "text": "Good point. I don't mind arriving early on the day to test everything.",
+        "ipa": "ɡʊd pɔɪnt | aɪ doʊnt maɪnd əˈɹaɪvɪŋ ˈɜɹli ɑn ðə deɪ tə tɛst ˈɛvɹiθɪŋ",
+        "stress": "GOOD POINT | I DON'T MIND ARRIVING EARLY on the DAY to TEST EVERYTHING",
+        "linking": "\"don't mind\" → /doʊnt maɪnd/ (t + m linking)\n\"arriving early\" → /əˈɹaɪvɪŋ ˈɜɹli/ (ng + e linking)"
+    },
+    {
+        "speaker": "Chloe",
+        "text": "Neither do I. Also, remember to confirm the final schedule with the organizers. We can't afford forgetting anything important!",
+        "ipa": "ˈniðɚ du aɪ | ˈɔlsoʊ | ɹɪˈmɛmbɚ tə kənˈfɝm ðə ˈfaɪnəl ˈskɛʤuəl wɪð ði ˈɔɹɡəˌnaɪzɚz | wi kænt əˈfɔɹd fɚˈɡɛtɪŋ ˈɛniθɪŋ ɪmˈpɔɹtənt",
+        "stress": "NEITHER DO I | ALSO, REMEMBER to CONFIRM the FINAL SCHEDULE with the ORGANIZERS | We CAN'T AFFORD FORGETTING ANYTHING IMPORTANT",
+        "linking": "\"remember to\" → /ɹɪˈmɛmbɚ tə/ (r + t linking)\n\"can't afford\" → /kænt əˈfɔɹd/ (t + a linking)"
+    }
+]
