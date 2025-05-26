@@ -1,0 +1,93 @@
+[
+    {
+        "speaker": "Olivia",
+        "text": "Hey, did you hear what Daniel announced earlier today about the deployment?",
+        "ipa": "heɪ | dɪdʒə hɪɹ wʌt ˈdænjəl əˈnaʊnst ˈɝliɚ təˈdeɪ əˈbaʊt ðə dɪˈplɔɪmənt",
+        "stress": "Hey | did you HEAR what DANIEL ANNOUNCED EARLIER TODAY about the DEPLOYMENT",
+        "linking": "\"did you\" → /dɪdʒə/ (you reduced)\n\"earlier today\" → /ˈɝliɚ təˈdeɪ/ (linking r to to)"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "Not fully. What did he say?",
+        "ipa": "nɑt ˈfʊli | wʌt dɪd i seɪ",
+        "stress": "Not FULLY | what did he SAY",
+        "linking": "\"did he\" → /dɪd i/ (link d to vowel)"
+    },
+    {
+        "speaker": "Olivia",
+        "text": "He informed us that the deployment window had been moved to the following day to avoid peak traffic. He reminded us that we must finish testing by tonight.",
+        "ipa": "hi ɪnˈfɔɹmd əs ðət ðə dɪˈplɔɪmənt ˈwɪndoʊ həd bɪn muvd tə ðə ˈfɑloʊɪŋ deɪ tə əˈvɔɪd pik ˈtɹæfɪk | hi ɹɪˈmaɪndɪd əs ðət wi mʌst ˈfɪnɪʃ ˈtɛstɪŋ baɪ təˈnaɪt",
+        "stress": "He INFORMED us that the DEPLOYMENT WINDOW had been MOVED to the FOLLOWING DAY to AVOID PEAK TRAFFIC | he REMINDED us that we MUST FINISH TESTING by TONIGHT",
+        "linking": "\"had been\" → /həd bɪn/ (reduction)\n\"moved to\" → /muvd tə/ (link d to to)"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "Did he explain why the schedule changed?",
+        "ipa": "dɪd i ɪkˈspleɪn waɪ ðə ˈskɛʤuˌəl ʧeɪndʒd",
+        "stress": "Did he EXPLAIN why the SCHEDULE CHANGED",
+        "linking": "\"did he\" → /dɪd i/ (vowel link)"
+    },
+    {
+        "speaker": "Olivia",
+        "text": "Yeah, he explained that the product team had requested extra QA time after finding a bug this morning.",
+        "ipa": "jæ | hi ɪkˈspleɪnd ðət ðə ˈpɹɑdəkt tim həd ɹɪˈkwɛstɪd ˈɛkstɹə ˈkjuˈeɪ taɪm ˈæftɚ ˈfaɪndɪŋ ə bʌɡ ðɪs ˈmɔɹnɪŋ",
+        "stress": "Yeah | he EXPLAINED that the PRODUCT TEAM had REQUESTED EXTRA QA TIME after FINDING a BUG this MORNING",
+        "linking": "\"had requested\" → /həd ɹɪˈkwɛstɪd/ (reduction)\n\"finding a bug\" → /ˈfaɪndɪŋ ə bʌɡ/ (linking ing + a)"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "That makes sense. Did he ask if we could join the final review meeting later today?",
+        "ipa": "ðæt meɪks sɛns | dɪd i æsk ɪf wi kəd ʤɔɪn ðə ˈfaɪnəl ɹɪˈvju ˈmitɪŋ ˈleɪtɚ təˈdeɪ",
+        "stress": "That MAKES SENSE | did he ASK if we could JOIN the FINAL REVIEW MEETING LATER TODAY",
+        "linking": "\"could join\" → /kəd ʤɔɪn/ (smooth link)\n\"later today\" → /ˈleɪtɚ təˈdeɪ/ (r + to)"
+    },
+    {
+        "speaker": "Olivia",
+        "text": "He invited us to join at 4 PM. He also wanted to know whether we had updated the rollback plan already.",
+        "ipa": "hi ɪnˈvaɪtɪd əs tə ʤɔɪn ət fɔɹ piˈɛm | hi ˈɔlsoʊ ˈwɑntɪd tə noʊ ˈwɛðɚ wi həd ˈʌpˌdeɪtɪd ðə ˈɹoʊlbæk plæn ɔlˈɹɛdi",
+        "stress": "He INVITED us to JOIN at 4 PM | he ALSO WANTED to KNOW whether we had UPDATED the ROLLBACK PLAN ALREADY",
+        "linking": "\"wanted to know\" → /ˈwɑntɪd tə noʊ/ (to reduced)\n\"had updated\" → /həd ˈʌpˌdeɪtɪd/ (d to updated)"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "And had we?",
+        "ipa": "ənd həd wi",
+        "stress": "And HAD WE",
+        "linking": "\"had we\" → /həd wi/ (smooth)"
+    },
+    {
+        "speaker": "Olivia",
+        "text": "I admitted that we were still working on it but promised that it would be ready before the meeting.",
+        "ipa": "aɪ ædˈmɪtɪd ðət wi wɚ stɪl ˈwɝkɪŋ ɑn ɪt | bət ˈpɹɑməst ðət ɪt wəd bi ˈɹɛdi bɪˈfɔɹ ðə ˈmitɪŋ",
+        "stress": "I ADMITTED that we were STILL WORKING on it | but PROMISED that it would be READY BEFORE the MEETING",
+        "linking": "\"working on\" → /ˈwɝkɪŋ ɑn/ (ng to vowel)\n\"would be\" → /wəd bi/ (reduction)"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "Good. Did Daniel mention anything about communication with users?",
+        "ipa": "ɡʊd | dɪd ˈdænjəl ˈmɛnʃən ˈɛniˌθɪŋ əˈbaʊt kəˌmjunəˈkeɪʃən wɪð ˈjuzɚz",
+        "stress": "Good | did DANIEL MENTION anything about COMMUNICATION with USERS",
+        "linking": "\"about communication\" → /əˈbaʊt kəˌmjunəˈkeɪʃən/ (t to vowel)\n\"with users\" → /wɪð ˈjuzɚz/ (smooth)"
+    },
+    {
+        "speaker": "Olivia",
+        "text": "He said that the marketing team would send out notifications the next morning. He advised us on being ready for support requests that afternoon.",
+        "ipa": "hi sɛd ðət ðə ˈmɑɹkɪtɪŋ tim wəd sɛnd aʊt ˌnoʊtəfɪˈkeɪʃənz ðə nɛkst ˈmɔɹnɪŋ | hi ædˈvaɪzd əs ɑn ˈbiɪŋ ˈɹɛdi fɚ səˈpɔɹt ɹɪˈkwɛsts ðət ˌæftɚˈnun",
+        "stress": "He SAID that the MARKETING TEAM would SEND OUT NOTIFICATIONS the NEXT MORNING | he ADVISED us on BEING READY for SUPPORT REQUESTS that AFTERNOON",
+        "linking": "\"send out\" → /sɛnd aʊt/ (d links)\n\"being ready\" → /ˈbiɪŋ ˈɹɛdi/ (ng to vowel)"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "Got it. According to the status page, everything should be operational throughout the deployment.",
+        "ipa": "ɡɑt ɪt | əˈkɔɹdɪŋ tə ðə ˈstætəs peɪdʒ | ˈɛvɹiˌθɪŋ ʃəd bi ˌɑpɚˈeɪʃənəl θɹuˈaʊt ðə dɪˈplɔɪmənt",
+        "stress": "Got it | according to the STATUS PAGE | everything SHOULD BE OPERATIONAL throughout the DEPLOYMENT",
+        "linking": "\"should be\" → /ʃəd bi/ (reduction)\n\"throughout the\" → /θɹuˈaʊt ðə/ (t to the)"
+    },
+    {
+        "speaker": "Olivia",
+        "text": "Yeah, but apparently support might receive some tickets if there’s any minor downtime.",
+        "ipa": "jæ | bət əˈpɛɹəntli səˈpɔɹt maɪt ɹɪˈsiv səm ˈtɪkɪts ɪf ðɛɹz ˈɛni ˈmaɪnɚ ˈdaʊnˌtaɪm",
+        "stress": "Yeah | but APPARENTLY SUPPORT might RECEIVE some TICKETS if there’s ANY MINOR DOWNTIME",
+        "linking": "\"might receive\" → /maɪt ɹɪˈsiv/ (t + r)"
+    }
+]
