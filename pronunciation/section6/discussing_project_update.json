@@ -1,0 +1,107 @@
+[
+    {
+        "speaker": "Olivia",
+        "text": "Hey, did you hear what Alex said during the meeting yesterday?",
+        "ipa": "heɪ | dɪdʒə hɪɹ wʌt ˈæləks sɛd ˈdʊɹɪŋ ðə ˈmitɪŋ ˈjɛstɚˌdeɪ",
+        "stress": "Hey | did you HEAR what Alex SAID during the MEETING YESTERDAY",
+        "linking": "\"did you\" → /dɪdʒə/ (reduction)\n\"during the\" → /ˈdʊɹɪŋ ðə/ (link g + the)"
+    },
+    {
+        "speaker": "Daniel",
+        "text": "Not really. What did he say?",
+        "ipa": "nɑt ˈɹɪli | wʌt dɪd i seɪ",
+        "stress": "Not REALLY | what did he SAY",
+        "linking": "\"did he\" → /dɪd i/ (smooth vowel link)"
+    },
+    {
+        "speaker": "Olivia",
+        "text": "He mentioned that the deadline had been moved to next Friday. He also explained that the client wanted a few extra features added this week.",
+        "ipa": "hi ˈmɛnʃənd ðət ðə ˈdɛdlaɪn həd bɪn muvd tə nɛkst ˈfɹaɪdeɪ | hi ˈɔlsoʊ ɪkˈspleɪnd ðət ðə ˈklaɪənt ˈwɑntɪd ə fju ˈɛkstɹə ˈfiʧɚz ˈædɪd ðɪs wik",
+        "stress": "He MENTIONED that the DEADLINE had been MOVED to NEXT Friday | he ALSO EXPLAINED that the CLIENT wanted a FEW EXTRA FEATURES added THIS WEEK",
+        "linking": "\"had been\" → /həd bɪn/ (reduction)\n\"moved to\" → /muvd tə/ (t linking)\n\"added this\" → /ˈædɪd ðɪs/ (d + this)"
+    },
+    {
+        "speaker": "Daniel",
+        "text": "Oh wow. Did he say why they changed the plan?",
+        "ipa": "oʊ waʊ | dɪd i seɪ waɪ ðeɪ ʧeɪndʒd ðə plæn",
+        "stress": "Oh WOW | did he SAY why they CHANGED the PLAN",
+        "linking": "\"did he\" → /dɪd i/ (link d + vowel)"
+    },
+    {
+        "speaker": "Olivia",
+        "text": "Yeah, he said that the client had requested it because of new business needs. He added that we would have to prioritize the API integration first.",
+        "ipa": "jæ | hi sɛd ðət ðə ˈklaɪənt həd ɹɪˈkwɛstɪd ɪt bɪˈkəz əv nu ˈbɪznəs nidz | hi ˈædɪd ðət wi wəd həv tə praɪˈɔɹəˌtaɪz ði ˈeɪˌpiˌaɪ ˌɪntəˈɡɹeɪʃən fɝst",
+        "stress": "Yeah | he SAID that the CLIENT had REQUESTED it because of NEW BUSINESS NEEDS | he ADDED that we would HAVE to PRIORITIZE the API INTEGRATION FIRST",
+        "linking": "\"would have to\" → /wəd həv tə/ (reduction)\n\"added that\" → /ˈædɪd ðət/ (d to that)"
+    },
+    {
+        "speaker": "Daniel",
+        "text": "Makes sense. Did he ask us anything?",
+        "ipa": "meɪks sɛns | dɪd i æsk əs ˈɛnɪˌθɪŋ",
+        "stress": "Makes SENSE | did he ASK us ANYTHING",
+        "linking": "\"did he\" → /dɪd i/ (vowel link)"
+    },
+    {
+        "speaker": "Olivia",
+        "text": "He asked if we could update the documentation straight away. He also wanted to know whether we had started testing the payment module.",
+        "ipa": "hi æskt ɪf wi kəd ˈʌpˌdeɪt ðə ˌdɑkjəˌmɛnˈteɪʃən streɪt əˈweɪ | hi ˈɔlsoʊ ˈwɑntɪd tə noʊ ˈwɛðɚ wi həd ˈstɑɹtɪd ˈtɛstɪŋ ðə ˈpeɪmənt ˈmɑʤul",
+        "stress": "He ASKED if we could UPDATE the DOCUMENTATION STRAIGHT AWAY | he ALSO WANTED to KNOW whether we had STARTED TESTING the PAYMENT MODULE",
+        "linking": "\"wanted to know\" → /ˈwɑntɪd tə noʊ/ (to reduced)\n\"had started\" → /həd ˈstɑɹtɪd/ (reduction)"
+    },
+    {
+        "speaker": "Daniel",
+        "text": "And had we?",
+        "ipa": "ənd həd wi",
+        "stress": "And HAD WE",
+        "linking": "\"had we\" → /həd wi/ (smooth connection)"
+    },
+    {
+        "speaker": "Olivia",
+        "text": "I told him that we had completed the initial tests the day before.",
+        "ipa": "aɪ toʊld ɪm ðət wi həd kəmˈplitɪd ði ɪˈnɪʃəl tɛsts ðə deɪ bɪˈfɔɹ",
+        "stress": "I TOLD him that we had COMPLETED the INITIAL TESTS the DAY BEFORE",
+        "linking": "\"told him\" → /toʊld ɪm/ (d links to him)\n\"the day before\" → /ðə deɪ bɪˈfɔɹ/ (smooth)"
+    },
+    {
+        "speaker": "Daniel",
+        "text": "Good. Did he mention where we could find the updated requirements?",
+        "ipa": "ɡʊd | dɪd i ˈmɛnʃən wɛɹ wi kəd faɪnd ði ˈʌpˌdeɪtɪd ɹɪˈkwaɪɚmənts",
+        "stress": "Good | did he MENTION where we could FIND the UPDATED REQUIREMENTS",
+        "linking": "\"did he\" → /dɪd i/ (vowel link)\n\"find the\" → /faɪnd ðə/ (d + the)"
+    },
+    {
+        "speaker": "Olivia",
+        "text": "He informed us that they had uploaded everything to the new project board. Apparently, the design team had finished their revisions earlier that morning.",
+        "ipa": "hi ɪnˈfɔɹmd əs ðət ðeɪ həd ˈʌpˌloʊdɪd ˈɛvɹiˌθɪŋ tə ðə nu ˈpɹɑʤɛkt bɔɹd | əˈpɛɹəntli ðə dɪˈzaɪn tim həd ˈfɪnɪʃt ðɛɹ ɹɪˈvɪʒənz ˈɝliɚ ðət ˈmɔɹnɪŋ",
+        "stress": "He INFORMED us that they had UPLOADED everything to the NEW PROJECT BOARD | apparently the DESIGN TEAM had FINISHED their REVISIONS earlier that MORNING",
+        "linking": "\"uploaded everything\" → /ˈʌpˌloʊdɪd ˈɛvɹiˌθɪŋ/ (d to e)\n\"had finished\" → /həd ˈfɪnɪʃt/ (reduction)"
+    },
+    {
+        "speaker": "Daniel",
+        "text": "Alright. And did he say when the next review meeting would be?",
+        "ipa": "ɔlˈɹaɪt | ənd dɪd i seɪ wɛn ðə nɛkst ɹɪˈvju ˈmitɪŋ wəd bi",
+        "stress": "Alright | and did he SAY when the NEXT REVIEW MEETING would BE",
+        "linking": "\"did he\" → /dɪd i/ (vowel link)"
+    },
+    {
+        "speaker": "Olivia",
+        "text": "He said that it would be the following Monday. He also reminded us that we needed to submit all changes by then.",
+        "ipa": "hi sɛd ðət ɪt wəd bi ðə ˈfɑloʊɪŋ ˈmʌndeɪ | hi ˈɔlsoʊ ɹɪˈmaɪndɪd əs ðət wi ˈnidɪd tə səbˈmɪt ɔl ˈʧeɪndʒɪz baɪ ðɛn",
+        "stress": "He SAID that it would be the FOLLOWING MONDAY | he ALSO REMINDED us that we NEEDED to SUBMIT all CHANGES by THEN",
+        "linking": "\"needed to\" → /ˈnidɪd tə/ (to reduced)\n\"submit all\" → /səbˈmɪt ɔl/ (t to all)"
+    },
+    {
+        "speaker": "Daniel",
+        "text": "Got it. According to Anna, they might also organize a final demo session next week.",
+        "ipa": "ɡɑt ɪt | əˈkɔɹdɪŋ tə ˈænə | ðeɪ maɪt ˈɔlsoʊ ˈɔɹɡəˌnaɪz ə ˈfaɪnəl ˈdɛmoʊ ˈsɛʃən nɛkst wik",
+        "stress": "Got it | according to ANNA | they MIGHT ALSO ORGANIZE a FINAL DEMO SESSION next WEEK",
+        "linking": "\"might also\" → /maɪt ˈɔlsoʊ/ (t to a)\n\"demo session\" → /ˈdɛmoʊ ˈsɛʃən/ (smooth)"
+    },
+    {
+        "speaker": "Olivia",
+        "text": "Yeah, and supposedly the CTO wants to attend that demo too.",
+        "ipa": "jæ | ənd səˈpoʊzɪdli ðə ˌsiˌtiˈoʊ wɑnts tə əˈtɛnd ðət ˈdɛmoʊ tu",
+        "stress": "Yeah | and SUPPOSEDLY the CTO WANTS to ATTEND that DEMO too",
+        "linking": "\"wants to\" → /wɑnts tə/ (to reduced)\n\"attend that\" → /əˈtɛnd ðət/ (d links)"
+    }
+]

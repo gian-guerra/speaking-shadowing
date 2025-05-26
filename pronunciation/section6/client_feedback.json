@@ -1,0 +1,93 @@
+[
+    {
+        "speaker": "Nora",
+        "text": "Did you hear what the client said during today's meeting?",
+        "ipa": "dɪdʒə hɪɹ wʌt ðə ˈklaɪənt sɛd ˈdʊrɪŋ təˈdeɪz ˈmitɪŋ",
+        "stress": "Did you HEAR | what the CLIENT SAID | during TODAY’S MEETING",
+        "linking": "\"did you\" → /dɪdʒə/ (reduction)\n\"what the\" → /wʌt ðə/ (t + the)\n\"during today’s\" → /ˈdʊrɪŋ təˈdeɪz/ (smooth flow)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "Yeah, they complained that the new dashboard wasn't loading fast enough.",
+        "ipa": "jæ | ðeɪ kəmˈpleɪnd ðət ðə nu ˈdæʃˌbɔɹd ˈwɑzənt ˈloʊdɪŋ fæst əˈnʌf",
+        "stress": "Yeah | they COMPLAINED | that the NEW DASHBOARD | wasn’t LOADING FAST ENOUGH",
+        "linking": "\"that the\" → /ðət ðə/ (smooth reduction)\n\"wasn't loading\" → /ˈwɑzənt ˈloʊdɪŋ/ (linked n + l)"
+    },
+    {
+        "speaker": "Nora",
+        "text": "They also pointed out that some graphs weren't updating straight away.",
+        "ipa": "ðeɪ ˈɔlsoʊ ˈpɔɪntɪd aʊt ðət səm ɡræfs ˈwɜɹnt ˈʌpˌdeɪtɪŋ streɪt əˈweɪ",
+        "stress": "They ALSO POINTED OUT | that some GRAPHS | weren’t UPDATING STRAIGHT AWAY",
+        "linking": "\"pointed out\" → /ˈpɔɪntɪd aʊt/ (d + out smooth)\n\"straight away\" → /streɪt əˈweɪ/ (t links to 'away')"
+    },
+    {
+        "speaker": "Leo",
+        "text": "Did they mention anything about the mobile version?",
+        "ipa": "dɪd ðeɪ ˈmɛnʃən ˈɛniˌθɪŋ əˈbaʊt ðə ˈmoʊbəl ˈvɝʒən",
+        "stress": "Did they MENTION ANYTHING | about the MOBILE VERSION",
+        "linking": "\"did they\" → /dɪd ðeɪ/ (smooth link)\n\"about the\" → /əˈbaʊt ðə/ (t links into the)"
+    },
+    {
+        "speaker": "Nora",
+        "text": "Yes, they requested that we optimize the mobile UI and suggested that we conduct more testing over the following week.",
+        "ipa": "jɛs | ðeɪ ɹɪˈkwɛstɪd ðət wi ˈɑptəˌmaɪz ðə ˈmoʊbəl juˈaɪ | ənd səɡˈʤɛstɪd ðət wi kənˈdʌkt mɔɹ ˈtɛstɪŋ ˈoʊvɚ ðə ˈfɑloʊɪŋ wik",
+        "stress": "They REQUESTED | that we OPTIMIZE the MOBILE UI | and SUGGESTED we CONDUCT more TESTING over the FOLLOWING WEEK",
+        "linking": "\"that we\" → /ðət wi/ (t links to 'we')\n\"conduct more\" → /kənˈdʌkt mɔɹ/ (t to m smooth)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "Did they ask if the fix could be ready by next Friday?",
+        "ipa": "dɪd ðeɪ æsk ɪf ðə fɪks kəd bi ˈrɛdi baɪ nɛkst ˈfraɪdeɪ",
+        "stress": "Did they ASK | if the FIX could be READY by NEXT FRIDAY",
+        "linking": "\"could be\" → /kəd bi/ (smooth reduction)\n\"ready by\" → /ˈrɛdi baɪ/ (y + b link)"
+    },
+    {
+        "speaker": "Nora",
+        "text": "They asked whether it would be possible. I promised that we would do our best, but I warned that it might take a bit longer depending on QA results.",
+        "ipa": "ðeɪ æskt ˈwɛðɚ ɪt wəd bi ˈpɑsəbəl | aɪ ˈprɑmɪst ðət wi wəd du aʊɚ bɛst | bət aɪ wɔrnd ðət ɪt maɪt teɪk ə bɪt ˈlɑŋɡɚ dɪˈpɛndɪŋ ɑn ˈkjuˈeɪ ɹɪˈzʌlts",
+        "stress": "They ASKED WHETHER it would be POSSIBLE | I PROMISED we would DO our BEST | but I WARNED it MIGHT take a BIT LONGER depending on QA RESULTS",
+        "linking": "\"it would\" → /ɪt wəd/ (t + would)\n\"might take\" → /maɪt teɪk/ (clear T but connected)\n\"bit longer\" → /bɪt ˈlɑŋɡɚ/ (t to L flow)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "Did they propose any specific improvements?",
+        "ipa": "dɪd ðeɪ pɹəˈpoʊz ˈɛni spəˈsɪfɪk ɪmˈpɹuvmənts",
+        "stress": "Did they PROPOSE any SPECIFIC IMPROVEMENTS",
+        "linking": "\"did they\" → /dɪd ðeɪ/ (smooth link)\n\"specific improvements\" → /spəˈsɪfɪk ɪmˈpɹuvmənts/ (connected speech)"
+    },
+    {
+        "speaker": "Nora",
+        "text": "They proposed simplifying the navigation and offered to send a few UX suggestions tomorrow.",
+        "ipa": "ðeɪ pɹəˈpoʊzd ˈsɪmpləˌfaɪɪŋ ðə ˌnævəˈɡeɪʃən ənd ˈɔfɚd tə sɛnd ə fju ˌjuˈɛks səɡˈʤɛstʃənz təˈmɑɹoʊ",
+        "stress": "They PROPOSED SIMPLIFYING the NAVIGATION and OFFERED to SEND a few UX SUGGESTIONS TOMORROW",
+        "linking": "\"offered to\" → /ˈɔfɚd tə/ (d links to 'to')\n\"send a few\" → /sɛnd ə fju/ (d links to 'a')"
+    },
+    {
+        "speaker": "Leo",
+        "text": "Nice. I think we ought to schedule another review meeting next week to show them the updates.",
+        "ipa": "naɪs | aɪ θɪŋk wi ɔt tə ˈskɛʤuəl əˈnʌðɚ ɹɪˈvju ˈmitɪŋ nɛkst wik tə ʃoʊ ðəm ði ˈʌpˌdeɪts",
+        "stress": "Nice. I THINK we OUGHT to SCHEDULE another REVIEW MEETING next WEEK to SHOW them the UPDATES",
+        "linking": "\"ought to\" → /ɔt tə/ (reduction of 'to')\n\"schedule another\" → /ˈskɛʤuəl əˈnʌðɚ/ (linking 'schedule' to 'another')"
+    },
+    {
+        "speaker": "Nora",
+        "text": "Good idea. By the way, they reminded us that the reporting module had to be compliant with the new accessibility standards.",
+        "ipa": "ɡʊd aɪˈdiə | baɪ ðə weɪ | ðeɪ ɹɪˈmaɪndɪd əs ðət ðə ɹɪˈpɔɹtɪŋ ˈmɑʤul həd tə bi kəmˈplaɪənt wɪð ðə nu əkˌsɛsəˈbɪləti ˈstændɚdz",
+        "stress": "Good IDEA. By the WAY, they REMINDED us that the REPORTING MODULE had to be COMPLIANT with the new ACCESSIBILITY STANDARDS",
+        "linking": "\"reminded us\" → /ɹɪˈmaɪndɪd əs/ (d links to 'us')\n\"had to\" → /həd tə/ (reduction of 'to')"
+    },
+    {
+        "speaker": "Leo",
+        "text": "Right. According to the notes I took, they seemingly care a lot about screen reader compatibility too.",
+        "ipa": "ɹaɪt | əˈkɔɹdɪŋ tə ðə noʊts aɪ tʊk | ðeɪ ˈsiːmɪŋli kɛɹ ə lɑt əˈbaʊt skɹin ˈɹiːdɚ ˌkɑmpəˈtɪbəlɪti tu",
+        "stress": "Right. According to the NOTES I TOOK, they SEEMINGLY CARE a LOT about SCREEN READER COMPATIBILITY too",
+        "linking": "\"according to\" → /əˈkɔɹdɪŋ tə/ (g links to 'to')\n\"lot about\" → /lɑt əˈbaʊt/ (t links to 'about')"
+    },
+    {
+        "speaker": "Nora",
+        "text": "Exactly. Let’s make sure to prioritize that before our next client call.",
+        "ipa": "ɪɡˈzæktli | lɛts meɪk ʃʊɹ tə praɪˈɔɹɪˌtaɪz ðət bɪˈfɔɹ aʊɚ nɛkst ˈklaɪənt kɔl",
+        "stress": "Exactly. Let’s MAKE sure to PRIORITIZE that BEFORE our NEXT CLIENT CALL",
+        "linking": "\"let's make\" → /lɛts meɪk/ (s links to 'make')\n\"prioritize that\" → /praɪˈɔɹɪˌtaɪz ðət/ (z links to 'that')"
+    }
+]
