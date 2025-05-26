@@ -2,99 +2,100 @@
   {
     "speaker": "Former Teammate",
     "text": "Hey! Long time no see. What have you been up to?",
-    "ipa": "heɪ | ˈlɔŋ ˌtaɪm nəʊ ˈsiː | ˈwɑɾəv jə ˈbɪn ʌp tuː",
-    "stress": "HEY | LONG TIME | what HAVE you BEEN UP to",
-    "linking": "\"What have you\" → /ˈwɑɾəv jə/ (flap T in 'what', 'have you' reduced to /əv jə/)"
+    "ipa": "heɪ | lɔŋ taɪm noʊ si | ˈwɑɾəv jə bɪn ʌp tu",
+    "stress": "HEY | LONG TIME no SEE | WHAT have YOU been UP to",
+    "linking": "\"what have you\" → /ˈwɑɾəv jə/ (flap T and reduction)\n\"been up to\" → /bɪn ʌp tu/ (natural linking)"
   },
   {
     "speaker": "You",
     "text": "Hey! Great to see you too. I’ve been working at a fintech startup for the last 8 months — we’ve been building a new payment system from scratch.",
-    "ipa": "heɪ | ɡreɪt tə ˈsiː jə tuː | aɪv bɪn ˈwɜːkɪŋ ət ə ˈfɪntɛk ˈstɑːtʌp fə ðə ˌlɑːst ˈeɪt mʌnθs | wiːv bɪn ˈbɪldɪŋ ə njuː ˈpeɪmənt ˈsɪstəm frəm skrætʃ",
-    "stress": "HEY | GREAT to SEE you TOO | I’VE been WORKing at a FINtech STARTup | LAST 8 MONTHS | BUILDing a NEW PAYment SYS-tem FROM SCRATCH",
-    "linking": "\"to see you\" → /tə ˈsiː jə/ (to reduced, 'you' softened)\n\"working at a\" → /ˈwɜːkɪŋ ət ə/ (at a smoothed, reduced vowels)\n\"from scratch\" → /frəm skrætʃ/ (from reduced to /frəm/)"
+    "ipa": "heɪ | ɡreɪt tə si ju tu | aɪv bɪn ˈwɜrkɪŋ æt ə ˈfɪntek ˈstɑrtʌp fɚ ðə læst eɪt mʌnθs | wiv bɪn ˈbɪldɪŋ ə nu ˈpeɪmənt ˈsɪstəm frəm skrætʃ",
+    "stress": "HEY | GREAT to SEE YOU TOO | I’VE been WORKING at a FINTECH STARTUP | LAST 8 MONTHS | BUILDING a NEW PAYMENT SYSTEM from SCRATCH",
+    "linking": "\"great to\" → /ɡreɪt tə/ (reduced 'to')\n\"working at a\" → /ˈwɜrkɪŋ æt ə/ (smooth blend)\n\"from scratch\" → /frəm skrætʃ/ (common reduction)"
   },
   {
     "speaker": "Former Teammate",
     "text": "Wow, sounds intense. What stack are you using?",
-    "ipa": "waʊ | saʊndz ɪnˈtɛns | ˈwɑt stæk ə jə ˈjuːzɪŋ",
-    "stress": "WOW | SOUNDS inTENSE | what STACK are you USING",
-    "linking": "\"stack are you\" → /stæk ə jə/ (are you reduced, linked as a single unit)"
+    "ipa": "waʊ | saʊndz ɪnˈtɛns | wʌt stæk ɚ ju ˈjuzɪŋ",
+    "stress": "WOW | SOUNDS INTENSE | WHAT STACK are YOU USING",
+    "linking": "\"are you\" → /ɚ ju/ (link 'are' to 'you')"
   },
   {
     "speaker": "You",
     "text": "Mostly TypeScript and PostgreSQL. We’ve been using Prisma as our ORM, and I’ve been diving deep into performance tuning lately. Actually, I’ve just finished optimizing one of our most critical queries — it had been causing latency spikes for weeks.",
-    "ipa": "ˈməʊstli ˈtaɪpskrɪpt ənd ˌpəʊstɡrəˈɛsˌkjuːˈɛl | wiːv bɪn ˈjuːzɪŋ ˈprɪzmə əz aʊər ˌəʊɑːˈɛm | ənd aɪv bɪn ˈdaɪvɪŋ ˈdiːp ˈɪntuː pəˈfɔːməns ˈtjuːnɪŋ ˈleɪtli | ˈækʧuəli | aɪv ʤəst ˈfɪnɪʃt ˈɑptɪmaɪzɪŋ ˈwʌn əv aʊər məʊst ˈkrɪtɪkəl ˈkwɪəriz | ɪt əd bɪn ˈkɔːzɪŋ ˈleɪtənsi spaɪks fə ˈwiːks",
-    "stress": "MOSTly TYPEScript and POSTgreSQL | WE’VE been USING PRISma | OUR ORM | DIVing DEEP into PERforMANCE TUNing LATEly | FINished OPtimizing CRITical QUERies | LATENcy SPIKES for WEEKS",
-    "linking": "\"as our ORM\" → /əz aʊər əʊɑːɛm/ (as our → linked as /əz aʊər/)\n\"diving deep into\" → /ˈdaɪvɪŋ ˈdiːp ˈɪntuː/ (deep into linked, no glottal break)\n\"it had been\" → /ɪt əd bɪn/ (had reduced to /əd/)"
+    "ipa": "ˈmoʊstli ˈtaɪpskrɪpt ənd ˌpoʊstɡrəˈɛsˌkjuːˈɛl | wiv bɪn ˈjuzɪŋ ˈprɪzmə æz aʊɚ ˌoʊɑrˈɛm | ənd aɪv bɪn ˈdaɪvɪŋ dip ˈɪntu pɚˈfɔrməns ˈtunɪŋ ˈleɪtli | ˈækʧuəli | aɪv ʤəst ˈfɪnɪʃt ˈɑptəˌmaɪzɪŋ ˈwʌn əv aʊɚ moʊst ˈkrɪtɪkəl ˈkwɛriz | ɪt həd bɪn ˈkɑzɪŋ ˈleɪtənsi spaɪks fɚ wiks",
+    "stress": "MOSTLY TYPESCRIPT and POSTGRESQL | WE’VE BEEN USING PRISMA as OUR ORM | DIVING DEEP into PERFORMANCE TUNING LATELY | FINISHED OPTIMIZING one of OUR MOST CRITICAL QUERIES | CAUSING LATENCY SPIKES for WEEKS",
+    "linking": "\"been using\" → /bɪn ˈjuzɪŋ/ (smooth link)\n\"as our ORM\" → /æz aʊɚ ˌoʊɑrˈɛm/ (smooth flow)\n\"had been causing\" → /həd bɪn ˈkɑzɪŋ/ (reduction and link)"
   },
   {
     "speaker": "Former Teammate",
     "text": "That’s cool. Do you miss the old days at the agency?",
-    "ipa": "ðæts kuːl | dʒə jə ˈmɪs ði əʊld ˈdeɪz ət ði ˈeɪʤənsi",
-    "stress": "THAT’s COOL | do you MISS the OLD DAYS at the AGENCY",
-    "linking": "\"do you\" → /dʒə jə/ (do you reduced to /dʒə jə/)\n\"days at the\" → /ˈdeɪz ət ðə/ (link t + ð)"
+    "ipa": "ðæts kul | dʊ jə mɪs ði oʊld deɪz æt ði ˈeɪʤənsi",
+    "stress": "THAT’S COOL | DO YOU MISS the OLD DAYS at the AGENCY",
+    "linking": "\"do you\" → /dʊ jə/ (link 'do' to 'you')\n\"days at\" → /deɪz æt/ (link 'days' to 'at')"
   },
   {
     "speaker": "You",
     "text": "Sometimes! We used to ship stuff so fast. Remember how we would release a feature within two days of planning?",
-    "ipa": "ˈsʌmtaɪmz | wiː ˈjuːst tə ʃɪp stʌf səʊ fɑːst | rɪˈmɛmbə haʊ wi wəd rɪˈliːs ə ˈfiːʧə wɪˈðɪn tuː deɪz əv ˈplænɪŋ",
-    "stress": "SOMETIMES | USED to SHIP STUFF so FAST | REMEMber HOW we would RE-LEASE a FEA-ture | WITH-IN TWO DAYS of PLANning",
-    "linking": "\"used to\" → /ˈjuːst tə/ (to reduced)\n\"release a feature\" → /rɪˈliːs ə ˈfiːʧə/ (a feature linked naturally)"
+    "ipa": "ˈsʌmtaɪmz | wi ˈjuzd tə ʃɪp stʌf soʊ fæst | rɪˈmɛmbɚ haʊ wi wʊd rɪˈlis ə ˈfiʧɚ wɪˈðɪn tu deɪz əv ˈplænɪŋ",
+    "stress": "SOMETIMES | WE USED TO SHIP STUFF SO FAST | REMEMBER HOW WE WOULD RELEASE A FEATURE WITHIN TWO DAYS of PLANNING",
+    "linking": "\"used to\" → /ˈjuzd tə/ (common reduction)\n\"release a\" → /rɪˈlis ə/ (linking 'release' to 'a')"
   },
   {
     "speaker": "Former Teammate",
     "text": "Oh yeah — and we used to push to production without proper code review. Wild times.",
-    "ipa": "əʊ jɛə | ənd wi ˈjuːst tə pʊʃ tə prəˈdʌkʃn wɪˈðaʊt ˈprɑpə kəʊd rɪˈvjuː | waɪld taɪmz",
-    "stress": "OH yeah | USED to PUSH to PRODUCTION | WITH-out PROPer CODE reVIEW | WILD TIMES",
-    "linking": "\"used to\" → /ˈjuːst tə/ (to reduced)\n\"push to\" → /pʊʃ tə/ (to reduced)"
+    "ipa": "oʊ jæ — ənd wi ˈjuzd tə pʊʃ tə prəˈdʌkʃən wɪˈðaʊt ˈprɑpɚ koʊd rɪˈvju | waɪld taɪmz",
+    "stress": "OH YEAH — and WE USED TO PUSH TO PRODUCTION WITHOUT PROPER CODE REVIEW | WILD TIMES",
+    "linking": "\"push to\" → /pʊʃ tə/ (linking)\n\"code review\" → /koʊd rɪˈvju/ (smooth blend)"
   },
   {
     "speaker": "You",
     "text": "Seriously. I’ve realized how much I’ve grown since then. I’ve become a lot more intentional with my decisions. Like, I’ve been spending more time designing before I even touch the code.",
-    "ipa": "ˈsɪəriəsli | aɪv ˈrɪəlaɪzd haʊ mʌʧ aɪv ɡrəʊn sɪns ðɛn | aɪv bɪˈkʌm ə lɑt mɔː ɪnˈtɛnʃənəl wɪð maɪ dɪˈsɪʒənz | laɪk | aɪv bɪn ˈspɛndɪŋ mɔː taɪm dɪˈzaɪnɪŋ bɪˈfɔːr aɪ ˈiːvən tʌʧ ðə kəʊd",
-    "stress": "SEriously | REALized how MUCH I’VE GROWN | MORE inTENtional with my DECI-sions | SPENDing MORE TIME designing | BEFORE I even TOUCH the CODE",
-    "linking": "\"how much I’ve\" → /haʊ mʌʧ aɪv/ (smooth transition, no pause)\n\"before I even\" → /bɪˈfɔːr aɪ ˈiːvən/ (before I + even linked naturally)"
+    "ipa": "ˈsɪriəsli | aɪv ˈriəˌlaɪzd haʊ mʌʧ aɪv ɡroʊn sɪns ðɛn | aɪv bɪˈkʌm ə lɑt mɔr ɪnˈtɛnʃənəl wɪð maɪ dɪˈsɪʒənz | laɪk | aɪv bɪn ˈspɛndɪŋ mɔr taɪm dɪˈzaɪnɪŋ bɪˈfɔr aɪ ˈivən tʌʧ ðə koʊd",
+    "stress": "SERIOUSLY | I’VE REALIZED HOW MUCH I’VE GROWN SINCE THEN | BECOME MORE INTENTIONAL with MY DECISIONS | SPENDING MORE TIME DESIGNING BEFORE I EVEN TOUCH the CODE",
+    "linking": "\"realized how\" → /ˈriəˌlaɪzd haʊ/ (linked ending and start)\n\"before I even\" → /bɪˈfɔr aɪ ˈivən/ (smooth reduction)"
   },
   {
     "speaker": "Former Teammate",
     "text": "Same here. What’s one thing you wish you had learned earlier?",
-    "ipa": "seɪm hɪə | wɑts wʌn θɪŋ jə wɪʃ jə əd lɜːnd ˈɜːliə",
-    "stress": "SAME HERE | what’s ONE THING you WISH you had LEARNED EARlier",
-    "linking": "\"you had learned\" → /jə əd lɜːnd/ (had reduced to /əd/)"
+    "ipa": "seɪm hɪɹ | wʌts wʌn θɪŋ ju wɪʃ ju həd lɝnd ɝliɚ",
+    "stress": "SAME HERE | WHAT’S ONE THING you WISH you had LEARNED EARLIER",
+    "linking": "\"what’s one\" → /wʌts wʌn/ (linking 'what's' to 'one')\n\"you wish\" → /ju wɪʃ/ (smooth connection)\n\"had learned\" → /həd lɝnd/ (reduction of 'had')"
   },
   {
     "speaker": "You",
     "text": "Honestly? Writing clean pull request descriptions. There were times when I had written something vague, and by the time the reviewer asked for changes, I had already forgotten what the logic was supposed to do.",
-    "ipa": "ˈɑnɪstli | ˈraɪtɪŋ kliːn pʊl rɪˈkwɛst dɪˈskrɪpʃənz | ðɛə wə taɪmz wɛn aɪ əd ˈrɪtn ˈsʌmθɪŋ veɪɡ | ənd baɪ ðə taɪm ðə rɪˈvjuːə ɑːskt fə ˈʧeɪndʒɪz | aɪ əd ɔːlˈrɛdi fəˈɡɑtn wɑt ðə ˈlɑʤɪk wəz səˈpəʊzd tə duː",
-    "stress": "HONestly | WRITing CLEAN PULL request deSCRIPtions | TIMES when I had WRITten someTHING VAGUE | BY the TIME the REviewER ASKED for CHANGes | FORgotten what the LOGic was supPOSED to DO",
-    "linking": "\"I had\" → /aɪ əd/ (had reduced to /əd/)\n\"supposed to\" → /səˈpəʊzd tə/ (to reduced)"
+    "ipa": "ˈɑnəstli | ˈɹaɪtɪŋ klin pʊl ɹɪˈkwɛst dɪˈskɹɪpʃənz | ðɛɹ wɚ taɪmz wɛn aɪ həd ˈɹɪtən ˈsʌmθɪŋ veɪɡ | ənd baɪ ðə taɪm ðə ɹɪˈvjuɚ æskt fɚ ˈʧeɪnʤɪz | aɪ həd ɔlˈɹɛdi fɚˈɡɑtn wʌt ðə ˈlɑʤɪk wəz səˈpoʊzd tə du",
+    "stress": "HONESTLY | WRITING CLEAN PULL REQUEST DESCRIPTIONS | THERE WERE TIMES WHEN I HAD WRITTEN SOMETHING VAGUE | AND BY THE TIME THE REVIEWER ASKED FOR CHANGES | I HAD ALREADY FORGOTTEN WHAT THE LOGIC WAS SUPPOSED TO DO",
+    "linking": "\"there were\" → /ðɛɹ wɚ/ (linking 'there' to 'were')\n\"had written\" → /həd ˈɹɪtən/ (reduction of 'had')\n\"by the time\" → /baɪ ðə taɪm/ (smooth connection)\n\"supposed to\" → /səˈpoʊzd tə/ (reduction of 'to')"
   },
   {
     "speaker": "Former Teammate",
     "text": "Haha, been there. Any project that really challenged you?",
-    "ipa": "ˈhɑːhɑː | bɪn ðeə | ˈɛni ˈprɑʤɛkt ðət ˈrɪəli ˈʧælɪnʤd juː",
-    "stress": "HAha | BEEN THERE | ANY PROject that REALLY CHALlenged YOU",
-    "linking": "\"challenged you\" → /ˈʧælɪnʤd juː/ (d links smoothly to 'you')"
+    "ipa": "ˈhɑˌhɑ | bɪn ðɛɹ | ˈɛni ˈpɹɑʤɛkt ðæt ˈɹɪli ˈʧælɪnʤd ju",
+    "stress": "HAHA | BEEN THERE | ANY PROJECT THAT REALLY CHALLENGED YOU",
+    "linking": "\"been there\" → /bɪn ðɛɹ/ (smooth connection)\n\"challenged you\" → /ˈʧælɪnʤd ju/ (linking 'challenged' to 'you')"
   },
   {
     "speaker": "You",
     "text": "Yeah — last quarter, we had to integrate with a legacy system. The devs had left, and nobody had touched the code in years. I had spent days just reading outdated docs before I even figured out where to start. It was painful, but I’ve learned a ton.",
-    "ipa": "jɛə | lɑːst ˈkwɔːtə | wi əd tuː ˈɪntɪɡreɪt wɪð ə ˈlɛɡəsi ˈsɪstəm | ðə dɛvz əd lɛft | ənd ˈnəʊbɑdi əd tʌʧt ðə kəʊd ɪn jɪəz | aɪ əd spɛnt deɪz ʤəst ˈriːdɪŋ ˌaʊtˈdeɪtɪd dɑks | bɪˈfɔːr aɪ ˈiːvən ˈfɪɡəd aʊt weə tə stɑːt | ɪt wəz ˈpeɪnfʊl | bət aɪv lɜːnd ə tʌn",
-    "stress": "LAST QUARter | HAD to INTEGRATE with a LEGacy SYS-tem | DEVS had LEFT | NOBoDY had TOUCHED the CODE in YEARS | SPENT DAYS just READing OUTdated DOCS | BE-FORE I even FIGured OUT WHERE to START | PAINful | I’VE LEARNED a TON",
-    "linking": "\"had to\" → /həd tuː/ (had reduced, clear /tuː/)\n\"before I even\" → /bɪˈfɔːr aɪ ˈiːvən/ (before I + even linked naturally)"
+    "ipa": "jæ — læst ˈkwɔɹtɚ | wi həd tə ˈɪntəˌɡɹeɪt wɪð ə ˈlɛɡəsi ˈsɪstəm | ðə dɛvz həd lɛft | ənd ˈnoʊˌbɑdi həd tʌʧt ðə koʊd ɪn jɪɹz | aɪ həd spɛnt deɪz ʤəst ˈɹiːdɪŋ ˌaʊtˈdeɪtɪd dɑks bɪˈfɔɹ aɪ ˈivən ˈfɪɡjɚd aʊt wɛɹ tə stɑɹt | ɪt wəz ˈpeɪnfəl | bət aɪv lɝnd ə tʌn",
+    "stress": "YEAH — LAST QUARTER | WE HAD TO INTEGRATE WITH A LEGACY SYSTEM | THE DEVS HAD LEFT | AND NOBODY HAD TOUCHED THE CODE IN YEARS | I HAD SPENT DAYS JUST READING OUTDATED DOCS BEFORE I EVEN FIGURED OUT WHERE TO START | IT WAS PAINFUL | BUT I’VE LEARNED A TON",
+    "linking": "\"had to\" → /həd tə/ (reduction of 'had')\n\"integrate with a\" → /ˈɪntəˌɡɹeɪt wɪð ə/ (smooth connection)\n\"before I even\" → /bɪˈfɔɹ aɪ ˈivən/ (linking 'before' to 'I')"
   },
   {
     "speaker": "Former Teammate",
     "text": "You’ve come a long way!",
-    "ipa": "juːv kʌm ə ˈlɔːŋ weɪ",
-    "stress": "YOU’VE COME a LONG WAY",
-    "linking": "\"come a\" → /kʌm ə/ (come + a linked, soft schwa)"
+    "ipa": "juv kʌm ə lɔŋ weɪ",
+    "stress": "YOU’VE COME A LONG WAY",
+    "linking": "\"you’ve come\" → /juv kʌm/ (contraction of 'you have')\n\"come a\" → /kʌm ə/ (smooth connection)"
   },
   {
     "speaker": "You",
     "text": "Thanks! I’ve definitely been pushing myself more lately. I’ve been working on some open-source stuff after hours, and it’s helped me keep learning new tools.",
-    "ipa": "θæŋks | aɪv ˈdɛfɪnətli bɪn ˈpʊʃɪŋ maɪˈsɛlf mɔː ˈleɪtli | aɪv bɪn ˈwɜːkɪŋ ɑn səm ˈəʊpənsɔːs stʌf ˈɑːftər ˈaʊəz | ənd ɪts hɛlpt mi kiːp ˈlɜːnɪŋ njuː tuːlz",
-    "stress": "THANKS | I’VE DEFiniteLY been PUSHing mySELF more LATEly | WORKing on some OPEN-source STUFF afTER HOURS | HELPED me KEEP LEARNing NEW TOOLS",
-    "linking": "\"pushing myself\" → /ˈpʊʃɪŋ maɪˈsɛlf/ (smooth verb + pronoun)\n\"after hours\" → /ˈɑːftər ˈaʊəz/ (after + hours, flap or held T)"
+    "ipa": "θæŋks | aɪv ˈdɛfənətli bɪn ˈpʊʃɪŋ maɪˈsɛlf mɔɹ ˈleɪtli | aɪv bɪn ˈwɜrkɪŋ ɑn səm ˈoʊpən sɔɹs stʌf ˈæftɚ ˈaʊɚz | ənd ɪts hɛlpt mi kip ˈlɝnɪŋ nu tulz",
+    "stress": "THANKS | I’VE DEFINITELY BEEN PUSHING MYSELF MORE LATELY | I’VE BEEN WORKING ON SOME OPEN-SOURCE STUFF AFTER HOURS | AND IT’S HELPED ME KEEP LEARNING NEW TOOLS",
+    "linking": "\"I’ve been\" → /aɪv bɪn/ (contraction of 'I have')\n\"working on\" → /ˈwɜrkɪŋ ɑn/ (smooth connection)\n\"after hours\" → /ˈæftɚ ˈaʊɚz/ (linking 'after' to 'hours')"
   }
+
 ]
