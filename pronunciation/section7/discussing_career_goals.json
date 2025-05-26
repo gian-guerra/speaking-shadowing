@@ -1,0 +1,65 @@
+[
+    {
+        "speaker": "Mia",
+        "text": "Lately, I've started considering applying for a senior developer position. Do you think it's worth trying?",
+        "ipa": "ˈleɪtli | aɪv ˈstɑɹtɪd kənˈsɪdɚɪŋ əˈplaɪɪŋ fɔɹ ə ˈsiːnjɚ dɪˈvɛləpɚ pəˈzɪʃən | dʊ jʊ θɪŋk ɪts wɝθ ˈtɹaɪɪŋ",
+        "stress": "Lately | I've STARTED CONSIDERING applying for a SENIOR DEVELOPER POSITION | do you think it's WORTH TRYING",
+        "linking": "\"I've started\" → /aɪv ˈstɑɹtɪd/ (v + s linking)\n\"senior developer\" → /ˈsiːnjɚ dɪˈvɛləpɚ/ (r + d linking)"
+    },
+    {
+        "speaker": "Daniel",
+        "text": "Definitely. You deserve to take that step. Just prepare to explain your leadership experiences during the interview.",
+        "ipa": "ˈdɛfənətli | jʊ dɪˈzɝv tə teɪk ðæt stɛp | ʤəst pɹɪˈpɛɹ tə ɪkˈspleɪn jɚ ˈliːdɚʃɪp ɪkˈspɪɹiənsɪz ˈdʊɹɪŋ ði ˈɪntɚˌvju",
+        "stress": "Definitely | You DESERVE to TAKE that STEP | Just PREPARE to EXPLAIN your LEADERSHIP EXPERIENCES during the INTERVIEW",
+        "linking": "\"deserve to\" → /dɪˈzɝv tə/ (v + t linking)\n\"prepare to\" → /pɹɪˈpɛɹ tə/ (r + t linking)"
+    },
+    {
+        "speaker": "Mia",
+        "text": "Right. I intend to highlight the projects where I led small teams. I also plan to show the apps we launched successfully.",
+        "ipa": "ɹaɪt | aɪ ɪnˈtɛnd tə ˈhaɪˌlaɪt ðə ˈpɹɑʤɛkts wɛɹ aɪ lɛd smɔl timz | aɪ ˈɔlsoʊ plæn tə ʃoʊ ði æps wi lɔnʧt səkˈsɛsfəli",
+        "stress": "Right | I INTEND to HIGHLIGHT the PROJECTS where I LED SMALL TEAMS | I also PLAN to SHOW the APPS we LAUNCHED SUCCESSFULLY",
+        "linking": "\"intend to\" → /ɪnˈtɛnd tə/ (d + t linking)\n\"plan to\" → /plæn tə/ (n + t linking)"
+    },
+    {
+        "speaker": "Daniel",
+        "text": "Good strategy. You might want to avoid mentioning any failed projects unless you can explain learning from them.",
+        "ipa": "ɡʊd ˈstɹætəʤi | jʊ maɪt wɑnt tə əˈvɔɪd ˈmɛnʃənɪŋ ˈɛni feɪld ˈpɹɑʤɛkts ənˈlɛs jʊ kən ɪkˈspleɪn ˈlɝnɪŋ frəm ðɛm",
+        "stress": "Good STRATEGY | You MIGHT want to AVOID MENTIONING any FAILED PROJECTS unless you can EXPLAIN LEARNING from them",
+        "linking": "\"want to\" → /wɑnt tə/ (t + t linking)\n\"can explain\" → /kən ɪkˈspleɪn/ (n + e linking)"
+    },
+    {
+        "speaker": "Mia",
+        "text": "Got it. I'm a bit nervous though. I can't help feeling like I'm not ready sometimes.",
+        "ipa": "ɡɑt ɪt | aɪm ə bɪt ˈnɝvəs ðoʊ | aɪ kænt hɛlp ˈfilɪŋ laɪk aɪm nɑt ˈɹɛdi ˈsəmˌtaɪmz",
+        "stress": "Got it | I'm a BIT NERVOUS though | I CAN'T HELP FEELING like I'm NOT READY sometimes",
+        "linking": "\"can't help\" → /kænt hɛlp/ (t + h linking)\n\"feeling like\" → /ˈfilɪŋ laɪk/ (g + l linking)"
+    },
+    {
+        "speaker": "Daniel",
+        "text": "That's normal. But remember, you managed to complete complex projects already. Don't forget to trust yourself.",
+        "ipa": "ðæts ˈnɔɹməl | bət ɹɪˈmɛmbɚ | jʊ ˈmænɪʤd tə kəmˈplit ˈkɑmplɛks ˈpɹɑʤɛkts ɔlˈɹɛdi | doʊnt fɚˈɡɛt tə tɹʌst jɚˈsɛlf",
+        "stress": "That's NORMAL | But REMEMBER | You MANAGED to COMPLETE COMPLEX PROJECTS already | Don't FORGET to TRUST yourself",
+        "linking": "\"managed to\" → /ˈmænɪʤd tə/ (d + t linking)\n\"forget to\" → /fɚˈɡɛt tə/ (t + t linking)"
+    },
+    {
+        "speaker": "Mia",
+        "text": "Thanks. Would you mind reviewing my portfolio later?",
+        "ipa": "θæŋks | wʊd jʊ maɪnd ɹɪˈvjuɪŋ maɪ pɔɹtˈfoʊlioʊ ˈleɪtɚ",
+        "stress": "Thanks | Would you MIND REVIEWING my PORTFOLIO later",
+        "linking": "\"would you\" → /wʊd jʊ/ (d + y linking)\n\"mind reviewing\" → /maɪnd ɹɪˈvjuɪŋ/ (d + r linking)"
+    },
+    {
+        "speaker": "Daniel",
+        "text": "Of course. I enjoy helping people grow. Plus, you seem to have strong potential.",
+        "ipa": "əv kɔɹs | aɪ ɪnˈʤɔɪ ˈhɛlpɪŋ ˈpipəl ɡɹoʊ | plʌs | jʊ sim tə hæv stɹɔŋ pəˈtɛnʃəl",
+        "stress": "Of COURSE | I ENJOY HELPING people GROW | Plus | you SEEM to have STRONG POTENTIAL",
+        "linking": "\"enjoy helping\" → /ɪnˈʤɔɪ ˈhɛlpɪŋ/ (y + h linking)\n\"seem to\" → /sim tə/ (m + t linking)"
+    },
+    {
+        "speaker": "Mia",
+        "text": "Thanks again! I'll carry on updating my documents today and promise to send them to you tomorrow.",
+        "ipa": "θæŋks əˈɡɛn | aɪl ˈkæɹi ɑn ˈʌpˌdeɪtɪŋ maɪ ˈdɑkjəmənts təˈdeɪ | ənd ˈpɹɑmɪs tə sɛnd ðɛm tə jʊ təˈmɑɹoʊ",
+        "stress": "Thanks AGAIN | I'll CARRY ON UPDATING my DOCUMENTS today | and PROMISE to SEND them to you TOMORROW",
+        "linking": "\"carry on\" → /ˈkæɹi ɑn/ (y + o linking)\n\"send them\" → /sɛnd ðɛm/ (d + th linking)"
+    }
+]

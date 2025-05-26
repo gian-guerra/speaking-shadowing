@@ -1,0 +1,72 @@
+[
+    {
+        "speaker": "Emma",
+        "text": "Noah, I noticed you missing some important comments in your last review. We need to aim for consistency across the team.",
+        "ipa": "ˈnoʊə | aɪ ˈnoʊtɪst jə ˈmɪsɪŋ səm ɪmˈpɔɹtənt ˈkɑmənts ɪn jɚ læst ɹɪˈvju | wi nid tə eɪm fɚ kənˈsɪstənsi əˈkɹɔs ðə tim",
+        "stress": "Noah | I NOTICED you MISSING some IMPORTANT COMMENTS in your LAST REVIEW | we NEED to AIM for CONSISTENCY across the TEAM",
+        "linking": "\"noticed you\" → /ˈnoʊtɪst jə/ (t + y linking)\n\"need to\" → /nid tə/ (to reduced)"
+    },
+    {
+        "speaker": "Noah",
+        "text": "You're right. I intend to pay more attention to code standards from now on. I can't help feeling a bit nervous when reviewing senior devs' code, though.",
+        "ipa": "jɚ raɪt | aɪ ɪnˈtɛnd tə peɪ mɔɹ əˈtɛnʃən tə koʊd ˈstændɚdz frəm naʊ ɑn | aɪ kænt hɛlp ˈfilɪŋ ə bɪt ˈnɝvəs wɛn ɹɪˈvjuɪŋ ˈsinjɚ dɛvz koʊd ðoʊ",
+        "stress": "You're RIGHT | I INTEND to PAY more ATTENTION to CODE STANDARDS from NOW ON | I CAN'T HELP FEELING a BIT NERVOUS when REVIEWING SENIOR DEVS' CODE, though",
+        "linking": "\"intend to\" → /ɪnˈtɛnd tə/ (to reduced)\n\"code standards\" → /koʊd ˈstændɚdz/ (d + s)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "I get that. But remember, you are allowed to point out anything that could improve the project, no matter who wrote it.",
+        "ipa": "aɪ ɡɛt ðæt | bət ɹɪˈmɛmbɚ | jʊ ɑɹ əˈlaʊd tə pɔɪnt aʊt ˈɛniˌθɪŋ ðət kəd ɪmˈpɹuv ðə ˈpɹɑʤɛkt | noʊ ˈmætɚ hu ɹoʊt ɪt",
+        "stress": "I GET that | but REMEMBER | you are ALLOWED to POINT OUT ANYTHING that could IMPROVE the PROJECT | no matter WHO WROTE it",
+        "linking": "\"allowed to\" → /əˈlaʊd tə/ (to reduced)\n\"point out\" → /pɔɪnt aʊt/ (t + o)"
+    },
+    {
+        "speaker": "Noah",
+        "text": "Thanks, Emma. I decided to start writing notes during my reviews to organize my thoughts.",
+        "ipa": "θæŋks ˈɛmə | aɪ dɪˈsaɪdɪd tə stɑɹt ˈɹaɪtɪŋ noʊts ˈdɝɪŋ maɪ ɹɪˈvjuz tə ˈɔɹɡəˌnaɪz maɪ θɔts",
+        "stress": "Thanks, Emma | I DECIDED to START WRITING NOTES during my REVIEWS to ORGANIZE my THOUGHTS",
+        "linking": "\"decided to\" → /dɪˈsaɪdɪd tə/ (to reduced)\n\"writing notes\" → /ˈɹaɪtɪŋ noʊts/ (ng to vowel)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "That’s a great idea! Also, I recommend focusing on one thing at a time — like readability first, then performance.",
+        "ipa": "ðæts ə ɡɹeɪt aɪˈdiə | ˈɔlsoʊ | aɪ ˌrɛkəˈmɛnd ˈfoʊkəsɪŋ ɑn wʌn θɪŋ ət ə taɪm | laɪk ˌɹidəˈbɪləti fɝst | ðɛn pɚˈfɔɹməns",
+        "stress": "That’s a GREAT idea | Also | I RECOMMEND FOCUSING on ONE THING at a TIME — like READABILITY FIRST, then PERFORMANCE",
+        "linking": "\"recommend focusing\" → /ˌrɛkəˈmɛnd ˈfoʊkəsɪŋ/ (smooth link)\n\"thing at a time\" → /θɪŋ ət ə taɪm/ (t links)"
+    },
+    {
+        "speaker": "Noah",
+        "text": "Got it. I hope to get faster at it too, because sometimes I end up spending hours on a single pull request.",
+        "ipa": "ɡɑt ɪt | aɪ hoʊp tə ɡɛt ˈfæstɚ ət ɪt tu | bɪˈkəz ˈsəmˌtaɪmz aɪ ɛnd ʌp ˈspɛndɪŋ ˈaʊɚz ɑn ə ˈsɪŋɡəl pʊl ɹɪˈkwɛst",
+        "stress": "Got it | I HOPE to GET FASTER at it too | because SOMETIMES I END UP SPENDING HOURS on a SINGLE PULL REQUEST",
+        "linking": "\"hope to\" → /hoʊp tə/ (to reduced)\n\"end up\" → /ɛnd ʌp/ (d + u)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "Totally normal at the beginning. You must remember to check the guidelines document we shared last week.",
+        "ipa": "ˈtoʊtəli ˈnɔɹməl ət ðə bɪˈɡɪnɪŋ | jʊ mʌst ɹɪˈmɛmbɚ tə ʧɛk ðə ˈɡaɪdlaɪnz ˈdɑkjumənt wi ʃɛɹd læst wik",
+        "stress": "Totally NORMAL at the BEGINNING | you MUST REMEMBER to CHECK the GUIDELINES DOCUMENT we SHARED last WEEK",
+        "linking": "\"remember to\" → /ɹɪˈmɛmbɚ tə/ (to reduced)\n\"shared last\" → /ʃɛɹd læst/ (d to l)"
+    },
+    {
+        "speaker": "Noah",
+        "text": "Will do. And I don't mind reviewing extra PRs this week to get more practice.",
+        "ipa": "wɪl du | ənd aɪ doʊnt maɪnd ɹɪˈvjuɪŋ ˈɛkstɹə pi ɑɹz ðɪs wik tə ɡɛt mɔɹ ˈpɹæktɪs",
+        "stress": "Will do | and I DON'T MIND REVIEWING EXTRA PRs this WEEK to GET MORE PRACTICE",
+        "linking": "\"reviewing extra\" → /ɹɪˈvjuɪŋ ˈɛkstɹə/ (ng to vowel)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "Awesome! Just avoid rushing through them — it could lead to missing critical bugs.",
+        "ipa": "ˈɑsəm | ʤəst əˈvɔɪd ˈɹʌʃɪŋ θɹu ðɛm | ɪt kəd lid tə ˈmɪsɪŋ ˈkɹɪtɪkəl bʌɡz",
+        "stress": "Awesome | just AVOID RUSHING THROUGH them — it could LEAD to MISSING CRITICAL BUGS",
+        "linking": "\"rushing through\" → /ˈɹʌʃɪŋ θɹu/ (ng to vowel)"
+    },
+    {
+        "speaker": "Noah",
+        "text": "Understood. I'll continue taking my time but try to be more efficient.",
+        "ipa": "ˌʌndɚˈstʊd | aɪl kənˈtɪnju ˈteɪkɪŋ maɪ taɪm | bət tɹaɪ tə bi mɔɹ əˈfɪʃənt",
+        "stress": "Understood | I'll CONTINUE TAKING my TIME but TRY to be MORE EFFICIENT",
+        "linking": "\"try to\" → /tɹaɪ tə/ (to reduced)"
+    }
+]

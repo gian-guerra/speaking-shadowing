@@ -1,0 +1,86 @@
+[
+    {
+        "speaker": "Alex",
+        "text": "I attempted to fix the last-minute bugs, but I failed to spot a few critical issues.",
+        "ipa": "aɪ əˈtɛmptɪd tə fɪks ðə ˈlæst ˈmɪnɪt bʌɡz | bət aɪ feɪld tə spɑt ə fju ˈkrɪtɪkəl ˈɪʃuz",
+        "stress": "I ATTEMPTED to FIX the LAST-MINUTE BUGS | but I FAILED to SPOT a FEW CRITICAL ISSUES",
+        "linking": "\"attempted to\" → /əˈtɛmptɪd tə/ (d + t linking)\n\"failed to\" → /feɪld tə/ (d + t linking)"
+    },
+    {
+        "speaker": "Priya",
+        "text": "Yeah, I noticed. Next time, we should prepare to test earlier instead of rushing.",
+        "ipa": "jæ | aɪ ˈnoʊtɪst | nɛkst taɪm | wi ʃəd pɹɪˈpɛɹ tə tɛst ˈɜɹliɚ ɪnˈstɛd əv ˈɹʌʃɪŋ",
+        "stress": "Yeah | I NOTICED | NEXT TIME | we SHOULD PREPARE to TEST EARLIER instead of RUSHING",
+        "linking": "\"prepare to\" → /pɹɪˈpɛɹ tə/ (r + t linking)\n\"test earlier\" → /tɛst ˈɜɹliɚ/ (t + e linking)"
+    },
+    {
+        "speaker": "Alex",
+        "text": "I totally agree. Also, I ought to remind the team to submit their reports sooner.",
+        "ipa": "aɪ ˈtoʊtəli əˈɡɹi | ˈɔlsoʊ | aɪ ɔt tə ɹɪˈmaɪnd ðə tim tə səbˈmɪt ðɛɹ ɹɪˈpɔɹts ˈsunɚ",
+        "stress": "I TOTALLY AGREE | Also | I OUGHT to REMIND the TEAM to SUBMIT their REPORTS SOONER",
+        "linking": "\"ought to\" → /ɔt tə/ (t + t linking)\n\"remind the\" → /ɹɪˈmaɪnd ðə/ (d + th linking)"
+    },
+    {
+        "speaker": "Priya",
+        "text": "Good idea. I insist on checking everyone's progress weekly from now on.",
+        "ipa": "ɡʊd aɪˈdiə | aɪ ɪnˈsɪst ɑn ˈʧɛkɪŋ ˈɛvɚˌwʌnz ˈpɹɑɡɹɛs ˈwikli frəm naʊ ɑn",
+        "stress": "Good IDEA | I INSIST on CHECKING EVERYONE'S PROGRESS WEEKLY from NOW ON",
+        "linking": "\"insist on\" → /ɪnˈsɪst ɑn/ (t + o linking)\n\"checking everyone's\" → /ˈʧɛkɪŋ ˈɛvɚˌwʌnz/ (ng + e linking)"
+    },
+    {
+        "speaker": "Alex",
+        "text": "Maybe we should arrange to meet every Friday to stay on track.",
+        "ipa": "ˈmeɪbi wi ʃəd əˈɹeɪnʤ tə mit ˈɛvɚi ˈfɹaɪdeɪ tə steɪ ɑn tɹæk",
+        "stress": "Maybe we SHOULD ARRANGE to MEET EVERY FRIDAY to STAY on TRACK",
+        "linking": "\"arrange to\" → /əˈɹeɪnʤ tə/ (ʤ + t linking)\n\"meet every\" → /mit ˈɛvɚi/ (t + e linking)"
+    },
+    {
+        "speaker": "Priya",
+        "text": "Sure! I don't mind staying a bit longer to review things properly.",
+        "ipa": "ʃʊɹ | aɪ doʊnt maɪnd ˈsteɪɪŋ ə bɪt ˈlɔŋɡɚ tə ɹɪˈvju θɪŋz ˈpɹɑpɚli",
+        "stress": "Sure | I DON'T MIND STAYING a BIT LONGER to REVIEW THINGS PROPERLY",
+        "linking": "\"don't mind\" → /doʊnt maɪnd/ (t + m linking)\n\"review things\" → /ɹɪˈvju θɪŋz/ (w + th linking)"
+    },
+    {
+        "speaker": "Alex",
+        "text": "Honestly, I can't stand dealing with these last-minute emergencies.",
+        "ipa": "ˈɑnəstli | aɪ kænt stænd ˈdiːlɪŋ wɪð ðiz ˈlæst ˈmɪnɪt ɪˈmɝʤənsiz",
+        "stress": "Honestly | I CAN'T STAND DEALING with THESE LAST-MINUTE EMERGENCIES",
+        "linking": "\"can't stand\" → /kænt stænd/ (t + s linking)\n\"dealing with\" → /ˈdiːlɪŋ wɪð/ (ng + w linking)"
+    },
+    {
+        "speaker": "Priya",
+        "text": "Same here. Sometimes, I even consider quitting when it gets too chaotic.",
+        "ipa": "seɪm hɪɹ | ˈsəmˌtaɪmz | aɪ ˈivən kənˈsɪdɚ ˈkwɪtɪŋ wɛn ɪt ɡɛts tu keɪˈɑtɪk",
+        "stress": "Same HERE | SOMETIMES | I EVEN CONSIDER QUITTING when it GETS TOO CHAOTIC",
+        "linking": "\"consider quitting\" → /kənˈsɪdɚ ˈkwɪtɪŋ/ (r + k linking)\n\"when it\" → /wɛn ɪt/ (n + i linking)"
+    },
+    {
+        "speaker": "Alex",
+        "text": "No way! You seem to handle pressure way better than I do.",
+        "ipa": "noʊ weɪ | ju sim tə ˈhændl ˈpɹɛʃɚ weɪ ˈbɛtɚ ðæn aɪ du",
+        "stress": "No WAY | You SEEM to HANDLE PRESSURE way BETTER than I DO",
+        "linking": "\"seem to\" → /sim tə/ (m + t linking)\n\"handle pressure\" → /ˈhændl ˈpɹɛʃɚ/ (l + p linking)"
+    },
+    {
+        "speaker": "Priya",
+        "text": "Thanks, but I just carry on pretending I’m calm most of the time.",
+        "ipa": "θæŋks | bət aɪ ʤəst ˈkæɹi ɑn pɹɪˈtɛndɪŋ aɪm kɑm moʊst əv ðə taɪm",
+        "stress": "Thanks | but I just CARRY ON PRETENDING I’m CALM MOST of the TIME",
+        "linking": "\"carry on\" → /ˈkæɹi ɑn/ (i + o linking)\n\"pretending I’m\" → /pɹɪˈtɛndɪŋ aɪm/ (ng + aɪ linking)"
+    },
+    {
+        "speaker": "Alex",
+        "text": "Haha, well, at least we both deserve to relax a little after this mess!",
+        "ipa": "ˈhɑˌhɑ | wɛl | æt list wi boʊθ dɪˈzɝv tə ɹɪˈlæks ə ˈlɪɾl ˈæftɚ ðɪs mɛs",
+        "stress": "Haha | WELL | at LEAST we BOTH DESERVE to RELAX a LITTLE after this MESS",
+        "linking": "\"deserve to\" → /dɪˈzɝv tə/ (v + t linking)\n\"relax a\" → /ɹɪˈlæks ə/ (s + a linking)"
+    },
+    {
+        "speaker": "Priya",
+        "text": "Agreed! Maybe after the next release, we should plan to take a few days off.",
+        "ipa": "əˈɡɹid | ˈmeɪbi ˈæftɚ ðə nɛkst ɹɪˈlis | wi ʃəd plæn tə teɪk ə fju deɪz ɑf",
+        "stress": "Agreed | Maybe AFTER the NEXT RELEASE | we SHOULD PLAN to TAKE a FEW DAYS OFF",
+        "linking": "\"plan to\" → /plæn tə/ (n + t linking)\n\"take a\" → /teɪk ə/ (k + a linking)"
+    }
+]
