@@ -1,0 +1,86 @@
+[
+    {
+        "speaker": "Mia",
+        "text": "Hey, are you still planning to join the hackathon this Saturday?",
+        "ipa": "heɪ | ɑɹ jʊ stɪl ˈplænɪŋ tə ʤɔɪn ðə ˈhækəˌθɑn ðɪs ˈsæɾɚˌdeɪ",
+        "stress": "Hey | are you STILL PLANNING to JOIN the HACKATHON this SATURDAY",
+        "linking": "\"planning to\" → /ˈplænɪŋ tə/ (ng to vowel)\n\"join the\" → /ʤɔɪn ðə/ (n + th)"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "Yeah, I hope to submit a working prototype by the end of the event. I managed to finish most of the backend yesterday.",
+        "ipa": "jæ | aɪ hoʊp tə səbˈmɪt ə ˈwɝkɪŋ ˈpɹoʊtəˌtaɪp baɪ ði ɛnd əv ði ɪˈvɛnt | aɪ ˈmænɪʤd tə ˈfɪnɪʃ moʊst əv ðə ˈbækˌɛnd ˈjɛstɚˌdeɪ",
+        "stress": "Yeah | I HOPE to SUBMIT a WORKING PROTOTYPE by the END of the EVENT | I MANAGED to FINISH MOST of the BACKEND yesterday",
+        "linking": "\"hope to\" → /hoʊp tə/ (to reduced)\n\"submit a\" → /səbˈmɪt ə/ (t + a)\n\"managed to\" → /ˈmænɪʤd tə/ (d + to)"
+    },
+    {
+        "speaker": "Mia",
+        "text": "That's awesome! I decided to work on a different project, though. I just couldn't help thinking about that mobile app idea we talked about last week.",
+        "ipa": "ðæts ˈɑsəm | aɪ dɪˈsaɪdɪd tə wɝk ɑn ə ˈdɪfɚənt ˈpɹɑʤɛkt ðoʊ | aɪ ʤəst ˈkʊdnt hɛlp ˈθɪŋkɪŋ əˈbaʊt ðæt ˈmoʊbəl æp aɪˈdiə wi tɔkt əˈbaʊt læst wik",
+        "stress": "That's AWESOME | I DECIDED to WORK on a DIFFERENT PROJECT, though | I just COULDN'T HELP THINKING about that MOBILE APP IDEA we TALKED about LAST WEEK",
+        "linking": "\"decided to\" → /dɪˈsaɪdɪd tə/ (d + to)\n\"help thinking\" → /hɛlp ˈθɪŋkɪŋ/ (p + th)"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "Oh, nice. Are you going to work alone?",
+        "ipa": "oʊ naɪs | ɑɹ jʊ ˈɡoʊɪŋ tə wɝk əˈloʊn",
+        "stress": "Oh, NICE | Are you GOING to WORK ALONE",
+        "linking": "\"going to\" → /ˈɡoʊɪŋ tə/ (ng to vowel)\n\"work alone\" → /wɝk əˈloʊn/ (k + a)"
+    },
+    {
+        "speaker": "Mia",
+        "text": "I offered to team up with Elena, but she refused to participate. She said she couldn't stand working under pressure like that.",
+        "ipa": "aɪ ˈɑfɚd tə tim ʌp wɪð ɪˈleɪnə | bət ʃi ɹɪˈfjuzd tə pɑɹˈtɪsəˌpeɪt | ʃi sɛd ʃi ˈkʊdnt stænd ˈwɝkɪŋ ˈʌndɚ ˈpɹɛʃɚ laɪk ðæt",
+        "stress": "I OFFERED to TEAM UP with ELENA | but she REFUSED to PARTICIPATE | she SAID she COULDN'T STAND WORKING under PRESSURE like THAT",
+        "linking": "\"offered to\" → /ˈɑfɚd tə/ (d + to)\n\"working under\" → /ˈwɝkɪŋ ˈʌndɚ/ (ng to vowel)"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "Haha, fair enough. I suggested asking James to join me, but he insisted on taking the weekend off completely. He's been thinking about moving to a different team, so I guess he wants a break.",
+        "ipa": "ˈhɑˌhɑ | fɛɹ əˈnʌf | aɪ səɡˈʤɛstɪd ˈæskɪŋ ʤeɪmz tə ʤɔɪn mi | bət hi ɪnˈsɪstɪd ɑn ˈteɪkɪŋ ðə ˈwikˌɛnd ɑf kəmˈpliːtli | hiz bɪn ˈθɪŋkɪŋ əˈbaʊt ˈmuvɪŋ tə ə ˈdɪfɚənt tim | soʊ aɪ ɡɛs hi wɑnts ə bɹeɪk",
+        "stress": "Haha | FAIR ENOUGH | I SUGGESTED ASKING James to JOIN me | but he INSISTED on TAKING the WEEKEND OFF completely | He's been THINKING about MOVING to a DIFFERENT TEAM | so I GUESS he WANTS a BREAK",
+        "linking": "\"asking James\" → /ˈæskɪŋ ʤeɪmz/ (ng + j)\n\"moving to\" → /ˈmuvɪŋ tə/ (ng + t)"
+    },
+    {
+        "speaker": "Mia",
+        "text": "Makes sense. I prefer working with a small team anyway — less chaos. Oh, and I intend to submit my project to that startup competition next month too.",
+        "ipa": "meɪks sɛns | aɪ pɹəˈfɝ ˈwɝkɪŋ wɪð ə smɔl tim ˈɛniˌweɪ — lɛs ˈkeɪˌɑs | oʊ | ənd aɪ ɪnˈtɛnd tə səbˈmɪt maɪ ˈpɹɑʤɛkt tə ðæt ˈstɑɹˌtʌp ˌkɑmpəˈtɪʃən nɛkst mʌnθ tu",
+        "stress": "Makes SENSE | I PREFER WORKING with a SMALL TEAM anyway — less CHAOS | Oh | and I INTEND to SUBMIT my PROJECT to that STARTUP COMPETITION next MONTH too",
+        "linking": "\"intend to\" → /ɪnˈtɛnd tə/ (d + t)\n\"submit my\" → /səbˈmɪt maɪ/ (t + m)"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "Wow, ambitious! Don't forget to back up your files often. I remember losing my entire project once because I forgot to save it properly.",
+        "ipa": "waʊ æmˈbɪʃəs | doʊnt fɚˈɡɛt tə ˈbæk ʌp jɚ faɪlz ˈɑfən | aɪ ɹɪˈmɛmbɚ ˈluːzɪŋ maɪ ɛnˈtaɪɚ ˈpɹɑʤɛkt wəns bɪˈkəz aɪ fɚˈɡɑt tə seɪv ɪt ˈpɹɑpɚli",
+        "stress": "Wow, AMBITIOUS | Don't FORGET to BACK UP your FILES often | I REMEMBER LOSING my ENTIRE PROJECT once because I FORGOT to SAVE it PROPERLY",
+        "linking": "\"forget to\" → /fɚˈɡɛt tə/ (t + t)\n\"save it\" → /seɪv ɪt/ (v + i)"
+    },
+    {
+        "speaker": "Mia",
+        "text": "Ouch. I imagine feeling so frustrated. By the way, if you want, I can help you set up your frontend faster.",
+        "ipa": "aʊʧ | aɪ ɪˈmæʤɪn ˈfilɪŋ soʊ ˈfɹʌˌstreɪtɪd | baɪ ðə weɪ | ɪf jʊ wɑnt | aɪ kən hɛlp jʊ sɛt ʌp jɚ ˈfɹʌnˌtɛnd ˈfæstɚ",
+        "stress": "Ouch | I IMAGINE FEELING so FRUSTRATED | By the way | if you WANT | I can HELP you SET UP your FRONTEND FASTER",
+        "linking": "\"help you\" → /hɛlp jʊ/ (p + y)\n\"set up\" → /sɛt ʌp/ (t + u)"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "Really? Thanks! I can't stand dealing with CSS — it always breaks everything!",
+        "ipa": "ˈɹɪli | θæŋks | aɪ kænt stænd ˈdiːlɪŋ wɪð ˈsiːɛsɛs — ɪt ˈɔlweɪz bɹeɪks ˈɛvɚˌθɪŋ",
+        "stress": "Really? Thanks | I CAN'T STAND DEALING with CSS — it ALWAYS BREAKS EVERYTHING",
+        "linking": "\"dealing with\" → /ˈdiːlɪŋ wɪð/ (ng to vowel)\n\"breaks everything\" → /bɹeɪks ˈɛvɚˌθɪŋ/ (s + e)"
+    },
+    {
+        "speaker": "Mia",
+        "text": "No worries. I actually enjoy fixing those little layout bugs.",
+        "ipa": "noʊ ˈwɝriz | aɪ ˈækʧuəli ɪnˈʤɔɪ ˈfɪksɪŋ ðoʊz ˈlɪɾl ˈleɪˌaʊt bʌɡz",
+        "stress": "No WORRIES | I ACTUALLY ENJOY FIXING those LITTLE LAYOUT BUGS",
+        "linking": "\"enjoy fixing\" → /ɪnˈʤɔɪ ˈfɪksɪŋ/ (y + f)"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "You're a lifesaver. Maybe next time I’ll offer to help you debug some backend stuff.",
+        "ipa": "jʊɹ ə ˈlaɪfˌseɪvɚ | ˈmeɪbi nɛkst taɪm aɪl ˈɑfɚ tə hɛlp jʊ diˈbʌɡ səm ˈbækˌɛnd stʌf",
+        "stress": "You're a LIFESAVER | Maybe NEXT TIME I’LL OFFER to HELP you DEBUG some BACKEND STUFF",
+        "linking": "\"help you\" → /hɛlp jʊ/ (p + y)\n\"debug some\" → /diˈbʌɡ səm/ (g + s)"
+    }
+]
