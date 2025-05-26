@@ -1,0 +1,93 @@
+[
+    {
+        "speaker": "Emma",
+        "text": "Did you see what the security team reported yesterday about our API endpoints?",
+        "ipa": "dɪdʒə si wʌt ðə səˈkjʊɹɪti tim ɹɪˈpɔɹtɪd ˈjɛstɚˌdeɪ əˈbaʊt aʊɚ ˈeɪpiˌaɪ ˈɛndˌpɔɪnts",
+        "stress": "Did you SEE what the SECURITY TEAM reported YESTERDAY about our API ENDPOINTS",
+        "linking": "\"did you\" → /dɪdʒə/ (you reduced)\n\"about our\" → /əˈbaʊt aʊɚ/ (link t to our)"
+    },
+    {
+        "speaker": "Jack",
+        "text": "Yeah, they warned that some of the authentication checks weren't properly enforced.",
+        "ipa": "jæ, ðeɪ wɔɹnd ðət səm əv ði ɔˌθɛntɪˈkeɪʃən ʧɛks wɚnt ˈpɹɑpɚli ɪnˈfɔɹst",
+        "stress": "Yeah, they WARNED that some of the AUTHENTICATION CHECKS weren’t PROPERLY ENFORCED",
+        "linking": "\"some of the\" → /səm əv ðə/ (v links to the)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "Exactly. They also advised us to review the encryption process and reminded us that the token expiration had to be shortened.",
+        "ipa": "ɪɡˈzæktli | ðeɪ ˈɔlsoʊ ædˈvaɪzd əs tə ɹɪˈvju ði ɪnˈkɹɪpʃən ˈpɹɑsɛs | ənd ɹɪˈmaɪndɪd əs ðət ðə ˈtoʊkən ˌɛkspɚˈeɪʃən həd tə bi ˈʃɔɹtnd",
+        "stress": "Exactly | They ALSO ADVISED us to REVIEW the ENCRYPTION PROCESS and REMINDED us that the TOKEN EXPIRATION had to be SHORTENED",
+        "linking": "\"advised us\" → /ædˈvaɪzd əs/ (d links to us)\n\"had to\" → /həd tə/ (reduction)"
+    },
+    {
+        "speaker": "Jack",
+        "text": "Did they explain how they discovered the vulnerability?",
+        "ipa": "dɪd ðeɪ ɪkˈspleɪn haʊ ðeɪ dɪˈskʌvɚd ðə ˌvɝlnɚˈbɪlɪti",
+        "stress": "Did they EXPLAIN how they DISCOVERED the VULNERABILITY",
+        "linking": "\"did they\" → /dɪd ðeɪ/ (smooth)\n\"discovered the\" → /dɪˈskʌvɚd ðə/ (link d to the)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "They said that during a routine scan the day before, they noticed session tokens were lasting longer than expected.",
+        "ipa": "ðeɪ sɛd ðət ˈdʊɹɪŋ ə ruˈtin skæn ðə deɪ bɪˈfɔɹ | ðeɪ ˈnoʊtɪst ˈsɛʃən ˈtoʊkənz wɚ ˈlæstɪŋ ˈlɑŋɡɚ ðən ɪkˈspɛktɪd",
+        "stress": "They SAID that during a ROUTINE SCAN the DAY BEFORE, they NOTICED SESSION TOKENS were LASTING LONGER than EXPECTED",
+        "linking": "\"during a\" → /ˈdʊɹɪŋ ə/ (g links to a)\n\"lasting longer\" → /ˈlæstɪŋ ˈlɑŋɡɚ/ (smooth -ing to l)"
+    },
+    {
+        "speaker": "Jack",
+        "text": "Did anyone ask if user data had been compromised?",
+        "ipa": "dɪd ˈɛniˌwʌn æsk ɪf ˈjuzɚ ˈdeɪtə həd bɪn ˈkɑmprəˌmaɪzd",
+        "stress": "Did ANYONE ASK if USER DATA had been COMPROMISED",
+        "linking": "\"user data\" → /ˈjuzɚ ˈdeɪtə/ (r to d)\n\"had been\" → /həd bɪn/ (reduction)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "Yes, and the team reassured us that there was no data leak, but they urged us to patch the risk straight away.",
+        "ipa": "jɛs | ənd ðə tim ˌɹiəˈʃʊɹd əs ðət ðɛɹ wəz noʊ ˈdeɪtə lik | bət ðeɪ ɚʤd əs tə pæʧ ðə ɹɪsk streɪt əˈweɪ",
+        "stress": "Yes | and the TEAM REASSURED us that there was NO DATA LEAK | but they URGED us to PATCH the RISK STRAIGHT AWAY",
+        "linking": "\"urged us\" → /ɚʤd əs/ (d to us)\n\"patch the\" → /pæʧ ðə/ (ch to the)"
+    },
+    {
+        "speaker": "Jack",
+        "text": "Good to hear. Did they propose any changes to our deployment workflow?",
+        "ipa": "ɡʊd tə hɪɹ | dɪd ðeɪ pɹəˈpoʊz ˈɛni ˈʧeɪnʤɪz tə aʊɚ dɪˈplɔɪmənt ˈwɝkfloʊ",
+        "stress": "Good to HEAR | Did they PROPOSE any CHANGES to our DEPLOYMENT WORKFLOW",
+        "linking": "\"to our\" → /tə aʊɚ/ (t + our)\n\"deployment workflow\" → /dɪˈplɔɪmənt ˈwɝkfloʊ/ (smooth phrase)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "They suggested that we add an automated security scan before every release starting next week.",
+        "ipa": "ðeɪ səɡˈʤɛstɪd ðət wi æd ən ˈɔtəˌmeɪtɪd səˈkjʊɹɪti skæn bɪˈfɔɹ ˈɛvɚi ɹɪˈlis ˈstɑɹtɪŋ nɛkst wik",
+        "stress": "They SUGGESTED that we ADD an AUTOMATED SECURITY SCAN | before EVERY RELEASE STARTING NEXT WEEK",
+        "linking": "\"automated security\" → /ˈɔtəˌmeɪtɪd səˈkjʊɹɪti/ (d to s)\n\"before every\" → /bɪˈfɔɹ ˈɛvɚi/ (r to vowel)"
+    },
+    {
+        "speaker": "Jack",
+        "text": "Makes sense. I offered to update the CI/CD pipeline scripts this evening.",
+        "ipa": "meɪks sɛns | aɪ ˈɔfɚd tə ˈʌpˌdeɪt ðə ˈsiˈaɪ ˈsiˈdi ˈpaɪpˌlaɪn skrɪpts ðɪs ˈivnɪŋ",
+        "stress": "Makes SENSE | I OFFERED to UPDATE the CI/CD PIPELINE SCRIPTS this EVENING",
+        "linking": "\"offered to\" → /ˈɔfɚd tə/ (d to to)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "Perfect. By the way, they asked whether we had completed the OAuth audit we promised last month.",
+        "ipa": "ˈpɝfɪkt | baɪ ðə weɪ | ðeɪ æskt ˈwɛðɚ wi həd kəmˈplitɪd ði ˈoʊˌɔθ ˈɑdɪt wi ˈprɑməst læst mʌnθ",
+        "stress": "Perfect | By the WAY | they ASKED whether we had COMPLETED the OAUTH AUDIT we PROMISED LAST MONTH",
+        "linking": "\"had completed\" → /həd kəmˈplitɪd/ (reduction)"
+    },
+    {
+        "speaker": "Jack",
+        "text": "Oh no — I admitted that it was still pending. I promised that I would prioritize it tomorrow.",
+        "ipa": "oʊ noʊ | aɪ ædˈmɪtɪd ðət ɪt wəz stɪl ˈpɛndɪŋ | aɪ ˈprɑməst ðət aɪ wəd praɪˈɔɹɪˌtaɪz ɪt təˈmɑɹoʊ",
+        "stress": "Oh NO | I ADMITTED that it was STILL PENDING | I PROMISED that I would PRIORITIZE it TOMORROW",
+        "linking": "\"would prioritize\" → /wəd praɪˈɔɹɪˌtaɪz/ (smooth)"
+    },
+    {
+        "speaker": "Emma",
+        "text": "Great. According to their final report, if we fix these issues by the end of the week, we should pass the follow-up review easily.",
+        "ipa": "ɡɹeɪt | əˈkɔɹdɪŋ tə ðɛɹ ˈfaɪnəl ɹɪˈpɔɹt | ɪf wi fɪks ðiz ˈɪʃuz baɪ ði ɛnd əv ðə wik | wi ʃəd pæs ðə ˈfɑloʊˌʌp ɹɪˈvju ˈizəli",
+        "stress": "Great | According to their FINAL REPORT | if we FIX these ISSUES by the END of the WEEK | we SHOULD PASS the FOLLOW-UP REVIEW EASILY",
+        "linking": "\"according to\" → /əˈkɔɹdɪŋ tə/ (g to to)\n\"should pass\" → /ʃəd pæs/ (reduction + link)"
+    }
+]
