@@ -1,0 +1,93 @@
+[
+    {
+        "speaker": "Sophia",
+        "text": "Did you catch what Liam reported during the stand-up this morning?",
+        "ipa": "dɪdʒə kæʧ wʌt ˈliəm ɹɪˈpɔɹtɪd ˈdʊɹɪŋ ðə ˈstænd.ʌp ðɪs ˈmɔɹ.nɪŋ",
+        "stress": "Did you CATCH what LIAM REPORTED during the STAND-UP this MORNING",
+        "linking": "\"did you\" → /dɪdʒə/ (reduction)\n\"stand-up this\" → /ˈstænd.ʌp ðɪs/ (link p + this)"
+    },
+    {
+        "speaker": "Ethan",
+        "text": "Not everything. What exactly did he say?",
+        "ipa": "nɑt ˈɛvɹiˌθɪŋ | wʌt ɪɡˈzæktli dɪd i seɪ",
+        "stress": "Not EVERYTHING | what EXACTLY did he SAY",
+        "linking": "\"did he\" → /dɪd i/ (smooth vowel link)"
+    },
+    {
+        "speaker": "Sophia",
+        "text": "He stated that the server had crashed the night before due to a memory leak. He explained that they had already patched the issue temporarily.",
+        "ipa": "hi ˈsteɪtɪd ðət ðə ˈsɝvɚ həd kræʃt ðə naɪt bɪˈfɔɹ du tə ə ˈmɛmɚi lik | hi ɪkˈspleɪnd ðət ðeɪ həd ɔlˈɹɛdi pæʧt ði ˈɪʃu ˌtɛmpəˈɹɛɹəli",
+        "stress": "He STATED that the SERVER had CRASHED the NIGHT BEFORE due to a MEMORY LEAK | he EXPLAINED that they had ALREADY PATCHED the ISSUE TEMPORARILY",
+        "linking": "\"had crashed\" → /həd kræʃt/ (reduction)\n\"patched the\" → /pæʧt ði/ (t to the)"
+    },
+    {
+        "speaker": "Ethan",
+        "text": "Did he say how it happened?",
+        "ipa": "dɪd i seɪ haʊ ɪt ˈhæpənd",
+        "stress": "Did he SAY how it HAPPENED",
+        "linking": "\"did he\" → /dɪd i/ (vowel link)"
+    },
+    {
+        "speaker": "Sophia",
+        "text": "Yeah, he claimed that a third-party library had caused unexpected behavior under high load. He warned that we should monitor the logs closely today.",
+        "ipa": "jæ | hi kleɪmd ðət ə ˈθɝdˌpɑɹti ˈlaɪbɹɛɹi həd kɔzd ˌʌnɪkˈspɛktɪd bɪˈheɪvjɚ ˈʌndɚ haɪ loʊd | hi wɔɹnd ðət wi ʃəd ˈmɑnɪtɚ ðə lɔɡz ˈkloʊsli təˈdeɪ",
+        "stress": "Yeah | he CLAIMED that a THIRD-PARTY LIBRARY had CAUSED UNEXPECTED BEHAVIOR under HIGH LOAD | he WARNED that we should MONITOR the LOGS CLOSELY TODAY",
+        "linking": "\"monitor the\" → /ˈmɑnɪtɚ ðə/ (r to the)"
+    },
+    {
+        "speaker": "Ethan",
+        "text": "That's serious. Did he ask for any specific actions from us?",
+        "ipa": "ðæts ˈsɪɹiəs | dɪd i æsk fɚ ˈɛni spəˈsɪfɪk ˈækʃənz frəm ʌs",
+        "stress": "That’s SERIOUS | did he ASK for ANY SPECIFIC ACTIONS from US",
+        "linking": "\"did he\" → /dɪd i/ (vowel link)\n\"ask for\" → /æsk fɚ/ (k to for)"
+    },
+    {
+        "speaker": "Sophia",
+        "text": "He asked if we could help review the code changes straight away. He also wanted to know whether anyone had noticed similar issues in other services.",
+        "ipa": "hi æskt ɪf wi kəd hɛlp ɹɪˈvju ðə koʊd ˈʧeɪnʤəz streɪt əˈweɪ | hi ˈɔlsoʊ ˈwɑntɪd tə noʊ ˈwɛðɚ ˈɛniˌwʌn həd ˈnoʊtɪst ˈsɪməlɚ ˈɪʃuz ɪn ˈʌðɚ ˈsɝvəsɪz",
+        "stress": "He ASKED if we could HELP REVIEW the CODE CHANGES STRAIGHT AWAY | he ALSO WANTED to KNOW whether ANYONE had NOTICED SIMILAR ISSUES in OTHER SERVICES",
+        "linking": "\"could help\" → /kəd hɛlp/ (smooth link)\n\"straight away\" → /streɪt əˈweɪ/ (t to a)"
+    },
+    {
+        "speaker": "Ethan",
+        "text": "And had we?",
+        "ipa": "ænd həd wi",
+        "stress": "And HAD WE",
+        "linking": "\"had we\" → /həd wi/ (smooth)"
+    },
+    {
+        "speaker": "Sophia",
+        "text": "I informed him that our microservices had been stable so far. But I agreed that it was a good idea to double-check everything this afternoon.",
+        "ipa": "aɪ ɪnˈfɔɹmd ɪm ðət aʊɚ ˌmaɪkɹoʊˈsɝvəsɪz həd bɪn ˈsteɪbəl soʊ fɑɹ | bət aɪ əˈɡɹid ðət ɪt wəz ə ɡʊd aɪˈdiə tə ˈdʌbəl ʧɛk ˈɛvɹiˌθɪŋ ðɪs ˌæftɚˈnun",
+        "stress": "I INFORMED him that our MICROSERVICES had been STABLE so FAR | but I AGREED that it was a GOOD IDEA to DOUBLE-CHECK EVERYTHING this AFTERNOON",
+        "linking": "\"good idea\" → /ɡʊd aɪˈdiə/ (d to vowel)\n\"double-check everything\" → /ˈdʌbəl ʧɛk ˈɛvɹiˌθɪŋ/ (k + e)"
+    },
+    {
+        "speaker": "Ethan",
+        "text": "Did he mention anything about client impact?",
+        "ipa": "dɪd i ˈmɛnʃən ˈɛniˌθɪŋ əˈbaʊt ˈklaɪənt ˈɪmpækt",
+        "stress": "Did he MENTION anything about CLIENT IMPACT",
+        "linking": "\"did he\" → /dɪd i/ (vowel link)\n\"about client\" → /əˈbaʊt ˈklaɪənt/ (t to c)"
+    },
+    {
+        "speaker": "Sophia",
+        "text": "He assured us that no customer had been affected because the backup servers had kicked in immediately.",
+        "ipa": "hi əˈʃʊɹd əs ðət noʊ ˈkʌstəmɚ həd bɪn əˈfɛktɪd bɪˈkəz ðə ˈbækˌʌp ˈsɝvɚz həd kɪkt ɪn ɪˈmiːdiətli",
+        "stress": "He ASSURED us that NO CUSTOMER had been AFFECTED because the BACKUP SERVERS had KICKED IN IMMEDIATELY",
+        "linking": "\"kicked in\" → /kɪkt ɪn/ (t to vowel)"
+    },
+    {
+        "speaker": "Ethan",
+        "text": "That’s a relief. According to the operations team, they're planning to run extra load tests the following week.",
+        "ipa": "ðæts ə ɹɪˈlif | əˈkɔɹdɪŋ tə ði ˌɑpəˈɹeɪʃənz tim | ðɛɹ ˈplænɪŋ tə ɹʌn ˈɛkstɹə loʊd tɛsts ðə ˈfɑloʊɪŋ wik",
+        "stress": "That’s a RELIEF | according to the OPERATIONS TEAM | they're PLANNING to RUN EXTRA LOAD TESTS the FOLLOWING WEEK",
+        "linking": "\"planning to\" → /ˈplænɪŋ tə/ (to reduced)\n\"load tests\" → /loʊd tɛsts/ (d to t)"
+    },
+    {
+        "speaker": "Sophia",
+        "text": "Yeah, and apparently the CTO suggested adding more redundancy to our architecture soon.",
+        "ipa": "jæ | ənd əˈpɛɹəntli ðə ˌsiˌtiˈoʊ səɡˈʤɛstɪd ˈædɪŋ mɔɹ ɹɪˈdʌndənsi tə aʊɚ ˈɑɹkəˌtɛkʧɚ sun",
+        "stress": "Yeah | and APPARENTLY the CTO SUGGESTED ADDING MORE REDUNDANCY to our ARCHITECTURE SOON",
+        "linking": "\"adding more\" → /ˈædɪŋ mɔɹ/ (ng to m)\n\"to our architecture\" → /tə aʊɚ ˈɑɹkəˌtɛkʧɚ/ (to reduced)"
+    }
+]
