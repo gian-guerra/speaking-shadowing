@@ -1,0 +1,86 @@
+[
+    {
+        "speaker": "Mia",
+        "text": "I've been trying to build a better portfolio website, but it's taking forever.",
+        "ipa": "aɪv bɪn ˈtraɪɪŋ tə bɪld ə ˈbɛtɚ pɔɹtˈfoʊlioʊ ˈwɛbˌsaɪt | bət ɪts ˈteɪkɪŋ fɚˈɛvɚ",
+        "stress": "I've been TRYING to BUILD a BETTER PORTFOLIO WEBSITE | but it's TAKING FOREVER",
+        "linking": "\"trying to\" → /ˈtraɪɪŋ tə/ (ng + t linking)\n\"build a\" → /bɪld ə/ (d + a linking)"
+    },
+    {
+        "speaker": "Daniel",
+        "text": "Maybe you should consider hiring a designer to help with the layout.",
+        "ipa": "ˈmeɪbi jʊ ʃəd kənˈsɪdɚ ˈhaɪɚɪŋ ə dɪˈzaɪnɚ tə hɛlp wɪð ðə ˈleɪˌaʊt",
+        "stress": "Maybe YOU should CONSIDER HIRING a DESIGNER to HELP with the LAYOUT",
+        "linking": "\"consider hiring\" → /kənˈsɪdɚ ˈhaɪɚɪŋ/ (r + h linking)\n\"help with\" → /hɛlp wɪð/ (p + w linking)"
+    },
+    {
+        "speaker": "Mia",
+        "text": "I hate depending on other people, but you might be right. I aim to finish the site by next month.",
+        "ipa": "aɪ heɪt dɪˈpɛndɪŋ ɑn ˈʌðɚ ˈpipəl | bət jʊ maɪt bi raɪt | aɪ eɪm tə ˈfɪnɪʃ ðə saɪt baɪ nɛkst mʌnθ",
+        "stress": "I HATE DEPENDING on OTHER PEOPLE | but YOU might be RIGHT | I AIM to FINISH the SITE by NEXT MONTH",
+        "linking": "\"depending on\" → /dɪˈpɛndɪŋ ɑn/ (ng + o linking)\n\"aim to\" → /eɪm tə/ (m + t linking)"
+    },
+    {
+        "speaker": "Daniel",
+        "text": "That’s a good goal. Just remember to update your GitHub links and case studies too.",
+        "ipa": "ðæts ə ɡʊd ɡoʊl | ʤəst ɹɪˈmɛmbɚ tə ˈʌpˌdeɪt jɚ ˈɡɪtˌhʌb lɪŋks ənd keɪs ˈstʌdiz tu",
+        "stress": "That's a GOOD GOAL | Just REMEMBER to UPDATE your GITHUB LINKS and CASE STUDIES too",
+        "linking": "\"remember to\" → /ɹɪˈmɛmbɚ tə/ (r + t linking)\n\"update your\" → /ˈʌpˌdeɪt jɚ/ (t + y linking)"
+    },
+    {
+        "speaker": "Mia",
+        "text": "Thanks for the reminder! Sometimes I forget to double-check the smaller details.",
+        "ipa": "θæŋks fɚ ðə ɹɪˈmaɪndɚ | ˈsəmˌtaɪmz aɪ fɚˈɡɛt tə ˈdʌbəl ʧɛk ðə ˈsmɔlɚ ˈdiˌteɪlz",
+        "stress": "Thanks for the REMINDER | SOMETIMES I FORGET to DOUBLE-CHECK the SMALLER DETAILS",
+        "linking": "\"forget to\" → /fɚˈɡɛt tə/ (t + t linking)\n\"double-check the\" → /ˈdʌbəl ʧɛk ðə/ (k + th linking)"
+    },
+    {
+        "speaker": "Daniel",
+        "text": "It's normal. When you’re busy, you might go on overlooking simple things. You just have to keep improving little by little.",
+        "ipa": "ɪts ˈnɔɹməl | wɛn jʊɹ ˈbɪzi | jʊ maɪt ɡoʊ ɑn ˌoʊvɚˈlʊkɪŋ ˈsɪmpəl θɪŋz | jʊ ʤəst hæv tə kip ɪmˈpɹuvɪŋ ˈlɪɾl baɪ ˈlɪɾl",
+        "stress": "It's NORMAL | When YOU’RE BUSY | you MIGHT go on OVERLOOKING SIMPLE THINGS | You just have to KEEP IMPROVING LITTLE by LITTLE",
+        "linking": "\"go on\" → /ɡoʊ ɑn/ (o + o linking)\n\"keep improving\" → /kip ɪmˈpɹuvɪŋ/ (p + i linking)"
+    },
+    {
+        "speaker": "Mia",
+        "text": "Lately, I've felt like giving up a few times, though.",
+        "ipa": "ˈleɪtli aɪv fɛlt laɪk ˈɡɪvɪŋ ʌp ə fju taɪmz ðoʊ",
+        "stress": "LATELY, I've FELT like GIVING UP a FEW TIMES, though",
+        "linking": "\"giving up\" → /ˈɡɪvɪŋ ʌp/ (ng + u linking)"
+    },
+    {
+        "speaker": "Daniel",
+        "text": "Everyone goes through that. You must refuse to quit if you really want to succeed.",
+        "ipa": "ˈɛvɚˌwʌn ɡoʊz θɹu ðæt | jʊ məst ɹɪˈfjuz tə kwɪt ɪf jʊ ˈɹɪli wɑnt tə səkˈsid",
+        "stress": "EVERYONE GOES THROUGH THAT | You MUST REFUSE to QUIT if you REALLY WANT to SUCCEED",
+        "linking": "\"refuse to\" → /ɹɪˈfjuz tə/ (z + t linking)\n\"want to\" → /wɑnt tə/ (t + t linking)"
+    },
+    {
+        "speaker": "Mia",
+        "text": "You’re right. I hope to launch my site before my next client meeting.",
+        "ipa": "jʊɹ raɪt | aɪ hoʊp tə lɔntʃ maɪ saɪt bɪˈfɔɹ maɪ nɛkst ˈklaɪənt ˈmitɪŋ",
+        "stress": "You're RIGHT | I HOPE to LAUNCH my SITE before my NEXT CLIENT MEETING",
+        "linking": "\"hope to\" → /hoʊp tə/ (p + t linking)\n\"launch my\" → /lɔntʃ maɪ/ (ch + m linking)"
+    },
+    {
+        "speaker": "Daniel",
+        "text": "Good plan. By the way, you should ask your friends to review your site before making it public.",
+        "ipa": "ɡʊd plæn | baɪ ðə weɪ | jʊ ʃəd æsk jɚ frɛndz tə ɹɪˈvju jɚ saɪt bɪˈfɔɹ ˈmeɪkɪŋ ɪt ˈpʌblɪk",
+        "stress": "GOOD PLAN | By the WAY | You SHOULD ASK your FRIENDS to REVIEW your SITE before MAKING it PUBLIC",
+        "linking": "\"ask your\" → /æsk jɚ/ (k + y linking)\n\"review your\" → /ɹɪˈvju jɚ/ (w + y linking)"
+    },
+    {
+        "speaker": "Mia",
+        "text": "Will do! And if they suggest changing anything, I’ll seriously think about it.",
+        "ipa": "wɪl du | ənd ɪf ðeɪ səˈʤɛst ˈʧeɪnʤɪŋ ˈɛniˌθɪŋ | aɪl ˈsɪɹiəsli θɪŋk əˈbaʊt ɪt",
+        "stress": "WILL DO | And if THEY SUGGEST CHANGING ANYTHING | I'll SERIOUSLY THINK ABOUT IT",
+        "linking": "\"suggest changing\" → /səˈʤɛst ˈʧeɪnʤɪŋ/ (t + ch linking)\n\"think about\" → /θɪŋk əˈbaʊt/ (k + a linking)"
+    },
+    {
+        "speaker": "Daniel",
+        "text": "Perfect. You’re managing to grow your freelance career faster than you realize.",
+        "ipa": "ˈpɝfɪkt | jʊɹ ˈmænɪʤɪŋ tə ɡɹoʊ jʊɹ ˈfriˌlæns kəˈɹɪɚ ˈfæstɚ ðæn jʊ ˈɹiəˌlaɪz",
+        "stress": "PERFECT | You’re MANAGING to GROW your FREELANCE CAREER FASTER than you REALIZE",
+        "linking": "\"managing to grow\" → /ˈmænɪʤɪŋ tə ɡɹoʊ/ (ng + t linking, to reduced)\n\"faster than\" → /ˈfæstɚ ðæn/ (r + th linking)"
+    }
+]

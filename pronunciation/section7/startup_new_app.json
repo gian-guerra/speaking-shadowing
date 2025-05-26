@@ -1,0 +1,86 @@
+[
+    {
+        "speaker": "Zoe",
+        "text": "We planned to release the beta version last week, but a few unexpected bugs came up.",
+        "ipa": "wi ˈplænd tə ɹɪˈlis ðə ˈbeɪtə ˈvɝʒən læst wik | bət ə fju ˌʌnɪkˈspɛktɪd bʌɡz keɪm ʌp",
+        "stress": "WE PLANNED to RELEASE the BETA VERSION last WEEK | but a FEW UNEXPECTED BUGS CAME UP",
+        "linking": "\"planned to\" → /plænd tə/ (d + t linking)\n\"came up\" → /keɪm ʌp/ (m + u linking)"
+    },
+    {
+        "speaker": "Liam",
+        "text": "Yeah, I remember fixing that authentication issue, but then the payment gateway started failing.",
+        "ipa": "jæ | aɪ ɹɪˈmɛmbɚ ˈfɪksɪŋ ðæt ˌɔθənˈtɪkeɪʃən ˈɪʃu | bət ðɛn ðə ˈpeɪmənt ˈɡeɪtˌweɪ ˈstɑɹtɪd ˈfeɪlɪŋ",
+        "stress": "YEAH | I REMEMBER FIXING that AUTHENTICATION ISSUE | but THEN the PAYMENT GATEWAY STARTED FAILING",
+        "linking": "\"remember fixing\" → /ɹɪˈmɛmbɚ ˈfɪksɪŋ/ (r + f linking)\n\"started failing\" → /ˈstɑɹtɪd ˈfeɪlɪŋ/ (d + f linking)"
+    },
+    {
+        "speaker": "Zoe",
+        "text": "Exactly. At this point, we can't stand delaying the launch any longer. We have to move forward.",
+        "ipa": "ɪɡˈzæktli | æt ðɪs pɔɪnt | wi kænt stænd dɪˈleɪɪŋ ðə lɔntʃ ˈɛni ˈlɔŋɡɚ | wi hæv tə muv ˈfɔɹwɚd",
+        "stress": "EXACTLY | At THIS POINT | we CAN'T STAND DELAYING the LAUNCH ANY LONGER | we HAVE to MOVE FORWARD",
+        "linking": "\"can't stand\" → /kænt stænd/ (t + s linking)\n\"have to\" → /hæv tə/ (v + t linking)"
+    },
+    {
+        "speaker": "Liam",
+        "text": "Agreed. I offered to stay late tonight to finish the last few tasks.",
+        "ipa": "əˈɡɹid | aɪ ˈɔfɚd tə steɪ leɪt təˈnaɪt tə ˈfɪnɪʃ ðə læst fju tæsks",
+        "stress": "AGREED | I OFFERED to STAY LATE TONIGHT to FINISH the LAST FEW TASKS",
+        "linking": "\"offered to\" → /ˈɔfɚd tə/ (d + t linking)\n\"stay late\" → /steɪ leɪt/ (y + l linking)"
+    },
+    {
+        "speaker": "Zoe",
+        "text": "Thanks! That might help us hit our new deadline. I insist on testing everything manually before we push it live.",
+        "ipa": "θæŋks | ðæt maɪt hɛlp ʌs hɪt aʊɹ nu ˈdɛdˌlaɪn | aɪ ɪnˈsɪst ɑn ˈtɛstɪŋ ˈɛvɹiθɪŋ ˈmænjʊəli bɪˈfɔɹ wi pʊʃ ɪt laɪv",
+        "stress": "THANKS | That MIGHT HELP us HIT our NEW DEADLINE | I INSIST on TESTING EVERYTHING MANUALLY BEFORE we PUSH it LIVE",
+        "linking": "\"help us\" → /hɛlp ʌs/ (p + u linking)\n\"push it\" → /pʊʃ ɪt/ (sh + i linking)"
+    },
+    {
+        "speaker": "Liam",
+        "text": "Good idea. Also, the marketing team suggested preparing a last-minute demo video. They want us to highlight the new features.",
+        "ipa": "ɡʊd aɪˈdiə | ˈɔlsoʊ | ðə ˈmɑɹkɪtɪŋ tim səɡˈʤɛstɪd pɹɪˈpɛɹɪŋ ə læst ˈmɪnɪt ˈdɛmoʊ ˈvɪdioʊ | ðeɪ wɑnt ʌs tə ˈhaɪˌlaɪt ðə nu ˈfiʧɚz",
+        "stress": "GOOD IDEA | ALSO | the MARKETING TEAM SUGGESTED PREPARING a LAST-MINUTE DEMO VIDEO | They WANT us to HIGHLIGHT the NEW FEATURES",
+        "linking": "\"marketing team\" → /ˈmɑɹkɪtɪŋ tim/ (ng + t linking)\n\"highlight the\" → /ˈhaɪˌlaɪt ðə/ (t + th linking)"
+    },
+    {
+        "speaker": "Zoe",
+        "text": "We need to organize that fast. Maybe we could ask Nathan to help with editing?",
+        "ipa": "wi nid tə ˈɔɹɡəˌnaɪz ðæt fæst | ˈmeɪbi wi kʊd æsk ˈneɪθən tə hɛlp wɪð ˈɛdɪtɪŋ",
+        "stress": "We NEED to ORGANIZE that FAST | MAYBE we could ASK NATHAN to HELP with EDITING",
+        "linking": "\"need to\" → /nid tə/ (d + t linking)\n\"ask Nathan\" → /æsk ˈneɪθən/ (k + n linking)"
+    },
+    {
+        "speaker": "Liam",
+        "text": "Yeah, Nathan agreed to help last time, so he might not mind doing it again.",
+        "ipa": "jæ | ˈneɪθən əˈɡɹid tə hɛlp læst taɪm | soʊ hi maɪt nɑt maɪnd ˈduɪŋ ɪt əˈɡɛn",
+        "stress": "YEAH | NATHAN AGREED to HELP LAST TIME | so HE MIGHT NOT MIND DOING it AGAIN",
+        "linking": "\"agreed to\" → /əˈɡɹid tə/ (d + t linking)\n\"doing it\" → /ˈduɪŋ ɪt/ (ng + i linking)"
+    },
+    {
+        "speaker": "Zoe",
+        "text": "I'll try calling him after this meeting.",
+        "ipa": "aɪl tɹaɪ ˈkɑlɪŋ hɪm ˈæftɚ ðɪs ˈmitɪŋ",
+        "stress": "I'LL TRY CALLING him AFTER this MEETING",
+        "linking": "\"calling him\" → /ˈkɑlɪŋ hɪm/ (ng + h linking)\n\"after this\" → /ˈæftɚ ðɪs/ (r + th linking)"
+    },
+    {
+        "speaker": "Liam",
+        "text": "Perfect. By the way, I prefer handling backend tasks, but if needed, I don't mind fixing some frontend bugs too.",
+        "ipa": "ˈpɝfɪkt | baɪ ðə weɪ | aɪ pɹɪˈfɝ ˈhændlɪŋ ˈbækˌɛnd tæsks | bət ɪf ˈnidɪd | aɪ doʊnt maɪnd ˈfɪksɪŋ səm ˈfɹʌntˌɛnd bʌɡz tu",
+        "stress": "PERFECT | BY the WAY | I PREFER HANDLING BACKEND TASKS | but IF NEEDED | I DON'T MIND FIXING some FRONTEND BUGS TOO",
+        "linking": "\"prefer handling\" → /pɹɪˈfɝ ˈhændlɪŋ/ (r + h linking)\n\"fixing some\" → /ˈfɪksɪŋ səm/ (ng + s linking)"
+    },
+    {
+        "speaker": "Zoe",
+        "text": "Thanks, Liam. We all must keep supporting each other until launch day!",
+        "ipa": "θæŋks ˈliəm | wi ɔl məst kip səˈpɔɹtɪŋ iʧ ˈʌðɚ ənˈtɪl lɔntʃ deɪ",
+        "stress": "THANKS, LIAM | We ALL MUST KEEP SUPPORTING EACH OTHER UNTIL LAUNCH DAY",
+        "linking": "\"keep supporting\" → /kip səˈpɔɹtɪŋ/ (p + s linking)\n\"each other\" → /iʧ ˈʌðɚ/ (ch + o linking)"
+    },
+    {
+        "speaker": "Liam",
+        "text": "Definitely. Launching a product always involves making sacrifices, but it’s so worth it in the end.",
+        "ipa": "ˈdɛfənətli | ˈlɔntʃɪŋ ə ˈpɹɑdəkt ˈɔlweɪz ɪnˈvɑlvz ˈmeɪkɪŋ ˈsækrəˌfaɪsɪz | bət ɪts soʊ wɝθ ɪt ɪn ði ɛnd",
+        "stress": "DEFINITELY | LAUNCHING a PRODUCT ALWAYS INVOLVES MAKING SACRIFICES | but it’s SO WORTH it in the END",
+        "linking": "\"launching a\" → /ˈlɔntʃɪŋ ə/ (ng + a linking)\n\"making sacrifices\" → /ˈmeɪkɪŋ ˈsækrəˌfaɪsɪz/ (ng + s linking)\n\"worth it\" → /wɝθ ɪt/ (th + i linking)"
+    }
+]
