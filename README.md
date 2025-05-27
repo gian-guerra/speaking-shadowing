@@ -47,3 +47,26 @@ Are the same just ʌ is the stressed version of ə, the same mouth position
  - /aɪr/ – as in fire, tire (/faɪɹ/, /taɪɹ/)
 
  - /ʊr/ – as in tour, sure (/tʊɹ/, /ʃʊɹ/)
+
+
+
+## 🧱 Sections Covered
+
+| Section | Grammar Topic |
+|--------|----------------|
+| 1A | `used to`, `would`, present/past perfect |
+| 1B | Future forms: `will`, `going to`, `present continuous`, etc. |
+| 2 | Nouns, determiners, pronouns |
+| 3 | Adjectives, adverbs, comparisons |
+| 4 | Noun phrase structures |
+| 5 | Modals: ability, advice, obligation, possibility |
+| 6 | Reported speech: tense changes, time references, questions |
+| 7 | Verb patterns: `to-infinitive`, `-ing`, verb + object + verb |
+---
+
+## 🔍 Syntax Guide
+
+All grammar targets are wrapped in `{curly brackets}` to highlight:
+- `{verbs}` triggering patterns
+- `{time references}` like “the day before”, “next week”
+- `{reported questions}`, `{modals}`, `{conditionals}`, and more
