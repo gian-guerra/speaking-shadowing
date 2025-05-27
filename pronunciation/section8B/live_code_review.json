@@ -1,0 +1,58 @@
+[
+    {
+        "speaker": "Luis",
+        "text": "Ugh… I shouldn’t have merged that PR yesterday without testing it locally first.",
+        "ipa": "ʌɡ… aɪ ˈʃʊdənt həv mɝdʒd ðæt pi ɑɹ ˈjɛstɚdeɪ wɪðaʊt ˈtɛstɪŋ ɪt ˈloʊkəli fɝst.",
+        "stress": "Ugh… I SHOULDN’T have MERGED that PR YESTERDAY without TESTING it LOCALLY FIRST.",
+        "linking": "\"shouldn’t have\" → /ˈʃʊdənt həv/ (t + h linking)\n\"merged that\" → /mɝdʒd ðæt/ (d + th linking)"
+    },
+    {
+        "speaker": "Bella",
+        "text": "Yeah, we just spent 2 hours fixing that rollback. If only we had noticed that recursive function before it hit production.",
+        "ipa": "jæ, wi dʒəst spɛnt tu ˈaʊɚz ˈfɪksɪŋ ðæt ˈroʊlbæk. ɪf ˈoʊnli wi hæd ˈnoʊtɪst ðæt ɹɪˈkɝsɪv ˈfʌŋkʃən bɪˈfɔɹ ɪt hɪt pɹəˈdʌkʃən.",
+        "stress": "Yeah, we just SPENT 2 HOURS FIXING that ROLLBACK. If ONLY we had NOTICED that RECURSIVE FUNCTION before it hit PRODUCTION.",
+        "linking": "\"had noticed\" → /hæd ˈnoʊtɪst/ (d + n linking)\n\"recursive function\" → /ɹɪˈkɝsɪv ˈfʌŋkʃən/ (v + f linking)"
+    },
+    {
+        "speaker": "Luis",
+        "text": "I honestly wish I had asked for a second review. I rushed it because the ticket was overdue.",
+        "ipa": "aɪ ˈɑnəstli wɪʃ aɪ hæd æskt fɔɹ ə ˈsɛkənd ɹɪˈvju. aɪ ɹʌʃt ɪt bɪˈkəz ðə ˈtɪkɪt wəz ˌoʊvɚˈdu.",
+        "stress": "I HONESTLY WISH I had ASKED for a SECOND REVIEW. I RUSHED it because the TICKET was OVERDUE.",
+        "linking": "\"had asked\" → /hæd æskt/ (d + a linking)\n\"rushed it\" → /ɹʌʃt ɪt/ (t + i linking)"
+    },
+    {
+        "speaker": "Bella",
+        "text": "It happens, but still... You could have caught that loop if you’d stepped away from the screen for even 10 minutes.",
+        "ipa": "ɪt ˈhæpənz, bət stɪl... ju kʊd həv kɔt ðæt lup ɪf jud stɛpt əˈweɪ fɹəm ðə skɹin fɔɹ ˈivən tɛn ˈmɪnɪts.",
+        "stress": "It HAPPENS, but STILL... You COULD have CAUGHT that LOOP if you’d STEPPED AWAY from the SCREEN for even 10 MINUTES.",
+        "linking": "\"could have\" → /kʊd həv/ (d + h linking)\n\"stepped away\" → /stɛpt əˈweɪ/ (t + a linking)"
+    },
+    {
+        "speaker": "Luis",
+        "text": "True. If I had taken a break, I might have seen the mistake in the logic.",
+        "ipa": "tɹu. ɪf aɪ hæd ˈteɪkən ə bɹeɪk, aɪ maɪt həv sin ðə mɪˈsteɪk ɪn ðə ˈlɑdʒɪk.",
+        "stress": "TRUE. If I had TAKEN a BREAK, I MIGHT have SEEN the MISTAKE in the LOGIC.",
+        "linking": "\"had taken\" → /hæd ˈteɪkən/ (d + t linking)\n\"might have\" → /maɪt həv/ (t + h linking)"
+    },
+    {
+        "speaker": "Bella",
+        "text": "And we should have had a post-merge QA step. That’s on me too.",
+        "ipa": "ænd wi ʃʊd həv hæd ə poʊst mɝdʒ ˌkjuːˈeɪ stɛp. ðæts ɑn mi tu.",
+        "stress": "And we SHOULD have HAD a POST-MERGE QA STEP. That’s on ME too.",
+        "linking": "\"should have\" → /ʃʊd həv/ (d + h linking)\n\"post-merge\" → /poʊst mɝdʒ/ (t + m linking)"
+    },
+    {
+        "speaker": "Luis",
+        "text": "No worries. If only we had followed the checklist this time.",
+        "ipa": "noʊ ˈwɜriz. ɪf ˈoʊnli wi hæd ˈfɑloʊd ðə ˈtʃɛklɪst ðɪs taɪm.",
+        "stress": "NO WORRIES. If ONLY we had FOLLOWED the CHECKLIST this TIME.",
+        "linking": "\"had followed\" → /hæd ˈfɑloʊd/ (d + f linking)\n\"this time\" → /ðɪs taɪm/ (s + t linking)"
+    },
+    {
+        "speaker": "Bella",
+        "text": "Let’s just make sure we don’t skip any steps next time, even when we’re in a rush.",
+        "ipa": "lɛts dʒəst meɪk ʃʊɹ wi doʊnt skɪp ˈɛni stɛps nɛkst taɪm, ˈivən wɛn wɪɹ ɪn ə ɹʌʃ.",
+        "stress": "Let’s just MAKE SURE we DON’T SKIP any STEPS NEXT TIME, even when we’re in a RUSH.",
+        "linking": "\"don’t skip\" → /doʊnt skɪp/ (t + s linking)\n\"next time\" → /nɛkst taɪm/ (t + t linking)"
+    }
+]

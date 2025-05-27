@@ -1,0 +1,51 @@
+[
+    {
+        "speaker": "Jamie",
+        "text": "I wish I had tested that edge case more thoroughly. It completely slipped through.",
+        "ipa": "aɪ wɪʃ aɪ hæd ˈtɛstɪd ðæt ɛdʒ keɪs mɔɹ ˈθɝəli. ɪt kəmˈplitli slɪpt θɹu.",
+        "stress": "I WISH I had TESTED that EDGE CASE more THOROUGHLY. It COMPLETELY SLIPPED THROUGH.",
+        "linking": "\"had tested\" → /hæd ˈtɛstɪd/ (d + t linking)\n\"slipped through\" → /slɪpt θɹu/ (t + th linking)"
+    },
+    {
+        "speaker": "Aria",
+        "text": "Same… If only we had reviewed that logic together before merging.",
+        "ipa": "seɪm… ɪf ˈoʊnli wi hæd ɹɪˈvjud ðæt ˈlɑdʒɪk təˈɡɛðɚ bɪˈfɔɹ ˈmɝdʒɪŋ.",
+        "stress": "SAME… If ONLY we had REVIEWED that LOGIC TOGETHER before MERGING.",
+        "linking": "\"had reviewed\" → /hæd ɹɪˈvjud/ (d + r linking)\n\"logic together\" → /ˈlɑdʒɪk təˈɡɛðɚ/ (k + t linking)"
+    },
+    {
+        "speaker": "Jamie",
+        "text": "Honestly, I wish I had taken that weird log warning seriously. I thought it was just noise.",
+        "ipa": "ˈɑnəstli, aɪ wɪʃ aɪ hæd ˈteɪkən ðæt wɪɹd lɔɡ ˈwɔrnɪŋ ˈsɪɹiəsli. aɪ θɔt ɪt wəz dʒəst nɔɪz.",
+        "stress": "HONESTLY, I WISH I had TAKEN that WEIRD LOG WARNING SERIOUSLY. I THOUGHT it was just NOISE.",
+        "linking": "\"had taken\" → /hæd ˈteɪkən/ (d + t linking)\n\"thought it\" → /θɔt ɪt/ (t + i linking)"
+    },
+    {
+        "speaker": "Aria",
+        "text": "I know. I wish I had double-checked the mobile flow — the bug only shows up on smaller screens.",
+        "ipa": "aɪ noʊ. aɪ wɪʃ aɪ hæd ˈdʌbəl tʃɛkt ðə ˈmoʊbəl floʊ — ðə bʌɡ ˈoʊnli ʃoʊz ʌp ɑn ˈsmɔlɚ skɹinz.",
+        "stress": "I KNOW. I WISH I had DOUBLE-CHECKED the MOBILE FLOW — the BUG only SHOWS UP on SMALLER SCREENS.",
+        "linking": "\"had double-checked\" → /hæd ˈdʌbəl tʃɛkt/ (d + d linking)\n\"shows up\" → /ʃoʊz ʌp/ (z + u linking)"
+    },
+    {
+        "speaker": "Jamie",
+        "text": "Yeah, and if only I had added proper error handling, the app wouldn’t have crashed.",
+        "ipa": "jæ, ænd ɪf ˈoʊnli aɪ hæd ˈædəd ˈprɑpɚ ˈɛɹɚ ˈhændlɪŋ, ði æp ˈwʊdənt həv kræʃt.",
+        "stress": "YEAH, and if ONLY I had ADDED PROPER ERROR HANDLING, the APP WOULDN’T have CRASHED.",
+        "linking": "\"had added\" → /hæd ˈædəd/ (d + a linking)\n\"wouldn’t have\" → /ˈwʊdənt həv/ (t + h linking)"
+    },
+    {
+        "speaker": "Aria",
+        "text": "We both made assumptions. I wish we had slowed down instead of rushing to meet the sprint deadline.",
+        "ipa": "wi boʊθ meɪd əˈsʌmpʃənz. aɪ wɪʃ wi hæd sloʊd daʊn ɪnˈstɛd əv ˈɹʌʃɪŋ tu mit ðə spɹɪnt ˈdɛdlaɪn.",
+        "stress": "We BOTH made ASSUMPTIONS. I WISH we had SLOWED DOWN instead of RUSHING to MEET the SPRINT DEADLINE.",
+        "linking": "\"had slowed\" → /hæd sloʊd/ (d + s linking)\n\"rushing to\" → /ˈɹʌʃɪŋ tu/ (g + t linking)"
+    },
+    {
+        "speaker": "Jamie",
+        "text": "Lesson learned. Still, I wish we didn’t have to find out the hard way.",
+        "ipa": "ˈlɛsən lɝnd. stɪl, aɪ wɪʃ wi ˈdɪdənt hæv tu faɪnd aʊt ðə hɑɹd weɪ.",
+        "stress": "LESSON LEARNED. STILL, I WISH we DIDN’T have to FIND OUT the HARD WAY.",
+        "linking": "\"didn’t have\" → /ˈdɪdənt hæv/ (t + h linking)\n\"find out\" → /faɪnd aʊt/ (d + o linking)"
+    }
+]
