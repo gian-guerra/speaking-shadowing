@@ -1,0 +1,10 @@
+Aisha: If the API {fails} during the launch window, the mobile app {won’t load} anything for users.
+Tomás: Exactly. That’s why I created a fallback flow {in case} the main endpoint goes down.
+Aisha: Smart. I’d feel more confident {if we {had}} an autoscaling setup already configured.
+Tomás: Me too. We {could reduce} risk significantly {if we {invested}} in better monitoring last sprint.
+Aisha: Well, it’s not too late — we still {might catch} key issues {if we {run}} chaos tests today.
+Tomás: Good idea. And as long as the database {remains} stable, most users {won’t even notice} minor service hiccups.
+Aisha: Right. But {unless} we document everything clearly, on-call devs {will struggle} if something breaks at 2 a.m.
+Tomás: Yeah. Even if the launch {goes} smoothly, we {should still review} our incident response process afterward.
+Aisha: Agreed. If I {were} leading the postmortem, I {would make sure} each team gave feedback.
+Tomás: I’d support that. Provided that the release {happens} on time, we can take Friday to reflect and improve.

@@ -1,0 +1,8 @@
+Diego: We’ll be fine, {as long as} the demo server stays stable during the presentation.
+Lena: Yeah. I already restarted the service {in case} something was still cached.
+Diego: Good call. I wouldn’t rely on the Wi-Fi {unless} we have a backup hotspot ready.
+Lena: Don’t worry — I brought one. And the frontend will look great {provided that} no one clears the CDN again.
+Diego: Haha, yeah. Even if something breaks, we can pivot and show the prototype instead.
+Lena: Exactly. As long as we stay calm, it’ll feel under control to them.
+Diego: True. Also, I’ll explain the architecture in more detail {in case} they ask about scaling.
+Lena: Great. And the team will be joining remotely — {unless} something changes last minute.

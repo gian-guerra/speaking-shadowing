@@ -1,0 +1,8 @@
+Sarah: If we {had} a dedicated UX designer on the team, our interfaces {would look} way more polished.
+Leo: I agree. If the stakeholders {gave} us more flexibility, we {could experiment} with better design patterns.
+Sarah: Yeah, and if we {weren’t rushing} every release, we {would catch} more usability issues.
+Leo: Exactly. If the roadmap {allowed} more breathing room, our features {might be} more refined.
+Sarah: Also, if marketing {communicated} changes earlier, we {wouldn’t have} to redo designs last minute.
+Leo: Ugh, yes. If I {were} in charge of timelines, I {would add} a review buffer after every sprint.
+Sarah: That would help a lot. If QA {had} more visibility earlier, we {could prevent} those late surprises.
+Leo: And honestly, if we {trusted} each team’s expertise more, the whole process {would run} smoother.
