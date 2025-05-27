@@ -1,0 +1,51 @@
+[
+    {
+        "speaker": "Aaron",
+        "text": "If we had more time between sprints, I would rewrite our entire CI pipeline.",
+        "ipa": "ɪf wi hæd mɔɹ taɪm bɪˈtwin spɹɪnts | aɪ wʊd ˌɹiˈɹaɪt aʊɚ ɛnˈtaɪɚ si aɪ ˈpaɪplaɪn",
+        "stress": "IF we HAD MORE TIME between SPRINTS | I would REWRITE our ENTIRE CI PIPELINE",
+        "linking": "\"had more\" → /hæd mɔɹ/ (d + m linking)\n\"rewrite our\" → /ˌɹiˈɹaɪt aʊɚ/ (t + a linking)"
+    },
+    {
+        "speaker": "Priya",
+        "text": "Same here. If the team weren’t so overloaded, we could refactor that legacy service once and for all.",
+        "ipa": "seɪm hɪɹ | ɪf ðə tim ˈwɝnt soʊ ˌoʊvɚˈloʊdɪd | wi kʊd ˌɹiˈfæktɚ ðæt ˈlɛɡəsi ˈsɝvɪs wʌns ənd fɔɹ ɔl",
+        "stress": "SAME here | IF the TEAM WEREN’T so OVERLOADED | we could REFACTOR that LEGACY SERVICE ONCE and for ALL",
+        "linking": "\"weren’t so\" → /ˈwɝnt soʊ/ (t + s linking)\n\"refactor that\" → /ˌɹiˈfæktɚ ðæt/ (r + th linking)"
+    },
+    {
+        "speaker": "Aaron",
+        "text": "Yeah, and if Jenkins worked as expected every time, we wouldn’t waste hours debugging false errors.",
+        "ipa": "jæ | ənd ɪf ˈʤɛŋkɪnz wɝkt æz ɪkˈspɛktɪd ˈɛvɚi taɪm | wi ˈwʊdənt weɪst ˈaʊɚz diˈbʌɡɪŋ fɔls ˈɛɹɚz",
+        "stress": "YEAH | and IF JENKINS WORKED as EXPECTED EVERY TIME | we WOULDN’T WASTE HOURS DEBUGGING FALSE ERRORS",
+        "linking": "\"worked as\" → /wɝkt æz/ (t + a linking)\n\"waste hours\" → /weɪst ˈaʊɚz/ (t + h linking)"
+    },
+    {
+        "speaker": "Priya",
+        "text": "I know! If I were in charge of tooling, I would switch us to GitHub Actions tomorrow.",
+        "ipa": "aɪ noʊ | ɪf aɪ wɝ ɪn ʧɑɹʤ əv ˈtuːlɪŋ | aɪ wʊd swɪʧ ʌs tu ˈɡɪthʌb ˈækʃənz təˈmɑɹoʊ",
+        "stress": "I KNOW | IF I WERE in CHARGE of TOOLING | I would SWITCH us to GITHUB ACTIONS TOMORROW",
+        "linking": "\"were in\" → /wɝ ɪn/ (r + i linking)\n\"switch us\" → /swɪʧ ʌs/ (ch + u linking)"
+    },
+    {
+        "speaker": "Aaron",
+        "text": "That would be amazing. If our tests ran in parallel, the builds would finish in half the time.",
+        "ipa": "ðæt wʊd bi əˈmeɪzɪŋ | ɪf aʊɚ tɛsts ɹæn ɪn ˈpæɹəˌlɛl | ðə bɪldz wʊd ˈfɪnɪʃ ɪn hæf ðə taɪm",
+        "stress": "THAT would be AMAZING | IF our TESTS RAN in PARALLEL | the BUILDS would FINISH in HALF the TIME",
+        "linking": "\"would be\" → /wʊd bi/ (d + b linking)\n\"finish in\" → /ˈfɪnɪʃ ɪn/ (sh + i linking)"
+    },
+    {
+        "speaker": "Priya",
+        "text": "Exactly. If management understood how much this slows us down, they might prioritize infrastructure for once.",
+        "ipa": "ɪɡˈzæktli | ɪf ˈmænɪʤmənt ˌʌndɚˈstʊd haʊ mʌʧ ðɪs sloʊz ʌs daʊn | ðeɪ maɪt praɪˈɔɹəˌtaɪz ˈɪnfɹəˌstɹʌktʃɚ fɔɹ wʌns",
+        "stress": "EXACTLY | IF MANAGEMENT UNDERSTOOD how much THIS SLOWS us DOWN | they MIGHT PRIORITIZE INFRASTRUCTURE for ONCE",
+        "linking": "\"slows us\" → /sloʊz ʌs/ (z + u linking)\n\"might prioritize\" → /maɪt praɪˈɔɹəˌtaɪz/ (t + p linking)"
+    },
+    {
+        "speaker": "Aaron",
+        "text": "Haha, if only that happened. But yeah, if we invested just one sprint in cleanup, productivity would jump like crazy.",
+        "ipa": "hɑ hɑ | ɪf ˈoʊnli ðæt ˈhæpənd | bʌt jæ | ɪf wi ɪnˈvɛstɪd ʤəst wʌn spɹɪnt ɪn ˈkliːnʌp | ˌpɹɑdəkˈtɪvɪti wʊd ʤʌmp laɪk ˈkɹeɪzi",
+        "stress": "HAHA | IF ONLY THAT HAPPENED | but YEAH | IF we INVESTED just ONE SPRINT in CLEANUP | PRODUCTIVITY would JUMP like CRAZY",
+        "linking": "\"invested just\" → /ɪnˈvɛstɪd ʤəst/ (d + j linking)\n\"jump like\" → /ʤʌmp laɪk/ (p + l linking)"
+    }
+]

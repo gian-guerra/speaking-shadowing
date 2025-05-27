@@ -1,0 +1,65 @@
+[
+    {
+        "speaker": "Lena",
+        "text": "If we give consistent feedback, the junior devs will improve a lot faster.",
+        "ipa": "ɪf wi ɡɪv kənˈsɪstənt ˈfiːdbæk | ðə ˈʤuːniɚ dɛvz wɪl ɪmˈpruv ə lɑt ˈfæstɚ",
+        "stress": "IF we GIVE CONSISTENT FEEDBACK | the JUNIOR DEVS will IMPROVE a LOT FASTER",
+        "linking": "\"give consistent\" → /ɡɪv kənˈsɪstənt/ (v + k linking)\n\"will improve\" → /wɪl ɪmˈpruv/ (l + i linking)"
+    },
+    {
+        "speaker": "Jared",
+        "text": "Exactly. And if we wait until the end of the quarter, they won’t have time to apply it.",
+        "ipa": "ɪɡˈzæktli | ənd ɪf wi weɪt ənˈtɪl ði ɛnd əv ðə ˈkwɔɹtɚ | ðeɪ woʊnt hæv taɪm tu əˈplaɪ ɪt",
+        "stress": "EXACTLY | AND IF we WAIT UNTIL the END of the QUARTER | they WON’T HAVE TIME to APPLY IT",
+        "linking": "\"wait until\" → /weɪt ənˈtɪl/ (t + u linking)\n\"have time\" → /hæv taɪm/ (v + t linking)"
+    },
+    {
+        "speaker": "Lena",
+        "text": "True. If they see their progress week by week, they will feel more motivated.",
+        "ipa": "tru | ɪf ðeɪ si ðɛɹ ˈpɹɑɡɹɛs wik baɪ wik | ðeɪ wɪl fil mɔɹ ˈmoʊtɪˌveɪtɪd",
+        "stress": "TRUE | IF they SEE their PROGRESS WEEK by WEEK | they WILL FEEL MORE MOTIVATED",
+        "linking": "\"see their\" → /si ðɛɹ/ (i + th linking)\n\"feel more\" → /fil mɔɹ/ (l + m linking)"
+    },
+    {
+        "speaker": "Jared",
+        "text": "Right. If we focus on communication and code quality, the rest will follow naturally.",
+        "ipa": "ɹaɪt | ɪf wi ˈfoʊkəs ɑn kəˌmjunəˈkeɪʃən ənd koʊd ˈkwɑləti | ðə ɹɛst wɪl ˈfɑloʊ ˈnætʃɚəli",
+        "stress": "RIGHT | IF we FOCUS on COMMUNICATION and CODE QUALITY | the REST will FOLLOW NATURALLY",
+        "linking": "\"focus on\" → /ˈfoʊkəs ɑn/ (s + o linking)\n\"code quality\" → /koʊd ˈkwɑləti/ (d + q linking)"
+    },
+    {
+        "speaker": "Lena",
+        "text": "And if someone asks for mentorship, we should offer time and guidance.",
+        "ipa": "ænd ɪf ˈsʌmwʌn æsks fɔɹ ˈmɛntɔɹʃɪp | wi ʃʊd ˈɔfɚ taɪm ənd ˈɡaɪdəns",
+        "stress": "AND IF SOMEONE ASKS for MENTORSHIP | we SHOULD OFFER TIME and GUIDANCE",
+        "linking": "\"asks for\" → /æsks fɔɹ/ (s + f linking)\n\"offer time\" → /ˈɔfɚ taɪm/ (r + t linking)"
+    },
+    {
+        "speaker": "Jared",
+        "text": "Totally agree. But if they don’t take the feedback seriously, nothing will change.",
+        "ipa": "ˈtoʊtəli əˈɡɹi | bʌt ɪf ðeɪ doʊnt teɪk ðə ˈfiːdbæk ˈsɪɹiəsli | ˈnʌθɪŋ wɪl ʧeɪndʒ",
+        "stress": "TOTALLY AGREE | BUT IF they DON’T TAKE the FEEDBACK SERIOUSLY | NOTHING will CHANGE",
+        "linking": "\"don’t take\" → /doʊnt teɪk/ (t + t linking)\n\"will change\" → /wɪl ʧeɪndʒ/ (l + ch linking)"
+    },
+    {
+        "speaker": "Lena",
+        "text": "That’s where we step in. If we create a supportive environment, even struggling devs will grow quickly.",
+        "ipa": "ðæts wɛɹ wi stɛp ɪn | ɪf wi kɹiˈeɪt ə səˈpɔɹtɪv ɪnˈvaɪɹənmənt | ˈivən ˈstɹʌɡəlɪŋ dɛvz wɪl ɡɹoʊ ˈkwɪkli",
+        "stress": "THAT’S WHERE we STEP IN | IF we CREATE a SUPPORTIVE ENVIRONMENT | EVEN STRUGGLING DEVS will GROW QUICKLY",
+        "linking": "\"step in\" → /stɛp ɪn/ (p + i linking)\n\"grow quickly\" → /ɡɹoʊ ˈkwɪkli/ (w + q linking)"
+    },
+    {
+        "speaker": "Jared",
+        "text": "Exactly. And if they feel safe to ask questions, they won’t be afraid to take initiative.",
+        "ipa": "ɪɡˈzæktli | ənd ɪf ðeɪ fil seɪf tu æsk ˈkwɛsʧənz | ðeɪ woʊnt bi əˈfɹeɪd tu teɪk ɪˈnɪʃətɪv",
+        "stress": "EXACTLY | AND IF they FEEL SAFE to ASK QUESTIONS | they WON’T BE AFRAID to TAKE INITIATIVE",
+        "linking": "\"feel safe\" → /fil seɪf/ (l + s linking)\n\"take initiative\" → /teɪk ɪˈnɪʃətɪv/ (k + i linking)"
+    },
+    {
+        "speaker": "Lena",
+        "text": "That’s the goal. If we get this right, the whole team will level up.",
+        "ipa": "ðæts ðə ɡoʊl | ɪf wi ɡɛt ðɪs ɹaɪt | ðə hoʊl tim wɪl ˈlɛvəl ʌp",
+        "stress": "THAT’S the GOAL | IF we GET THIS RIGHT | the WHOLE TEAM will LEVEL UP",
+        "linking": "\"get this\" → /ɡɛt ðɪs/ (t + th linking)\n\"level up\" → /ˈlɛvəl ʌp/ (l + u linking)"
+    }
+]

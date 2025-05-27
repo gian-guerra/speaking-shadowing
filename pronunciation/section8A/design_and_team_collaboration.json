@@ -1,0 +1,58 @@
+[
+    {
+        "speaker": "Sarah",
+        "text": "If we had a dedicated UX designer on the team, our interfaces would look way more polished.",
+        "ipa": "ɪf wi hæd ə ˈdɛdɪkeɪtɪd ˌjuː ɛks dɪˈzaɪnɚ ɑn ðə tim | aʊɚ ˈɪntɚˌfeɪsɪz wʊd lʊk weɪ mɔɹ ˈpɑlɪʃt",
+        "stress": "IF we HAD a DEDICATED UX DESIGNER on the TEAM | our INTERFACES would LOOK WAY more POLISHED",
+        "linking": "\"had a\" → /hæd ə/ (d + a linking)\n\"designer on\" → /dɪˈzaɪnɚ ɑn/ (r + o linking)\n\"would look\" → /wʊd lʊk/ (d + l linking)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "I agree. If the stakeholders gave us more flexibility, we could experiment with better design patterns.",
+        "ipa": "aɪ əˈɡɹi | ɪf ðə ˈsteɪkˌhoʊldɚz ɡeɪv ʌs mɔɹ ˌflɛksəˈbɪləti | wi kʊd ɪkˈspɛɹəmənt wɪð ˈbɛtɚ dɪˈzaɪn ˈpætɚnz",
+        "stress": "I AGREE | IF the STAKEHOLDERS GAVE us MORE FLEXIBILITY | we COULD EXPERIMENT with BETTER DESIGN PATTERNS",
+        "linking": "\"gave us\" → /ɡeɪv ʌs/ (v + u linking)\n\"could experiment\" → /kʊd ɪkˈspɛɹəmənt/ (d + e linking)"
+    },
+    {
+        "speaker": "Sarah",
+        "text": "Yeah, and if we weren’t rushing every release, we would catch more usability issues.",
+        "ipa": "jæ | ənd ɪf wi ˈwɝnt ˈɹʌʃɪŋ ˈɛvɚi ɹɪˈlis | wi wʊd kæʧ mɔɹ ˌjuːzəˈbɪləti ˈɪʃuz",
+        "stress": "YEAH | and IF we WEREN’T RUSHING EVERY RELEASE | we WOULD CATCH MORE USABILITY ISSUES",
+        "linking": "\"weren’t rushing\" → /ˈwɝnt ˈɹʌʃɪŋ/ (t + r linking)\n\"catch more\" → /kæʧ mɔɹ/ (ch + m linking)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "Exactly. If the roadmap allowed more breathing room, our features might be more refined.",
+        "ipa": "ɪɡˈzæktli | ɪf ðə ˈɹoʊdˌmæp əˈlaʊd mɔɹ ˈbɹiðɪŋ ɹum | aʊɚ ˈfiʧɚz maɪt bi mɔɹ ɹɪˈfaɪnd",
+        "stress": "EXACTLY | IF the ROADMAP ALLOWED MORE BREATHING ROOM | our FEATURES MIGHT BE MORE REFINED",
+        "linking": "\"roadmap allowed\" → /ˈɹoʊdˌmæp əˈlaʊd/ (p + a linking)\n\"might be\" → /maɪt bi/ (t + b linking)"
+    },
+    {
+        "speaker": "Sarah",
+        "text": "Also, if marketing communicated changes earlier, we wouldn’t have to redo designs last minute.",
+        "ipa": "ˈɔlsoʊ | ɪf ˈmɑɹkətɪŋ kəˈmjunəˌkeɪtɪd ˈʧeɪnʤɪz ˈɝliɚ | wi ˈwʊdənt hæv tə ˈɹidu dɪˈzaɪnz læst ˈmɪnɪt",
+        "stress": "ALSO | IF MARKETING COMMUNICATED CHANGES EARLIER | we WOULDN’T HAVE to REDO DESIGNS LAST MINUTE",
+        "linking": "\"communicated changes\" → /kəˈmjunəˌkeɪtɪd ˈʧeɪnʤɪz/ (d + ch linking)\n\"redo designs\" → /ˈɹidu dɪˈzaɪnz/ (u + d linking)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "Ugh, yes. If I were in charge of timelines, I would add a review buffer after every sprint.",
+        "ipa": "ʌɡ | jɛs | ɪf aɪ wɝ ɪn ʧɑɹʤ əv ˈtaɪmˌlaɪnz | aɪ wʊd æd ə ɹɪˈvju ˈbʌfɚ ˈæftɚ ˈɛvɚi spɹɪnt",
+        "stress": "UGH, YES | IF I WERE IN CHARGE of TIMELINES | I WOULD ADD a REVIEW BUFFER AFTER EVERY SPRINT",
+        "linking": "\"were in\" → /wɝ ɪn/ (r + i linking)\n\"add a\" → /æd ə/ (d + a linking)"
+    },
+    {
+        "speaker": "Sarah",
+        "text": "That would help a lot. If QA had more visibility earlier, we could prevent those late surprises.",
+        "ipa": "ðæt wʊd hɛlp ə lɑt | ɪf ˌkjuː ˈeɪ hæd mɔɹ ˌvɪzəˈbɪləti ˈɝliɚ | wi kʊd pɹɪˈvɛnt ðoʊz leɪt səˈpɹaɪzɪz",
+        "stress": "THAT WOULD HELP a LOT | IF QA HAD MORE VISIBILITY EARLIER | we COULD PREVENT THOSE LATE SURPRISES",
+        "linking": "\"help a\" → /hɛlp ə/ (p + a linking)\n\"prevent those\" → /pɹɪˈvɛnt ðoʊz/ (t + th linking)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "And honestly, if we trusted each team’s expertise more, the whole process would run smoother.",
+        "ipa": "ænd ˈɑnəstli | ɪf wi ˈtɹʌstɪd itʃ timz ˌɛkspɚˈtiz mɔɹ | ðə hoʊl ˈpɹɑsɛs wʊd ɹʌn ˈsmuðɚ",
+        "stress": "AND HONESTLY | IF WE TRUSTED EACH TEAM’S EXPERTISE MORE | the WHOLE PROCESS WOULD RUN SMOOTHER",
+        "linking": "\"trusted each\" → /ˈtɹʌstɪd itʃ/ (d + e linking)\n\"process would\" → /ˈpɹɑsɛs wʊd/ (s + w linking)"
+    }
+]

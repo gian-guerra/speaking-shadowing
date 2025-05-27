@@ -1,0 +1,58 @@
+[
+    {
+        "speaker": "Noah",
+        "text": "I always tell juniors — if you write unclear variable names, the next person gets confused immediately.",
+        "ipa": "aɪ ˈɔlweɪz tɛl ˈʤuːnjɚz — ɪf ju raɪt ʌnˈklɪɹ ˈvɛɹiəbəl neɪmz | ðə nɛkst ˈpɝsən ɡɛts kənˈfjuzd ɪˈmiːdiətli",
+        "stress": "I ALWAYS TELL JUNIORS — if YOU WRITE UNCLEAR VARIABLE NAMES | the NEXT PERSON GETS CONFUSED IMMEDIATELY",
+        "linking": "\"tell juniors\" → /tɛl ˈʤuːnjɚz/ (l + j linking)\n\"write unclear\" → /raɪt ʌnˈklɪɹ/ (t + u linking)\n\"gets confused\" → /ɡɛts kənˈfjuzd/ (s + c linking)"
+    },
+    {
+        "speaker": "Sophie",
+        "text": "Totally agree. If someone reads your code and needs to ask questions constantly, you know you failed at readability.",
+        "ipa": "ˈtoʊtəli əˈɡɹi | ɪf ˈsʌmwʌn ɹidz jɔɹ koʊd ənd nidz tə æsk ˈkwɛsʧənz ˈkɑnstəntli | ju noʊ ju feɪld æt ˌɹidəˈbɪləti",
+        "stress": "TOTALLY AGREE | if SOMEONE READS YOUR CODE and NEEDS to ASK QUESTIONS CONSTANTLY | you KNOW you FAILED at READABILITY",
+        "linking": "\"reads your\" → /ɹidz jɔɹ/ (z + y linking)\n\"needs to\" → /nidz tə/ (d + t linking)\n\"ask questions\" → /æsk ˈkwɛsʧənz/ (k + q linking)"
+    },
+    {
+        "speaker": "Noah",
+        "text": "Exactly. And if you skip writing tests, bugs slip through way more often.",
+        "ipa": "ɪɡˈzæktli | ənd ɪf ju skɪp ˈɹaɪtɪŋ tɛsts | bʌɡz slɪp θɹu weɪ mɔɹ ˈɔfən",
+        "stress": "EXACTLY | and if YOU SKIP WRITING TESTS | BUGS SLIP THROUGH WAY MORE OFTEN",
+        "linking": "\"skip writing\" → /skɪp ˈɹaɪtɪŋ/ (p + r linking)\n\"bugs slip\" → /bʌɡz slɪp/ (z + s linking)"
+    },
+    {
+        "speaker": "Sophie",
+        "text": "Not to mention, if you push code without a second pair of eyes, something usually breaks in production.",
+        "ipa": "nɑt tə ˈmɛnʃən | ɪf ju pʊʃ koʊd wɪˈðaʊt ə ˈsɛkənd pɛɹ əv aɪz | ˈsʌmθɪŋ ˈjuʒuəli bɹeɪks ɪn pɹəˈdʌkʃən",
+        "stress": "NOT to MENTION | if YOU PUSH CODE WITHOUT a SECOND PAIR of EYES | SOMETHING USUALLY BREAKS in PRODUCTION",
+        "linking": "\"push code\" → /pʊʃ koʊd/ (sh + c linking)\n\"pair of\" → /pɛɹ əv/ (r + o linking)"
+    },
+    {
+        "speaker": "Noah",
+        "text": "Yup. That’s why I always say — if we follow the checklist, nothing goes wrong.",
+        "ipa": "jʌp | ðæts waɪ aɪ ˈɔlweɪz seɪ — ɪf wi ˈfɑloʊ ðə ˈʧɛklɪst | ˈnʌθɪŋ ɡoʊz ɹɔŋ",
+        "stress": "YUP | THAT’S WHY I ALWAYS SAY — if WE FOLLOW the CHECKLIST | NOTHING GOES WRONG",
+        "linking": "\"follow the\" → /ˈfɑloʊ ðə/ (w + th linking)\n\"nothing goes\" → /ˈnʌθɪŋ ɡoʊz/ (ng + g linking)"
+    },
+    {
+        "speaker": "Sophie",
+        "text": "And it’s true! If we review carefully and document changes, the whole process runs smoother.",
+        "ipa": "ənd ɪts tɹu | ɪf wi ɹɪˈvju ˈkɛɹfəli ənd ˈdɑkjəmənt ˈʧeɪnʤəz | ðə hoʊl ˈpɹɑsɛs ɹʌnz ˈsmuðɚ",
+        "stress": "AND IT’S TRUE | if WE REVIEW CAREFULLY and DOCUMENT CHANGES | the WHOLE PROCESS RUNS SMOOTHER",
+        "linking": "\"review carefully\" → /ɹɪˈvju ˈkɛɹfəli/ (w + c linking)\n\"document changes\" → /ˈdɑkjəmənt ˈʧeɪnʤəz/ (t + ch linking)"
+    },
+    {
+        "speaker": "Noah",
+        "text": "It’s kind of like a rule of nature in dev work — if you rush, you regret it later.",
+        "ipa": "ɪts kaɪnd əv laɪk ə ɹul əv ˈneɪʧɚ ɪn dɛv wɝk — ɪf ju ɹʌʃ | ju ɹɪˈɡɹɛt ɪt ˈleɪtɚ",
+        "stress": "IT’S KIND of LIKE a RULE of NATURE in DEV WORK — if YOU RUSH | YOU REGRET it LATER",
+        "linking": "\"kind of\" → /kaɪnd əv/ (d + o linking)\n\"rush, you\" → /ɹʌʃ ju/ (sh + y linking)"
+    },
+    {
+        "speaker": "Sophie",
+        "text": "Haha, so true. And if you explain your decisions in PRs, people understand them better and learn faster too.",
+        "ipa": "ˈhɑhɑ | soʊ tɹu | ənd ɪf ju ɪkˈspleɪn jɔɹ dɪˈsɪʒənz ɪn pi ɑɹz | ˈpipəl ˌʌndɚˈstænd ðəm ˈbɛtɚ ənd lɝn ˈfæstɚ tu",
+        "stress": "HAHA, SO TRUE | and if YOU EXPLAIN YOUR DECISIONS in PRs | PEOPLE UNDERSTAND THEM BETTER and LEARN FASTER TOO",
+        "linking": "\"explain your\" → /ɪkˈspleɪn jɔɹ/ (n + y linking)\n\"understand them\" → /ˌʌndɚˈstænd ðəm/ (d + th linking)"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "speaker": "Mia",
+        "text": "If I spoke better English, I would apply for that remote role in Canada.",
+        "ipa": "ɪf aɪ spoʊk ˈbɛtɚ ˈɪŋɡlɪʃ | aɪ wʊd əˈplaɪ fɔɹ ðæt ɹɪˈmoʊt ɹoʊl ɪn ˈkænədə",
+        "stress": "IF I SPOKE BETTER ENGLISH | I WOULD APPLY for THAT REMOTE ROLE in CANADA",
+        "linking": "\"spoke better\" → /spoʊk ˈbɛtɚ/ (k + b linking)\n\"apply for\" → /əˈplaɪ fɔɹ/ (y + f linking)"
+    },
+    {
+        "speaker": "Josh",
+        "text": "You totally could! If I had your portfolio, I would be working for a US company already.",
+        "ipa": "ju ˈtoʊtəli kʊd | ɪf aɪ hæd jɔɹ pɔɹtˈfoʊlioʊ | aɪ wʊd bi ˈwɝkɪŋ fɔɹ ə ju ɛs ˈkʌmpəni ɔlˈɹɛdi",
+        "stress": "YOU TOTALLY COULD | IF I HAD YOUR PORTFOLIO | I WOULD BE WORKING for a US COMPANY ALREADY",
+        "linking": "\"had your\" → /hæd jɔɹ/ (d + y linking)\n\"working for\" → /ˈwɝkɪŋ fɔɹ/ (ng + f linking)"
+    },
+    {
+        "speaker": "Mia",
+        "text": "Thanks. Honestly, if I practiced more speaking daily, I might feel more confident.",
+        "ipa": "θæŋks | ˈɑnəstli | ɪf aɪ ˈpræktɪst mɔɹ ˈspiːkɪŋ ˈdeɪli | aɪ maɪt fil mɔɹ ˈkɑnfɪdənt",
+        "stress": "THANKS | HONESTLY | IF I PRACTICED MORE SPEAKING DAILY | I MIGHT FEEL MORE CONFIDENT",
+        "linking": "\"practiced more\" → /ˈpræktɪst mɔɹ/ (d + m linking)\n\"feel more\" → /fil mɔɹ/ (l + m linking)"
+    },
+    {
+        "speaker": "Josh",
+        "text": "If you wanted, we could set up weekly speaking sessions together. I’m working on my fluency too.",
+        "ipa": "ɪf ju ˈwɑntɪd | wi kʊd sɛt ʌp ˈwikli ˈspiːkɪŋ ˈsɛʃənz təˈɡɛðɚ | aɪm ˈwɝkɪŋ ɑn maɪ ˈfluənsi tu",
+        "stress": "IF YOU WANTED | WE COULD SET UP WEEKLY SPEAKING SESSIONS TOGETHER | I’M WORKING ON MY FLUENCY TOO",
+        "linking": "\"set up\" → /sɛt ʌp/ (t + u linking)\n\"speaking sessions\" → /ˈspiːkɪŋ ˈsɛʃənz/ (ng + s linking)"
+    },
+    {
+        "speaker": "Mia",
+        "text": "That would be great. If I didn’t worry so much about sounding perfect, I would enjoy conversations more.",
+        "ipa": "ðæt wʊd bi ɡɹeɪt | ɪf aɪ ˈdɪdənt ˈwɝi soʊ mʌʧ əˈbaʊt ˈsaʊndɪŋ ˈpɝfɪkt | aɪ wʊd ɛnˈʤɔɪ ˌkɑnvɚˈseɪʃənz mɔɹ",
+        "stress": "THAT WOULD BE GREAT | IF I DIDN’T WORRY SO MUCH ABOUT SOUNDING PERFECT | I WOULD ENJOY CONVERSATIONS MORE",
+        "linking": "\"didn't worry\" → /ˈdɪdənt ˈwɝi/ (t + w linking)\n\"enjoy conversations\" → /ɛnˈʤɔɪ ˌkɑnvɚˈseɪʃənz/ (y + c linking)"
+    },
+    {
+        "speaker": "Josh",
+        "text": "Totally relatable. If we just focused on expressing ideas, fluency would come with time.",
+        "ipa": "ˈtoʊtəli ɹɪˈleɪtəbəl | ɪf wi ʤəst ˈfoʊkəst ɑn ɪkˈspɹɛsɪŋ aɪˈdiəz | ˈfluənsi wʊd kʌm wɪð taɪm",
+        "stress": "TOTALLY RELATABLE | IF WE JUST FOCUSED ON EXPRESSING IDEAS | FLUENCY WOULD COME WITH TIME",
+        "linking": "\"focused on\" → /ˈfoʊkəst ɑn/ (t + o linking)\n\"come with\" → /kʌm wɪð/ (m + w linking)"
+    },
+    {
+        "speaker": "Mia",
+        "text": "Also, if I took some time to organize my GitHub properly, I could attract better opportunities.",
+        "ipa": "ˈɔlsoʊ | ɪf aɪ tʊk səm taɪm tə ˈɔɹɡəˌnaɪz maɪ ˈɡɪthʌb ˈpɹɑpɚli | aɪ kʊd əˈtɹækt ˈbɛtɚ ˌɑpɚˈtunɪtiz",
+        "stress": "ALSO | IF I TOOK SOME TIME TO ORGANIZE MY GITHUB PROPERLY | I COULD ATTRACT BETTER OPPORTUNITIES",
+        "linking": "\"took some\" → /tʊk səm/ (k + s linking)\n\"attract better\" → /əˈtɹækt ˈbɛtɚ/ (t + b linking)"
+    },
+    {
+        "speaker": "Josh",
+        "text": "Yup, and if you added more real-world projects, recruiters would notice fast.",
+        "ipa": "jʌp | ənd ɪf ju ˈædɪd mɔɹ ˈɹiəl wɝld ˈpɹɑʤɛkts | ɹɪˈkɹutɚz wʊd ˈnoʊtɪs fæst",
+        "stress": "YUP | AND IF YOU ADDED MORE REAL-WORLD PROJECTS | RECRUITERS WOULD NOTICE FAST",
+        "linking": "\"added more\" → /ˈædɪd mɔɹ/ (d + m linking)\n\"notice fast\" → /ˈnoʊtɪs fæst/ (s + f linking)"
+    },
+    {
+        "speaker": "Mia",
+        "text": "You’re right. If I got serious about it this month, it could open doors next quarter.",
+        "ipa": "jʊɹ ɹaɪt | ɪf aɪ ɡɑt ˈsɪɹiəs əˈbaʊt ɪt ðɪs mʌnθ | ɪt kʊd ˈoʊpən dɔɹz nɛkst ˈkwɔɹtɚ",
+        "stress": "YOU’RE RIGHT | IF I GOT SERIOUS ABOUT IT THIS MONTH | IT COULD OPEN DOORS NEXT QUARTER",
+        "linking": "\"got serious\" → /ɡɑt ˈsɪɹiəs/ (t + s linking)\n\"open doors\" → /ˈoʊpən dɔɹz/ (n + d linking)"
+    }
+]
