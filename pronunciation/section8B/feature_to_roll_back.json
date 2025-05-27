@@ -1,0 +1,51 @@
+[
+    {
+        "speaker": "Sofia",
+        "text": "If we had finished the feature earlier, we could have scheduled proper testing before the deadline.",
+        "ipa": "ɪf wi hæd ˈfɪnɪʃt ðə ˈfiːtʃɚ ˈɝliɚ, wi kʊd həv ˈskɛdʒuːld ˈprɑpɚ ˈtɛstɪŋ bɪˈfɔɹ ðə ˈdɛdlaɪn.",
+        "stress": "If we had FINISHED the FEATURE EARLIER, we could have SCHEDULED PROPER TESTING before the DEADLINE.",
+        "linking": "\"had finished\" → /hæd ˈfɪnɪʃt/ (d + f linking)\n\"could have\" → /kʊd həv/ (d + h linking)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "Yeah, but we were already behind. If the product team had locked the requirements sooner, we might not have rewritten half the logic.",
+        "ipa": "jæ, bət wi wɚ ɔlˈɹɛdi bɪˈhaɪnd. ɪf ðə ˈpɹɑdʌkt tim hæd lɑkt ðə ɹɪˈkwaɪɚmənts ˈsunɚ, wi maɪt nɑt həv ˌɹiˈɹɪtən hæf ðə ˈlɑdʒɪk.",
+        "stress": "Yeah, but we were ALREADY BEHIND. If the PRODUCT TEAM had LOCKED the REQUIREMENTS SOONER, we might not have REWRITTEN half the LOGIC.",
+        "linking": "\"had locked\" → /hæd lɑkt/ (d + l linking)\n\"might not have\" → /maɪt nɑt həv/ (t + h linking)"
+    },
+    {
+        "speaker": "Sofia",
+        "text": "I know. Honestly, I should have pushed harder during the planning phase.",
+        "ipa": "aɪ noʊ. ˈɑnəstli, aɪ ʃʊd həv pʊʃt ˈhɑɹdɚ ˈdʊɹɪŋ ðə ˈplænɪŋ feɪz.",
+        "stress": "I KNOW. HONESTLY, I should have PUSHED HARDER during the PLANNING PHASE.",
+        "linking": "\"should have\" → /ʃʊd həv/ (d + h linking)\n\"pushed harder\" → /pʊʃt ˈhɑɹdɚ/ (t + h linking)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "And I shouldn’t have approved the PR so quickly. If I had reviewed it more carefully, I would have caught that broken validation rule.",
+        "ipa": "ænd aɪ ˈʃʊdənt həv əˈpɹuvd ðə pi ɑɹ soʊ ˈkwɪkli. ɪf aɪ hæd ɹɪˈvjud ɪt mɔɹ ˈkɛɹfəli, aɪ wʊd həv kɔt ðæt ˈbɹoʊkən ˌvælɪˈdeɪʃən ɹul.",
+        "stress": "And I SHOULDN’T have APPROVED the PR so QUICKLY. If I had REVIEWED it more CAREFULLY, I would have CAUGHT that BROKEN VALIDATION RULE.",
+        "linking": "\"shouldn’t have\" → /ˈʃʊdənt həv/ (t + h linking)\n\"had reviewed\" → /hæd ɹɪˈvjud/ (d + r linking)"
+    },
+    {
+        "speaker": "Sofia",
+        "text": "Same here. If we had done just one more round of QA, the bug wouldn’t have made it to production.",
+        "ipa": "seɪm hɪɹ. ɪf wi hæd dʌn dʒəst wʌn mɔɹ ɹaʊnd əv ˌkjuːˈeɪ, ðə bʌɡ ˈwʊdənt həv meɪd ɪt tu pɹəˈdʌkʃən.",
+        "stress": "SAME HERE. If we had DONE just ONE more ROUND of QA, the BUG WOULDN’T have MADE it to PRODUCTION.",
+        "linking": "\"had done\" → /hæd dʌn/ (d + d linking)\n\"wouldn’t have\" → /ˈwʊdənt həv/ (t + h linking)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "If only we had taken that extra day…",
+        "ipa": "ɪf ˈoʊnli wi hæd ˈteɪkən ðæt ˈɛkstrə deɪ…",
+        "stress": "If ONLY we had TAKEN that EXTRA DAY…",
+        "linking": "\"had taken\" → /hæd ˈteɪkən/ (d + t linking)"
+    },
+    {
+        "speaker": "Sofia",
+        "text": "Yeah… But at least now we have implemented release gates. That should have been done weeks ago.",
+        "ipa": "jæ… bət æt list naʊ wi hæv ˈɪmpləˌmɛntɪd ɹɪˈlis ɡeɪts. ðæt ʃʊd həv bɪn dʌn wiks əˈɡoʊ.",
+        "stress": "Yeah… But at LEAST now we have IMPLEMENTED RELEASE GATES. That SHOULD have been DONE WEEKS AGO.",
+        "linking": "\"should have\" → /ʃʊd həv/ (d + h linking)\n\"been done\" → /bɪn dʌn/ (n + d linking)"
+    }
+]

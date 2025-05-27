@@ -1,0 +1,65 @@
+[
+    {
+        "speaker": "Emily",
+        "text": "I wish I had taken time off sooner. I didn’t realize how burned out I was.",
+        "ipa": "aɪ wɪʃ aɪ hæd ˈteɪkən taɪm ɔf ˈsunɚ | aɪ ˈdɪdənt ˈɹiəˌlaɪz haʊ bɝnd aʊt aɪ wəz",
+        "stress": "I WISH I had TAKEN time off SOONER. I DIDN’T REALIZE how BURNED OUT I was.",
+        "linking": "\"had taken\" → /hæd ˈteɪkən/ (d + t linking)\n\"burned out\" → /bɝnd aʊt/ (d + oʊ linking)"
+    },
+    {
+        "speaker": "Raj",
+        "text": "Yeah, you should have said something. We all noticed, but we didn’t want to push you.",
+        "ipa": "jæ | ju ʃʊd əv sɛd ˈsʌmθɪŋ | wi ɔl ˈnoʊtɪst | bət wi ˈdɪdənt wɑnt tu pʊʃ ju",
+        "stress": "Yeah, you SHOULD HAVE SAID something. We all NOTICED, but we DIDN’T WANT to PUSH you.",
+        "linking": "\"should have\" → /ʃʊd əv/ (d + əv linking)\n\"push you\" → /pʊʃ ju/ (sh + y linking)"
+    },
+    {
+        "speaker": "Emily",
+        "text": "Thanks… But if I had spoken up earlier, I might not have reached that breaking point.",
+        "ipa": "θæŋks | bət ɪf aɪ hæd ˈspoʊkən ʌp ˈɝliɚ | aɪ maɪt nɑt hæv ɹitʃt ðæt ˈbɹeɪkɪŋ pɔɪnt",
+        "stress": "Thanks… But if I had SPOKEN UP EARLIER, I MIGHT NOT have REACHED that BREAKING POINT.",
+        "linking": "\"spoken up\" → /ˈspoʊkən ʌp/ (n + u linking)\n\"breaking point\" → /ˈbɹeɪkɪŋ pɔɪnt/ (ŋ + p linking)"
+    },
+    {
+        "speaker": "Raj",
+        "text": "True. And if your team had supported you more proactively, things would have looked different now.",
+        "ipa": "tɹu | ænd ɪf jʊɚ tim hæd səˈpɔɹtɪd ju mɔɹ proʊˈæktɪvli | θɪŋz wʊd əv lʊkt ˈdɪfɚənt naʊ",
+        "stress": "True. And if your TEAM had SUPPORTED you more PROACTIVELY, THINGS would have LOOKED DIFFERENT now.",
+        "linking": "\"supported you\" → /səˈpɔɹtɪd ju/ (d + y linking)\n\"looked different\" → /lʊkt ˈdɪfɚənt/ (t + d linking)"
+    },
+    {
+        "speaker": "Emily",
+        "text": "Yeah. But honestly, if I weren’t always trying to prove myself, I would have asked for help months ago.",
+        "ipa": "jæ | bət ˈɑnəstli | ɪf aɪ wɚnt ˈɔlweɪz ˈtɹaɪɪŋ tu pɹuv maɪˈsɛlf | aɪ wʊd əv æskt fɔɹ hɛlp mʌnθs əˈɡoʊ",
+        "stress": "Yeah. But HONESTLY, if I WEREN’T ALWAYS TRYING to PROVE MYSELF, I WOULD HAVE ASKED for HELP months ago.",
+        "linking": "\"prove myself\" → /pɹuv maɪˈsɛlf/ (v + m linking)\n\"asked for\" → /æskt fɔɹ/ (t + f linking)"
+    },
+    {
+        "speaker": "Raj",
+        "text": "That hits home. I wish I didn’t feel the same pressure sometimes.",
+        "ipa": "ðæt hɪts hoʊm | aɪ wɪʃ aɪ ˈdɪdənt fil ðə seɪm ˈpɹɛʃɚ ˈsʌmtaɪmz",
+        "stress": "That HITS HOME. I WISH I didn’t FEEL the same PRESSURE sometimes.",
+        "linking": "\"feel the\" → /fil ðə/ (l + th linking)\n\"pressure sometimes\" → /ˈpɹɛʃɚ ˈsʌmtaɪmz/ (r + s linking)"
+    },
+    {
+        "speaker": "Emily",
+        "text": "You too?",
+        "ipa": "ju tu",
+        "stress": "You TOO?",
+        "linking": "No significant linking."
+    },
+    {
+        "speaker": "Raj",
+        "text": "Yeah. If I hadn’t taken on so many responsibilities, I might have maintained a better balance.",
+        "ipa": "jæ | ɪf aɪ ˈhædənt ˈteɪkən ɑn soʊ ˈmɛni ɹɪˌspɑnsəˈbɪlətiz | aɪ maɪt hæv meɪnˈteɪnd ə ˈbɛtɚ ˈbæləns",
+        "stress": "Yeah. If I HADN’T TAKEN ON so many RESPONSIBILITIES, I MIGHT have MAINTAINED a BETTER BALANCE.",
+        "linking": "\"taken on\" → /ˈteɪkən ɑn/ (n + o linking)\n\"maintained a\" → /meɪnˈteɪnd ə/ (d + a linking)"
+    },
+    {
+        "speaker": "Emily",
+        "text": "It’s hard. But if we keep ignoring our limits, burnout will just keep coming back.",
+        "ipa": "ɪts hɑɹd | bət ɪf wi kip ɪɡˈnɔɹɪŋ aʊɚ ˈlɪmɪts | ˈbɝnˌaʊt wɪl dʒəst kip ˈkʌmɪŋ bæk",
+        "stress": "It’s HARD. But if we KEEP IGNORING our LIMITS, BURNOUT will just KEEP COMING BACK.",
+        "linking": "\"keep ignoring\" → /kip ɪɡˈnɔɹɪŋ/ (p + i linking)\n\"coming back\" → /ˈkʌmɪŋ bæk/ (ŋ + b linking)"
+    }
+]
