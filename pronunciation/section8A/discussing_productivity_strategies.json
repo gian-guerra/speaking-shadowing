@@ -1,0 +1,65 @@
+[
+    {
+        "speaker": "Lucas",
+        "text": "If I wake up early and avoid distractions, I usually finish my deep work by noon.",
+        "ipa": "ɪf aɪ weɪk ʌp ˈɝli ənd əˈvɔɪd dɪˈstɹækʃənz | aɪ ˈjuʒəwəli ˈfɪnɪʃ maɪ dip wɝk baɪ nun",
+        "stress": "IF I WAKE UP EARLY and AVOID DISTRACTIONS | I USUALLY FINISH my DEEP WORK by NOON",
+        "linking": "\"wake up\" → /weɪk ʌp/ (k + ʌ linking)\n\"deep work\" → /dip wɝk/ (p + w linking)"
+    },
+    {
+        "speaker": "Tania",
+        "text": "Lucky you. If I had a quieter apartment, I would get way more done in the mornings.",
+        "ipa": "ˈlʌki ju | ɪf aɪ hæd ə ˈkwaɪətɚ əˈpɑɹtmənt | aɪ wʊd ɡɛt weɪ mɔɹ dʌn ɪn ðə ˈmɔɹnɪŋz",
+        "stress": "LUCKY YOU | IF I HAD a QUIETER APARTMENT | I WOULD GET WAY MORE DONE in the MORNINGS",
+        "linking": "\"had a\" → /hæd ə/ (d + ə linking)\n\"get way\" → /ɡɛt weɪ/ (t + w linking)"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "Totally. You might feel more focused if you tried working from a co-working space once or twice a week.",
+        "ipa": "ˈtoʊtəli | ju maɪt fil mɔɹ ˈfoʊkəst | ɪf ju tɹaɪd ˈwɝkɪŋ fɹəm ə ˈkoʊˌwɝkɪŋ speɪs wʌns ɔɹ twaɪs ə wik",
+        "stress": "TOTALLY | YOU MIGHT FEEL MORE FOCUSED | IF YOU TRIED WORKING from a CO-WORKING SPACE ONCE or TWICE a WEEK",
+        "linking": "\"feel more\" → /fil mɔɹ/ (l + m linking)\n\"working from\" → /ˈwɝkɪŋ fɹəm/ (ŋ + f linking)"
+    },
+    {
+        "speaker": "Tania",
+        "text": "Maybe! I’d go provided that it has good internet and decent coffee.",
+        "ipa": "ˈmeɪbi | aɪd ɡoʊ pɹəˈvaɪdɪd ðæt ɪt hæz ɡʊd ˈɪntɚˌnɛt ənd ˈdisənt ˈkɑfi",
+        "stress": "MAYBE! I’D GO PROVIDED that it HAS GOOD INTERNET and DECENT COFFEE",
+        "linking": "\"go provided\" → /ɡoʊ pɹəˈvaɪdɪd/ (o + p linking)\n\"good internet\" → /ɡʊd ˈɪntɚˌnɛt/ (d + i linking)"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "Haha, fair. As long as you set boundaries with Slack and emails, your afternoons will be more productive.",
+        "ipa": "hɑ hɑ fɛɹ | æz lɔŋ æz ju sɛt ˈbaʊndɚiz wɪð slæk ənd ˈiːmeɪlz | jɔɹ ˌæftɚˈnunz wɪl bi mɔɹ pɹəˈdʌktɪv",
+        "stress": "HAHA, FAIR | AS LONG AS YOU SET BOUNDARIES with SLACK and EMAILS | YOUR AFTERNOONS will be MORE PRODUCTIVE",
+        "linking": "\"set boundaries\" → /sɛt ˈbaʊndɚiz/ (t + b linking)\n\"with Slack\" → /wɪð slæk/ (ð + s linking)"
+    },
+    {
+        "speaker": "Tania",
+        "text": "Yeah, I need to work on that. If I weren’t constantly switching tasks, my code quality would improve a lot.",
+        "ipa": "jæ | aɪ nid tu wɝk ɑn ðæt | ɪf aɪ ˈwɝnt ˈkɑnstəntli ˈswɪʧɪŋ tæsks | maɪ koʊd ˈkwɑləti wʊd ɪmˈpɹuv ə lɑt",
+        "stress": "YEAH, I NEED to WORK on THAT | IF I WEREN’T CONSTANTLY SWITCHING TASKS | MY CODE QUALITY would IMPROVE a LOT",
+        "linking": "\"work on\" → /wɝk ɑn/ (k + ɑ linking)\n\"code quality\" → /koʊd ˈkwɑləti/ (d + q linking)"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "Also, unless I schedule breaks deliberately, I just burn out halfway through the day.",
+        "ipa": "ˈɔlsoʊ | ənˈlɛs aɪ ˈskɛʤul bɹeɪks dɪˈlɪbɚətli | aɪ ʤəst bɝn aʊt ˈhæfweɪ θɹu ðə deɪ",
+        "stress": "ALSO, UNLESS I SCHEDULE BREAKS DELIBERATELY | I JUST BURN OUT HALFWAY THROUGH the DAY",
+        "linking": "\"schedule breaks\" → /ˈskɛʤul bɹeɪks/ (l + b linking)\n\"burn out\" → /bɝn aʊt/ (n + aʊ linking)"
+    },
+    {
+        "speaker": "Tania",
+        "text": "Same. That’s why I plan my day in case something urgent comes up unexpectedly.",
+        "ipa": "seɪm | ðæts waɪ aɪ plæn maɪ deɪ ɪn keɪs ˈsʌmθɪŋ ˈɝʤənt kʌmz ʌp ˌʌnɪkˈspɛktɪdli",
+        "stress": "SAME | THAT’S WHY I PLAN MY DAY in CASE SOMETHING URGENT COMES UP UNEXPECTEDLY",
+        "linking": "\"plan my\" → /plæn maɪ/ (n + m linking)\n\"comes up\" → /kʌmz ʌp/ (z + ʌ linking)"
+    },
+    {
+        "speaker": "Lucas",
+        "text": "Smart move. Even if things go off track, having structure helps you reset faster.",
+        "ipa": "smɑɹt muv | ˈivən ɪf θɪŋz ɡoʊ ɔf tɹæk | ˈhævɪŋ ˈstɹʌktʃɚ hɛlps ju ɹiˈsɛt ˈfæstɚ",
+        "stress": "SMART MOVE | EVEN IF THINGS GO OFF TRACK | HAVING STRUCTURE HELPS YOU RESET FASTER",
+        "linking": "\"go off\" → /ɡoʊ ɔf/ (o + ɔ linking)\n\"helps you\" → /hɛlps ju/ (s + j linking)"
+    }
+]

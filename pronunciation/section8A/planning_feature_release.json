@@ -1,0 +1,65 @@
+[
+    {
+        "speaker": "Zoe",
+        "text": "If we finish testing by Thursday, we will be able to release the new feature on Friday.",
+        "ipa": "ɪf wi ˈfɪnɪʃ ˈtɛstɪŋ baɪ ˈθɝzdeɪ | wi wɪl bi ˈeɪbəl tu rɪˈlis ðə nu ˈfiʧɚ ɑn ˈfɹaɪdeɪ",
+        "stress": "IF we FINISH TESTING by THURSDAY | we WILL be ABLE to RELEASE the NEW FEATURE on FRIDAY",
+        "linking": "\"finish testing\" → /ˈfɪnɪʃ ˈtɛstɪŋ/ (sh + t linking)\n\"release the\" → /rɪˈlis ðə/ (s + th linking)"
+    },
+    {
+        "speaker": "Carlos",
+        "text": "Yeah, and if QA finds any blockers, we will have to push it to next week.",
+        "ipa": "jæ | ənd ɪf ˈkjuːˈeɪ faɪndz ˈɛni ˈblɑkɚz | wi wɪl hæv tu pʊʃ ɪt tu nɛkst wik",
+        "stress": "YEAH | and IF QA FINDS any BLOCKERS | we WILL HAVE to PUSH it to NEXT WEEK",
+        "linking": "\"push it\" → /pʊʃ ɪt/ (sh + i linking)\n\"to next\" → /tu nɛkst/ (u + n linking)"
+    },
+    {
+        "speaker": "Zoe",
+        "text": "Right. If the performance tests pass, I will write the final release notes that same day.",
+        "ipa": "ɹaɪt | ɪf ðə pɚˈfɔɹməns tɛsts pæs | aɪ wɪl ɹaɪt ðə ˈfaɪnəl rɪˈlis noʊts ðæt seɪm deɪ",
+        "stress": "RIGHT | IF the PERFORMANCE TESTS PASS | I WILL WRITE the FINAL RELEASE NOTES that SAME DAY",
+        "linking": "\"write the\" → /ɹaɪt ðə/ (t + th linking)\n\"release notes\" → /rɪˈlis noʊts/ (s + n linking)"
+    },
+    {
+        "speaker": "Carlos",
+        "text": "Cool. If I get feedback from the product team today, I will apply the changes before 6 p.m.",
+        "ipa": "kul | ɪf aɪ ɡɛt ˈfidˌbæk fɹəm ðə ˈpɹɑdʌkt tim təˈdeɪ | aɪ wɪl əˈplaɪ ðə ˈʧeɪnʤɪz bɪˈfɔɹ sɪks pi ɛm",
+        "stress": "COOL | IF I GET FEEDBACK from the PRODUCT TEAM TODAY | I WILL APPLY the CHANGES BEFORE SIX P.M.",
+        "linking": "\"get feedback\" → /ɡɛt ˈfidˌbæk/ (t + f linking)\n\"apply the\" → /əˈplaɪ ðə/ (y + th linking)"
+    },
+    {
+        "speaker": "Zoe",
+        "text": "Perfect. But if the security review isn’t complete by tomorrow, we won’t launch on time.",
+        "ipa": "ˈpɝfɪkt | bʌt ɪf ðə sɪˈkjʊɹəti ɹɪˈvju ɪzənt kəmˈplit baɪ təˈmɑɹoʊ | wi woʊnt lɔntʃ ɑn taɪm",
+        "stress": "PERFECT | BUT IF the SECURITY REVIEW ISN’T COMPLETE by TOMORROW | we WON’T LAUNCH on TIME",
+        "linking": "\"review isn’t\" → /ɹɪˈvju ɪzənt/ (w + i linking)\n\"launch on\" → /lɔntʃ ɑn/ (ch + o linking)"
+    },
+    {
+        "speaker": "Carlos",
+        "text": "Totally. And if we miss this window, marketing will have to redo their campaign schedule again.",
+        "ipa": "ˈtoʊtəli | ənd ɪf wi mɪs ðɪs ˈwɪndoʊ | ˈmɑɹkɪtɪŋ wɪl hæv tu ˌɹiˈdu ðɛɹ kæmˈpeɪn ˈskɛʤuəl əˈɡɛn",
+        "stress": "TOTALLY | AND IF we MISS this WINDOW | MARKETING will HAVE to REDO their CAMPAIGN SCHEDULE AGAIN",
+        "linking": "\"miss this\" → /mɪs ðɪs/ (s + th linking)\n\"redo their\" → /ˌɹiˈdu ðɛɹ/ (u + th linking)"
+    },
+    {
+        "speaker": "Zoe",
+        "text": "True. Also, if we stay late tonight, we might finish early and have Friday free.",
+        "ipa": "tɹu | ˈɔlsoʊ | ɪf wi steɪ leɪt təˈnaɪt | wi maɪt ˈfɪnɪʃ ˈɝli ənd hæv ˈfɹaɪdeɪ fɹi",
+        "stress": "TRUE | ALSO | IF we STAY LATE TONIGHT | we MIGHT FINISH EARLY and HAVE FRIDAY FREE",
+        "linking": "\"stay late\" → /steɪ leɪt/ (y + l linking)\n\"finish early\" → /ˈfɪnɪʃ ˈɝli/ (sh + e linking)"
+    },
+    {
+        "speaker": "Carlos",
+        "text": "That would be nice. But if we rush the final tests, we risk breaking production.",
+        "ipa": "ðæt wʊd bi naɪs | bʌt ɪf wi ɹʌʃ ðə ˈfaɪnəl tɛsts | wi ɹɪsk ˈbɹeɪkɪŋ pɹəˈdʌkʃən",
+        "stress": "THAT would be NICE | BUT IF we RUSH the FINAL TESTS | we RISK BREAKING PRODUCTION",
+        "linking": "\"rush the\" → /ɹʌʃ ðə/ (sh + th linking)\n\"breaking production\" → /ˈbɹeɪkɪŋ pɹəˈdʌkʃən/ (g + p linking)"
+    },
+    {
+        "speaker": "Zoe",
+        "text": "Good point. Let’s do it right — if we communicate well, the team will handle the rollout smoothly.",
+        "ipa": "ɡʊd pɔɪnt | lɛts du ɪt ɹaɪt — ɪf wi kəˈmjunɪkeɪt wɛl | ðə tim wɪl ˈhændəl ðə ˈɹoʊˌlaʊt ˈsmuðli",
+        "stress": "GOOD POINT | LET’S DO it RIGHT — IF we COMMUNICATE WELL | the TEAM will HANDLE the ROLLOUT SMOOTHLY",
+        "linking": "\"do it\" → /du ɪt/ (u + i linking)\n\"handle the\" → /ˈhændəl ðə/ (l + th linking)"
+    }
+]

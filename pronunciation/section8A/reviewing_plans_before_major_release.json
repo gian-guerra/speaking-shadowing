@@ -1,0 +1,72 @@
+[
+    {
+        "speaker": "Aisha",
+        "text": "If the API fails during the launch window, the mobile app won’t load anything for users.",
+        "ipa": "ɪf ði ˌeɪpiˈaɪ feɪlz ˈdʊrɪŋ ðə lɔntʃ ˈwɪndoʊ | ðə ˈmoʊbəl æp woʊnt loʊd ˈɛniθɪŋ fɔr ˈjuːzɚz",
+        "stress": "IF the API FAILS during the LAUNCH WINDOW | the MOBILE APP WON’T LOAD ANYTHING for USERS",
+        "linking": "\"API fails\" → /ˌeɪpiˈaɪ feɪlz/ (i + f linking)\n\"won’t load\" → /woʊnt loʊd/ (t + l linking)"
+    },
+    {
+        "speaker": "Tomás",
+        "text": "Exactly. That’s why I created a fallback flow in case the main endpoint goes down.",
+        "ipa": "ɪɡˈzæktli | ðæts waɪ aɪ kriˈeɪtɪd ə ˈfɔlbæk floʊ ɪn keɪs ðə meɪn ˈɛndpɔɪnt ɡoʊz daʊn",
+        "stress": "EXACTLY | THAT’S WHY I CREATED a FALLBACK FLOW in CASE the MAIN ENDPOINT GOES DOWN",
+        "linking": "\"created a\" → /kriˈeɪtɪd ə/ (d + a linking)\n\"fallback flow\" → /ˈfɔlbæk floʊ/ (k + f linking)"
+    },
+    {
+        "speaker": "Aisha",
+        "text": "Smart. I’d feel more confident if we had an autoscaling setup already configured.",
+        "ipa": "smɑrt | aɪd fil mɔr ˈkɑnfɪdənt ɪf wi hæd ən ˈɔtoʊˌskeɪlɪŋ ˈsɛtʌp ɔlˈɹɛdi kənˈfɪɡjɚd",
+        "stress": "SMART | I’D FEEL MORE CONFIDENT if WE HAD an AUTOSCALING SETUP ALREADY CONFIGURED",
+        "linking": "\"feel more\" → /fil mɔr/ (l + m linking)\n\"setup already\" → /ˈsɛtʌp ɔlˈɹɛdi/ (p + a linking)"
+    },
+    {
+        "speaker": "Tomás",
+        "text": "Me too. We could reduce risk significantly if we invested in better monitoring last sprint.",
+        "ipa": "mi tu | wi kʊd ɹɪˈdus ɹɪsk sɪɡˈnɪfɪkəntli ɪf wi ɪnˈvɛstɪd ɪn ˈbɛtɚ ˈmɑnɪtɚɪŋ læst spɹɪnt",
+        "stress": "ME TOO | WE COULD REDUCE RISK SIGNIFICANTLY if WE INVESTED in BETTER MONITORING LAST SPRINT",
+        "linking": "\"reduce risk\" → /ɹɪˈdus ɹɪsk/ (s + r linking)\n\"invested in\" → /ɪnˈvɛstɪd ɪn/ (d + i linking)"
+    },
+    {
+        "speaker": "Aisha",
+        "text": "Well, it’s not too late — we still might catch key issues if we run chaos tests today.",
+        "ipa": "wɛl | ɪts nɑt tu leɪt — wi stɪl maɪt kætʃ ki ˈɪʃuz ɪf wi ɹʌn ˈkeɪɑs tɛsts təˈdeɪ",
+        "stress": "WELL | IT’S NOT TOO LATE — WE STILL MIGHT CATCH KEY ISSUES if WE RUN CHAOS TESTS TODAY",
+        "linking": "\"catch key\" → /kætʃ ki/ (ch + k linking)\n\"chaos tests\" → /ˈkeɪɑs tɛsts/ (s + t linking)"
+    },
+    {
+        "speaker": "Tomás",
+        "text": "Good idea. And as long as the database remains stable, most users won’t even notice minor service hiccups.",
+        "ipa": "ɡʊd aɪˈdiə | ænd æz lɔŋ æz ðə ˈdeɪtəˌbeɪs ɹɪˈmeɪnz ˈsteɪbəl | moʊst ˈjuːzɚz woʊnt ˈivən ˈnoʊtɪs ˈmaɪnɚ ˈsɝvɪs ˈhɪkʌps",
+        "stress": "GOOD IDEA | AND AS LONG AS the DATABASE REMAINS STABLE | MOST USERS WON’T EVEN NOTICE MINOR SERVICE HICCUPS",
+        "linking": "\"database remains\" → /ˈdeɪtəˌbeɪs ɹɪˈmeɪnz/ (s + r linking)\n\"notice minor\" → /ˈnoʊtɪs ˈmaɪnɚ/ (s + m linking)"
+    },
+    {
+        "speaker": "Aisha",
+        "text": "Right. But unless we document everything clearly, on-call devs will struggle if something breaks at 2 a.m.",
+        "ipa": "ɹaɪt | bʌt ənˈlɛs wi ˈdɑkjəmənt ˈɛvɚiθɪŋ ˈklɪɹli | ɑn kɔl dɛvz wɪl ˈstɹəɡəl ɪf ˈsʌmθɪŋ bɹeɪks æt tu eɪ ɛm",
+        "stress": "RIGHT | BUT UNLESS WE DOCUMENT EVERYTHING CLEARLY | ON-CALL DEVS WILL STRUGGLE if SOMETHING BREAKS at 2 A.M.",
+        "linking": "\"document everything\" → /ˈdɑkjəmənt ˈɛvɚiθɪŋ/ (t + e linking)\n\"something breaks\" → /ˈsʌmθɪŋ bɹeɪks/ (g + b linking)"
+    },
+    {
+        "speaker": "Tomás",
+        "text": "Yeah. Even if the launch goes smoothly, we should still review our incident response process afterward.",
+        "ipa": "jæ | ˈivən ɪf ðə lɔntʃ ɡoʊz ˈsmuðli | wi ʃʊd stɪl ɹɪˈvju aʊɚ ˈɪnsɪdənt ɹɪˈspɑns ˈpɹɑsɛs ˈæftɚwɚd",
+        "stress": "YEAH | EVEN IF the LAUNCH GOES SMOOTHLY | WE SHOULD STILL REVIEW OUR INCIDENT RESPONSE PROCESS AFTERWARD",
+        "linking": "\"launch goes\" → /lɔntʃ ɡoʊz/ (ch + g linking)\n\"review our\" → /ɹɪˈvju aʊɚ/ (w + a linking)"
+    },
+    {
+        "speaker": "Aisha",
+        "text": "Agreed. If I were leading the postmortem, I would make sure each team gave feedback.",
+        "ipa": "əˈɡɹid | ɪf aɪ wɚ ˈlidiŋ ðə ˈpoʊstˌmɔɹtəm | aɪ wʊd meɪk ʃʊɹ itʃ tim ɡeɪv ˈfidˌbæk",
+        "stress": "AGREED | IF I WERE LEADING the POSTMORTEM | I WOULD MAKE SURE EACH TEAM GAVE FEEDBACK",
+        "linking": "\"leading the\" → /ˈlidiŋ ðə/ (g + th linking)\n\"team gave\" → /tim ɡeɪv/ (m + g linking)"
+    },
+    {
+        "speaker": "Tomás",
+        "text": "I’d support that. Provided that the release happens on time, we can take Friday to reflect and improve.",
+        "ipa": "aɪd səˈpɔɹt ðæt | pɹəˈvaɪdɪd ðæt ðə ɹɪˈlis ˈhæpənz ɑn taɪm | wi kæn teɪk ˈfɹaɪdeɪ tu ɹɪˈflɛkt ənd ɪmˈpɹuv",
+        "stress": "I’D SUPPORT THAT | PROVIDED THAT the RELEASE HAPPENS ON TIME | WE CAN TAKE FRIDAY to REFLECT and IMPROVE",
+        "linking": "\"release happens\" → /ɹɪˈlis ˈhæpənz/ (s + h linking)\n\"reflect and\" → /ɹɪˈflɛkt ənd/ (t + a linking)"
+    }
+]

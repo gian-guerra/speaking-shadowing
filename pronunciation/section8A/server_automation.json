@@ -1,0 +1,65 @@
+[
+    {
+        "speaker": "Elena",
+        "text": "If you forget to set up environment variables correctly, the whole deployment fails.",
+        "ipa": "ɪf ju fɚˈɡɛt tu sɛt ʌp ɪnˈvaɪɚənmənt ˈvɛɹiəbəlz kəˈɹɛktli | ðə hoʊl dɪˈplɔɪmənt feɪlz",
+        "stress": "IF you FORGET to SET UP ENVIRONMENT VARIABLES CORRECTLY | the WHOLE DEPLOYMENT FAILS",
+        "linking": "\"set up environment\" → /sɛt ʌp ɪnˈvaɪɚənmənt/ (p + i linking)\n\"deployment fails\" → /dɪˈplɔɪmənt feɪlz/ (t + f linking)"
+    },
+    {
+        "speaker": "Marco",
+        "text": "Yup. And if Jenkins doesn’t detect the branch properly, it won’t trigger the pipeline at all.",
+        "ipa": "jʌp | ænd ɪf ˈʤɛnkɪnz ˈdʌzənt dɪˈtɛkt ðə bɹæntʃ ˈpɹɑpɚli | ɪt woʊnt ˈtɹɪɡɚ ðə ˈpaɪplaɪn æt ɔl",
+        "stress": "YUP | AND IF JENKINS DOESN’T DETECT the BRANCH PROPERLY | it WON’T TRIGGER the PIPELINE at ALL",
+        "linking": "\"Jenkins doesn’t\" → /ˈʤɛnkɪnz ˈdʌzənt/ (s + d linking)\n\"trigger the\" → /ˈtɹɪɡɚ ðə/ (r + th linking)"
+    },
+    {
+        "speaker": "Elena",
+        "text": "Exactly. That’s why I always double-check. If you change the YAML file syntax even slightly, the system throws an error.",
+        "ipa": "ɪɡˈzæktli | ðæts waɪ aɪ ˈɔlweɪz ˈdʌbəl tʃɛk | ɪf ju tʃeɪndʒ ðə ˈjæməl faɪl ˈsɪntæks ˈivən ˈslaɪtli | ðə ˈsɪstəm θɹoʊz ən ˈɛɹɚ",
+        "stress": "EXACTLY | THAT’S WHY I ALWAYS DOUBLE-CHECK | IF YOU CHANGE the YAML FILE SYNTAX EVEN SLIGHTLY | the SYSTEM THROWS an ERROR",
+        "linking": "\"double-check. If\" → /ˈdʌbəl tʃɛk ɪf/ (k + i linking)\n\"throws an\" → /θɹoʊz ən/ (z + a linking)"
+    },
+    {
+        "speaker": "Marco",
+        "text": "It’s the same with Ansible. If one host isn't reachable, the playbook stops running completely.",
+        "ipa": "ɪts ðə seɪm wɪð ˈænsəbəl | ɪf wʌn hoʊst ˈɪzənt ˈɹitʃəbəl | ðə ˈpleɪbʊk stɑps ˈɹʌnɪŋ kəmˈplitli",
+        "stress": "IT’S the SAME with ANSIBLE | IF ONE HOST ISN'T REACHABLE | the PLAYBOOK STOPS RUNNING COMPLETELY",
+        "linking": "\"host isn't\" → /hoʊst ˈɪzənt/ (t + i linking)\n\"stops running\" → /stɑps ˈɹʌnɪŋ/ (s + r linking)"
+    },
+    {
+        "speaker": "Elena",
+        "text": "True. And if we don’t log errors in the build script, debugging later becomes a nightmare.",
+        "ipa": "tɹu | ænd ɪf wi doʊnt lɔɡ ˈɛɹɚz ɪn ðə bɪld skɹɪpt | dɪˈbʌɡɪŋ ˈleɪtɚ bɪˈkʌmz ə ˈnaɪtmɛɹ",
+        "stress": "TRUE | AND IF WE DON’T LOG ERRORS in the BUILD SCRIPT | DEBUGGING LATER BECOMES a NIGHTMARE",
+        "linking": "\"log errors\" → /lɔɡ ˈɛɹɚz/ (g + e linking)\n\"debugging later\" → /dɪˈbʌɡɪŋ ˈleɪtɚ/ (ŋ + l linking)"
+    },
+    {
+        "speaker": "Marco",
+        "text": "Right. It’s basically like muscle memory now — if something breaks, we check the logs first.",
+        "ipa": "ɹaɪt | ɪts ˈbeɪsɪkli laɪk ˈmʌsəl ˈmɛmɚi naʊ — ɪf ˈsʌmθɪŋ bɹeɪks | wi tʃɛk ðə lɔɡz fɝst",
+        "stress": "RIGHT | IT’S BASICALLY like MUSCLE MEMORY NOW — IF SOMETHING BREAKS | WE CHECK the LOGS FIRST",
+        "linking": "\"something breaks\" → /ˈsʌmθɪŋ bɹeɪks/ (ŋ + b linking)\n\"logs first\" → /lɔɡz fɝst/ (z + f linking)"
+    },
+    {
+        "speaker": "Elena",
+        "text": "And if the logs aren’t clean, you end up wasting time chasing ghosts.",
+        "ipa": "ænd ɪf ðə lɔɡz ˈɑɹənt klin | ju ɛnd ʌp ˈweɪstɪŋ taɪm ˈtʃeɪsɪŋ ɡoʊsts",
+        "stress": "AND IF the LOGS AREN’T CLEAN | YOU END UP WASTING TIME CHASING GHOSTS",
+        "linking": "\"logs aren’t\" → /lɔɡz ˈɑɹənt/ (z + a linking)\n\"wasting time\" → /ˈweɪstɪŋ taɪm/ (ŋ + t linking)"
+    },
+    {
+        "speaker": "Marco",
+        "text": "Exactly. And if a developer pushes directly to main, we get a Slack alert immediately.",
+        "ipa": "ɪɡˈzæktli | ænd ɪf ə dɪˈvɛləpɚ ˈpʊʃɪz dəˈɹɛktli tu meɪn | wi ɡɛt ə slæk əˈlɝt ɪˈmiːdiətli",
+        "stress": "EXACTLY | AND IF a DEVELOPER PUSHES DIRECTLY to MAIN | WE GET a SLACK ALERT IMMEDIATELY",
+        "linking": "\"pushes directly\" → /ˈpʊʃɪz dəˈɹɛktli/ (z + d linking)\n\"Slack alert\" → /slæk əˈlɝt/ (k + a linking)"
+    },
+    {
+        "speaker": "Elena",
+        "text": "Haha, and if that happens more than once, we revoke their push access. No mercy.",
+        "ipa": "hɑ hɑ | ænd ɪf ðæt ˈhæpənz mɔɹ ðæn wʌns | wi ɹɪˈvoʊk ðɛɹ pʊʃ ˈæksɛs | noʊ ˈmɝsi",
+        "stress": "HAHA | AND IF THAT HAPPENS MORE THAN ONCE | WE REVOKE THEIR PUSH ACCESS | NO MERCY",
+        "linking": "\"happens more\" → /ˈhæpənz mɔɹ/ (z + m linking)\n\"push access\" → /pʊʃ ˈæksɛs/ (sh + a linking)"
+    }
+]

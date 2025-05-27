@@ -1,0 +1,58 @@
+[
+    {
+        "speaker": "Diego",
+        "text": "We’ll be fine, as long as the demo server stays stable during the presentation.",
+        "ipa": "wil bi faɪn | æz lɔŋ æz ðə ˈdɛmoʊ ˈsɝvɚ steɪz ˈsteɪbəl ˈdjʊɹɪŋ ðə ˌpɹɛzənˈteɪʃən",
+        "stress": "WE’LL be FINE | as LONG as the DEMO SERVER STAYS STABLE during the PRESENTATION",
+        "linking": "\"demo server\" → /ˈdɛmoʊ ˈsɝvɚ/ (oʊ + s linking)\n\"stays stable\" → /steɪz ˈsteɪbəl/ (z + s linking)"
+    },
+    {
+        "speaker": "Lena",
+        "text": "Yeah. I already restarted the service in case something was still cached.",
+        "ipa": "jæ | aɪ ɔlˈɹɛdi ˌɹiˈstɑɹtɪd ðə ˈsɝvɪs ɪn keɪs ˈsʌmθɪŋ wəz stɪl kæʃt",
+        "stress": "YEAH | I ALREADY RESTARTED the SERVICE in CASE SOMETHING was STILL CACHED",
+        "linking": "\"already restarted\" → /ɔlˈɹɛdi ˌɹiˈstɑɹtɪd/ (i + r linking)\n\"service in\" → /ˈsɝvɪs ɪn/ (s + i linking)"
+    },
+    {
+        "speaker": "Diego",
+        "text": "Good call. I wouldn’t rely on the Wi-Fi unless we have a backup hotspot ready.",
+        "ipa": "ɡʊd kɔl | aɪ ˈwʊdənt ɹɪˈlaɪ ɑn ðə ˈwaɪfaɪ ənˈlɛs wi hæv ə ˈbækʌp ˈhɑtspɑt ˈɹɛdi",
+        "stress": "GOOD CALL | I WOULDN’T RELY on the WI-FI UNLESS we HAVE a BACKUP HOTSPOT READY",
+        "linking": "\"rely on\" → /ɹɪˈlaɪ ɑn/ (y + o linking)\n\"backup hotspot\" → /ˈbækʌp ˈhɑtspɑt/ (p + h linking)"
+    },
+    {
+        "speaker": "Lena",
+        "text": "Don’t worry — I brought one. And the frontend will look great provided that no one clears the CDN again.",
+        "ipa": "doʊnt ˈwɝi — aɪ bɹɔt wʌn | ænd ðə ˈfɹʌntɛnd wɪl lʊk ɡɹeɪt pɹəˈvaɪdɪd ðæt noʊ wʌn klɪɹz ðə si di ɛn əˈɡɛn",
+        "stress": "DON’T WORRY — I BROUGHT ONE | AND the FRONTEND will LOOK GREAT PROVIDED that NO ONE CLEARS the CDN AGAIN",
+        "linking": "\"frontend will\" → /ˈfɹʌntɛnd wɪl/ (d + w linking)\n\"clears the\" → /klɪɹz ðə/ (z + th linking)"
+    },
+    {
+        "speaker": "Diego",
+        "text": "Haha, yeah. Even if something breaks, we can pivot and show the prototype instead.",
+        "ipa": "hɑ hɑ jæ | ˈivən ɪf ˈsʌmθɪŋ bɹeɪks | wi kæn ˈpɪvət ænd ʃoʊ ðə ˈpɹoʊtəˌtaɪp ɪnˈstɛd",
+        "stress": "HAHA, YEAH | EVEN IF SOMETHING BREAKS | we CAN PIVOT and SHOW the PROTOTYPE INSTEAD",
+        "linking": "\"pivot and\" → /ˈpɪvət ænd/ (t + a linking)\n\"show the\" → /ʃoʊ ðə/ (w + th linking)"
+    },
+    {
+        "speaker": "Lena",
+        "text": "Exactly. As long as we stay calm, it’ll feel under control to them.",
+        "ipa": "ɪɡˈzæktli | æz lɔŋ æz wi steɪ kɑm | ˈɪtəl fil ˈʌndɚ kənˈtɹoʊl tu ðɛm",
+        "stress": "EXACTLY | AS LONG AS we STAY CALM | it’ll FEEL UNDER CONTROL to THEM",
+        "linking": "\"stay calm\" → /steɪ kɑm/ (y + c linking)\n\"feel under\" → /fil ˈʌndɚ/ (l + u linking)"
+    },
+    {
+        "speaker": "Diego",
+        "text": "True. Also, I’ll explain the architecture in more detail in case they ask about scaling.",
+        "ipa": "tɹu | ˈɔlsoʊ | aɪl ɪkˈspleɪn ði ˈɑɹkəˌtɛktʃɚ ɪn mɔɹ dɪˈteɪl ɪn keɪs ðeɪ æsk əˈbaʊt ˈskeɪlɪŋ",
+        "stress": "TRUE | ALSO | I’LL EXPLAIN the ARCHITECTURE in MORE DETAIL in CASE they ASK about SCALING",
+        "linking": "\"explain the\" → /ɪkˈspleɪn ði/ (n + th linking)\n\"ask about\" → /æsk əˈbaʊt/ (k + a linking)"
+    },
+    {
+        "speaker": "Lena",
+        "text": "Great. And the team will be joining remotely — unless something changes last minute.",
+        "ipa": "ɡɹeɪt | ænd ðə tim wɪl bi ˈʤɔɪnɪŋ ɹɪˈmoʊtli — ənˈlɛs ˈsʌmθɪŋ ˈʧeɪnʤɪz læst ˈmɪnɪt",
+        "stress": "GREAT | AND the TEAM will be JOINING REMOTELY — UNLESS SOMETHING CHANGES LAST MINUTE",
+        "linking": "\"team will\" → /tim wɪl/ (m + w linking)\n\"joining remotely\" → /ˈʤɔɪnɪŋ ɹɪˈmoʊtli/ (ŋ + r linking)"
+    }
+]
