@@ -1,0 +1,7 @@
+Clara: We {should have simplified} the onboarding flow. Users clearly got stuck on the first screen.
+Ben: Yeah… We {might have confused} them by adding too many form fields upfront.
+Clara: And I {could have removed} the optional steps entirely. They weren’t really necessary.
+Ben: To be honest, we {shouldn’t have skipped} that user testing session last week.
+Clara: Definitely. Product {must have assumed} it was fine without checking with us.
+Ben: Still, we {could have flagged} the complexity earlier during sprint planning.
+Clara: Yeah… and I {should have trusted} my instinct when I felt something was off with the UX.

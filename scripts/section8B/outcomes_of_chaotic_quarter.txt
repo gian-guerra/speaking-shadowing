@@ -1,0 +1,10 @@
+Nora: Looking back... we {should have re-evaluated} our priorities right after the second sprint.
+Elias: Absolutely. If we {had cut} that chatbot feature earlier, we {could have saved} the entire mobile rewrite.
+Nora: And I wish I {had pushed back} harder on the unrealistic deadlines.
+Elias: Yeah… If only we {had aligned} better with product from the start.
+Nora: Also, if we {weren’t} so focused on shipping fast, we {would have spent} more time on architecture.
+Elias: Definitely. If I {hadn't skipped} those early design syncs, we {might have prevented} the late-stage chaos.
+Nora: To be honest, I wish we {had encouraged} more cross-team communication too.
+Elias: Same. We {shouldn’t have assumed} everyone was on the same page.
+Nora: Next time... as long as we {prioritize} sustainability, the team {will avoid} burnout like this.
+Elias: Agreed. And hey — we {might have failed}, but we {definitely learned}.

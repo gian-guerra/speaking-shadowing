@@ -1,0 +1,8 @@
+Luis: Ugh… I {shouldn’t have merged} that PR yesterday without testing it locally first.
+Bella: Yeah, we just spent 2 hours fixing that rollback. If only we {had noticed} that recursive function before it hit production.
+Luis: I honestly wish I {had asked} for a second review. I rushed it because the ticket was overdue.
+Bella: It happens, but still... You {could have caught} that loop if you’d stepped away from the screen for even 10 minutes.
+Luis: True. If I {had taken} a break, I {might have seen} the mistake in the logic.
+Bella: And we {should have had} a post-merge QA step. That’s on me too.
+Luis: No worries. If only we {had followed} the checklist this time.
+Bella: Let’s just make sure we don’t skip any steps next time, even when we’re in a rush.
