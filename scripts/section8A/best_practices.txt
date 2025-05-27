@@ -1,0 +1,8 @@
+Noah: I always tell juniors — if you {write} unclear variable names, the next person {gets} confused immediately.
+Sophie: Totally agree. If someone {reads} your code and {needs} to ask questions constantly, you {know} you failed at readability.
+Noah: Exactly. And if you {skip} writing tests, bugs {slip} through way more often.
+Sophie: Not to mention, if you {push} code without a second pair of eyes, something {usually breaks} in production.
+Noah: Yup. That’s why I always say — if we {follow} the checklist, nothing {goes} wrong.
+Sophie: And it’s true! If we {review} carefully and {document} changes, the whole process {runs} smoother.
+Noah: It’s kind of like a rule of nature in dev work — if you {rush}, you {regret} it later.
+Sophie: Haha, so true. And if you {explain} your decisions in PRs, people {understand} them better and {learn} faster too.

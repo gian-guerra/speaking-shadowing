@@ -1,0 +1,9 @@
+Elena: If you {forget} to set up environment variables correctly, the whole deployment {fails}.
+Marco: Yup. And if Jenkins {doesn’t detect} the branch properly, it {won’t trigger} the pipeline at all.
+Elena: Exactly. That’s why I always double-check. If you {change} the YAML file syntax even slightly, the system {throws} an error.
+Marco: It’s the same with Ansible. If one host {isn't reachable}, the playbook {stops} running completely.
+Elena: True. And if we {don’t log} errors in the build script, debugging later {becomes} a nightmare.
+Marco: Right. It’s basically like muscle memory now — if something {breaks}, we {check} the logs first.
+Elena: And if the logs {aren’t clean}, you {end up} wasting time chasing ghosts.
+Marco: Exactly. And if a developer {pushes} directly to main, we {get} a Slack alert immediately.
+Elena: Haha, and if that {happens} more than once, we {revoke} their push access. No mercy.

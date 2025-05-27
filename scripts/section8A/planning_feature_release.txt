@@ -1,0 +1,9 @@
+Zoe: If we {finish} testing by Thursday, we {will be able to} release the new feature on Friday.
+Carlos: Yeah, and if QA {finds} any blockers, we {will have to} push it to next week.
+Zoe: Right. If the performance tests {pass}, I {will write} the final release notes that same day.
+Carlos: Cool. If I {get} feedback from the product team today, I {will apply} the changes before 6 p.m.
+Zoe: Perfect. But if the security review {isn’t complete} by tomorrow, we {won’t launch} on time.
+Carlos: Totally. And if we {miss} this window, marketing {will have to} redo their campaign schedule again.
+Zoe: True. Also, if we {stay} late tonight, we {might finish} early and have Friday free.
+Carlos: That would be nice. But if we {rush} the final tests, we {risk} breaking production.
+Zoe: Good point. Let’s do it right — if we {communicate} well, the team {will handle} the rollout smoothly.
