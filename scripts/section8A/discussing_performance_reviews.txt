@@ -1,0 +1,9 @@
+Lena: If we {give} consistent feedback, the junior devs {will improve} a lot faster.
+Jared: Exactly. And if we {wait} until the end of the quarter, they {won’t have} time to apply it.
+Lena: True. If they {see} their progress week by week, they {will feel} more motivated.
+Jared: Right. If we {focus} on communication and code quality, the rest {will follow} naturally.
+Lena: And if someone {asks} for mentorship, we {should offer} time and guidance.
+Jared: Totally agree. But if they {don’t take} the feedback seriously, nothing {will change}.
+Lena: That’s where we step in. If we {create} a supportive environment, even struggling devs {will grow} quickly.
+Jared: Exactly. And if they {feel} safe to ask questions, they {won’t be afraid} to take initiative.
+Lena:That’s the goal. If we {get} this right, the whole team {will level up}.

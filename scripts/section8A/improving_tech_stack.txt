@@ -1,0 +1,7 @@
+Aaron: If we {had} more time between sprints, I {would rewrite} our entire CI pipeline.
+Priya: Same here. If the team {weren’t} so overloaded, we {could refactor} that legacy service once and for all.
+Aaron: Yeah, and if Jenkins {worked} as expected every time, we {wouldn’t waste} hours debugging false errors.
+Priya: I know! If I {were} in charge of tooling, I {would switch} us to GitHub Actions tomorrow.
+Aaron: That would be amazing. If our tests {ran} in parallel, the builds {would finish} in half the time.
+Priya: Exactly. If management {understood} how much this slows us down, they {might prioritize} infrastructure for once.
+Aaron: Haha, if only that {happened}. But yeah, if we {invested} just one sprint in cleanup, productivity {would jump} like crazy.
