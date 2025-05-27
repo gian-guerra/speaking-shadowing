@@ -1,0 +1,7 @@
+Jamie: I wish I {had tested} that edge case more thoroughly. It completely slipped through.
+Aria: Same… If only we {had reviewed} that logic together before merging.
+Jamie: Honestly, I wish I {had taken} that weird log warning seriously. I thought it was just noise.
+Aria: I know. I wish I {had double-checked} the mobile flow — the bug only shows up on smaller screens.
+Jamie: Yeah, and if only I {had added} proper error handling, the app wouldn’t have crashed.
+Aria: We both made assumptions. I wish we {had slowed down} instead of rushing to meet the sprint deadline.
+Jamie: Lesson learned. Still, I wish we {didn’t have} to find out the hard way.

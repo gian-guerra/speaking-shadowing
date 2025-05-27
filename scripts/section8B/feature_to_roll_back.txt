@@ -1,0 +1,7 @@
+Sofia: If we {had finished} the feature earlier, we {could have scheduled} proper testing before the deadline.
+Marcus: Yeah, but we were already behind. If the product team {had locked} the requirements sooner, we {might not have rewritten} half the logic.
+Sofia: I know. Honestly, I {should have pushed} harder during the planning phase.
+Marcus: And I {shouldn’t have approved} the PR so quickly. If I {had reviewed} it more carefully, I {would have caught} that broken validation rule.
+Sofia: Same here. If we {had done} just one more round of QA, the bug {wouldn’t have made} it to production.
+Marcus: If only we {had taken} that extra day…
+Sofia: Yeah… But at least now we {have implemented} release gates. That {should have been done} weeks ago.
