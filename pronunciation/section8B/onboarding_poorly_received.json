@@ -1,0 +1,51 @@
+[
+    {
+        "speaker": "Clara",
+        "text": "We should have simplified the onboarding flow. Users clearly got stuck on the first screen.",
+        "ipa": "wi ʃʊd həv ˈsɪmpləˌfaɪd ði ˈɑnbɔɹdɪŋ floʊ. ˈjuzɚz ˈklɪɹli ɡɑt stʌk ɑn ðə fɝst skɹin.",
+        "stress": "We SHOULD have SIMPLIFIED the ONBOARDING FLOW. USERS clearly got STUCK on the FIRST SCREEN.",
+        "linking": "\"should have\" → /ʃʊd həv/ (d + h linking)\n\"got stuck\" → /ɡɑt stʌk/ (t + s linking)"
+    },
+    {
+        "speaker": "Ben",
+        "text": "Yeah… We might have confused them by adding too many form fields upfront.",
+        "ipa": "jæ… wi maɪt həv kənˈfjuzd ðɛm baɪ ˈædɪŋ tu ˈmɛni fɔɹm fildz ʌpˈfɹʌnt.",
+        "stress": "Yeah… We MIGHT have CONFUSED them by ADDING too MANY FORM FIELDS UPFRONT.",
+        "linking": "\"might have\" → /maɪt həv/ (t + h linking)\n\"form fields\" → /fɔɹm fildz/ (m + f linking)"
+    },
+    {
+        "speaker": "Clara",
+        "text": "And I could have removed the optional steps entirely. They weren’t really necessary.",
+        "ipa": "ænd aɪ kʊd həv ɹɪˈmuːvd ði ˈɑpʃənəl stɛps ɪnˈtaɪɹli. ðeɪ ˈwɝnt ˈɹɪli ˈnɛsəˌsɛɹi.",
+        "stress": "And I COULD have REMOVED the OPTIONAL STEPS ENTIRELY. They WEREN’T really NECESSARY.",
+        "linking": "\"could have\" → /kʊd həv/ (d + h linking)\n\"optional steps\" → /ˈɑpʃənəl stɛps/ (l + s linking)"
+    },
+    {
+        "speaker": "Ben",
+        "text": "To be honest, we shouldn’t have skipped that user testing session last week.",
+        "ipa": "tu bi ˈɑnəst, wi ˈʃʊdənt həv skɪpt ðæt ˈjuzɚ ˈtɛstɪŋ ˈsɛʃən læst wik.",
+        "stress": "To be HONEST, we SHOULDN’T have SKIPPED that USER TESTING SESSION last WEEK.",
+        "linking": "\"shouldn’t have\" → /ˈʃʊdənt həv/ (t + h linking)\n\"skipped that\" → /skɪpt ðæt/ (t + th linking)"
+    },
+    {
+        "speaker": "Clara",
+        "text": "Definitely. Product must have assumed it was fine without checking with us.",
+        "ipa": "ˈdɛfənətli. ˈpɹɑdəkt mʌst həv əˈsumd ɪt wəz faɪn wɪˈðaʊt ˈtʃɛkɪŋ wɪð ʌs.",
+        "stress": "DEFINITELY. PRODUCT must have ASSUMED it was FINE without CHECKING with US.",
+        "linking": "\"must have\" → /mʌst həv/ (t + h linking)\n\"checking with\" → /ˈtʃɛkɪŋ wɪð/ (g + w linking)"
+    },
+    {
+        "speaker": "Ben",
+        "text": "Still, we could have flagged the complexity earlier during sprint planning.",
+        "ipa": "stɪl, wi kʊd həv flæɡd ðə kəmˈplɛksəti ˈɝliɚ ˈdjʊɹɪŋ spɹɪnt ˈplænɪŋ.",
+        "stress": "STILL, we COULD have FLAGGED the COMPLEXITY EARLIER during SPRINT PLANNING.",
+        "linking": "\"could have\" → /kʊd həv/ (d + h linking)\n\"flagged the\" → /flæɡd ðə/ (d + th linking)"
+    },
+    {
+        "speaker": "Clara",
+        "text": "Yeah… and I should have trusted my instinct when I felt something was off with the UX.",
+        "ipa": "jæ… ænd aɪ ʃʊd həv ˈtɹʌstɪd maɪ ˈɪnstɪŋkt wɛn aɪ fɛlt ˈsʌmθɪŋ wəz ɔf wɪð ðə ˌjuːˈɛks.",
+        "stress": "Yeah… and I SHOULD have TRUSTED my INSTINCT when I FELT something was OFF with the UX.",
+        "linking": "\"should have\" → /ʃʊd həv/ (d + h linking)\n\"trusted my\" → /ˈtɹʌstɪd maɪ/ (d + m linking)"
+    }
+]

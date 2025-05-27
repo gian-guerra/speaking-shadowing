@@ -1,0 +1,44 @@
+[
+    {
+        "speaker": "Tessa",
+        "text": "If I had completed that cloud certification last year, I would be leading this infrastructure project now.",
+        "ipa": "ɪf aɪ hæd kəmˈpliːtɪd ðæt klaʊd ˌsɝtɪfɪˈkeɪʃən læst jɪɹ, aɪ wʊd bi ˈliːdɪŋ ðɪs ˌɪnfrəˈstɹʌktʃɚ ˈpɹɑdʒɛkt naʊ.",
+        "stress": "If I had COMPLETED that CLOUD CERTIFICATION last year, I would be LEADING this INFRASTRUCTURE PROJECT now.",
+        "linking": "\"had completed\" → /hæd kəmˈpliːtɪd/ (d + c linking)\n\"would be\" → /wʊd bi/ (d + b linking)"
+    },
+    {
+        "speaker": "Rahul",
+        "text": "Yeah… If I had applied earlier for the mentorship program, I would be working with the architecture team by now.",
+        "ipa": "jæ… ɪf aɪ hæd əˈplaɪd ˈɝliɚ fɔɹ ðə ˈmɛn.tɔɹ.ʃɪp ˈpɹoʊ.ɡræm, aɪ wʊd bi ˈwɝkɪŋ wɪð ði ˈɑɹ.kəˌtɛk.tʃɚ tim baɪ naʊ.",
+        "stress": "Yeah… If I had APPLIED EARLIER for the MENTORSHIP PROGRAM, I would be WORKING with the ARCHITECTURE TEAM by now.",
+        "linking": "\"had applied\" → /hæd əˈplaɪd/ (d + a linking)\n\"would be\" → /wʊd bi/ (d + b linking)"
+    },
+    {
+        "speaker": "Tessa",
+        "text": "It’s frustrating, right? If we had planned our goals more intentionally, things would look different today.",
+        "ipa": "ɪts ˈfɹʌstreɪtɪŋ, ɹaɪt? ɪf wi hæd plænd aʊɹ ɡoʊlz mɔɹ ɪnˈtɛnʃənəli, θɪŋz wʊd lʊk ˈdɪfɹənt təˈdeɪ.",
+        "stress": "It’s FRUSTRATING, right? If we had PLANNED our GOALS more INTENTIONALLY, things would look DIFFERENT today.",
+        "linking": "\"had planned\" → /hæd plænd/ (d + p linking)\n\"would look\" → /wʊd lʊk/ (d + l linking)"
+    },
+    {
+        "speaker": "Rahul",
+        "text": "Totally. If I hadn’t taken so long to finish that last project, I might be managing the next client rollout.",
+        "ipa": "ˈtoʊtəli. ɪf aɪ ˈhædənt ˈteɪkən soʊ lɔŋ tu ˈfɪnɪʃ ðæt læst ˈpɹɑdʒɛkt, aɪ maɪt bi ˈmænɪdʒɪŋ ðə nɛkst ˈklaɪənt ˈɹoʊˌlaʊt.",
+        "stress": "TOTALLY. If I HADN’T TAKEN so LONG to FINISH that LAST PROJECT, I might be MANAGING the NEXT CLIENT ROLLOUT.",
+        "linking": "\"hadn’t taken\" → /ˈhædənt ˈteɪkən/ (t + t linking)\n\"might be\" → /maɪt bi/ (t + b linking)"
+    },
+    {
+        "speaker": "Tessa",
+        "text": "Ugh, same. If only I had said yes to that internal mobility offer, I wouldn’t be stuck maintaining legacy code again.",
+        "ipa": "ʌɡ, seɪm. ɪf ˈoʊnli aɪ hæd sɛd jɛs tu ðæt ɪnˈtɝnəl moʊˈbɪləti ˈɔfɚ, aɪ ˈwʊdənt bi stʌk meɪnˈteɪnɪŋ ˈlɛɡəsi koʊd əˈɡɛn.",
+        "stress": "Ugh, SAME. If ONLY I had SAID YES to that INTERNAL MOBILITY OFFER, I wouldn’t be STUCK MAINTAINING LEGACY CODE again.",
+        "linking": "\"had said\" → /hæd sɛd/ (d + s linking)\n\"wouldn’t be\" → /ˈwʊdənt bi/ (t + b linking)"
+    },
+    {
+        "speaker": "Rahul",
+        "text": "Well… better late than never. If you start prepping now, you can still apply for the next round.",
+        "ipa": "wɛl… ˈbɛtɚ leɪt ðæn ˈnɛvɚ. ɪf ju stɑɹt ˈpɹɛpɪŋ naʊ, ju kæn stɪl əˈplaɪ fɔɹ ðə nɛkst ɹaʊnd.",
+        "stress": "Well… BETTER LATE than NEVER. If you START PREPPING now, you can still APPLY for the NEXT ROUND.",
+        "linking": "\"start prepping\" → /stɑɹt ˈpɹɛpɪŋ/ (t + p linking)\n\"can still\" → /kæn stɪl/ (n + s linking)"
+    }
+]

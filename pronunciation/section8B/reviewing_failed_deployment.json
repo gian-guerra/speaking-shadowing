@@ -1,0 +1,51 @@
+[
+    {
+        "speaker": "Ethan",
+        "text": "If we had caught that memory leak earlier, the app wouldn’t have crashed during the launch.",
+        "ipa": "ɪf wi hæd kɔt ðæt ˈmɛməri lik ˈɝliɚ, ði æp ˈwʊdənt həv kræʃt ˈdʊɹɪŋ ðə lɔntʃ.",
+        "stress": "IF we had CAUGHT that MEMORY LEAK EARLIER, the APP wouldn’t have CRASHED during the LAUNCH.",
+        "linking": "\"had caught\" → /hæd kɔt/ (d + c linking)\n\"wouldn’t have\" → /ˈwʊdənt həv/ (t + h linking)"
+    },
+    {
+        "speaker": "Carla",
+        "text": "Exactly. And if QA had run a proper load test, we might have spotted it before Friday.",
+        "ipa": "ɪɡˈzæktli. ænd ɪf ˌkjuːˈeɪ hæd ɹʌn ə ˈpɹɑpɚ loʊd tɛst, wi maɪt həv ˈspɑtɪd ɪt bɪˈfɔɹ ˈfɹaɪdeɪ.",
+        "stress": "EXACTLY. And if QA had RUN a PROPER LOAD TEST, we MIGHT have SPOTTED it BEFORE FRIDAY.",
+        "linking": "\"had run\" → /hæd ɹʌn/ (d + r linking)\n\"might have\" → /maɪt həv/ (t + h linking)"
+    },
+    {
+        "speaker": "Ethan",
+        "text": "Yeah… I should have double-checked the metrics dashboard after the last commit.",
+        "ipa": "jæ… aɪ ʃʊd həv ˈdʌbəlˌtʃɛkt ðə ˈmɛtɹɪks ˈdæʃˌbɔɹd ˈæftɚ ðə læst kəˈmɪt.",
+        "stress": "YEAH… I SHOULD have DOUBLE-CHECKED the METRICS DASHBOARD AFTER the LAST COMMIT.",
+        "linking": "\"should have\" → /ʃʊd həv/ (d + h linking)\n\"double-checked\" → /ˈdʌbəlˌtʃɛkt/ (l + ch linking)"
+    },
+    {
+        "speaker": "Carla",
+        "text": "Honestly, we all missed it. But if we had communicated better with DevOps, they could have helped us flag it sooner.",
+        "ipa": "ˈɑnəstli, wi ɔl mɪst ɪt. bʌt ɪf wi hæd kəˈmjunəˌkeɪtɪd ˈbɛtɚ wɪð ˈdɛvˌɑps, ðeɪ kʊd həv hɛlpt ʌs flæɡ ɪt ˈsunɚ.",
+        "stress": "HONESTLY, we ALL MISSED it. But if we had COMMUNICATED BETTER with DEVOPS, they COULD have HELPED us FLAG it SOONER.",
+        "linking": "\"had communicated\" → /hæd kəˈmjunəˌkeɪtɪd/ (d + c linking)\n\"could have\" → /kʊd həv/ (d + h linking)"
+    },
+    {
+        "speaker": "Ethan",
+        "text": "True. If I hadn’t skipped the daily stand-up, I would have known we were merging early.",
+        "ipa": "tɹu. ɪf aɪ ˈhædənt skɪpt ðə ˈdeɪli ˈstændˌʌp, aɪ wʊd həv noʊn wi wɚ ˈmɝdʒɪŋ ˈɝli.",
+        "stress": "TRUE. If I HADN’T SKIPPED the DAILY STAND-UP, I WOULD have KNOWN we were MERGING EARLY.",
+        "linking": "\"hadn’t skipped\" → /ˈhædənt skɪpt/ (t + s linking)\n\"would have\" → /wʊd həv/ (d + h linking)"
+    },
+    {
+        "speaker": "Carla",
+        "text": "And I could have reminded you too — that’s on me. If only we had slowed down a bit, the release would have gone smoothly.",
+        "ipa": "ænd aɪ kʊd həv ɹɪˈmaɪndɪd ju tu — ðæts ɑn mi. ɪf ˈoʊnli wi hæd sloʊd daʊn ə bɪt, ðə ɹɪˈlis wʊd həv ɡɔn ˈsmuðli.",
+        "stress": "And I COULD have REMINDED you TOO — that’s on ME. If ONLY we had SLOWED DOWN a BIT, the RELEASE would have GONE SMOOTHLY.",
+        "linking": "\"could have\" → /kʊd həv/ (d + h linking)\n\"would have\" → /wʊd həv/ (d + h linking)"
+    },
+    {
+        "speaker": "Ethan",
+        "text": "We learned the hard way. But at least we created an incident doc now — that should have happened a long time ago.",
+        "ipa": "wi lɝnd ðə hɑɹd weɪ. bʌt æt list wi kɹiˈeɪtɪd ən ˈɪnsɪdənt dɑk naʊ — ðæt ʃʊd həv ˈhæpənd ə lɔŋ taɪm əˈɡoʊ.",
+        "stress": "We LEARNED the HARD WAY. But at LEAST we CREATED an INCIDENT DOC now — that SHOULD have HAPPENED a LONG TIME AGO.",
+        "linking": "\"should have\" → /ʃʊd həv/ (d + h linking)\n\"happened a\" → /ˈhæpənd ə/ (d + a linking)"
+    }
+]
