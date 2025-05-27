@@ -1,0 +1,72 @@
+[
+    {
+        "speaker": "Nora",
+        "text": "Looking back... we should have re-evaluated our priorities right after the second sprint.",
+        "ipa": "ˈlʊkɪŋ bæk... wi ʃʊd həv ˌriːɪˈvæljueɪtɪd aʊɚ praɪˈɔɹətiz ɹaɪt ˈæftɚ ðə ˈsɛkənd spɹɪnt.",
+        "stress": "LOOKING BACK... we SHOULD have RE-EVALUATED our PRIORITIES right AFTER the SECOND SPRINT.",
+        "linking": "\"should have\" → /ʃʊd həv/ (d + h linking)\n\"right after\" → /ɹaɪt ˈæftɚ/ (t + a linking)"
+    },
+    {
+        "speaker": "Elias",
+        "text": "Absolutely. If we had cut that chatbot feature earlier, we could have saved the entire mobile rewrite.",
+        "ipa": "ˌæbsəˈlutli. ɪf wi hæd kʌt ðæt ˈtʃætˌbɑt ˈfiːtʃɚ ˈɝliɚ, wi kʊd həv seɪvd ði ɪnˈtaɪɚ ˈmoʊbəl ˈɹiːˌɹaɪt.",
+        "stress": "ABSOLUTELY. If we had CUT that CHATBOT FEATURE EARLIER, we COULD have SAVED the ENTIRE MOBILE REWRITE.",
+        "linking": "\"had cut\" → /hæd kʌt/ (d + c linking)\n\"could have\" → /kʊd həv/ (d + h linking)"
+    },
+    {
+        "speaker": "Nora",
+        "text": "And I wish I had pushed back harder on the unrealistic deadlines.",
+        "ipa": "ænd aɪ wɪʃ aɪ hæd pʊʃt bæk ˈhɑɹdɚ ɑn ði ˌʌnɹiəˈlɪstɪk ˈdɛdlaɪnz.",
+        "stress": "And I WISH I had PUSHED BACK HARDER on the UNREALISTIC DEADLINES.",
+        "linking": "\"had pushed\" → /hæd pʊʃt/ (d + p linking)\n\"pushed back\" → /pʊʃt bæk/ (t + b linking)"
+    },
+    {
+        "speaker": "Elias",
+        "text": "Yeah… If only we had aligned better with product from the start.",
+        "ipa": "jæ… ɪf ˈoʊnli wi hæd əˈlaɪnd ˈbɛtɚ wɪð ˈpɹɑdəkt fɹəm ðə stɑɹt.",
+        "stress": "Yeah… If ONLY we had ALIGNED BETTER with PRODUCT from the START.",
+        "linking": "\"had aligned\" → /hæd əˈlaɪnd/ (d + a linking)\n\"from the\" → /fɹəm ðə/ (m + th linking)"
+    },
+    {
+        "speaker": "Nora",
+        "text": "Also, if we weren’t so focused on shipping fast, we would have spent more time on architecture.",
+        "ipa": "ˈɔlsoʊ, ɪf wi ˈwɝnt soʊ ˈfoʊkəst ɑn ˈʃɪpɪŋ fæst, wi wʊd həv spɛnt mɔɹ taɪm ɑn ˈɑɹkəˌtɛktʃɚ.",
+        "stress": "ALSO, if we WEREN’T so FOCUSED on SHIPPING FAST, we WOULD have SPENT more TIME on ARCHITECTURE.",
+        "linking": "\"weren’t so\" → /ˈwɝnt soʊ/ (t + s linking)\n\"would have\" → /wʊd həv/ (d + h linking)"
+    },
+    {
+        "speaker": "Elias",
+        "text": "Definitely. If I hadn't skipped those early design syncs, we might have prevented the late-stage chaos.",
+        "ipa": "ˈdɛfənətli. ɪf aɪ ˈhædənt skɪpt ðoʊz ˈɝli dɪˈzaɪn sɪŋks, wi maɪt həv pɹɪˈvɛntɪd ðə ˈleɪtˌsteɪdʒ ˈkeɪɑs.",
+        "stress": "DEFINITELY. If I HADN'T SKIPPED those EARLY DESIGN SYNCS, we MIGHT have PREVENTED the LATE-STAGE CHAOS.",
+        "linking": "\"hadn't skipped\" → /ˈhædənt skɪpt/ (t + s linking)\n\"might have\" → /maɪt həv/ (t + h linking)"
+    },
+    {
+        "speaker": "Nora",
+        "text": "To be honest, I wish we had encouraged more cross-team communication too.",
+        "ipa": "tu bi ˈɑnəst, aɪ wɪʃ wi hæd ɪnˈkɝɪdʒd mɔɹ ˈkɹɔsˌtim kəˌmjunəˈkeɪʃən tu.",
+        "stress": "To be HONEST, I WISH we had ENCOURAGED more CROSS-TEAM COMMUNICATION too.",
+        "linking": "\"had encouraged\" → /hæd ɪnˈkɝɪdʒd/ (d + e linking)\n\"cross-team\" → /ˈkɹɔsˌtim/ (s + t linking)"
+    },
+    {
+        "speaker": "Elias",
+        "text": "Same. We shouldn’t have assumed everyone was on the same page.",
+        "ipa": "seɪm. wi ˈʃʊdənt həv əˈsumd ˈɛvɹiˌwʌn wəz ɑn ðə seɪm peɪdʒ.",
+        "stress": "SAME. We SHOULDN’T have ASSUMED EVERYONE was on the SAME PAGE.",
+        "linking": "\"shouldn’t have\" → /ˈʃʊdənt həv/ (t + h linking)\n\"on the\" → /ɑn ðə/ (n + th linking)"
+    },
+    {
+        "speaker": "Nora",
+        "text": "Next time... as long as we prioritize sustainability, the team will avoid burnout like this.",
+        "ipa": "nɛkst taɪm... æz lɔŋ æz wi praɪˈɔɹəˌtaɪz səˌsteɪnəˈbɪləti, ðə tim wɪl əˈvɔɪd ˈbɝnˌaʊt laɪk ðɪs.",
+        "stress": "NEXT TIME... as LONG as we PRIORITIZE SUSTAINABILITY, the TEAM will AVOID BURNOUT like THIS.",
+        "linking": "\"as long as\" → /æz lɔŋ æz/ (z + l linking)\n\"will avoid\" → /wɪl əˈvɔɪd/ (l + a linking)"
+    },
+    {
+        "speaker": "Elias",
+        "text": "Agreed. And hey — we might have failed, but we definitely learned.",
+        "ipa": "əˈɡɹid. ænd heɪ — wi maɪt həv feɪld, bət wi ˈdɛfənətli lɝnd.",
+        "stress": "AGREED. And HEY — we MIGHT have FAILED, but we DEFINITELY LEARNED.",
+        "linking": "\"might have\" → /maɪt həv/ (t + h linking)\n\"but we\" → /bət wi/ (t + w linking)"
+    }
+]

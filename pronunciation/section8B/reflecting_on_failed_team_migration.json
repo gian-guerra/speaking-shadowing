@@ -1,0 +1,65 @@
+[
+    {
+        "speaker": "Nina",
+        "text": "I wish we had listened to the warnings from the infrastructure team.",
+        "ipa": "aɪ wɪʃ wi hæd ˈlɪsənd tu ðə ˈwɔrnɪŋz frəm ði ˌɪnfrəˈstrʌktʃɚ tim.",
+        "stress": "I WISH we had LISTENED to the WARNINGS from the INFRASTRUCTURE TEAM.",
+        "linking": "\"had listened\" → /hæd ˈlɪsənd/ (d + l linking)\n\"from the\" → /frəm ðə/ (m + th linking)"
+    },
+    {
+        "speaker": "Omar",
+        "text": "Me too. We should have delayed the migration until the DNS configs were stable.",
+        "ipa": "mi tu. wi ʃʊd həv dɪˈleɪd ðə maɪˈɡreɪʃən ənˈtɪl ðə ˌdiɛnɛs ˈkɑnfɪɡz wɚ ˈsteɪbəl.",
+        "stress": "ME TOO. We SHOULD have DELAYED the MIGRATION until the DNS CONFIGS were STABLE.",
+        "linking": "\"should have\" → /ʃʊd həv/ (d + h linking)\n\"until the\" → /ənˈtɪl ðə/ (l + th linking)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "Yeah. If we had waited just one more day, the outage wouldn’t have affected the European region.",
+        "ipa": "jæ. ɪf wi hæd ˈweɪtɪd dʒəst wʌn mɔr deɪ, ði ˈaʊtɪdʒ ˈwʊdənt həv əˈfɛktɪd ðə ˌjʊɹəˈpiən ˈɹidʒən.",
+        "stress": "YEAH. If we had WAITED just ONE more DAY, the OUTAGE wouldn’t have AFFECTED the EUROPEAN REGION.",
+        "linking": "\"had waited\" → /hæd ˈweɪtɪd/ (d + w linking)\n\"wouldn’t have\" → /ˈwʊdənt həv/ (t + h linking)"
+    },
+    {
+        "speaker": "Omar",
+        "text": "Exactly. And if I had reviewed the rollback steps earlier, we might have avoided the downtime altogether.",
+        "ipa": "ɪɡˈzæktli. ænd ɪf aɪ hæd ɹɪˈvjud ðə ˈroʊlbæk stɛps ˈɝliɚ, wi maɪt həv əˈvɔɪdɪd ðə ˈdaʊntaɪm ˌɔltəˈɡɛðɚ.",
+        "stress": "EXACTLY. And if I had REVIEWED the ROLLBACK STEPS EARLIER, we MIGHT have AVOIDED the DOWNTIME ALTOGETHER.",
+        "linking": "\"had reviewed\" → /hæd ɹɪˈvjud/ (d + r linking)\n\"might have\" → /maɪt həv/ (t + h linking)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "Honestly, I wish I had escalated the issue when I saw the weird latency spike.",
+        "ipa": "ˈɑnəstli, aɪ wɪʃ aɪ hæd ˈɛskəˌleɪtɪd ði ˈɪʃu wɛn aɪ sɔ ðə wɪɹd ˈleɪtənsi spaɪk.",
+        "stress": "HONESTLY, I WISH I had ESCALATED the ISSUE when I SAW the WEIRD LATENCY SPIKE.",
+        "linking": "\"had escalated\" → /hæd ˈɛskəˌleɪtɪd/ (d + e linking)\n\"when I\" → /wɛn aɪ/ (n + a linking)"
+    },
+    {
+        "speaker": "Omar",
+        "text": "You’re not alone. We could have handled the release better if we had communicated more openly with the SREs.",
+        "ipa": "jʊɹ nɑt əˈloʊn. wi kʊd həv ˈhændəld ðə ɹɪˈlis ˈbɛtɚ ɪf wi hæd kəˈmjunəˌkeɪtɪd mɔɹ ˈoʊpənli wɪð ði ˌɛsɑɹˈiz.",
+        "stress": "YOU’RE NOT ALONE. We COULD have HANDLED the RELEASE BETTER if we had COMMUNICATED more OPENLY with the SREs.",
+        "linking": "\"could have\" → /kʊd həv/ (d + h linking)\n\"had communicated\" → /hæd kəˈmjunəˌkeɪtɪd/ (d + c linking)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "Right. It must have seemed chaotic from their side.",
+        "ipa": "ɹaɪt. ɪt mʌst həv simd keɪˈɑtɪk frəm ðɛɹ saɪd.",
+        "stress": "RIGHT. It MUST have SEEMED CHAOTIC from THEIR SIDE.",
+        "linking": "\"must have\" → /mʌst həv/ (t + h linking)\n\"from their\" → /frəm ðɛɹ/ (m + th linking)"
+    },
+    {
+        "speaker": "Omar",
+        "text": "If only we had set clearer ownership ahead of time.",
+        "ipa": "ɪf ˈoʊnli wi hæd sɛt ˈklɪɹɚ ˈoʊnɚʃɪp əˈhɛd əv taɪm.",
+        "stress": "IF ONLY we had SET CLEARER OWNERSHIP AHEAD of TIME.",
+        "linking": "\"had set\" → /hæd sɛt/ (d + s linking)\n\"ahead of\" → /əˈhɛd əv/ (d + o linking)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "Lesson learned. Next time, we’ll make sure that kind of misalignment doesn’t happen again.",
+        "ipa": "ˈlɛsən lɝnd. nɛkst taɪm, wil meɪk ʃʊɹ ðæt kaɪnd əv ˌmɪsəˈlaɪnmənt ˈdʌzənt ˈhæpən əˈɡɛn.",
+        "stress": "LESSON LEARNED. NEXT TIME, we’ll MAKE SURE that KIND of MISALIGNMENT DOESN’T HAPPEN AGAIN.",
+        "linking": "\"we’ll make\" → /wil meɪk/ (l + m linking)\n\"doesn’t happen\" → /ˈdʌzənt ˈhæpən/ (t + h linking)"
+    }
+]
