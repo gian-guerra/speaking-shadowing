@@ -1,0 +1,9 @@
+Nina: I wish we {had listened} to the warnings from the infrastructure team.
+Omar: Me too. We {should have delayed} the migration until the DNS configs were stable.
+Nina: Yeah. If we {had waited} just one more day, the outage {wouldn’t have affected} the European region.
+Omar: Exactly. And if I {had reviewed} the rollback steps earlier, we {might have avoided} the downtime altogether.
+Nina: Honestly, I wish I {had escalated} the issue when I saw the weird latency spike.
+Omar: You’re not alone. We {could have handled} the release better if we {had communicated} more openly with the SREs.
+Nina: Right. It {must have seemed} chaotic from their side.
+Omar: If only we {had set} clearer ownership ahead of time.
+Nina: Lesson learned. Next time, we’ll make sure that kind of misalignment {doesn’t happen} again.
