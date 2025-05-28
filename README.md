@@ -62,6 +62,12 @@ Are the same just ʌ is the stressed version of ə, the same mouth position
 | 5 | Modals: ability, advice, obligation, possibility |
 | 6 | Reported speech: tense changes, time references, questions |
 | 7 | Verb patterns: `to-infinitive`, `-ing`, verb + object + verb |
+| 8A | Conditionals: Zero, First, Second and Realistic alternatives |
+| 8B | Conditionals: Third, Mixed - Wishes and Regrests |
+| 9 | Prepositions: Verb, Adjective, Noun + Preposition |
+| 10 | Relative clauses: defining and non-defining, relative, participle clauses |
+| 11 | The passive: Passive forms, passive use, passive reporting |
+| 12 | Linking ideas & Showing your position |
 ---
 
 ## 🔍 Syntax Guide

@@ -1,25 +1,17 @@
-import html
-
 data = [
-"James (Team Lead): Hey Sofia, have you finished reviewing the design documents? I noticed there were a few issues last time.",
-"Sofia (Software Engineer): Yes, I’ve already fixed most of them. There were some diagrams missing, and I added a lot of detail to the architecture section.",
-"James: That’s great. How much time did you spend on it?",
-"Sofia: Not too much actually — just a couple of hours. I reused some templates from the last project, so that helped.",
-"James: Nice thinking. Did you check if any features are still pending?",
-"Sofia: Yeah, there are a few features that still need to be finalized. Especially the search filter — I think it needs some more testing.",
-"James: Let’s talk to the QA team then. Maybe they can handle it by tomorrow.",
-"Sofia: Sure. I’ll send them an update right after this call. Also, did you talk to our new intern?",
-"James: Yes, he's great! His code was clean, and he asked a lot of questions, which I really appreciate.",
-"Sofia: Awesome. We could ask him to document the API endpoints. That way, everyone on the team can benefit from it.",
-"James: Exactly. Let’s make sure each module has at least some basic documentation. Even a little information helps in the long run.",
-"Sofia: Totally agree. I’ll get started on my part, and I’ll let you know if I run into anything.",
-"James: Perfect. Thanks again — your help always makes a difference.",
+"Ethan: If we had caught that memory leak earlier, the app wouldn’t have crashed during the launch.",
+"Carla: Exactly. And if QA had run a proper load test, we might have spotted it before Friday.",
+"Ethan: Yeah… I should have double-checked the metrics dashboard after the last commit.",
+"Carla: Honestly, we all missed it. But if we had communicated better with DevOps, they could have helped us flag it sooner.",
+"Ethan: True. If I hadn’t skipped the daily stand-up, I would have known we were merging early.",
+"Carla: And I could have reminded you too — that’s on me. If only we had slowed down a bit, the release would have gone smoothly.",
+"Ethan: We learned the hard way. But at least we created an incident doc now — that should have happened a long time ago.",
 ]
 
 def convert_to_ssml(data, output_file="conversation.ssml"):
     ssml_lines = ['<speak>']
     for line in data:
-        ssml_lines.append(f"{line}<break time=\"1000ms\"/>")
+        ssml_lines.append(f"{line}<break time=\"1500ms\"/>")
     ssml_lines.append('</speak>')
 
     with open(output_file, 'w', encoding='utf-8') as f:
