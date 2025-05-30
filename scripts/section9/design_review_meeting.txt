@@ -1,0 +1,7 @@
+Jason: Hey! That was a great suggestion you made {about} simplifying the deployment process.
+Monica: Thanks! I’ve always felt strongly {about} reducing manual steps. Honestly, I’m a bit {frustrated with} how often things go wrong {because of} small config errors.
+Jason: Totally agree. I’ve been {thinking about} proposing a CI gate to catch those earlier. I’m not sure if everyone would {approve of} that though.
+Monica: It’s worth pitching. I {spoke to} Jenna earlier and she seemed {interested in} improving the build pipeline.
+Jason: Nice. I’ll {talk to} her too. Oh — did you see Mark {laughing at} that deployment meme? He dropped it in Slack.
+Monica: Haha yeah! It was a perfect summary of what we’ve been going through. Anyway, I’m {excited about} trying that new blue-green strategy in staging.
+Jason: Me too. And thanks again — you’ve been super {helpful with} this whole process

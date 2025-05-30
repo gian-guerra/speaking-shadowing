@@ -1,0 +1,51 @@
+[
+    {
+        "speaker": "Sophie",
+        "text": "I was a bit annoyed at the feedback I got. Liam said I should’ve thought more about accessibility.",
+        "ipa": "aɪ wəz ə bɪt əˈnɔɪd ət ðə ˈfidˌbæk aɪ ɡɑt. ˈliəm sɛd aɪ ˈʃʊdəv θɔt mɔr əˈbaʊt əkˌsɛsəˈbɪləti.",
+        "stress": "I was a BIT ANNOYED at the FEEDBACK I GOT. LIAM said I SHOULD’VE THOUGHT more about ACCESSIBILITY.",
+        "linking": "\"bit annoyed\" → /bɪt əˈnɔɪd/ (t + a linking)\n\"should’ve thought\" → /ˈʃʊdəv θɔt/ (v + th linking)"
+    },
+    {
+        "speaker": "Jake",
+        "text": "Yeah, I heard about that. But honestly, I think he was just trying to help you with your layout choices.",
+        "ipa": "jæ, aɪ hɜrd əˈbaʊt ðæt. bət ˈɑnəstli, aɪ θɪŋk hi wəz dʒəst ˈtraɪɪŋ tə hɛlp ju wɪð jʊr ˈleɪˌaʊt ˈʧɔɪsɪz.",
+        "stress": "YEAH, I HEARD about THAT. But HONESTLY, I THINK he was just TRYING to HELP you with your LAYOUT CHOICES.",
+        "linking": "\"heard about\" → /hɜrd əˈbaʊt/ (d + a linking)\n\"trying to\" → /ˈtraɪɪŋ tə/ (g + t linking)"
+    },
+    {
+        "speaker": "Sophie",
+        "text": "I get it. I just didn’t expect him to laugh at my variable names in front of the whole team.",
+        "ipa": "aɪ ɡɛt ɪt. aɪ dʒəst ˈdɪdənt ɪkˈspɛkt hɪm tə læf ət maɪ ˈvɛriəbəl neɪmz ɪn frʌnt əv ðə hoʊl tim.",
+        "stress": "I GET IT. I just DIDN’T EXPECT him to LAUGH at my VARIABLE NAMES in FRONT of the WHOLE TEAM.",
+        "linking": "\"get it\" → /ɡɛt ɪt/ (t + i linking)\n\"laugh at\" → /læf ət/ (f + a linking)"
+    },
+    {
+        "speaker": "Jake",
+        "text": "Ouch. I would’ve been upset about that too. But maybe next time, just talk to him directly?",
+        "ipa": "aʊʧ. aɪ ˈwʊdəv bɪn əpˈsɛt əˈbaʊt ðæt tu. bət ˈmeɪbi nɛkst taɪm, dʒəst tɔk tə hɪm dəˈrɛktli?",
+        "stress": "OUCH. I WOULD’VE BEEN UPSET about THAT TOO. But MAYBE NEXT TIME, just TALK to him DIRECTLY?",
+        "linking": "\"would’ve been\" → /ˈwʊdəv bɪn/ (v + b linking)\n\"talk to\" → /tɔk tə/ (k + t linking)"
+    },
+    {
+        "speaker": "Sophie",
+        "text": "True. I was thinking about doing that, but I wasn’t sure how to bring it up. I’m scared of conflict.",
+        "ipa": "tru. aɪ wəz ˈθɪŋkɪŋ əˈbaʊt ˈduɪŋ ðæt, bət aɪ ˈwɑzənt ʃʊr haʊ tə brɪŋ ɪt ʌp. aɪm skɛrd əv ˈkɑnflɪkt.",
+        "stress": "TRUE. I was THINKING about DOING THAT, but I WASN’T SURE how to BRING it UP. I’m SCARED of CONFLICT.",
+        "linking": "\"thinking about\" → /ˈθɪŋkɪŋ əˈbaʊt/ (g + a linking)\n\"bring it\" → /brɪŋ ɪt/ (g + i linking)"
+    },
+    {
+        "speaker": "Jake",
+        "text": "Come on, you’re too good at what you do to let that stop you. Besides, he usually responds well to direct conversations.",
+        "ipa": "kʌm ɑn, jʊr tu ɡʊd ət wʌt ju du tə lɛt ðæt stɑp ju. bɪˈsaɪdz, hi ˈjuʒuəli rɪˈspɑndz wɛl tə dəˈrɛkt ˌkɑnvərˈseɪʃənz.",
+        "stress": "COME ON, you’re TOO GOOD at WHAT YOU DO to LET that STOP YOU. BESIDES, he USUALLY RESPONDS WELL to DIRECT CONVERSATIONS.",
+        "linking": "\"come on\" → /kʌm ɑn/ (m + o linking)\n\"stop you\" → /stɑp ju/ (p + y linking)"
+    },
+    {
+        "speaker": "Sophie",
+        "text": "You're right. Thanks for the advice — I’ll talk to him after the sprint demo.",
+        "ipa": "jʊr raɪt. θæŋks fɔr ði ədˈvaɪs — aɪl tɔk tə hɪm ˈæftər ðə sprɪnt ˈdɛmoʊ.",
+        "stress": "YOU'RE RIGHT. THANKS for the ADVICE — I’ll TALK to him AFTER the SPRINT DEMO.",
+        "linking": "\"talk to\" → /tɔk tə/ (k + t linking)\n\"after the\" → /ˈæftər ðə/ (r + th linking)"
+    }
+]
