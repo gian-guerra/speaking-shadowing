@@ -1,0 +1,72 @@
+[
+    {
+        "speaker": "Marcus",
+        "text": "Hey, I noticed you looked a bit annoyed with how that retro went.",
+        "ipa": "heɪ, aɪ ˈnoʊtɪst ju lʊkt ə bɪt əˈnɔɪd wɪð haʊ ðæt ˈrɛtroʊ wɛnt.",
+        "stress": "HEY, I NOTICED you LOOKED a BIT ANNOYED with how that RETRO went.",
+        "linking": "\"noticed you\" → /ˈnoʊtɪst ju/ (t + y linking)\n\"looked a\" → /lʊkt ə/ (d + a linking)"
+    },
+    {
+        "speaker": "Dana",
+        "text": "Yeah, I was just frustrated by the way everyone kept talking about the same problems without offering solutions.",
+        "ipa": "jæ, aɪ wəz dʒəst ˈfrʌstreɪtɪd baɪ ðə weɪ ˈɛvrɪwʌn kɛpt ˈtɔkɪŋ əˈbaʊt ðə seɪm ˈprɑbləmz wɪˈðaʊt ˈɔfərɪŋ səˈluʃənz.",
+        "stress": "YEAH, I was just FRUSTRATED by the way EVERYONE kept TALKING about the SAME PROBLEMS without OFFERING SOLUTIONS.",
+        "linking": "\"was just\" → /wəz dʒəst/ (z + j linking)\n\"talking about\" → /ˈtɔkɪŋ əˈbaʊt/ (g + a linking)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "I get that. I talked to Tom earlier — he said he feels responsible for the delays this sprint.",
+        "ipa": "aɪ ɡɛt ðæt. aɪ tɔkt tə tɑm ˈɝliɚ — hi sɛd hi filz rɪˈspɑnsəbl fər ðə dɪˈleɪz ðɪs sprɪnt.",
+        "stress": "I GET that. I TALKED to TOM earlier — he SAID he FEELS RESPONSIBLE for the DELAYS this SPRINT.",
+        "linking": "\"talked to\" → /tɔkt tə/ (d + t linking)\n\"feels responsible\" → /filz rɪˈspɑnsəbl/ (s + r linking)"
+    },
+    {
+        "speaker": "Dana",
+        "text": "Hmm, I wouldn’t blame him for it. Honestly, we’re all part of the problem.",
+        "ipa": "hmm, aɪ ˈwʊdənt bleɪm hɪm fər ɪt. ˈɑnəstli, wɪr ɔl pɑrt əv ðə ˈprɑbləm.",
+        "stress": "Hmm, I WOULDN’T BLAME him for it. HONESTLY, we’re ALL PART of the PROBLEM.",
+        "linking": "\"wouldn’t blame\" → /ˈwʊdənt bleɪm/ (t + b linking)\n\"part of\" → /pɑrt əv/ (t + o linking)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "True. I’m actually excited about trying that new task management flow you proposed.",
+        "ipa": "tru. aɪm ˈæktʃuəli ɪkˈsaɪtɪd əˈbaʊt ˈtraɪɪŋ ðæt nu tæsk ˈmænɪdʒmənt floʊ ju prəˈpoʊzd.",
+        "stress": "TRUE. I’m ACTUALLY EXCITED about TRYING that NEW TASK MANAGEMENT FLOW you PROPOSED.",
+        "linking": "\"excited about\" → /ɪkˈsaɪtɪd əˈbaʊt/ (d + a linking)\n\"flow you\" → /floʊ ju/ (w + y linking)"
+    },
+    {
+        "speaker": "Dana",
+        "text": "Thanks! I wrote to our PM about it, and she seemed interested in giving it a trial run next sprint.",
+        "ipa": "θæŋks! aɪ roʊt tu aʊər pi ɛm əˈbaʊt ɪt, ənd ʃi simd ˈɪntrəstɪd ɪn ˈɡɪvɪŋ ɪt ə ˈtraɪəl rʌn nɛkst sprɪnt.",
+        "stress": "THANKS! I WROTE to our PM about it, and SHE SEEMED INTERESTED in GIVING it a TRIAL RUN next SPRINT.",
+        "linking": "\"wrote to\" → /roʊt tu/ (t + t linking)\n\"giving it\" → /ˈɡɪvɪŋ ɪt/ (g + i linking)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "Great! By the way, have you seen the sudden increase in error reports from the mobile app?",
+        "ipa": "ɡreɪt! baɪ ðə weɪ, hæv ju sin ðə ˈsʌdən ˈɪnkris ɪn ˈɛrər rɪˈpɔrts frəm ðə ˈmoʊbəl æp?",
+        "stress": "GREAT! By the WAY, have you SEEN the SUDDEN INCREASE in ERROR REPORTS from the MOBILE APP?",
+        "linking": "\"have you\" → /hæv ju/ (v + y linking)\n\"error reports\" → /ˈɛrər rɪˈpɔrts/ (r + r linking)"
+    },
+    {
+        "speaker": "Dana",
+        "text": "Yeah. I heard about it from support. Apparently, something broke in the last release, and now users are complaining about login failures.",
+        "ipa": "jæ. aɪ hɜrd əˈbaʊt ɪt frəm səˈpɔrt. əˈpɛrəntli, ˈsʌmθɪŋ broʊk ɪn ðə læst rɪˈlis, ənd naʊ ˈjuzərz ər kəmˈpleɪnɪŋ əˈbaʊt ˈlɔɡɪn ˈfeɪljərz.",
+        "stress": "YEAH. I HEARD about it from SUPPORT. APPARENTLY, SOMETHING BROKE in the LAST RELEASE, and NOW USERS are COMPLAINING about LOGIN FAILURES.",
+        "linking": "\"heard about\" → /hɜrd əˈbaʊt/ (d + a linking)\n\"complaining about\" → /kəmˈpleɪnɪŋ əˈbaʊt/ (g + a linking)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "We should definitely focus on that tomorrow. I’ll coordinate with QA and make sure it's prioritized.",
+        "ipa": "wi ʃəd ˈdɛfənətli ˈfoʊkəs ɒn ðæt təˈmɑroʊ. aɪl koʊˈɔrdəˌneɪt wɪð ˈkjuːˈeɪ ənd meɪk ʃʊr ɪts praɪˈɔrəˌtaɪzd.",
+        "stress": "We SHOULD DEFINITELY FOCUS on that TOMORROW. I’ll COORDINATE with QA and MAKE SURE it's PRIORITIZED.",
+        "linking": "\"should definitely\" → /ʃəd ˈdɛfənətli/ (d + d linking)\n\"coordinate with\" → /koʊˈɔrdəˌneɪt wɪð/ (t + w linking)"
+    },
+    {
+        "speaker": "Dana",
+        "text": "Sounds good. I’ll also check with backend — just in case it’s related to the new auth token logic.",
+        "ipa": "saʊndz ɡʊd. aɪl ˈɔlsoʊ tʃɛk wɪð ˈbækˌɛnd — dʒəst ɪn keɪs ɪts rɪˈleɪtɪd tu ðə nu ɔθ ˈtoʊkən ˈlɑdʒɪk.",
+        "stress": "SOUNDS GOOD. I’ll ALSO CHECK with BACKEND — just in CASE it’s RELATED to the NEW AUTH TOKEN LOGIC.",
+        "linking": "\"also check\" → /ˈɔlsoʊ tʃɛk/ (o + ch linking)\n\"auth token\" → /ɔθ ˈtoʊkən/ (th + t linking)"
+    }
+]

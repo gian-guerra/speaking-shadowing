@@ -1,0 +1,58 @@
+[
+    {
+        "speaker": "Ethan",
+        "text": "I wanted to check on your progress with the integration tests. Have you run into anything?",
+        "ipa": "aɪ ˈwɑːntɪd tə tʃɛk ɒn jɔː ˈprəʊɡrɛs wɪð ði ˌɪntɪˈɡreɪʃən tɛsts. hæv juː rʌn ˈɪntuː ˈɛnɪθɪŋ?",
+        "stress": "I WANTED to CHECK on your PROGRESS with the INTEGRATION TESTS. Have you RUN into ANYTHING?",
+        "linking": "\"wanted to\" → /ˈwɑːntɪd tə/ (d + t linking)\n\"run into\" → /rʌn ˈɪntuː/ (n + i linking)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "Yeah — I’ve been worried about the flaky results on staging. I apologised to the QA team this morning for not catching it sooner.",
+        "ipa": "jæ — aɪv bɪn ˈwʌrid əˈbaʊt ðə ˈfleɪki rɪˈzʌlts ɒn ˈsteɪdʒɪŋ. aɪ əˈpɒlədʒaɪzd tə ðə ˌkjuːˈeɪ tiːm ðɪs ˈmɔːnɪŋ fə nɒt ˈkætʃɪŋ ɪt ˈsuːnə.",
+        "stress": "YEAH — I’ve been WORRIED about the FLAKY RESULTS on STAGING. I APOLOGISED to the QA TEAM this MORNING for not CATCHING it SOONER.",
+        "linking": "\"been worried\" → /bɪn ˈwʌrid/ (n + w linking)\n\"not catching\" → /nɒt ˈkætʃɪŋ/ (t + c linking)"
+    },
+    {
+        "speaker": "Ethan",
+        "text": "I see. Were the failures related to the database timeout issue?",
+        "ipa": "aɪ siː. wɜː ðə ˈfeɪljəz rɪˈleɪtɪd tə ðə ˈdeɪtəbeɪs ˈtaɪmaʊt ˈɪʃuː?",
+        "stress": "I SEE. Were the FAILURES RELATED to the DATABASE TIMEOUT ISSUE?",
+        "linking": "\"were the\" → /wɜː ðə/ (r + th linking)\n\"database timeout\" → /ˈdeɪtəbeɪs ˈtaɪmaʊt/ (s + t linking)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "Exactly. I’ve been concentrating on mocking the external service calls to isolate the problem.",
+        "ipa": "ɪɡˈzæktli. aɪv bɪn ˈkɒnsəntreɪtɪŋ ɒn ˈmɒkɪŋ ði ɪkˈstɜːnl ˈsɜːvɪs kɔːlz tʊ ˈaɪsəleɪt ðə ˈprɒbləm.",
+        "stress": "EXACTLY. I’ve been CONCENTRATING on MOCKING the EXTERNAL SERVICE CALLS to ISOLATE the PROBLEM.",
+        "linking": "\"been concentrating\" → /bɪn ˈkɒnsəntreɪtɪŋ/ (n + c linking)\n\"service calls\" → /ˈsɜːvɪs kɔːlz/ (s + c linking)"
+    },
+    {
+        "speaker": "Ethan",
+        "text": "Smart move. And thanks for being honest about the delay. Did anyone complain about the impact on the timeline?",
+        "ipa": "smɑːt muːv. ənd θæŋks fə ˈbiːɪŋ ˈɒnɪst əˈbaʊt ðə dɪˈleɪ. dɪd ˈɛnɪwʌn kəmˈpleɪn əˈbaʊt ði ˈɪmpækt ɒn ðə ˈtaɪmlaɪn?",
+        "stress": "SMART MOVE. And THANKS for being HONEST about the DELAY. Did ANYONE COMPLAIN about the IMPACT on the TIMELINE?",
+        "linking": "\"thanks for\" → /θæŋks fə/ (s + f linking)\n\"complain about\" → /kəmˈpleɪn əˈbaʊt/ (n + a linking)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "A bit. Marissa seemed annoyed with the lack of error logging. She even pointed at a line in the commit and said, “What’s this supposed to do?”",
+        "ipa": "ə bɪt. məˈrɪsə siːmd əˈnɔɪd wɪð ðə læk əv ˈɛrə ˈlɒɡɪŋ. ʃiː ˈiːvən ˈpɔɪntɪd ət ə laɪn ɪn ðə kəˈmɪt ənd sɛd, “wɒts ðɪs səˈpəʊzd tə duː?”",
+        "stress": "A BIT. Marissa SEEMED ANNOYED with the LACK of ERROR LOGGING. She EVEN POINTED at a LINE in the COMMIT and SAID, “WHAT’S this SUPPOSED to DO?”",
+        "linking": "\"seemed annoyed\" → /siːmd əˈnɔɪd/ (d + a linking)\n\"pointed at\" → /ˈpɔɪntɪd ət/ (d + a linking)"
+    },
+    {
+        "speaker": "Ethan",
+        "text": "Classic Marissa. Just deal with it — she’s tough, but fair. If it helps, I can speak to her about giving feedback more tactfully.",
+        "ipa": "ˈklæsɪk məˈrɪsə. dʒʌst diːl wɪð ɪt — ʃiːz tʌf, bət feə. ɪf ɪt hɛlps, aɪ kən spiːk tə hə əˈbaʊt ˈɡɪvɪŋ ˈfiːdbæk mɔː ˈtæktfəli.",
+        "stress": "CLASSIC Marissa. Just DEAL with it — she’s TOUGH, but FAIR. If it HELPS, I can SPEAK to her about GIVING FEEDBACK more TACTFULLY.",
+        "linking": "\"deal with\" → /diːl wɪð/ (l + w linking)\n\"speak to\" → /spiːk tə/ (k + t linking)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "Thanks, that’d be nice of you. I don’t mind feedback — I just prefer it in private.",
+        "ipa": "θæŋks, ðæt bi naɪs əv juː. aɪ dəʊnt maɪnd ˈfiːdbæk — aɪ dʒʌst prɪˈfɜːr ɪt ɪn ˈpraɪvət.",
+        "stress": "THANKS, that’d be NICE of YOU. I DON’T MIND FEEDBACK — I just PREFER it in PRIVATE.",
+        "linking": "\"nice of\" → /naɪs əv/ (s + o linking)\n\"prefer it\" → /prɪˈfɜːr ɪt/ (r + i linking)"
+    }
+]

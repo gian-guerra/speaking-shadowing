@@ -1,0 +1,65 @@
+[
+    {
+        "speaker": "Sarah",
+        "text": "Hey Leo, did you get my note about the crashing issue?",
+        "ipa": "heɪ ˈliːoʊ, dɪd ju ɡɛt maɪ noʊt əˈbaʊt ðə ˈkræʃɪŋ ˈɪʃuː?",
+        "stress": "HEY Leo, did you GET my NOTE about the CRASHING ISSUE?",
+        "linking": "\"did you\" → /dɪd ju/ (d + y linking)\n\"note about\" → /noʊt əˈbaʊt/ (t + a linking)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "Yeah, I did. I’ve been working on reproducing it since this morning. Turns out it only happens when the user logs in with a social account.",
+        "ipa": "jæ, aɪ dɪd. aɪv bɪn ˈwɜːrkɪŋ ɒn ˌriːprəˈduːsɪŋ ɪt sɪns ðɪs ˈmɔːrnɪŋ. tɜrnz aʊt ɪt ˈoʊnli ˈhæpənz wɛn ðə ˈjuːzər lɔɡz ɪn wɪð ə ˈsoʊʃəl əˈkaʊnt.",
+        "stress": "YEAH, I DID. I’ve been WORKING on REPRODUCING it since this MORNING. TURNS out it ONLY HAPPENS when the USER LOGS IN with a SOCIAL ACCOUNT.",
+        "linking": "\"been working\" → /bɪn ˈwɜːrkɪŋ/ (n + w linking)\n\"logs in\" → /lɔɡz ɪn/ (z + i linking)"
+    },
+    {
+        "speaker": "Sarah",
+        "text": "Ugh, classic. I’m kind of annoyed with how unstable the auth library is lately.",
+        "ipa": "ʌɡ, ˈklæsɪk. aɪm kaɪnd əv əˈnɔɪd wɪð haʊ ʌnˈsteɪbəl ði ɔːθ ˈlaɪbrəri ɪz ˈleɪtli.",
+        "stress": "UGH, CLASSIC. I’m KIND of ANNOYED with how UNSTABLE the AUTH LIBRARY is LATELY.",
+        "linking": "\"kind of\" → /kaɪnd əv/ (d + o linking)\n\"auth library\" → /ɔːθ ˈlaɪbrəri/ (th + l linking)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "Same here. I even wrote to their support team about it, but no reply yet. I apologize for not keeping you updated earlier — was knee-deep in logs.",
+        "ipa": "seɪm hɪr. aɪ ˈiːvən roʊt tu ðɛr səˈpɔːrt tiːm əˈbaʊt ɪt, bət noʊ rɪˈplaɪ jɛt. aɪ əˈpɑːlədʒaɪz fər nɒt ˈkiːpɪŋ ju ˈʌpdeɪtɪd ˈɜːrliər — wəz ˈniː diːp ɪn lɔɡz.",
+        "stress": "SAME HERE. I even WROTE to their SUPPORT TEAM about it, but NO REPLY yet. I APOLOGIZE for NOT KEEPING you UPDATED EARLIER — was KNEE-DEEP in LOGS.",
+        "linking": "\"wrote to\" → /roʊt tu/ (t + t linking)\n\"keeping you\" → /ˈkiːpɪŋ ju/ (g + y linking)"
+    },
+    {
+        "speaker": "Sarah",
+        "text": "No worries! I rely on you for these tricky bugs — you always spot something I miss.",
+        "ipa": "noʊ ˈwɜːriz! aɪ rɪˈlaɪ ɒn ju fər ðiːz ˈtrɪki bʌɡz — ju ˈɔːlweɪz spɒt ˈsʌmθɪŋ aɪ mɪs.",
+        "stress": "NO WORRIES! I RELY on YOU for these TRICKY BUGS — you ALWAYS SPOT SOMETHING I MISS.",
+        "linking": "\"rely on\" → /rɪˈlaɪ ɒn/ (y + o linking)\n\"spot something\" → /spɒt ˈsʌmθɪŋ/ (t + s linking)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "Haha, well… I’m anxious about pushing a hotfix without QA’s green light. They still haven’t responded to my ticket.",
+        "ipa": "hɑː hɑː, wɛl… aɪm ˈæŋkʃəs əˈbaʊt ˈpʊʃɪŋ ə ˈhɒtfɪks wɪˈðaʊt ˌkjuːˈeɪz ɡriːn laɪt. ðeɪ stɪl ˈhævənt rɪˈspɒndɪd tu maɪ ˈtɪkɪt.",
+        "stress": "HAHA, WELL… I’m ANXIOUS about PUSHING a HOTFIX without QA’s GREEN LIGHT. They STILL HAVEN’T RESPONDED to my TICKET.",
+        "linking": "\"pushing a\" → /ˈpʊʃɪŋ ə/ (g + a linking)\n\"green light\" → /ɡriːn laɪt/ (n + l linking)"
+    },
+    {
+        "speaker": "Sarah",
+        "text": "Want me to talk to someone from their team? I’m friendly with Matt from QA — maybe he can help.",
+        "ipa": "wɒnt mi tu tɔːk tu ˈsʌmwʌn frəm ðɛr tiːm? aɪm ˈfrɛndli wɪð mæt frəm ˌkjuːˈeɪ — ˈmeɪbi hi kən hɛlp.",
+        "stress": "WANT me to TALK to SOMEONE from their TEAM? I’m FRIENDLY with MATT from QA — maybe HE can HELP.",
+        "linking": "\"talk to\" → /tɔːk tu/ (k + t linking)\n\"he can\" → /hi kən/ (e + c linking)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "That would be awesome, thanks! Also, while you’re at it, can you ask about the flaky tests in the staging suite?",
+        "ipa": "ðæt wʊd bi ˈɔːsəm, θæŋks! ˈɔːlsoʊ, waɪl jʊr æt ɪt, kæn ju æsk əˈbaʊt ðə ˈfleɪki tɛsts ɪn ðə ˈsteɪdʒɪŋ swiːt?",
+        "stress": "THAT would be AWESOME, THANKS! ALSO, WHILE you’re AT it, can you ASK about the FLAKY TESTS in the STAGING SUITE?",
+        "linking": "\"would be\" → /wʊd bi/ (d + b linking)\n\"ask about\" → /æsk əˈbaʊt/ (k + a linking)"
+    },
+    {
+        "speaker": "Sarah",
+        "text": "On it. And hey, thanks again — this issue’s been eating at me all week.",
+        "ipa": "ɒn ɪt. ənd heɪ, θæŋks əˈɡɛn — ðɪs ˈɪʃuːz bɪn ˈiːtɪŋ æt mi ɔːl wiːk.",
+        "stress": "ON it. And HEY, THANKS again — this ISSUE’s been EATING at me ALL WEEK.",
+        "linking": "\"thanks again\" → /θæŋks əˈɡɛn/ (s + a linking)\n\"eating at\" → /ˈiːtɪŋ æt/ (g + a linking)"
+    }
+]
