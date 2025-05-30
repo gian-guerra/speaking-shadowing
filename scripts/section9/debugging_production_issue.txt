@@ -1,0 +1,8 @@
+Liam: Hey, have you figured out what’s causing the CPU spike?
+Sara: I’m still looking into it. I’m pretty sure it’s {related to} the latest release. The new analytics job might be {responsible for} the load increase.
+Liam: Yeah, we {talked about} that at stand-up. Did you {hear about} the report from the SRE team?
+Sara: Not yet. I’ve just {written to} Priya asking if she can pull the latest Grafana logs. I hate {relying on} incomplete data.
+Liam: Same. By the way, I {apologised for} the confusion I caused earlier — I {mistook} the error as coming from Redis. But it was actually {caused by} a loop in the new queue worker.
+Sara: Ah, thanks for clearing that up. I {count on} you to spot weird async behavior before anyone else.
+Liam: Haha, thanks. We should {prepare for} a retro on this next week — I {insisted on} documenting everything this time.
+Sara: Good call. And let’s {aim for} a patch release by Friday.

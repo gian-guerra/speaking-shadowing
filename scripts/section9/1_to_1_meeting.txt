@@ -1,0 +1,8 @@
+Ethan: I wanted to check {on} your progress with the integration tests. Have you run into anything?
+Nina: Yeah — I’ve been {worried about} the flaky results on staging. I {apologised to} the QA team this morning for not catching it sooner.
+Ethan: I see. Were the failures related {to} the database timeout issue?
+Nina: Exactly. I’ve been {concentrating on} mocking the external service calls to isolate the problem.
+Ethan: Smart move. And thanks for being {honest about} the delay. Did anyone {complain about} the impact on the timeline?
+Nina: A bit. Marissa seemed {annoyed with} the lack of error logging. She even {pointed at} a line in the commit and said, “What’s this supposed to do?”
+Ethan: Classic Marissa. Just {deal with} it — she’s tough, but fair. If it helps, I can {speak to} her about giving feedback more tactfully.
+Nina: Thanks, that’d be {nice of} you. I don’t {mind} feedback — I just {prefer} it in private.
