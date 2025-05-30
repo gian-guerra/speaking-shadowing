@@ -1,0 +1,10 @@
+Marcus: Hey, I noticed you looked a bit {annoyed with} how that retro went.
+Dana: Yeah, I was just {frustrated by} the way everyone kept talking {about} the same problems without offering solutions.
+Marcus: I get that. I {talked to} Tom earlier — he said he feels {responsible for} the delays this sprint.
+Dana: Hmm, I wouldn’t {blame him for} it. Honestly, we’re all {part of} the problem.
+Marcus: True. I’m actually {excited about} trying that new task management flow you proposed.
+Dana: Thanks! I {wrote to} our PM {about} it, and she seemed {interested in} giving it a trial run next sprint.
+Marcus: Great! By the way, have you seen the sudden {increase in} error reports from the mobile app?
+Dana: Yeah. I {heard about} it from support. Apparently, something broke in the last release, and now users are {complaining about} login failures.
+Marcus: We should definitely {focus on} that tomorrow. I’ll {coordinate with} QA and make sure it's prioritized.
+Dana: Sounds good. I’ll also {check with} backend — just in case it’s related to the new auth token logic.

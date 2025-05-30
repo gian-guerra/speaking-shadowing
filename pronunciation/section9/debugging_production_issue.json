@@ -1,0 +1,58 @@
+[
+    {
+        "speaker": "Liam",
+        "text": "Hey, have you figured out what’s causing the CPU spike?",
+        "ipa": "heɪ, həv ju ˈfɪɡjɚd aʊt wʌts ˈkɔzɪŋ ðə ˌsiːˌpiːˈjuː spaɪk?",
+        "stress": "HEY, have you FIGURED OUT what’s CAUSING the CPU SPIKE?",
+        "linking": "\"have you\" → /həv ju/ (v + y linking)\n\"figured out\" → /ˈfɪɡjɚd aʊt/ (d + a linking)"
+    },
+    {
+        "speaker": "Sara",
+        "text": "I’m still looking into it. I’m pretty sure it’s related to the latest release. The new analytics job might be responsible for the load increase.",
+        "ipa": "aɪm stɪl ˈlʊkɪŋ ˈɪntu ɪt. aɪm ˈprɪti ʃʊr ɪts rɪˈleɪtɪd tu ðə ˈleɪtəst rɪˈliːs. ðə nu ˌænəˈlɪtɪks dʒɑb maɪt bi rɪˈspɑnsəbl fɔr ðə loʊd ˈɪnkriːs.",
+        "stress": "I’m STILL LOOKING into it. I’m PRETTY SURE it’s RELATED to the LATEST RELEASE. The NEW ANALYTICS JOB might be RESPONSIBLE for the LOAD INCREASE.",
+        "linking": "\"looking into\" → /ˈlʊkɪŋ ˈɪntu/ (g + i linking)\n\"responsible for\" → /rɪˈspɑnsəbl fɔr/ (l + f linking)"
+    },
+    {
+        "speaker": "Liam",
+        "text": "Yeah, we talked about that at stand-up. Did you hear about the report from the SRE team?",
+        "ipa": "jæ, wi tɔkt əˈbaʊt ðæt æt ˈstænd ʌp. dɪd ju hɪr əˈbaʊt ðə rɪˈpɔrt frəm ðə ˌɛsˌɑrˈiː tim?",
+        "stress": "YEAH, we TALKED about that at STAND-UP. Did you HEAR about the REPORT from the SRE TEAM?",
+        "linking": "\"talked about\" → /tɔkt əˈbaʊt/ (d + a linking)\n\"hear about\" → /hɪr əˈbaʊt/ (r + a linking)"
+    },
+    {
+        "speaker": "Sara",
+        "text": "Not yet. I’ve just written to Priya asking if she can pull the latest Grafana logs. I hate relying on incomplete data.",
+        "ipa": "nɑt jɛt. aɪv dʒəst ˈrɪtən tu ˈpriːjə ˈæskɪŋ ɪf ʃi kæn pʊl ðə ˈleɪtəst ɡrəˈfɑnə lɔɡz. aɪ heɪt rɪˈlaɪɪŋ ɑn ˌɪnkəmˈplit ˈdeɪtə.",
+        "stress": "NOT YET. I’ve just WRITTEN to PRIYA asking if she can PULL the LATEST GRAFANA LOGS. I HATE relying on INCOMPLETE DATA.",
+        "linking": "\"written to\" → /ˈrɪtən tu/ (n + t linking)\n\"hate relying\" → /heɪt rɪˈlaɪɪŋ/ (t + r linking)"
+    },
+    {
+        "speaker": "Liam",
+        "text": "Same. By the way, I apologised for the confusion I caused earlier — I mistook the error as coming from Redis. But it was actually caused by a loop in the new queue worker.",
+        "ipa": "seɪm. baɪ ðə weɪ, aɪ əˈpɑlədʒaɪzd fɔr ðə kənˈfjuʒən aɪ kɔzd ˈɜrliər — aɪ mɪsˈtʊk ði ˈɛrər əz ˈkʌmɪŋ frəm ˈrɛdɪs. bət ɪt wəz ˈækʧuəli kɔzd baɪ ə lup ɪn ðə nu kju ˈwɜrkər.",
+        "stress": "SAME. By the WAY, I APOLOGISED for the CONFUSION I CAUSED EARLIER — I MISTOOK the ERROR as COMING from REDIS. But it was ACTUALLY CAUSED by a LOOP in the NEW QUEUE WORKER.",
+        "linking": "\"apologised for\" → /əˈpɑlədʒaɪzd fɔr/ (d + f linking)\n\"caused by\" → /kɔzd baɪ/ (d + b linking)"
+    },
+    {
+        "speaker": "Sara",
+        "text": "Ah, thanks for clearing that up. I count on you to spot weird async behavior before anyone else.",
+        "ipa": "ɑ, θæŋks fɔr ˈklɪrɪŋ ðæt ʌp. aɪ kaʊnt ɑn ju tu spɑt wɪrd ˈeɪsɪŋk bɪˈheɪvjər bɪˈfɔr ˈɛniwʌn ɛls.",
+        "stress": "AH, THANKS for CLEARING that UP. I COUNT on YOU to SPOT WEIRD ASYNC BEHAVIOR before ANYONE ELSE.",
+        "linking": "\"thanks for\" → /θæŋks fɔr/ (s + f linking)\n\"count on\" → /kaʊnt ɑn/ (t + o linking)"
+    },
+    {
+        "speaker": "Liam",
+        "text": "Haha, thanks. We should prepare for a retro on this next week — I insisted on documenting everything this time.",
+        "ipa": "hɑhɑ, θæŋks. wi ʃʊd prɪˈpɛr fɔr ə ˈrɛtroʊ ɑn ðɪs nɛkst wik — aɪ ɪnˈsɪstɪd ɑn ˈdɑkjəˌmɛntɪŋ ˈɛvrɪθɪŋ ðɪs taɪm.",
+        "stress": "HAHA, THANKS. We SHOULD PREPARE for a RETRO on THIS NEXT WEEK — I INSISTED on DOCUMENTING EVERYTHING this TIME.",
+        "linking": "\"should prepare\" → /ʃʊd prɪˈpɛr/ (d + p linking)\n\"documenting everything\" → /ˈdɑkjəˌmɛntɪŋ ˈɛvrɪθɪŋ/ (g + e linking)"
+    },
+    {
+        "speaker": "Sara",
+        "text": "Good call. And let’s aim for a patch release by Friday.",
+        "ipa": "ɡʊd kɔl. ənd lɛts eɪm fɔr ə pæʧ rɪˈlis baɪ ˈfraɪdeɪ.",
+        "stress": "GOOD CALL. And LET’S AIM for a PATCH RELEASE by FRIDAY.",
+        "linking": "\"let’s aim\" → /lɛts eɪm/ (s + a linking)\n\"patch release\" → /pæʧ rɪˈlis/ (ch + r linking)"
+    }
+]

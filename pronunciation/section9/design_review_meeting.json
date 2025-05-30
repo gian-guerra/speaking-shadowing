@@ -1,0 +1,51 @@
+[
+    {
+        "speaker": "Jason",
+        "text": "Hey! That was a great suggestion you made about simplifying the deployment process.",
+        "ipa": "heɪ! ðæt wəz ə ɡreɪt səˈdʒɛstʃən ju meɪd əˈbaʊt ˈsɪmplɪˌfaɪɪŋ ðə dɪˈplɔɪmənt ˈprɑsɛs.",
+        "stress": "HEY! That was a GREAT SUGGESTION you MADE about SIMPLIFYING the DEPLOYMENT PROCESS.",
+        "linking": "\"that was\" → /ðæt wəz/ (t + w linking)\n\"you made\" → /ju meɪd/ (u + m linking)"
+    },
+    {
+        "speaker": "Monica",
+        "text": "Thanks! I’ve always felt strongly about reducing manual steps. Honestly, I’m a bit frustrated with how often things go wrong because of small config errors.",
+        "ipa": "θæŋks! aɪv ˈɔlweɪz fɛlt ˈstrɔŋli əˈbaʊt rɪˈdusɪŋ ˈmænjuəl stɛps. ˈɑnəstli, aɪm ə bɪt ˈfrʌstreɪtɪd wɪð haʊ ˈɔfən θɪŋz ɡoʊ rɔŋ bɪˈkəz əv smɔl ˈkɑnfɪɡ ˈɛrərz.",
+        "stress": "THANKS! I’ve ALWAYS FELT STRONGLY about REDUCING MANUAL STEPS. HONESTLY, I’m a BIT FRUSTRATED with how OFTEN THINGS go WRONG because of SMALL CONFIG ERRORS.",
+        "linking": "\"felt strongly\" → /fɛlt ˈstrɔŋli/ (t + s linking)\n\"go wrong\" → /ɡoʊ rɔŋ/ (o + r linking)"
+    },
+    {
+        "speaker": "Jason",
+        "text": "Totally agree. I’ve been thinking about proposing a CI gate to catch those earlier. I’m not sure if everyone would approve of that though.",
+        "ipa": "ˈtoʊtəli əˈɡri. aɪv bɪn ˈθɪŋkɪŋ əˈbaʊt prəˈpoʊzɪŋ ə si aɪ ɡeɪt tu kæʧ ðoʊz ˈɜrliər. aɪm nɑt ʃʊr ɪf ˈɛvrɪˌwʌn wʊd əˈpruv əv ðæt ðoʊ.",
+        "stress": "TOTALLY AGREE. I’ve been THINKING about PROPOSING a CI GATE to CATCH those EARLIER. I’m NOT SURE if EVERYONE would APPROVE of THAT though.",
+        "linking": "\"been thinking\" → /bɪn ˈθɪŋkɪŋ/ (n + th linking)\n\"approve of\" → /əˈpruv əv/ (v + o linking)"
+    },
+    {
+        "speaker": "Monica",
+        "text": "It’s worth pitching. I spoke to Jenna earlier and she seemed interested in improving the build pipeline.",
+        "ipa": "ɪts wɜrθ ˈpɪʧɪŋ. aɪ spoʊk tu ˈdʒɛnə ˈɜrliər ənd ʃi siːmd ˈɪntrəstɪd ɪn ɪmˈpruvɪŋ ðə bɪld ˈpaɪplaɪn.",
+        "stress": "It’s WORTH PITCHING. I SPOKE to JENNA EARLIER and she SEEMED INTERESTED in IMPROVING the BUILD PIPELINE.",
+        "linking": "\"spoke to\" → /spoʊk tu/ (k + t linking)\n\"build pipeline\" → /bɪld ˈpaɪplaɪn/ (d + p linking)"
+    },
+    {
+        "speaker": "Jason",
+        "text": "Nice. I’ll talk to her too. Oh — did you see Mark laughing at that deployment meme? He dropped it in Slack.",
+        "ipa": "naɪs. aɪl tɔk tu hɜr tu. oʊ — dɪd ju si mɑrk ˈlæfɪŋ æt ðæt dɪˈplɔɪmənt miːm? hi drɑpt ɪt ɪn slæk.",
+        "stress": "NICE. I’ll TALK to HER too. OH — did you SEE MARK LAUGHING at that DEPLOYMENT MEME? He DROPPED it in SLACK.",
+        "linking": "\"talk to\" → /tɔk tu/ (k + t linking)\n\"dropped it\" → /drɑpt ɪt/ (t + i linking)"
+    },
+    {
+        "speaker": "Monica",
+        "text": "Haha yeah! It was a perfect summary of what we’ve been going through. Anyway, I’m excited about trying that new blue-green strategy in staging.",
+        "ipa": "hɑhɑ jæ! ɪt wəz ə ˈpɜrfɪkt ˈsʌməri əv wʌt wiv bɪn ˈɡoʊɪŋ θru. ˈɛniˌweɪ, aɪm ɪkˈsaɪtɪd əˈbaʊt ˈtraɪɪŋ ðæt nu blu-ɡrin ˈstrætədʒi ɪn ˈsteɪdʒɪŋ.",
+        "stress": "HAHA YEAH! It was a PERFECT SUMMARY of what we’ve been GOING THROUGH. ANYWAY, I’m EXCITED about TRYING that NEW BLUE-GREEN STRATEGY in STAGING.",
+        "linking": "\"been going\" → /bɪn ˈɡoʊɪŋ/ (n + g linking)\n\"blue-green strategy\" → /blu-ɡrin ˈstrætədʒi/ (e + s linking)"
+    },
+    {
+        "speaker": "Jason",
+        "text": "Me too. And thanks again — you’ve been super helpful with this whole process.",
+        "ipa": "mi tu. ənd θæŋks əˈɡɛn — juv bɪn ˈsuːpər ˈhɛlpfl wɪð ðɪs hoʊl ˈprɑsɛs.",
+        "stress": "ME TOO. And THANKS AGAIN — you’ve been SUPER HELPFUL with this WHOLE PROCESS.",
+        "linking": "\"thanks again\" → /θæŋks əˈɡɛn/ (s + a linking)\n\"been super\" → /bɪn ˈsuːpər/ (n + s linking)"
+    }
+]
