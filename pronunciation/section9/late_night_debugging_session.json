@@ -1,0 +1,79 @@
+[
+    {
+        "speaker": "Nina",
+        "text": "I’ve been staring at this code for hours and still can’t figure out what’s wrong with the caching layer.",
+        "ipa": "aɪv bɪn ˈsteərɪŋ æt ðɪs kəʊd fɔː ˈaʊəz ənd stɪl kɑːnt ˈfɪɡər aʊt wɒts rɒŋ wɪð ðə ˈkæʃɪŋ ˈleɪə.",
+        "stress": "I'VE been STARING at this CODE for HOURS and STILL CAN'T FIGURE OUT what's WRONG with the CACHING LAYER.",
+        "linking": "\"figure out\" → /ˈfɪɡər aʊt/ (r + a linking)"
+    },
+    {
+        "speaker": "Eric",
+        "text": "Let me take a look. You know, this reminds me of the issue we had last quarter — with the stale object references?",
+        "ipa": "lɛt mi teɪk ə lʊk. ju nəʊ, ðɪs rɪˈmaɪndz mi əv ði ˈɪʃuː wi hæd lɑːst ˈkwɔːtə — wɪð ðə steɪl ˈɒbdʒɪkt ˈrɛfərənsɪz?",
+        "stress": "LET me TAKE a LOOK. YOU KNOW, this REMINDS me of the ISSUE we HAD last QUARTER — with the STALE OBJECT REFERENCES?",
+        "linking": "\"take a\" → /teɪk ə/ (k + a linking)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "Oh right! I had almost forgotten about that. We dealt with it by refactoring some of the shared context logic.",
+        "ipa": "əʊ raɪt! aɪ hæd ˈɔːlməʊst fəˈɡɒtn əˈbaʊt ðæt. wi dɛlt wɪð ɪt baɪ riːˈfæktərɪŋ sʌm əv ðə ʃeəd ˈkɒntekst ˈlɒdʒɪk.",
+        "stress": "OH RIGHT! I had ALMOST FORGOTTEN about THAT. We DEALT with it by REFACTORING some of the SHARED CONTEXT LOGIC.",
+        "linking": "\"dealt with\" → /dɛlt wɪð/ (t + w linking)"
+    },
+    {
+        "speaker": "Eric",
+        "text": "Exactly. Also, I talked to DevOps earlier — they mentioned some suspicious latency spikes in the Redis instance.",
+        "ipa": "ɪɡˈzæktli. ˈɔːlsəʊ, aɪ tɔːkt tu ˈdɛvɒps ˈɜːliə — ðeɪ ˈmɛnʃənd səm səˈspɪʃəs ˈleɪtənsi spaɪks ɪn ðə ˈrɛdɪs ˈɪnstəns.",
+        "stress": "EXACTLY. ALSO, I TALKED to DEVOPS EARLIER — they MENTIONED some SUSPICIOUS LATENCY SPIKES in the REDIS INSTANCE.",
+        "linking": "\"talked to\" → /tɔːkt tu/ (t + t linking)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "Wait, that might be it! Could you present this to the team tomorrow morning? I don’t think everyone’s aware of it.",
+        "ipa": "weɪt, ðæt maɪt bi ɪt! kʊd ju prɪˈzɛnt ðɪs tu ðə tiːm təˈmɒrəʊ ˈmɔːnɪŋ? aɪ dəʊnt θɪŋk ˈɛvrɪwʌnz əˈweər əv ɪt.",
+        "stress": "WAIT, that MIGHT be IT! COULD you PRESENT this to the TEAM TOMORROW MORNING? I DON'T THINK EVERYONE'S AWARE of it.",
+        "linking": "\"present this\" → /prɪˈzɛnt ðɪs/ (t + th linking)"
+    },
+    {
+        "speaker": "Eric",
+        "text": "Sure. I’m also planning to write to the vendor to check if we need an upgrade. We’re already at 75% capacity.",
+        "ipa": "ʃʊə. aɪm ˈɔːlsəʊ ˈplænɪŋ tu raɪt tu ðə ˈvɛndə tu ʧɛk ɪf wi niːd ən ˈʌpɡreɪd. wɪr ɔːlˈrɛdi æt ˈsɛvnti faɪv pəˈsɛnt kəˈpæsɪti.",
+        "stress": "SURE. I'M ALSO PLANNING to WRITE to the VENDOR to CHECK if we NEED an UPGRADE. WE'RE ALREADY at 75% CAPACITY.",
+        "linking": "\"write to\" → /raɪt tu/ (t + t linking)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "Yeah, I’ve been concerned about that for weeks. It’s one of those bottlenecks that could become a big problem if we don’t act soon.",
+        "ipa": "jæ, aɪv bɪn kənˈsɜːnd əˈbaʊt ðæt fɔː wiːks. ɪts wʌn əv ðəʊz ˈbɒtlˌnɛks ðæt kʊd bɪˈkʌm ə bɪɡ ˈprɒbləm ɪf wi dəʊnt ækt suːn.",
+        "stress": "YEAH, I'VE been CONCERNED about THAT for WEEKS. IT'S one of those BOTTLENECKS that COULD become a BIG PROBLEM if we DON'T ACT SOON.",
+        "linking": "\"act soon\" → /ækt suːn/ (t + s linking)"
+    },
+    {
+        "speaker": "Eric",
+        "text": "I agree with you completely. Let’s rely on some monitoring tonight and see what else pops up.",
+        "ipa": "aɪ əˈɡriː wɪð ju kəmˈpliːtli. lɛts rɪˈlaɪ ɒn səm ˈmɒnɪtərɪŋ təˈnaɪt ənd siː wɒt ɛls pɒps ʌp.",
+        "stress": "I AGREE with YOU COMPLETELY. LET'S RELY on some MONITORING TONIGHT and SEE what ELSE POPS UP.",
+        "linking": "\"pops up\" → /pɒps ʌp/ (s + u linking)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "Alright. I’ll keep working on this fallback mechanism while you do that. Just call me if anything weird shows up.",
+        "ipa": "ɔːlˈraɪt. aɪl kiːp ˈwɜːkɪŋ ɒn ðɪs ˈfɔːlbæk ˈmɛkənɪzəm waɪl ju duː ðæt. ʤʌst kɔːl mi ɪf ˈɛnɪθɪŋ wɪəd ʃəʊz ʌp.",
+        "stress": "ALRIGHT. I'LL KEEP WORKING on this FALLBACK MECHANISM while YOU DO THAT. JUST CALL ME if ANYTHING WEIRD SHOWS UP.",
+        "linking": "\"call me\" → /kɔːl mi/ (l + m linking)"
+    },
+    {
+        "speaker": "Eric",
+        "text": "Will do. This is one of those bugs that really gets you in deep, huh?",
+        "ipa": "wɪl duː. ðɪs ɪz wʌn əv ðəʊz bʌɡz ðæt ˈrɪəli ɡɛts ju ɪn diːp, hʌ?",
+        "stress": "WILL DO. THIS is ONE of those BUGS that REALLY GETS YOU in DEEP, huh?",
+        "linking": "\"gets you\" → /ɡɛts ju/ (s + y linking)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "Definitely. But hey, that’s what makes it fun — sometimes.",
+        "ipa": "ˈdɛfɪnətli. bət heɪ, ðæts wɒt meɪks ɪt fʌn — ˈsʌmtaɪmz.",
+        "stress": "DEFINITELY. BUT HEY, THAT'S what MAKES it FUN — SOMETIMES.",
+        "linking": "\"makes it\" → /meɪks ɪt/ (s + i linking)"
+    }
+]

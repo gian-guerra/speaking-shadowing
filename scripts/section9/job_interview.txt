@@ -1,0 +1,14 @@
+Hiring Manager (Lena): Hi Thomas! Thanks for joining. Let's begin. Could you tell me a bit {about} your background?
+Thomas: Sure! I've been working as a backend developer for four years. I mostly {deal with} microservice architectures and APIs. Recently, I've been {involved in} optimizing cloud infrastructure.
+Lena: Sounds interesting. And how do you normally {collaborate with} frontend teams?
+Thomas: We use Slack and GitHub for communication. I often {talk to} the designers and {coordinate with} them on integration. I also make sure to stay {in touch with} QA throughout the sprint.
+Lena: Good to hear. How do you handle pressure when things go wrong?
+Thomas: I try to stay calm and {focus on} the solution. If I’m stuck, I don’t hesitate to {ask for} help or {discuss} the issue with teammates. It’s important not to get too {frustrated with} small setbacks.
+Lena: Agreed. I noticed your résumé mentioned you {applied for} our DevOps position as well. Are you aiming to transition?
+Thomas: Eventually, yes. I’ve been {preparing for} that by taking courses and {learning about} CI/CD pipelines.
+Lena: That’s proactive! And how do you keep your skills current?
+Thomas: I read technical blogs and join communities {on} Discord and Reddit. I'm currently {working on} a personal project using Go and Docker.
+Lena: Excellent. One last thing — how do you handle feedback?
+Thomas: I {welcome} it. I always try to {learn from} my mistakes. If someone {points out} a bug, I investigate it without taking it personally.
+Lena: That’s the mindset we’re looking for. Thanks for sharing, Thomas. We’ll be {in touch with} next steps soon.
+Thomas: Thanks, Lena. I really appreciate the opportunity.

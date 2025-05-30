@@ -1,0 +1,93 @@
+[
+    {
+        "speaker": "Professor Martin",
+        "text": "So, how’s the group project coming along?",
+        "ipa": "soʊ, haʊz ðə ɡruːp ˈprɒdʒɛkt ˈkʌmɪŋ əˈlɒŋ?",
+        "stress": "SO, HOW’S the GROUP PROJECT COMING ALONG?",
+        "linking": "\"how’s the\" → /haʊz ðə/ (z + th linking)"
+    },
+    {
+        "speaker": "Student Ava",
+        "text": "Honestly, I’m a bit worried about the presentation part. One team member keeps arguing with others about the design choices.",
+        "ipa": "ˈɒnɪstli, aɪm ə bɪt ˈwʌrid əˈbaʊt ðə ˌprɛzənˈteɪʃən pɑːrt. wʌn tiːm ˈmɛmbər kiːps ˈɑːɡjuːɪŋ wɪð ˈʌðərz əˈbaʊt ðə dɪˈzaɪn ˈʧɔɪsɪz.",
+        "stress": "HONESTLY, I’M a BIT WORRIED about the PRESENTATION PART. ONE TEAM MEMBER KEEPS ARGUING with OTHERS about the DESIGN CHOICES.",
+        "linking": "\"worried about\" → /ˈwʌrid əˈbaʊt/ (d + a linking)"
+    },
+    {
+        "speaker": "Professor Martin",
+        "text": "Group dynamics can be tricky. Have you tried talking to him directly?",
+        "ipa": "ɡruːp daɪˈnæmɪks kæn bi ˈtrɪki. hæv ju traɪd ˈtɔːkɪŋ tu hɪm dəˈrɛktli?",
+        "stress": "GROUP DYNAMICS can be TRICKY. HAVE YOU TRIED TALKING to HIM DIRECTLY?",
+        "linking": "\"talking to\" → /ˈtɔːkɪŋ tu/ (g + t linking)"
+    },
+    {
+        "speaker": "Student Ava",
+        "text": "Yes, I spoke to him yesterday and tried to explain the rationale for our choices, but he didn’t seem convinced.",
+        "ipa": "jɛs, aɪ spoʊk tu hɪm ˈjɛstərdeɪ ənd traɪd tu ɪkˈspleɪn ðə ˌræʃəˈnæl fər aʊər ˈʧɔɪsɪz, bət hi ˈdɪdnt siːm kənˈvɪnst.",
+        "stress": "YES, I SPOKE to HIM YESTERDAY and TRIED to EXPLAIN the RATIONALE for OUR CHOICES, but HE DIDN’T SEEM CONVINCED.",
+        "linking": "\"spoke to\" → /spoʊk tu/ (k + t linking)"
+    },
+    {
+        "speaker": "Professor Martin",
+        "text": "Sometimes people just need time. Have you discussed the roles and responsibilities clearly?",
+        "ipa": "ˈsʌmtaɪmz ˈpiːpəl dʒəst niːd taɪm. hæv ju dɪˈskʌst ðə roʊlz ənd rɪˌspɒnsəˈbɪlɪtiz ˈklɪrli?",
+        "stress": "SOMETIMES PEOPLE just NEED TIME. HAVE YOU DISCUSSED the ROLES and RESPONSIBILITIES CLEARLY?",
+        "linking": "\"discussed the\" → /dɪˈskʌst ðə/ (t + th linking)"
+    },
+    {
+        "speaker": "Student Ava",
+        "text": "We did. We even divided the tasks among ourselves fairly, but he keeps complaining about having to do the visuals.",
+        "ipa": "wi dɪd. wi ˈiːvən dɪˈvaɪdɪd ðə tæsks əˈmʌŋ aʊərˈsɛlvz ˈfɛrli, bət hi kiːps kəmˈpleɪnɪŋ əˈbaʊt ˈhævɪŋ tu du ðə ˈvɪʒuəlz.",
+        "stress": "WE DID. We EVEN DIVIDED the TASKS among OURSELVES FAIRLY, but HE KEEPS COMPLAINING about HAVING to DO the VISUALS.",
+        "linking": "\"complaining about\" → /kəmˈpleɪnɪŋ əˈbaʊt/ (g + a linking)"
+    },
+    {
+        "speaker": "Professor Martin",
+        "text": "Maybe he’s just not confident in that area. You could suggest switching his task with someone who’s more experienced.",
+        "ipa": "ˈmeɪbi hiːz dʒəst nɒt ˈkɒnfɪdənt ɪn ðæt ˈɛəriə. ju kʊd səˈdʒɛst ˈswɪʧɪŋ hɪz tæsk wɪð ˈsʌmwʌn huːz mɔːr ɪkˈspɪəriənst.",
+        "stress": "MAYBE HE’S just NOT CONFIDENT in THAT AREA. YOU COULD SUGGEST SWITCHING his TASK with SOMEONE who’s MORE EXPERIENCED.",
+        "linking": "\"suggest switching\" → /səˈdʒɛst ˈswɪʧɪŋ/ (t + s linking)"
+    },
+    {
+        "speaker": "Student Ava",
+        "text": "That could work. Also, I wrote to the group chat about scheduling another meeting, but no one’s replied yet.",
+        "ipa": "ðæt kʊd wɜːrk. ˈɔːlsoʊ, aɪ roʊt tu ðə ɡruːp ʧæt əˈbaʊt ˈʃɛdjuːlɪŋ əˈnʌðər ˈmiːtɪŋ, bət noʊ wʌnz rɪˈplaɪd jɛt.",
+        "stress": "THAT COULD WORK. ALSO, I WROTE to the GROUP CHAT about SCHEDULING ANOTHER MEETING, but NO ONE’S REPLIED YET.",
+        "linking": "\"wrote to\" → /roʊt tu/ (t + t linking)"
+    },
+    {
+        "speaker": "Professor Martin",
+        "text": "Try reminding them politely. Sometimes people need a little push, especially when they’re under pressure.",
+        "ipa": "traɪ rɪˈmaɪndɪŋ ðɛm pəˈlaɪtli. ˈsʌmtaɪmz ˈpiːpəl niːd ə ˈlɪtl pʊʃ, ɪˈspɛʃəli wɛn ðeər ˈʌndər ˈprɛʃər.",
+        "stress": "TRY REMINDING them POLITELY. SOMETIMES PEOPLE NEED a LITTLE PUSH, ESPECIALLY when THEY’RE UNDER PRESSURE.",
+        "linking": "\"reminding them\" → /rɪˈmaɪndɪŋ ðɛm/ (g + th linking)"
+    },
+    {
+        "speaker": "Student Ava",
+        "text": "Yeah, you’re right. I guess I was just upset with the lack of communication.",
+        "ipa": "jæ, jʊər raɪt. aɪ ɡɛs aɪ wəz dʒəst ʌpˈsɛt wɪð ðə læk əv kəˌmjuːnɪˈkeɪʃən.",
+        "stress": "YEAH, YOU’RE RIGHT. I GUESS I WAS just UPSET with the LACK of COMMUNICATION.",
+        "linking": "\"upset with\" → /ʌpˈsɛt wɪð/ (t + w linking)"
+    },
+    {
+        "speaker": "Professor Martin",
+        "text": "Totally understandable. Just keep focused on what you can control, and try to deal with conflicts constructively.",
+        "ipa": "ˈtoʊtəli ˌʌndərˈstændəbəl. dʒəst kiːp ˈfoʊkəst ɒn wɒt ju kæn kənˈtroʊl, ənd traɪ tu diːl wɪð ˈkɒnflɪkts kənˈstrʌktɪvli.",
+        "stress": "TOTALLY UNDERSTANDABLE. JUST KEEP FOCUSED on WHAT YOU CAN CONTROL, and TRY to DEAL with CONFLICTS CONSTRUCTIVELY.",
+        "linking": "\"deal with\" → /diːl wɪð/ (l + w linking)"
+    },
+    {
+        "speaker": "Student Ava",
+        "text": "Thanks. I really appreciate your advice. It helps to talk to someone who understands group dynamics.",
+        "ipa": "θæŋks. aɪ ˈrɪəli əˈpriːʃieɪt jʊər ədˈvaɪs. ɪt hɛlps tu tɔːk tu ˈsʌmwʌn huː ˌʌndərˈstændz ɡruːp daɪˈnæmɪks.",
+        "stress": "THANKS. I REALLY APPRECIATE your ADVICE. It HELPS to TALK to SOMEONE who UNDERSTANDS GROUP DYNAMICS.",
+        "linking": "\"appreciate your\" → /əˈpriːʃieɪt jʊər/ (t + y linking)\n\"talk to\" → /tɔːk tu/ (k + t linking)"
+    },
+    {
+        "speaker": "Professor Martin",
+        "text": "You’re doing great. Remember, learning to collaborate is just as important as the final product.",
+        "ipa": "jʊr ˈduːɪŋ ɡreɪt. rɪˈmɛmbər, ˈlɜːrnɪŋ tu kəˈlæbəreɪt ɪz dʒəst æz ɪmˈpɔːrtənt æz ðə ˈfaɪnəl ˈprɒdʌkt.",
+        "stress": "YOU’RE DOING GREAT. REMEMBER, LEARNING to COLLABORATE is JUST as IMPORTANT as the FINAL PRODUCT.",
+        "linking": "\"learning to\" → /ˈlɜːrnɪŋ tu/ (g + t linking)\n\"just as\" → /dʒəst æz/ (t + a linking)"
+    }
+]

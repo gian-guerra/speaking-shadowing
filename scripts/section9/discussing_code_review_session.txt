@@ -1,0 +1,7 @@
+Sophie: I was a bit {annoyed at} the feedback I got. Liam said I should’ve thought more {about} accessibility.
+Jake: Yeah, I heard {about} that. But honestly, I think he was just trying to help you {with} your layout choices.
+Sophie: I get it. I just didn’t expect him to laugh {at} my variable names in front of the whole team.
+Jake: Ouch. I would’ve been {upset about} that too. But maybe next time, just talk {to} him directly?
+Sophie: True. I was thinking {about} doing that, but I wasn’t sure how to bring it up. I’m {scared of} conflict.
+Jake: Come on, you’re too good {at} what you do to let that stop you. Besides, he usually responds well {to} direct conversations.
+Sophie: You're right. Thanks for the advice — I’ll talk {to} him after the sprint demo.

@@ -1,0 +1,79 @@
+[
+    {
+        "speaker": "Jasmine",
+        "text": "I’ve been reading the reviews, and most users are really excited about the new scheduling interface.",
+        "ipa": "aɪv bɪn ˈriːdɪŋ ðə rɪˈvjuːz, ənd moʊst ˈjuːzərz ɑːr ˈrɪəli ɪkˈsaɪtɪd əˈbaʊt ðə nu ˈʃɛdjuːlɪŋ ˈɪntərfeɪs.",
+        "stress": "I’VE BEEN READING the REVIEWS, and MOST USERS are REALLY EXCITED about the NEW SCHEDULING INTERFACE.",
+        "linking": "\"been reading\" → /bɪn ˈriːdɪŋ/ (n + r linking)\n\"about the\" → /əˈbaʊt ðə/ (t + th linking)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "Yeah, but I also noticed a few people complained about performance issues in older devices.",
+        "ipa": "jæ, bət aɪ ˈɔːlsoʊ ˈnoʊtɪst ə fjuː ˈpiːpəl kəmˈpleɪnd əˈbaʊt pərˈfɔːrməns ˈɪʃuːz ɪn ˈoʊldər dɪˈvaɪsɪz.",
+        "stress": "YEAH, but I ALSO NOTICED a FEW PEOPLE COMPLAINED about PERFORMANCE ISSUES in OLDER DEVICES.",
+        "linking": "\"noticed a\" → /ˈnoʊtɪst ə/ (d + a linking)\n\"about performance\" → /əˈbaʊt pərˈfɔːrməns/ (t + p linking)"
+    },
+    {
+        "speaker": "Jasmine",
+        "text": "True. We might need to talk to the mobile devs and see if there’s a workaround. Also, some feedback referred to the UI being a bit too cluttered.",
+        "ipa": "truː. wi maɪt niːd tə tɔːk tə ðə ˈmoʊbəl dɛvz ənd si ɪf ðɛrz ə ˈwɜːrkəˌraʊnd. ˈɔːlsoʊ, səm ˈfiːdbæk rɪˈfɜːrd tə ðə ˌjuːˈaɪ ˈbiːɪŋ ə bɪt tuː ˈklʌtərd.",
+        "stress": "TRUE. We MIGHT NEED to TALK to the MOBILE DEVS and SEE if there’s a WORKAROUND. ALSO, some FEEDBACK REFERRED to the UI being a BIT TOO CLUTTERED.",
+        "linking": "\"talk to\" → /tɔːk tə/ (k + t linking)\n\"referred to\" → /rɪˈfɜːrd tə/ (d + t linking)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "I spoke to Diego from UX earlier — he’s already thinking about simplifying the layout for smaller screens.",
+        "ipa": "aɪ spoʊk tə diˈeɪɡoʊ frəm juː ɛks ˈɜːrliər — hiz ɔːlˈrɛdi ˈθɪŋkɪŋ əˈbaʊt ˈsɪmplɪˌfaɪɪŋ ðə ˈleɪaʊt fər ˈsmɔːlər skriːnz.",
+        "stress": "I SPOKE to DIEGO from UX EARLIER — he’s ALREADY THINKING about SIMPLIFYING the LAYOUT for SMALLER SCREENS.",
+        "linking": "\"spoke to\" → /spoʊk tə/ (k + t linking)\n\"thinking about\" → /ˈθɪŋkɪŋ əˈbaʊt/ (g + a linking)"
+    },
+    {
+        "speaker": "Jasmine",
+        "text": "That’s great. And did anyone apologize for the delay in the release notes? Some customers wrote to us about that.",
+        "ipa": "ðæts ɡreɪt. ənd dɪd ˈɛniwʌn əˈpɑːlədʒaɪz fər ðə dɪˈleɪ ɪn ðə rɪˈliːs noʊts? səm ˈkʌstəmərz roʊt tu ʌs əˈbaʊt ðæt.",
+        "stress": "THAT’S GREAT. And DID ANYONE APOLOGIZE for the DELAY in the RELEASE NOTES? Some CUSTOMERS WROTE to us about THAT.",
+        "linking": "\"did anyone\" → /dɪd ˈɛniwʌn/ (d + a linking)\n\"wrote to\" → /roʊt tu/ (t + t linking)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "Yeah, Carlos explained to them that we were waiting for QA clearance. But we probably need a better process for communicating changes.",
+        "ipa": "jæ, ˈkɑːrloʊs ɪkˈspleɪnd tə ðɛm ðæt wi wər ˈweɪtɪŋ fər ˌkjuːˈeɪ ˈklɪrəns. bət wi ˈprɑːbəbli niːd ə ˈbɛtər ˈprɑːsɛs fər kəˈmjuːnɪkeɪtɪŋ ˈʧeɪndʒɪz.",
+        "stress": "YEAH, CARLOS EXPLAINED to them that WE were WAITING for QA CLEARANCE. But we PROBABLY NEED a BETTER PROCESS for COMMUNICATING CHANGES.",
+        "linking": "\"explained to\" → /ɪkˈspleɪnd tə/ (d + t linking)\n\"waiting for\" → /ˈweɪtɪŋ fər/ (g + f linking)"
+    },
+    {
+        "speaker": "Jasmine",
+        "text": "Definitely. And I’m concerned about our Slack channel being too quiet. I relied on it a lot for instant team feedback.",
+        "ipa": "ˈdɛfɪnətli. ənd aɪm kənˈsɜːrnd əˈbaʊt aʊər slæk ˈʧænəl ˈbiːɪŋ tuː ˈkwaɪət. aɪ rɪˈlaɪd ɒn ɪt ə lɒt fər ˈɪnstənt tiːm ˈfiːdbæk.",
+        "stress": "DEFINITELY. And I’m CONCERNED about our SLACK CHANNEL being TOO QUIET. I RELIED on it a LOT for INSTANT TEAM FEEDBACK.",
+        "linking": "\"concerned about\" → /kənˈsɜːrnd əˈbaʊt/ (d + a linking)\n\"relied on\" → /rɪˈlaɪd ɒn/ (d + o linking)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "Same here. I think people are focused on wrapping up their sprints. Maybe we should remind them about posting updates.",
+        "ipa": "seɪm hɪər. aɪ θɪŋk ˈpiːpəl ɑːr ˈfoʊkəst ɒn ˈræpɪŋ ʌp ðɛər sprɪnts. ˈmeɪbi wi ʃəd rɪˈmaɪnd ðɛm əˈbaʊt ˈpoʊstɪŋ ˈʌpdeɪts.",
+        "stress": "SAME HERE. I THINK PEOPLE are FOCUSED on WRAPPING UP their SPRINTS. MAYBE we should REMIND them about POSTING UPDATES.",
+        "linking": "\"focused on\" → /ˈfoʊkəst ɒn/ (t + o linking)\n\"remind them\" → /rɪˈmaɪnd ðɛm/ (d + th linking)"
+    },
+    {
+        "speaker": "Jasmine",
+        "text": "Good idea. Also, let’s not forget about the accessibility audit. I’m anxious about the results coming in next week.",
+        "ipa": "ɡʊd aɪˈdɪə. ˈɔːlsoʊ, lɛts nɒt fəˈɡɛt əˈbaʊt ði əkˌsɛsəˈbɪləti ˈɔːdɪt. aɪm ˈæŋkʃəs əˈbaʊt ðə rɪˈzʌlts ˈkʌmɪŋ ɪn nɛkst wiːk.",
+        "stress": "GOOD idea. ALSO, let’s NOT FORGET about the ACCESSIBILITY AUDIT. I’m ANXIOUS about the RESULTS coming in NEXT WEEK.",
+        "linking": "\"not forget\" → /nɒt fəˈɡɛt/ (t + f linking)\n\"about the\" → /əˈbaʊt ði/ (t + th linking)\n\"coming in\" → /ˈkʌmɪŋ ɪn/ (g + i linking)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "Fingers crossed. We prepared for that with all those alt text and contrast fixes, so hopefully it goes well.",
+        "ipa": "ˈfɪŋɡərz krɔːst. wi prɪˈpɛrd fər ðæt wɪð ɔːl ðoʊz ɔːlt tɛkst ənd ˈkɒntræst ˈfɪksɪz, soʊ ˈhoʊpfəli ɪt ɡoʊz wɛl.",
+        "stress": "FINGERS CROSSED. We PREPARED for that with ALL those ALT TEXT and CONTRAST FIXES, so HOPEFULLY it GOES WELL.",
+        "linking": "\"prepared for\" → /prɪˈpɛrd fər/ (d + f linking)\n\"goes well\" → /ɡoʊz wɛl/ (z + w linking)"
+    },
+    {
+        "speaker": "Jasmine",
+        "text": "Here’s hoping. Thanks for jumping in today — I really appreciate your help.",
+        "ipa": "hɪərz ˈhoʊpɪŋ. θæŋks fər ˈʤʌmpɪŋ ɪn təˈdeɪ — aɪ ˈrɪəli əˈpriːʃieɪt jʊər hɛlp.",
+        "stress": "HERE’S HOPING. THANKS for JUMPING in TODAY — I REALLY APPRECIATE your HELP.",
+        "linking": "\"thanks for\" → /θæŋks fər/ (s + f linking)\n\"jumping in\" → /ˈʤʌmpɪŋ ɪn/ (g + i linking)\n\"appreciate your\" → /əˈpriːʃieɪt jʊər/ (t + y linking)"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "speaker": "Lena",
+        "text": "Hi Thomas! Thanks for joining. Let's begin. Could you tell me a bit about your background?",
+        "ipa": "haɪ ˈtɒməs! θæŋks fɔː ˈʤɔɪnɪŋ. lɛts bɪˈɡɪn. kʊd juː tɛl mi ə bɪt əˈbaʊt jɔː ˈbækɡraʊnd?",
+        "stress": "HI THOMAS! THANKS for JOINING. LET'S BEGIN. COULD YOU TELL me a BIT about your BACKGROUND?",
+        "linking": "\"Thanks for\" → /θæŋks fɔː/ (s + f linking)\n\"tell me\" → /tɛl mi/ (l + m linking)"
+    },
+    {
+        "speaker": "Thomas",
+        "text": "Sure! I've been working as a backend developer for four years. I mostly deal with microservice architectures and APIs. Recently, I've been involved in optimizing cloud infrastructure.",
+        "ipa": "ʃʊr! aɪv bɪn ˈwɜːkɪŋ æz ə ˈbækˌɛnd dɪˈvɛləpər fɔː fɔː jɪəz. aɪ ˈmoʊstli diːl wɪð ˈmaɪkrəʊˌsɜːvɪs ˈɑːkɪtɛkʧəz ənd ˌeɪpiːˈaɪz. ˈriːsəntli, aɪv bɪn ɪnˈvɒlvd ɪn ˈɒptɪmaɪzɪŋ klaʊd ˈɪnfrəˌstrʌkʧə.",
+        "stress": "SURE! I'VE BEEN WORKING as a BACKEND DEVELOPER for FOUR YEARS. I MOSTLY DEAL with MICROSERVICE ARCHITECTURES and APIs. RECENTLY, I'VE BEEN INVOLVED in OPTIMIZING CLOUD INFRASTRUCTURE.",
+        "linking": "\"working as\" → /ˈwɜːkɪŋ æz/ (g + a linking)\n\"deal with\" → /diːl wɪð/ (l + w linking)"
+    },
+    {
+        "speaker": "Lena",
+        "text": "Sounds interesting. And how do you normally collaborate with frontend teams?",
+        "ipa": "saʊndz ˈɪntrəstɪŋ. ənd haʊ duː juː ˈnɔːməli kəˈlæbəreɪt wɪð ˈfrʌntˌɛnd tiːmz?",
+        "stress": "SOUNDS INTERESTING. AND HOW do YOU NORMALLY COLLABORATE with FRONTEND TEAMS?",
+        "linking": "\"collaborate with\" → /kəˈlæbəreɪt wɪð/ (t + w linking)"
+    },
+    {
+        "speaker": "Thomas",
+        "text": "We use Slack and GitHub for communication. I often talk to the designers and coordinate with them on integration. I also make sure to stay in touch with QA throughout the sprint.",
+        "ipa": "wi juːz slæk ənd ˈɡɪthʌb fɔː kəˌmjuːnɪˈkeɪʃən. aɪ ˈɒfən tɔːk tuː ðə dɪˈzaɪnəz ənd koʊˈɔːdɪneɪt wɪð ðɛm ɒn ˌɪntɪˈɡreɪʃən. aɪ ˈɔːlsəʊ meɪk ʃʊə tuː steɪ ɪn tʌʧ wɪð ˌkjuːˈeɪ θruːˈaʊt ðə sprɪnt.",
+        "stress": "WE USE SLACK and GITHUB for COMMUNICATION. I OFTEN TALK to the DESIGNERS and COORDINATE with THEM on INTEGRATION. I ALSO MAKE SURE to STAY in TOUCH with QA THROUGHOUT the SPRINT.",
+        "linking": "\"talk to\" → /tɔːk tuː/ (k + t linking)\n\"coordinate with\" → /koʊˈɔːdɪneɪt wɪð/ (t + w linking)"
+    },
+    {
+        "speaker": "Lena",
+        "text": "Good to hear. How do you handle pressure when things go wrong?",
+        "ipa": "ɡʊd tuː hɪə. haʊ duː juː ˈhændl ˈprɛʃə wɛn θɪŋz ɡəʊ rɒŋ?",
+        "stress": "GOOD to HEAR. HOW do YOU HANDLE PRESSURE when THINGS GO WRONG?",
+        "linking": "\"handle pressure\" → /ˈhændl ˈprɛʃə/ (l + p linking)"
+    },
+    {
+        "speaker": "Thomas",
+        "text": "I try to stay calm and focus on the solution. If I’m stuck, I don’t hesitate to ask for help or discuss the issue with teammates. It’s important not to get too frustrated with small setbacks.",
+        "ipa": "aɪ traɪ tuː steɪ kɑːm ənd ˈfəʊkəs ɒn ðə səˈluːʃən. ɪf aɪm stʌk, aɪ dəʊnt ˈhɛzɪteɪt tuː ɑːsk fɔː hɛlp ɔː dɪˈskʌs ði ˈɪʃuː wɪð ˈtiːmmeɪts. ɪts ɪmˈpɔːtənt nɒt tuː ɡɛt tuː ˈfrʌstreɪtɪd wɪð smɔːl ˈsɛtbæks.",
+        "stress": "I TRY to STAY CALM and FOCUS on the SOLUTION. IF I’M STUCK, I DON’T HESITATE to ASK for HELP or DISCUSS the ISSUE with TEAMMATES. IT’S IMPORTANT NOT to GET TOO FRUSTRATED with SMALL SETBACKS.",
+        "linking": "\"ask for\" → /ɑːsk fɔː/ (k + f linking)\n\"discuss the\" → /dɪˈskʌs ði/ (s + th linking)"
+    },
+    {
+        "speaker": "Lena",
+        "text": "Agreed. I noticed your résumé mentioned you applied for our DevOps position as well. Are you aiming to transition?",
+        "ipa": "əˈɡriːd. aɪ ˈnəʊtɪst jɔː ˈrɛzjumeɪ ˈmɛnʃənd juː əˈplaɪd fɔː aʊə dɛvˈɒps pəˈzɪʃən æz wɛl. ɑː juː ˈeɪmɪŋ tuː trænˈzɪʃən?",
+        "stress": "AGREED. I NOTICED your RÉSUMÉ MENTIONED you APPLIED for our DEVOPS POSITION as WELL. ARE YOU AIMING to TRANSITION?",
+        "linking": "\"applied for\" → /əˈplaɪd fɔː/ (d + f linking)"
+    },
+    {
+        "speaker": "Thomas",
+        "text": "Eventually, yes. I’ve been preparing for that by taking courses and learning about CI/CD pipelines.",
+        "ipa": "ɪˈvɛnʧuəli, jɛs. aɪv bɪn prɪˈpeərɪŋ fɔː ðæt baɪ ˈteɪkɪŋ ˈkɔːsɪz ənd ˈlɜːnɪŋ əˈbaʊt siː aɪ siː diː ˈpaɪplaɪnz.",
+        "stress": "EVENTUALLY, YES. I’VE BEEN PREPARING for THAT by TAKING COURSES and LEARNING about CI/CD PIPELINES.",
+        "linking": "\"learning about\" → /ˈlɜːnɪŋ əˈbaʊt/ (g + a linking)"
+    },
+    {
+        "speaker": "Lena",
+        "text": "That’s proactive! And how do you keep your skills current?",
+        "ipa": "ðæts prəʊˈæktɪv! ənd haʊ duː juː kiːp jɔː skɪlz ˈkʌrənt?",
+        "stress": "THAT’S PROACTIVE! AND HOW do YOU KEEP your SKILLS CURRENT?",
+        "linking": "\"keep your\" → /kiːp jɔː/ (p + y linking)"
+    },
+    {
+        "speaker": "Lena",
+        "text": "Excellent. One last thing — how do you handle feedback?",
+        "ipa": "ˈɛksələnt. wʌn læst θɪŋ — haʊ duː juː ˈhændl ˈfiːdbæk?",
+        "stress": "EXCELLENT. ONE LAST THING — HOW do YOU HANDLE FEEDBACK?",
+        "linking": "\"handle feedback\" → /ˈhændl ˈfiːdbæk/ (l + f linking)"
+    },
+    {
+        "speaker": "Thomas",
+        "text": "I welcome it. I always try to learn from my mistakes. If someone points out a bug, I investigate it without taking it personally.",
+        "ipa": "aɪ ˈwɛlkəm ɪt. aɪ ˈɔːlweɪz traɪ tuː lɜːn frɒm maɪ mɪˈsteɪks. ɪf ˈsʌmwʌn pɔɪnts aʊt ə bʌɡ, aɪ ɪnˈvɛstɪɡeɪt ɪt wɪˈðaʊt ˈteɪkɪŋ ɪt ˈpɜːsənəli.",
+        "stress": "I WELCOME it. I ALWAYS TRY to LEARN from my MISTAKES. IF SOMEONE POINTS OUT a BUG, I INVESTIGATE it WITHOUT TAKING it PERSONALLY.",
+        "linking": "\"points out\" → /pɔɪnts aʊt/ (s + a linking)"
+    },
+    {
+        "speaker": "Lena",
+        "text": "That’s the mindset we’re looking for. Thanks for sharing, Thomas. We’ll be in touch with next steps soon.",
+        "ipa": "ðæts ðə ˈmaɪndset wɪə ˈlʊkɪŋ fɔː. θæŋks fɔː ˈʃeərɪŋ, ˈtɒməs. wiːl biː ɪn tʌʧ wɪð nɛkst stɛps suːn.",
+        "stress": "THAT’S the MINDSET we’re LOOKING for. THANKS for SHARING, THOMAS. WE’LL be in TOUCH with NEXT STEPS SOON.",
+        "linking": "\"thanks for\" → /θæŋks fɔː/ (s + f linking)"
+    },
+    {
+        "speaker": "Thomas",
+        "text": "Thanks, Lena. I really appreciate the opportunity.",
+        "ipa": "θæŋks, ˈliːnə. aɪ ˈrɪəli əˈpriːʃieɪt ði ˌɒpəˈtjuːnəti.",
+        "stress": "THANKS, LENA. I REALLY APPRECIATE the OPPORTUNITY.",
+        "linking": "\"appreciate the\" → /əˈpriːʃieɪt ði/ (t + th linking)"
+    }
+]
