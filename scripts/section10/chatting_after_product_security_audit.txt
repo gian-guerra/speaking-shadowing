@@ -1,0 +1,10 @@
+Maya: Did you see the report {that} came out yesterday? It listed all the modules {which} failed the penetration test.
+Leo:Yeah, especially the one {that} handles user sessions. That’s the same module {which} caused issues during last year’s release.
+Maya: I talked to Sam, {who} wrote the original encryption layer. He thinks the vulnerability lies in a third-party library {which} hasn’t been updated in years.
+Leo: That makes sense. Some of the APIs {that} we rely on still use outdated authentication headers.
+Maya: We should contact the vendor {whose} software was flagged. There’s also a shared key {which} is hardcoded — {which} is definitely a red flag.
+Leo: Agreed. And remember that script {that} uploads logs to the cloud? It uses a bucket {to which} anyone with the link has write access.
+Maya: You're kidding — that’s a major concern. Also, there’s a staging server {which} no one knew existed until last week. It was spun up by an intern {who} left two years ago.
+Leo: This is why we need a better process. The audit checklist {that} we introduced last quarter should help, though.
+Maya: Definitely. And the security guidelines, {which} were updated just last month, already cover half of these issues.
+Leo: Let’s write a follow-up doc {that} outlines everything we found. I’ll attach the report {in which} Sam detailed the patch recommendations.

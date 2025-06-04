@@ -1,0 +1,11 @@
+Zara: I checked the deployment logs from this morning. There’s a service {that} failed to restart after the database migration.
+Omar: Was it the analytics service {which} runs scheduled ETL jobs?
+Zara: Exactly. It relies on a cron expression {that} didn’t get updated in the latest config map.
+Omar: That's the same issue {which} caused last month’s delay. We need a more robust pre-deploy checklist {that} includes config diffs.
+Zara: Agreed. Also, the rollback script {which} you wrote for staging was super helpful.
+Omar: Oh yeah, that one was inspired by a failure {which} happened in production during a Blue/Green rollout.
+Zara: I remember that. The engineer {who} handled it barely had time to revert before alerts flooded in.
+Omar: She’s the one {who} suggested automating the health checks, right?
+Zara: Yep, and she also built the dashboard {which} now tracks service latency in real time.
+Omar: That dashboard’s the only reason {why} we caught this so early today.
+Zara: Honestly, it's one of those tools {which} make you wonder how we managed without them.

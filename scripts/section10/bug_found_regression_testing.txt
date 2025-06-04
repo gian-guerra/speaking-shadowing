@@ -1,0 +1,11 @@
+Elena: I’ve just found a bug in the modal component {that} displays user notifications.
+Victor: Is it the one {which} we refactored last sprint?
+Elena: Yes. The logic {that} controls visibility doesn’t handle async responses properly anymore.
+Victor: Hmm. The feature flag system, {which} is supposed to control that logic, must be interfering.
+Elena: I think so. I talked to Priya, {who} owns the toggle service, and she said the fallback values were recently updated.
+Victor: She’s the engineer {whose} idea it was to add the fallback system in the first place.
+Elena: Right, and she showed me a test {that} simulates latency but doesn't assert proper state cleanup.
+Victor: Maybe we should add a test case {which} mimics slower backend responses?
+Elena: Good idea. Also, the documentation {that} came with the toggle library is a bit vague on edge cases.
+Victor: That’s probably the reason {why} we missed this in the first place.
+Elena: Exactly. It’s one of those bugs {that} only appears when everything else is slightly off.

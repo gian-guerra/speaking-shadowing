@@ -1,0 +1,13 @@
+Maya (PM): Hey Raj, did you read the request from the client {who} runs the fintech startup in Toronto?
+Raj (Developer): Yes, I did. They want a dashboard {that} shows real-time analytics, right?
+Maya: Exactly. They also mentioned a compliance report, {which} is something we haven’t built before.
+Raj: I spoke to Kevin, {who} worked on a similar module last year. He gave me access to a repo {that} contains reusable components.
+Maya: That’s great. Did he also explain the export tool {that} we integrated for the legal team?
+Raj: Not in detail, but I found the spec document {which} outlines the data flow. It helped me understand the logic behind the report builder.
+Maya: Nice. By the way, we have a partner company {with which} we collaborated last year. They built a GDPR dashboard {that} we might be able to adapt.
+Raj: Good to know. Do you have the contact info of the person {who} led that project?
+Maya: Yes, I’ll introduce you. Her name is Tanya — she’s the data architect {whose} team handled encryption.
+Raj: Perfect. Oh, and I noticed a few functions in our codebase {which} nobody has touched in months.
+Maya: We’re planning to clean up anything {that} isn’t being used. There’s a script {which} flags those files automatically.
+Raj: Awesome. I also joined the forum {where} people discuss open-source monitoring tools. I’ll share any good ideas I find.
+Maya: That’s really helpful. It’s those little things {that} make our platform more reliable.
