@@ -1,0 +1,12 @@
+Max: Hey, I just finished reviewing the logging middleware {that} you added. It’s much cleaner than the old version.
+Elena: Thanks! I refactored the part {which} was duplicating log entries across services.
+Max: Good call. There’s a line in authHandler.js {which} still logs user IDs in plaintext, though. We might want to redact that.
+Elena: Ah, you're right. That's a leftover from the initial prototype, {which} I wrote during the hackathon.
+Max: No worries. Also, the PR {that} introduced the email notifications had a test suite {which} you can probably reuse.
+Elena: Yeah, I spoke with Sarah, {who} originally implemented that feature. She showed me a helper function {which} fakes the mailer response.
+Max: Cool. I also noticed that the new linter rule, {which} we added last sprint, flagged a few things in utils.js.
+Elena: Yeah, I saw the warnings. They’re mostly about arrow function spacing, {which} I’ll fix before the next commit.
+Max: And that regex validator — is it something {which} we wrote ourselves, or is it part of the open-source lib?
+Elena: It’s from a package {which} we forked last year. We fixed a bug {which} was causing false positives on email domains.
+Max: Nice. This is the kind of attention to detail {that} keeps our codebase healthy.
+Elena: Appreciate that. It’s good to work on a project {where} people actually read the docs and review properly.

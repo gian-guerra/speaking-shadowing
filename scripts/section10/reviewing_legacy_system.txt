@@ -1,0 +1,11 @@
+Eli (Senior Dev): This is the module {that} was built over six years ago. The developer {who} originally wrote it left the company ages ago.
+Noah (Intern): Yeah, I was looking through some of the functions {which} are still being called in production. There’s one {that} updates the cache every 30 seconds.
+Eli: Ah yes, I remember that. We had an issue last year {which} took days to debug because of that caching logic.
+Noah: I noticed a folder {which} hasn’t been touched since 2019. Should I remove the scripts {that} aren’t being used?
+Eli: Not yet. We should check with Emma, {who} was the last to work on this service. There might be something {which} still connects with the billing engine.
+Noah: Got it. Also, there’s a config file {in which} multiple environments are defined. Some of the staging URLs {that} point to deprecated services are throwing warnings.
+Eli: Good catch. That config is one of those files {that} everyone is afraid to touch.
+Noah: I totally get that. Even the documentation {which} explains the setup is vague.
+Eli: That’s why we’re rewriting it. We want a system {that} anyone can understand and maintain.
+Noah: Makes sense. I’ll start drafting a diagram {which} outlines all the current dependencies.
+Eli: Perfect. Also check the mailing list archives — there might be an email thread {in which} the rollout plan was discussed.
