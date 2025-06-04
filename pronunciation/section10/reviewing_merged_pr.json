@@ -1,0 +1,74 @@
+[
+    {
+        "speaker": "Max",
+        "text": "Hey, I just finished reviewing the logging middleware that you added. It’s much cleaner than the old version.",
+        "ipa": "heɪ, aɪ dʒəst ˈfɪnɪʃt rɪˈvjuːɪŋ ðə ˈlɒɡɪŋ ˈmɪdəlweə ðæt juː ˈædɪd. ɪts mʌʧ ˈkliːnə ðən ði əʊld ˈvɜːʃən.",
+        "linking": "\"reviewing the\" → /rɪˈvjuːɪŋ ðə/ (ŋ + ð linking)"
+    },
+    {
+        "speaker": "Elena",
+        "text": "Thanks! I refactored the part which was duplicating log entries across services.",
+        "ipa": "θæŋks! aɪ riːˈfæktəd ðə pɑːt wɪʧ wəz ˈdjuːplɪkeɪtɪŋ lɒɡ ˈɛntriz əˈkrɒs ˈsɜːvɪsɪz.",
+        "linking": "\"duplicating log\" → /ˈdjuːplɪkeɪtɪŋ lɒɡ/ (ŋ + l linking)"
+    },
+    {
+        "speaker": "Max",
+        "text": "Good call. There’s a line in authHandler.js which still logs user IDs in plaintext, though. We might want to redact that.",
+        "ipa": "ɡʊd kɔːl. ðɛəz ə laɪn ɪn ɔːθˈhændlər dʒeɪ ɛs wɪʧ stɪl lɒɡz ˈjuːzər aɪ diːz ɪn ˈpleɪnˌtɛkst, ðəʊ. wiː maɪt wɒnt tuː rɪˈdækt ðæt.",
+        "linking": "\"logs user\" → /lɒɡz ˈjuːzər/ (z + j linking)"
+    },
+    {
+        "speaker": "Elena",
+        "text": "Ah, you're right. That's a leftover from the initial prototype, which I wrote during the hackathon.",
+        "ipa": "ɑː, jɔː raɪt. ðæts ə ˈlɛftəʊvə frəm ði ɪˈnɪʃəl ˈprəʊtətaɪp, wɪʧ aɪ rəʊt ˈdjʊərɪŋ ðə ˈhækəθɒn.",
+        "linking": "\"wrote during\" → /rəʊt ˈdjʊərɪŋ/ (t + dʒ linking)"
+    },
+    {
+        "speaker": "Max",
+        "text": "No worries. Also, the PR that introduced the email notifications had a test suite which you can probably reuse.",
+        "ipa": "nəʊ ˈwʌriz. ˈɔːlsəʊ, ðə piː ɑː ðæt ˌɪntrəˈdjuːst ði ˈiːmeɪl ˌnəʊtɪfɪˈkeɪʃənz hæd ə tɛst swiːt wɪʧ juː kən ˈprɒbəbli ˌriːˈjuːz.",
+        "linking": "\"probably reuse\" → /ˈprɒbəbli ˌriːˈjuːz/ (i + r linking)"
+    },
+    {
+        "speaker": "Elena",
+        "text": "Yeah, I spoke with Sarah, who originally implemented that feature. She showed me a helper function which fakes the mailer response.",
+        "ipa": "jæ, aɪ spəʊk wɪð ˈsɛərə, huː əˈrɪdʒɪnəli ˈɪmplɪˌmɛntɪd ðæt ˈfiːtʃə. ʃiː ʃəʊd miː ə ˈhɛlpə ˈfʌŋkʃən wɪʧ feɪks ðə ˈmeɪlə rɪˈspɒns.",
+        "linking": "\"function which\" → /ˈfʌŋkʃən wɪʧ/ (n + w linking)"
+    },
+    {
+        "speaker": "Max",
+        "text": "Cool. I also noticed that the new linter rule, which we added last sprint, flagged a few things in utils.js.",
+        "ipa": "kuːl. aɪ ˈɔːlsəʊ ˈnəʊtɪst ðæt ðə njuː ˈlɪntə ruːl, wɪʧ wiː ˈædɪd lɑːst sprɪnt, flæɡd ə fjuː θɪŋz ɪn ˈjuːtɪlz dʒeɪ ɛs.",
+        "linking": "\"things in\" → /θɪŋz ɪn/ (z + ɪ linking)"
+    },
+    {
+        "speaker": "Elena",
+        "text": "Yeah, I saw the warnings. They’re mostly about arrow function spacing, which I’ll fix before the next commit.",
+        "ipa": "jæ, aɪ sɔː ðə ˈwɔːnɪŋz. ðɛə ˈməʊstli əˈbaʊt ˈærəʊ ˈfʌŋkʃən ˈspeɪsɪŋ, wɪʧ aɪl fɪks bɪˈfɔː ðə nɛkst kəˈmɪt.",
+        "linking": "\"which I'll\" → /wɪʧ aɪl/ (ʧ + aɪl linking)"
+    },
+    {
+        "speaker": "Max",
+        "text": "And that regex validator — is it something which we wrote ourselves, or is it part of the open-source lib?",
+        "ipa": "ænd ðæt ˈriːdʒɛks ˈvælɪdeɪtə — ɪz ɪt ˈsʌmθɪŋ wɪʧ wiː rəʊt aʊəˈsɛlvz, ɔːr ɪz ɪt pɑːt əv ði ˈəʊpən sɔːs lɪb?",
+        "linking": "\"wrote ourselves\" → /rəʊt aʊəˈsɛlvz/ (t + aʊ linking)"
+    },
+    {
+        "speaker": "Elena",
+        "text": "It’s from a package which we forked last year. We fixed a bug which was causing false positives on email domains.",
+        "ipa": "ɪts frəm ə ˈpækɪdʒ wɪʧ wiː fɔːkt lɑːst jɪə. wiː fɪkst ə bʌɡ wɪʧ wəz ˈkɔːzɪŋ fɔːls ˈpɒzətɪvz ɒn ˈiːmeɪl dəˈmeɪnz.",
+        "linking": "\"bug which\" → /bʌɡ wɪʧ/ (g + w linking)"
+    },
+    {
+        "speaker": "Max",
+        "text": "Nice. This is the kind of attention to detail that keeps our codebase healthy.",
+        "ipa": "naɪs. ðɪs ɪz ðə kaɪnd əv əˈtɛnʃən tuː ˈdiːteɪl ðæt kiːps aʊə ˈkəʊdbeɪs ˈhɛlθi.",
+        "linking": "\"attention to\" → /əˈtɛnʃən tuː/ (n + t linking)"
+    },
+    {
+        "speaker": "Elena",
+        "text": "Appreciate that. It’s good to work on a project where people actually read the docs and review properly.",
+        "ipa": "əˈpriːʃieɪt ðæt. ɪts ɡʊd tuː wɜːk ɒn ə ˈprɒdʒɛkt weə ˈpiːpl ˈæktʃuəli riːd ðə dɒks ənd rɪˈvjuː ˈprɒpəli.",
+        "linking": "\"docs and\" → /dɒks ənd/ (s + ə linking)"
+    }
+]

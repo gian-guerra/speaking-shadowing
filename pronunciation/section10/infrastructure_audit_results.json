@@ -1,0 +1,68 @@
+[
+    {
+        "speaker": "Maya",
+        "text": "I reviewed the deployment pipeline logs, and there’s a step which regularly fails when load is high.",
+        "ipa": "aɪ rɪˈvjuːd ðə dɪˈplɔɪmənt ˈpaɪplaɪn lɒɡz, ənd ðɛəz ə stɛp wɪʧ ˈrɛɡjʊləli feɪlz wen ləʊd ɪz haɪ.",
+        "linking": "\"there’s a\" → /ðɛəz ə/ (z + ə linking)"
+    },
+    {
+        "speaker": "Dylan",
+        "text": "Is it the script that provisions new containers?",
+        "ipa": "ɪz ɪt ðə skrɪpt ðæt prəˈvɪʒənz njuː kənˈteɪnəz?",
+        "linking": "\"Is it\" → /ɪz ɪt/ (z + ɪ linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "Yes. The script which handles scaling relies on a legacy image that hasn’t been updated in months.",
+        "ipa": "jɛs. ðə skrɪpt wɪʧ ˈhændlz ˈskeɪlɪŋ rɪˈlaɪz ɒn ə ˈlɛɡəsi ˈɪmɪdʒ ðæt ˈhæznt bɪn ʌpˈdeɪtɪd ɪn mʌnθs.",
+        "linking": "\"hasn’t been\" → /ˈhæznt bɪn/ (t + b linking)"
+    },
+    {
+        "speaker": "Dylan",
+        "text": "That explains a lot. The Dockerfile that defines that image is the one which I meant to deprecate last quarter.",
+        "ipa": "ðæt ɪksˈpleɪnz ə lɒt. ðə ˈdɒkəfaɪl ðæt dɪˈfaɪnz ðæt ˈɪmɪdʒ ɪz ðə wʌn wɪʧ aɪ mɛnt tuː ˈdɛprəkeɪt lɑːst ˈkwɔːtə.",
+        "linking": "\"meant to\" → /mɛnt tuː/ (t + t linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "Well, now’s the time. There’s a security issue which affects the base OS used in that image.",
+        "ipa": "wɛl, naʊz ðə taɪm. ðɛəz ə sɪˈkjʊərɪti ˈɪʃuː wɪʧ əˈfɛkts ðə beɪs əʊˈɛs juːzd ɪn ðæt ˈɪmɪdʒ.",
+        "linking": "\"now’s the\" → /naʊz ðə/ (z + ð linking)"
+    },
+    {
+        "speaker": "Dylan",
+        "text": "I’ll coordinate with the security team, who already flagged it in last week's report.",
+        "ipa": "aɪl kəʊˈɔːdɪneɪt wɪð ðə sɪˈkjʊərɪti tiːm, huː ɔːlˈrɛdi flæɡd ɪt ɪn lɑːst wiːks rɪˈpɔːt.",
+        "linking": "\"flagged it\" → /flæɡd ɪt/ (d + ɪ linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "Good. The engineer whose job it is to maintain the CI/CD tooling is out this week, though.",
+        "ipa": "ɡʊd. ði ˌɛnʤɪˈnɪə huːz ʤɒb ɪt ɪz tuː meɪnˈteɪn ðə siː-aɪ siː-diː ˈtuːlɪŋ ɪz aʊt ðɪs wiːk, ðəʊ.",
+        "linking": "\"is out\" → /ɪz aʊt/ (z + aʊ linking)"
+    },
+    {
+        "speaker": "Dylan",
+        "text": "No worries — we’ll prepare a patch that he can review once he's back.",
+        "ipa": "nəʊ ˈwʌriz — wiːl prɪˈpeə ə pæʧ ðæt hiː kən rɪˈvjuː wʌns hiːz bæk.",
+        "linking": "\"he's back\" → /hiːz bæk/ (z + b linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "Also, we should document the behavior that led to the silent failure. It wasn’t obvious.",
+        "ipa": "ˈɔːlsəʊ, wiː ʃʊd ˈdɒkjʊmənt ðə bɪˈheɪvjə ðæt lɛd tuː ðə ˈsaɪlənt ˈfeɪljə. ɪt ˈwɒznt ˈɒbvɪəs.",
+        "linking": "\"wasn't obvious\" → /ˈwɒznt ˈɒbvɪəs/ (t + ɒ linking)"
+    },
+    {
+        "speaker": "Dylan",
+        "text": "Totally. Let's include a case study in the audit doc which explains the entire incident flow.",
+        "ipa": "ˈtəʊtəli. lɛts ɪnˈkluːd ə keɪs ˈstʌdi ɪn ði ˈɔːdɪt dɒk wɪʧ ɪksˈpleɪnz ði ɪnˈtaɪə ˈɪnsɪdənt fləʊ.",
+        "linking": "\"explains the\" → /ɪksˈpleɪnz ðə/ (z + ð linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "Great idea. It'll help any new team members who join during the next rotation.",
+        "ipa": "ɡreɪt aɪˈdɪə. ˈɪtl hɛlp ˈɛni njuː tiːm ˈmɛmbəz huː ʤɔɪn ˈdjʊərɪŋ ðə nɛkst rəʊˈteɪʃən.",
+        "linking": "\"It'll help\" → /ˈɪtl hɛlp/ (l + h linking)"
+    }
+]

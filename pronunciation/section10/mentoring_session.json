@@ -1,0 +1,80 @@
+[
+    {
+        "speaker": "Sophie",
+        "text": "So, Alex, how are you settling into the team?",
+        "ipa": "soʊ ˈælɪks, haʊ ɑːr juː ˈsɛtlɪŋ ˈɪntuː ðə tiːm?",
+        "linking": "\"how are you\" → /haʊ ɑːr juː/ (r + y linking)"
+    },
+    {
+        "speaker": "Alex",
+        "text": "Pretty well, thanks! Everyone who works here has been super helpful. Especially Daniel, who helped me set up my dev environment.",
+        "ipa": "ˈprɪti wɛl, θæŋks! ˈɛvrɪwʌn huː wɜːrks hɪər hæz bɪn ˈsuːpər ˈhɛlpfʊl. ɪˈspɛʃəli ˈdænjəl, huː hɛlpt miː sɛt ʌp maɪ dɛv ɪnˈvaɪrənmənt.",
+        "linking": "\"helped me\" → /hɛlpt miː/ (t + m linking)"
+    },
+    {
+        "speaker": "Sophie",
+        "text": "Yeah, Daniel’s great. He’s the engineer whose pull requests are always spotless. You’ll learn a lot from him.",
+        "ipa": "jæ, ˈdænjəlz ɡreɪt. hiːz ði ˌɛnʤɪˈnɪə huːz pʊl rɪˈkwɛsts ɑːr ˈɔːlweɪz ˈspɒtləs. juːl lɜːn ə lɒt frəm hɪm.",
+        "linking": "\"You’ll learn\" → /juːl lɜːn/ (l + l linking)"
+    },
+    {
+        "speaker": "Alex",
+        "text": "I hope so! I’m still figuring out parts of the codebase, like the auth module that handles user sessions.",
+        "ipa": "aɪ həʊp səʊ! aɪm stɪl ˈfɪɡərɪŋ aʊt pɑːts əv ðə ˈkəʊdbeɪs, laɪk ði ɔːθ ˈmɒdjuːl ðæt ˈhændlz ˈjuːzə ˈsɛʃənz.",
+        "linking": "\"figuring out\" → /ˈfɪɡərɪŋ aʊt/ (g + a linking)"
+    },
+    {
+        "speaker": "Sophie",
+        "text": "Ah yes, that’s one of the components which we rewrote last quarter. It connects to a microservice that validates tokens.",
+        "ipa": "ɑː jɛs, ðæts wʌn əv ðə kəmˈpəʊnənts wɪʧ wiː ˌriːˈrəʊt lɑːst ˈkwɔːtə. ɪt kəˈnɛkts tuː ə ˈmaɪkrəʊsɜːvɪs ðæt ˈvælɪdeɪts ˈtəʊkənz.",
+        "linking": "\"connects to\" → /kəˈnɛkts tuː/ (ts + t linking)"
+    },
+    {
+        "speaker": "Alex",
+        "text": "I noticed! I also ran into a utility that logs errors but couldn’t find the person who wrote it.",
+        "ipa": "aɪ ˈnəʊtɪst! aɪ ˈɔːlsəʊ ræn ˈɪntuː ə juːˈtɪlɪti ðæt lɒɡz ˈɛrəz bət ˈkʊdnt faɪnd ðə ˈpɜːsən huː rəʊt ɪt.",
+        "linking": "\"ran into\" → /ræn ˈɪntuː/ (n + i linking)"
+    },
+    {
+        "speaker": "Sophie",
+        "text": "That was Sam — he’s the one who onboarded me, actually. He left a few months ago, which is a shame. He documented things really well, which makes your life easier now.",
+        "ipa": "ðæt wəz sæm — hiːz ðə wʌn huː ɒnˈbɔːdɪd miː, ˈækʧuəli. hiː lɛft ə fjuː mʌnθs əˈɡəʊ, wɪʧ ɪz ə ʃeɪm. hiː ˈdɒkjʊmɛntɪd θɪŋz ˈrɪəli wɛl, wɪʧ meɪks jɔː laɪf ˈiːzɪə naʊ.",
+        "linking": "\"makes your\" → /meɪks jɔː/ (s + y linking)"
+    },
+    {
+        "speaker": "Alex",
+        "text": "Yeah, absolutely. I found a README that explains the database setup, and it saved me hours.",
+        "ipa": "jæ, ˌæbsəˈluːtli. aɪ faʊnd ə ˈriːdmi ðæt ɪksˈpleɪnz ðə ˈdeɪtəbeɪs ˈsɛtʌp, ənd ɪt seɪvd miː ˈaʊəz.",
+        "linking": "\"saved me\" → /seɪvd miː/ (d + m linking)"
+    },
+    {
+        "speaker": "Sophie",
+        "text": "We try to leave good documentation. The repos that are actively maintained usually have decent instructions.",
+        "ipa": "wiː traɪ tuː liːv ɡʊd ˌdɒkjʊmɛnˈteɪʃən. ðə ˈriːpəʊz ðæt ɑːr ˈæktɪvli meɪnˈteɪnd ˈjuːʒuəli hæv ˈdiːsənt ɪnˈstrʌkʃənz.",
+        "linking": "\"actively maintained\" → /ˈæktɪvli meɪnˈteɪnd/ (li + m linking)"
+    },
+    {
+        "speaker": "Alex",
+        "text": "By the way, do you know any tools that can help me visualize dependencies?",
+        "ipa": "baɪ ðə weɪ, duː juː nəʊ ˈɛni tuːlz ðæt kən hɛlp miː ˈvɪʒʊəlaɪz dɪˈpɛndənsiz?",
+        "linking": "\"help me\" → /hɛlp miː/ (p + m linking)"
+    },
+    {
+        "speaker": "Sophie",
+        "text": "We use a script that generates architecture diagrams from the codebase. I’ll send it to you.",
+        "ipa": "wiː juːz ə skrɪpt ðæt ˈʤɛnəreɪts ˈɑːkɪtɛkʧə ˈdaɪəɡræmz frəm ðə ˈkəʊdbeɪs. aɪl sɛnd ɪt tuː juː.",
+        "linking": "\"send it\" → /sɛnd ɪt/ (d + i linking)"
+    },
+    {
+        "speaker": "Alex",
+        "text": "Perfect. Also, I joined the Slack group where devs share best practices. Lots of good threads there.",
+        "ipa": "ˈpɜːfɪkt. ˈɔːlsəʊ, aɪ ʤɔɪnd ðə slæk ɡruːp weə dɛvz ʃeə bɛst ˈpræktɪsɪz. lɒts əv ɡʊd θrɛdz ðeə.",
+        "linking": "\"joined the\" → /ʤɔɪnd ðə/ (d + ð linking)"
+    },
+    {
+        "speaker": "Sophie",
+        "text": "Nice! We also have a monthly tech talk where people showcase tools they’ve built or used.",
+        "ipa": "naɪs! wiː ˈɔːlsəʊ hæv ə ˈmʌnθli tɛk tɔːk weə ˈpiːpl ˈʃəʊkeɪs tuːlz ðeɪv bɪlt ɔː juːzd.",
+        "linking": "\"they’ve built\" → /ðeɪv bɪlt/ (v + b linking)"
+    }
+]
