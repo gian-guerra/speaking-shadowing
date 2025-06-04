@@ -1,0 +1,74 @@
+[
+    {
+        "speaker": "Elena",
+        "text": "Did you see the new feedback that came in from the beta users?",
+        "ipa": "dɪd juː siː ðə njuː ˈfiːdbæk ðæt keɪm ɪn frəm ðə ˈbeɪtə ˈjuːzəz?",
+        "linking": "\"Did you\" → /dɪd juː/ (d + j linking)"
+    },
+    {
+        "speaker": "James",
+        "text": "Yeah, especially the one which mentioned the settings panel that disappears too quickly.",
+        "ipa": "jæ, ɪˈspɛʃəli ðə wʌn wɪʧ ˈmɛnʃənd ðə ˈsɛtɪŋz ˈpænəl ðæt ˌdɪsəˈpɪəz tuː ˈkwɪkli.",
+        "linking": "\"which mentioned\" → /wɪʧ ˈmɛnʃənd/ (ch + m linking)"
+    },
+    {
+        "speaker": "Elena",
+        "text": "That’s the behavior which confused a lot of testers during onboarding.",
+        "ipa": "ðæts ðə bɪˈheɪvjə wɪʧ kənˈfjuːzd ə lɒt əv ˈtɛstəz ˈdjʊərɪŋ ˈɒnbɔːdɪŋ.",
+        "linking": "\"which confused\" → /wɪʧ kənˈfjuːzd/ (ch + c linking)"
+    },
+    {
+        "speaker": "James",
+        "text": "I spoke to the user who originally reported it. She's a project manager whose team uses the dashboard every day.",
+        "ipa": "aɪ spəʊk tuː ðə ˈjuːzə huː əˈrɪʤɪnəli rɪˈpɔːtɪd ɪt. ʃiːz ə ˈprɒʤɛkt ˈmænɪʤə huːz tiːm ˈjuːzɪz ðə ˈdæʃbɔːd ˈɛvri deɪ.",
+        "linking": "\"reported it\" → /rɪˈpɔːtɪd ɪt/ (d + i linking)"
+    },
+    {
+        "speaker": "Elena",
+        "text": "Did she explain the moment when it usually happens?",
+        "ipa": "dɪd ʃiː ɪksˈpleɪn ðə ˈməʊmənt wen ɪt ˈjuːʒuəli ˈhæpənz?",
+        "linking": "\"Did she\" → /dɪd ʃiː/ (d + sh linking)"
+    },
+    {
+        "speaker": "James",
+        "text": "Yes — right after completing the form that updates their team’s profile.",
+        "ipa": "jɛs — raɪt ˈɑːftə kəmˈpliːtɪŋ ðə fɔːm ðæt ˈʌpdeɪts ðeə tiːmz ˈprəʊfaɪl.",
+        "linking": "\"right after\" → /raɪt ˈɑːftə/ (t + a linking)"
+    },
+    {
+        "speaker": "Elena",
+        "text": "Okay. That helps. We also had a tester who recorded a session which clearly shows the bug.",
+        "ipa": "ˈəʊkeɪ. ðæt hɛlps. wiː ˈɔːlsəʊ hæd ə ˈtɛstə huː rɪˈkɔːdɪd ə ˈsɛʃən wɪʧ ˈklɪəli ʃəʊz ðə bʌɡ.",
+        "linking": "\"recorded a\" → /rɪˈkɔːdɪd ə/ (d + a linking)"
+    },
+    {
+        "speaker": "James",
+        "text": "Perfect. I’ll send that to the engineer who owns that component.",
+        "ipa": "ˈpɜːfɪkt. aɪl sɛnd ðæt tuː ði ˌɛnʤɪˈnɪə huː əʊnz ðæt kəmˈpəʊnənt.",
+        "linking": "\"send that\" → /sɛnd ðæt/ (d + th linking)"
+    },
+    {
+        "speaker": "Elena",
+        "text": "And maybe we can improve the help tooltip that shows up when users get stuck.",
+        "ipa": "ənd ˈmeɪbi wiː kən ɪmˈpruːv ðə hɛlp ˈtuːltɪp ðæt ʃəʊz ʌp wen ˈjuːzəz ɡɛt stʌk.",
+        "linking": "\"shows up\" → /ʃəʊz ʌp/ (z + u linking)"
+    },
+    {
+        "speaker": "James",
+        "text": "Agreed. Let's also link to the onboarding guide which we updated last week.",
+        "ipa": "əˈɡriːd. lɛts ˈɔːlsəʊ lɪŋk tuː ði ˈɒnbɔːdɪŋ ɡaɪd wɪʧ wiː ʌpˈdeɪtɪd lɑːst wiːk.",
+        "linking": "\"link to\" → /lɪŋk tuː/ (k + t linking)"
+    },
+    {
+        "speaker": "Elena",
+        "text": "The one that includes the accessibility improvements?",
+        "ipa": "ðə wʌn ðæt ɪnˈkluːdz ði əkˌsɛsəˈbɪləti ɪmˈpruːvmənts?",
+        "linking": "\"includes the\" → /ɪnˈkluːdz ði/ (z + th linking)"
+    },
+    {
+        "speaker": "James",
+        "text": "Exactly — the guide which covers keyboard navigation and screen reader support.",
+        "ipa": "ɪɡˈzæktli — ðə ɡaɪd wɪʧ ˈkʌvəz ˈkiːbɔːd ˌnævɪˈɡeɪʃən ənd skriːn ˈriːdə səˈpɔːt.",
+        "linking": "\"screen reader\" → /skriːn ˈriːdə/ (n + r linking)"
+    }
+]

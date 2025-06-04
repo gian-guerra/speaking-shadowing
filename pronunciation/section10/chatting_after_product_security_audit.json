@@ -1,0 +1,62 @@
+[
+    {
+        "speaker": "Maya",
+        "text": "Did you see the report that came out yesterday? It listed all the modules which failed the penetration test.",
+        "ipa": "dɪd ju si ðə rɪˈpɔːt ðæt keɪm aʊt ˈjɛstədeɪ? ɪt ˈlɪstɪd ɔːl ðə ˈmɒdjuːlz wɪʧ feɪld ðə ˌpɛnɪˈtreɪʃən tɛst.",
+        "linking": "\"came out\" → /keɪm aʊt/ (m + a linking)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "Yeah, especially the one that handles user sessions. That’s the same module which caused issues during last year’s release.",
+        "ipa": "jæ, ɪˈspɛʃəli ðə wʌn ðæt ˈhændlz ˈjuːzə ˈsɛʃənz. ðæts ðə seɪm ˈmɒdjuːl wɪʧ kɔːzd ˈɪʃuːz ˈdjʊərɪŋ lɑːst jɪəz rɪˈliːs.",
+        "linking": "\"user sessions\" → /ˈjuːzə ˈsɛʃənz/ (r + s linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "I talked to Sam, who wrote the original encryption layer. He thinks the vulnerability lies in a third-party library which hasn’t been updated in years.",
+        "ipa": "aɪ tɔːkt tu sæm, hu rəʊt ði əˈrɪdʒənl ɪnˈkrɪpʃən ˈleɪə. hi θɪŋks ðə ˌvʌlnərəˈbɪləti laɪz ɪn ə θɜːd ˈpɑːti ˈlaɪbrəri wɪʧ ˈhæznt bɪn ʌpˈdeɪtɪd ɪn jɪəz.",
+        "linking": "\"talked to\" → /tɔːkt tu/ (t + t linking)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "That makes sense. Some of the APIs that we rely on still use outdated authentication headers.",
+        "ipa": "ðæt meɪks sɛns. sʌm əv ði ˌeɪpiːˈaɪz ðæt wi rɪˈlaɪ ɒn stɪl juːz ˌaʊtˈdeɪtɪd ɔːˌθɛntɪˈkeɪʃən ˈhɛdəz.",
+        "linking": "\"rely on\" → /rɪˈlaɪ ɒn/ (y + o linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "We should contact the vendor whose software was flagged. There’s also a shared key which is hardcoded — which is definitely a red flag.",
+        "ipa": "wi ʃʊd ˈkɒntækt ðə ˈvɛndə huːz ˈsɒftweə wəz flæɡd. ðɛəz ˈɔːlsəʊ ə ʃeəd kiː wɪʧ ɪz ˈhɑːdkəʊdɪd — wɪʧ ɪz ˈdɛfɪnətli ə rɛd flæɡ.",
+        "linking": "\"shared key\" → /ʃeəd kiː/ (d + k linking)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "Agreed. And remember that script that uploads logs to the cloud? It uses a bucket to which anyone with the link has write access.",
+        "ipa": "əˈɡriːd. ənd rɪˈmɛmbə ðæt skrɪpt ðæt ˈʌpləʊdz lɒɡz tu ðə klaʊd? ɪt ˈjuːzɪz ə ˈbʌkɪt tu wɪʧ ˈɛnɪwʌn wɪð ðə lɪŋk hæz raɪt ˈæksɛs.",
+        "linking": "\"write access\" → /raɪt ˈæksɛs/ (t + a linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "You're kidding — that’s a major concern. Also, there’s a staging server which no one knew existed until last week. It was spun up by an intern who left two years ago.",
+        "ipa": "jɔː ˈkɪdɪŋ — ðæts ə ˈmeɪdʒə kənˈsɜːn. ˈɔːlsəʊ, ðɛəz ə ˈsteɪdʒɪŋ ˈsɜːvə wɪʧ nəʊ wʌn njuː ɪɡˈzɪstɪd ənˈtɪl lɑːst wiːk. ɪt wəz spʌn ʌp baɪ ən ˈɪntɜːn hu lɛft tu jɪəz əˈɡəʊ.",
+        "linking": "\"spun up\" → /spʌn ʌp/ (n + u linking)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "This is why we need a better process. The audit checklist that we introduced last quarter should help, though.",
+        "ipa": "ðɪs ɪz waɪ wi niːd ə ˈbɛtə ˈprəʊsɛs. ði ˈɔːdɪt ˈʧɛklɪst ðæt wi ˌɪntrəˈdjuːst lɑːst ˈkwɔːtə ʃʊd hɛlp, ðəʊ.",
+        "linking": "\"should help\" → /ʃʊd hɛlp/ (d + h linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "Definitely. And the security guidelines, which were updated just last month, already cover half of these issues.",
+        "ipa": "ˈdɛfɪnətli. ənd ðə sɪˈkjʊərɪti ˈɡaɪdlaɪnz, wɪʧ wɜː ʌpˈdeɪtɪd ʤʌst lɑːst mʌnθ, ɔːlˈrɛdi ˈkʌvə hɑːf əv ðiːz ˈɪʃuːz.",
+        "linking": "\"cover half\" → /ˈkʌvə hɑːf/ (r + h linking)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "Let’s write a follow-up doc that outlines everything we found. I’ll attach the report in which Sam detailed the patch recommendations.",
+        "ipa": "lɛts raɪt ə ˈfɒləʊ ʌp dɒk ðæt ˈaʊtlaɪnz ˈɛvrɪθɪŋ wi faʊnd. aɪl əˈtæʧ ðə rɪˈpɔːt ɪn wɪʧ sæm ˈdiːteɪld ðə pæʧ ˌrɛkəˌmɛnˈdeɪʃənz.",
+        "linking": "\"write a\" → /raɪt ə/ (t + a linking)"
+    }
+]
