@@ -1,0 +1,13 @@
+Sophie (Senior): So, Alex, how are you settling into the team?
+Alex (Junior): Pretty well, thanks! Everyone {who} works here has been super helpful. Especially Daniel, {who} helped me set up my dev environment.
+Sophie: Yeah, Daniel’s great. He’s the engineer {whose} pull requests are always spotless. You’ll learn a lot from him.
+Alex: I hope so! I’m still figuring out parts of the codebase, like the auth module {that} handles user sessions.
+Sophie: Ah yes, that’s one of the components {which} we rewrote last quarter. It connects to a microservice {that} validates tokens.
+Alex: I noticed! I also ran into a utility {that} logs errors but couldn’t find the person {who} wrote it.
+Sophie: That was Sam — he’s the one {who} onboarded me, actually. He left a few months ago, which is a shame. He documented things really well, {which} makes your life easier now.
+Alex: Yeah, absolutely. I found a README {that} explains the database setup, and it saved me hours.
+Sophie: We try to leave good documentation. The repos {that} are actively maintained usually have decent instructions.
+Alex: By the way, do you know any tools {that} can help me visualize dependencies?
+Sophie: We use a script {that} generates architecture diagrams from the codebase. I’ll send it to you.
+Alex: Perfect. Also, I joined the Slack group {where} devs share best practices. Lots of good threads there.
+Sophie: Nice! We also have a monthly tech talk {where} people showcase tools they’ve built or used.

@@ -1,0 +1,11 @@
+Jill: So, this is the dashboard {that} monitors our cloud instances. Each card represents a service {which} runs in a different region.
+Derek: Got it. What about the legacy scripts {that} I found in the bin/ folder? Are those still in use?
+Jill: Only the ones {which} were updated recently. The others — {which} haven’t been touched in years — are scheduled for removal. There’s a migration doc {which} explains everything in detail.
+Derek: Oh right, the one {that} links to the Terraform plan? I read through it last night.
+Jill: Perfect. You’ll also meet Rafael, {who} maintains most of our CI/CD pipelines. He’s the engineer {whose} automation scripts saved us during our last deployment crisis.
+Derek: Impressive. And this wiki page — is it the one {in which} we document incident responses?
+Jill: Exactly. It even has an example {that} shows how we handled the DNS outage last quarter.
+Derek: I noticed a few cron jobs {which} run under a service account {that} no one seems to own.
+Jill: Yeah, those belong to an internal tool {which} was deprecated last year. We’ll probably remove the entire bucket {in which} its data is still being stored.
+Derek: Thanks for the context. It’s great to be joining a team {that} actually cares about maintainability.
+Jill: And we’re happy to have someone {who} asks the right questions.

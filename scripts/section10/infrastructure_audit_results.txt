@@ -1,0 +1,11 @@
+Maya: I reviewed the deployment pipeline logs, and there’s a step {which} regularly fails when load is high.
+Dylan: Is it the script {that} provisions new containers?
+Maya: Yes. The script {which} handles scaling relies on a legacy image {that} hasn’t been updated in months.
+Dylan: That explains a lot. The Dockerfile {that} defines that image is the one {which} I meant to deprecate last quarter.
+Maya: Well, now’s the time. There’s a security issue {which} affects the base OS used in that image.
+Dylan: I’ll coordinate with the security team, {who} already flagged it in last week's report.
+Maya: Good. The engineer {whose} job it is to maintain the CI/CD tooling is out this week, though.
+Dylan: No worries — we’ll prepare a patch {that} he can review once he's back.
+Maya: Also, we should document the behavior {that} led to the silent failure. It wasn’t obvious.
+Dylan: Totally. Let's include a case study in the audit doc {which} explains the entire incident flow.
+Maya: Great idea. It'll help any new team members {who} join during the next rotation.

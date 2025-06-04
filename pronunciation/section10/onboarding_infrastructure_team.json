@@ -1,0 +1,68 @@
+[
+    {
+        "speaker": "Jill",
+        "text": "So, this is the dashboard that monitors our cloud instances. Each card represents a service which runs in a different region.",
+        "ipa": "soʊ, ðɪs ɪz ðə ˈdæʃbɔːrd ðæt ˈmɒnɪtərz aʊər klaʊd ˈɪnstənsɪz. iːʧ kɑːrd ˌrɛprɪˈzɛnts ə ˈsɜːvɪs wɪʧ rʌnz ɪn ə ˈdɪfrənt ˈriːʤən.",
+        "linking": "\"monitors our\" → /ˈmɒnɪtərz aʊər/ (z + aʊ linking)"
+    },
+    {
+        "speaker": "Derek",
+        "text": "Got it. What about the legacy scripts that I found in the bin/ folder? Are those still in use?",
+        "ipa": "ɡɒt ɪt. wɒt əˈbaʊt ðə ˈlɛɡəsi skrɪpts ðæt aɪ faʊnd ɪn ðə bɪn ˈfəʊldər? ɑː ðəʊz stɪl ɪn juːs?",
+        "linking": "\"found in\" → /faʊnd ɪn/ (d + ɪ linking)"
+    },
+    {
+        "speaker": "Jill",
+        "text": "Only the ones which were updated recently. The others — which haven’t been touched in years — are scheduled for removal. There’s a migration doc which explains everything in detail.",
+        "ipa": "ˈəʊnli ði wʌnz wɪʧ wɜːr ʌpˈdeɪtɪd ˈriːsəntli. ði ˈʌðəz — wɪʧ ˈhævənt bɪn tʌʧt ɪn jɪəz — ɑː ˈʃɛdjuːld fɔː rɪˈmuːvəl. ðɛəz ə maɪˈɡreɪʃən dɒk wɪʧ ɪksˈpleɪnz ˈɛvrɪθɪŋ ɪn ˈdiːteɪl.",
+        "linking": "\"explains everything\" → /ɪksˈpleɪnz ˈɛvrɪθɪŋ/ (z + ɛ linking)"
+    },
+    {
+        "speaker": "Derek",
+        "text": "Oh right, the one that links to the Terraform plan? I read through it last night.",
+        "ipa": "əʊ raɪt, ðə wʌn ðæt lɪŋks tuː ðə ˈtɛrəfɔːm plæn? aɪ rɛd θruː ɪt lɑːst naɪt.",
+        "linking": "\"read through\" → /rɛd θruː/ (d + θ linking)"
+    },
+    {
+        "speaker": "Jill",
+        "text": "Perfect. You’ll also meet Rafael, who maintains most of our CI/CD pipelines. He’s the engineer whose automation scripts saved us during our last deployment crisis.",
+        "ipa": "ˈpɜːfɪkt. juːl ˈɔːlsəʊ miːt ˈræfaɪəl, huː meɪnˈteɪnz məʊst əv aʊər siː-aɪ siː-diː ˈpaɪplaɪnz. hiːz ði ˌɛnʤɪˈnɪə huːz ˌɔːtəˈmeɪʃən skrɪpts seɪvd ʌs ˈdjʊərɪŋ aʊər lɑːst dɪˈplɔɪmənt ˈkraɪsɪs.",
+        "linking": "\"saved us\" → /seɪvd ʌs/ (d + ʌ linking)"
+    },
+    {
+        "speaker": "Derek",
+        "text": "Impressive. And this wiki page — is it the one in which we document incident responses?",
+        "ipa": "ɪmˈprɛsɪv. ənd ðɪs ˈwɪki peɪʤ — ɪz ɪt ðə wʌn ɪn wɪʧ wiː ˈdɒkjʊmənt ˈɪnsɪdənt rɪˈspɒnsɪz?",
+        "linking": "\"document incident\" → /ˈdɒkjʊmənt ˈɪnsɪdənt/ (t + ɪ linking)"
+    },
+    {
+        "speaker": "Jill",
+        "text": "Exactly. It even has an example that shows how we handled the DNS outage last quarter.",
+        "ipa": "ɪɡˈzæktli. ɪt ˈiːvən hæz ən ɪɡˈzɑːmpl ðæt ʃəʊz haʊ wiː ˈhændld ðə diː-ɛn-ɛs ˈaʊtɪʤ lɑːst ˈkwɔːtə.",
+        "linking": "\"shows how\" → /ʃəʊz haʊ/ (z + h linking)"
+    },
+    {
+        "speaker": "Derek",
+        "text": "I noticed a few cron jobs which run under a service account that no one seems to own.",
+        "ipa": "aɪ ˈnəʊtɪst ə fjuː krɒn ʤɒbz wɪʧ rʌn ˈʌndər ə ˈsɜːvɪs əˈkaʊnt ðæt nəʊ wʌn siːmz tuː əʊn.",
+        "linking": "\"seems to\" → /siːmz tuː/ (z + t linking)"
+    },
+    {
+        "speaker": "Jill",
+        "text": "Yeah, those belong to an internal tool which was deprecated last year. We’ll probably remove the entire bucket in which its data is still being stored.",
+        "ipa": "jæ, ðəʊz bɪˈlɒŋ tuː ən ɪnˈtɜːnəl tuːl wɪʧ wəz ˈdɛprəkeɪtɪd lɑːst jɪə. wiːl ˈprɒbəbli rɪˈmuːv ði ɪnˈtaɪə ˈbʌkɪt ɪn wɪʧ ɪts ˈdeɪtə ɪz stɪl ˈbiːɪŋ stɔːd.",
+        "linking": "\"being stored\" → /ˈbiːɪŋ stɔːd/ (ŋ + s linking)"
+    },
+    {
+        "speaker": "Derek",
+        "text": "Thanks for the context. It’s great to be joining a team that actually cares about maintainability.",
+        "ipa": "θæŋks fɔː ðə ˈkɒntɛkst. ɪts ɡreɪt tuː biː ˈʤɔɪnɪŋ ə tiːm ðæt ˈækʧuəli keəz əˈbaʊt meɪnˌteɪnəˈbɪlɪti.",
+        "linking": "\"joining a\" → /ˈʤɔɪnɪŋ ə/ (ŋ + ə linking)"
+    },
+    {
+        "speaker": "Jill",
+        "text": "And we’re happy to have someone who asks the right questions.",
+        "ipa": "ənd wɪə ˈhæpi tuː hæv ˈsʌmwʌn huː ɑːsks ðə raɪt ˈkwɛsʧənz.",
+        "linking": "\"asks the\" → /ɑːsks ðə/ (s + ð linking)"
+    }
+]

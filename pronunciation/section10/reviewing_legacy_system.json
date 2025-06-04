@@ -1,0 +1,68 @@
+[
+    {
+        "speaker": "Eli",
+        "text": "This is the module that was built over six years ago. The developer who originally wrote it left the company ages ago.",
+        "ipa": "ðɪs ɪz ðə ˈmɒdʒuːl ðæt wəz bɪlt ˈəʊvə sɪks jɪəz əˈɡəʊ. ðə dɪˈvɛləpə huː əˈrɪdʒɪnəli rəʊt ɪt lɛft ðə ˈkʌmpəni ˈeɪdʒɪz əˈɡəʊ.",
+        "linking": "\"built over\" → /bɪlt ˈəʊvə/ (t + ə linking)"
+    },
+    {
+        "speaker": "Noah",
+        "text": "Yeah, I was looking through some of the functions which are still being called in production. There’s one that updates the cache every 30 seconds.",
+        "ipa": "jæ, aɪ wəz ˈlʊkɪŋ θruː sʌm əv ðə ˈfʌŋkʃənz wɪʧ ə stɪl ˈbiːɪŋ kɔːld ɪn prəˈdʌkʃən. ðɛəz wʌn ðæt ˈʌpdeɪts ðə kæʃ ˈɛvri ˈθɜːti ˈsɛkəndz.",
+        "linking": "\"being called\" → /ˈbiːɪŋ kɔːld/ (ŋ + k linking)"
+    },
+    {
+        "speaker": "Eli",
+        "text": "Ah yes, I remember that. We had an issue last year which took days to debug because of that caching logic.",
+        "ipa": "ɑː jɛs, aɪ rɪˈmɛmbə ðæt. wiː hæd ən ˈɪʃuː lɑːst jɪə wɪʧ tʊk deɪz tuː ˈdiːbʌɡ bɪˈkɒz əv ðæt ˈkæʃɪŋ ˈlɒdʒɪk.",
+        "linking": "\"remember that\" → /rɪˈmɛmbə ðæt/ (ə + ð linking)"
+    },
+    {
+        "speaker": "Noah",
+        "text": "I noticed a folder which hasn’t been touched since 2019. Should I remove the scripts that aren’t being used?",
+        "ipa": "aɪ ˈnəʊtɪst ə ˈfəʊldə wɪʧ ˈhæzənt bɪn tʌʧt sɪns tuː ˈθaʊzənd ənd naɪnˈtiːn. ʃʊd aɪ rɪˈmuːv ðə skrɪpts ðæt ɑːnt ˈbiːɪŋ juːzd?",
+        "linking": "\"being used\" → /ˈbiːɪŋ juːzd/ (ŋ + j linking)"
+    },
+    {
+        "speaker": "Eli",
+        "text": "Not yet. We should check with Emma, who was the last to work on this service. There might be something which still connects with the billing engine.",
+        "ipa": "nɒt jɛt. wiː ʃʊd ʧɛk wɪð ˈɛmə, huː wəz ðə lɑːst tuː wɜːk ɒn ðɪs ˈsɜːvɪs. ðɛə maɪt biː ˈsʌmθɪŋ wɪʧ stɪl kəˈnɛkts wɪð ðə ˈbɪlɪŋ ˈɛnʤɪn.",
+        "linking": "\"connects with\" → /kəˈnɛkts wɪð/ (s + w linking)"
+    },
+    {
+        "speaker": "Noah",
+        "text": "Got it. Also, there’s a config file in which multiple environments are defined. Some of the staging URLs that point to deprecated services are throwing warnings.",
+        "ipa": "ɡɒt ɪt. ˈɔːlsəʊ, ðɛəz ə ˈkɒnfɪɡ faɪl ɪn wɪʧ ˈmʌltɪpl ɪnˈvaɪrənmənts ə dɪˈfaɪnd. sʌm əv ðə ˈsteɪʤɪŋ ˌjuːɑːˈɛlz ðæt pɔɪnt tuː ˈdɛprəkeɪtɪd ˈsɜːvɪsɪz ə ˈθrəʊɪŋ ˈwɔːnɪŋz.",
+        "linking": "\"throwing warnings\" → /ˈθrəʊɪŋ ˈwɔːnɪŋz/ (ŋ + w linking)"
+    },
+    {
+        "speaker": "Eli",
+        "text": "Good catch. That config is one of those files that everyone is afraid to touch.",
+        "ipa": "ɡʊd kæʧ. ðæt ˈkɒnfɪɡ ɪz wʌn əv ðəʊz faɪlz ðæt ˈɛvrɪwʌn ɪz əˈfreɪd tuː tʌʧ.",
+        "linking": "\"afraid to\" → /əˈfreɪd tuː/ (d + t linking)"
+    },
+    {
+        "speaker": "Noah",
+        "text": "I totally get that. Even the documentation which explains the setup is vague.",
+        "ipa": "aɪ ˈtəʊtəli ɡɛt ðæt. ˈiːvən ðə ˌdɒkjʊmɛnˈteɪʃən wɪʧ ɪksˈpleɪnz ðə ˈsɛtʌp ɪz veɪɡ.",
+        "linking": "\"explains the\" → /ɪksˈpleɪnz ðə/ (z + ð linking)"
+    },
+    {
+        "speaker": "Eli",
+        "text": "That’s why we’re rewriting it. We want a system that anyone can understand and maintain.",
+        "ipa": "ðæts waɪ wɪə ˈriːˌraɪtɪŋ ɪt. wiː wɒnt ə ˈsɪstəm ðæt ˈɛnɪwʌn kən ˌʌndəˈstænd ənd meɪnˈteɪn.",
+        "linking": "\"understand and\" → /ˌʌndəˈstænd ənd/ (d + ə linking)"
+    },
+    {
+        "speaker": "Noah",
+        "text": "Makes sense. I’ll start drafting a diagram which outlines all the current dependencies.",
+        "ipa": "meɪks sɛns. aɪl stɑːt ˈdrɑːftɪŋ ə ˈdaɪəɡræm wɪʧ ˈaʊtlaɪnz ɔːl ðə ˈkʌrənt dɪˈpɛndənsiz.",
+        "linking": "\"outlines all\" → /ˈaʊtlaɪnz ɔːl/ (z + ɔː linking)"
+    },
+    {
+        "speaker": "Eli",
+        "text": "Perfect. Also check the mailing list archives — there might be an email thread in which the rollout plan was discussed.",
+        "ipa": "ˈpɜːfɪkt. ˈɔːlsəʊ ʧɛk ðə ˈmeɪlɪŋ lɪst ˈɑːkaɪvz — ðɛə maɪt biː ən ˈiːmeɪl θrɛd ɪn wɪʧ ðə ˈrəʊlaʊt plæn wəz dɪˈskʌst.",
+        "linking": "\"rollout plan\" → /ˈrəʊlaʊt plæn/ (t + p linking)"
+    }
+]
