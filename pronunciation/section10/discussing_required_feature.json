@@ -1,0 +1,80 @@
+[
+    {
+        "speaker": "Maya",
+        "text": "Hey Raj, did you read the request from the client who runs the fintech startup in Toronto?",
+        "ipa": "heɪ rɑːʒ, dɪd juː riːd ðə rɪˈkwɛst frəm ðə ˈklaɪənt huː rʌnz ðə ˈfɪntek ˈstɑːtʌp ɪn təˈrɒntəʊ?",
+        "linking": "\"did you\" → /dɪd juː/ (d + j linking)"
+    },
+    {
+        "speaker": "Raj",
+        "text": "Yes, I did. They want a dashboard that shows real-time analytics, right?",
+        "ipa": "jɛs, aɪ dɪd. ðeɪ wɒnt ə ˈdæʃbɔːd ðæt ʃəʊz ˈrɪəl taɪm ˌænəˈlɪtɪks, raɪt?",
+        "linking": "\"real-time analytics\" → /ˈrɪəl taɪm ˌænəˈlɪtɪks/ (l + t linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "Exactly. They also mentioned a compliance report, which is something we haven’t built before.",
+        "ipa": "ɪɡˈzæktli. ðeɪ ˈɔːlsəʊ ˈmɛnʃənd ə kəmˈplaɪəns rɪˈpɔːt, wɪʧ ɪz ˈsʌmθɪŋ wi ˈhævənt bɪlt bɪˈfɔː.",
+        "linking": "\"haven’t built\" → /ˈhævənt bɪlt/ (t + b linking)"
+    },
+    {
+        "speaker": "Raj",
+        "text": "I spoke to Kevin, who worked on a similar module last year. He gave me access to a repo that contains reusable components.",
+        "ipa": "aɪ spəʊk tuː ˈkɛvɪn, huː wɜːkt ɒn ə ˈsɪmɪlə ˈmɒdjuːl lɑːst jɪə. hi ɡeɪv mi ˈæksɛs tuː ə ˈriːpəʊ ðæt kənˈteɪnz riːˈjuːzəbl kəmˈpəʊnənts.",
+        "linking": "\"gave me\" → /ɡeɪv mi/ (v + m linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "That’s great. Did he also explain the export tool that we integrated for the legal team?",
+        "ipa": "ðæts ɡreɪt. dɪd hi ˈɔːlsəʊ ɪksˈpleɪn ði ˈɛkspɔːt tuːl ðæt wi ˈɪntɪɡreɪtɪd fɔː ðə ˈliːɡl tiːm?",
+        "linking": "\"export tool\" → /ˈɛkspɔːt tuːl/ (t + t linking)"
+    },
+    {
+        "speaker": "Raj",
+        "text": "Not in detail, but I found the spec document which outlines the data flow. It helped me understand the logic behind the report builder.",
+        "ipa": "nɒt ɪn ˈdiːteɪl, bət aɪ faʊnd ðə spɛk ˈdɒkjʊmənt wɪʧ ˈaʊtlaɪnz ðə ˈdeɪtə fləʊ. ɪt hɛlpt mi ˌʌndəˈstænd ðə ˈlɒʤɪk bɪˈhaɪnd ðə rɪˈpɔːt ˈbɪldə.",
+        "linking": "\"helped me\" → /hɛlpt mi/ (t + m linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "Nice. By the way, we have a partner company with which we collaborated last year. They built a GDPR dashboard that we might be able to adapt.",
+        "ipa": "naɪs. baɪ ðə weɪ, wi hæv ə ˈpɑːtnə ˈkʌmpəni wɪð wɪʧ wi kəˈlæbəreɪtɪd lɑːst jɪə. ðeɪ bɪlt ə ˌʤiːdiːpiːˈɑː ˈdæʃbɔːd ðæt wi maɪt bi ˈeɪbl tuː əˈdæpt.",
+        "linking": "\"might be\" → /maɪt bi/ (t + b linking)"
+    },
+    {
+        "speaker": "Raj",
+        "text": "Good to know. Do you have the contact info of the person who led that project?",
+        "ipa": "ɡʊd tuː nəʊ. duː juː hæv ðə ˈkɒntækt ˈɪnfəʊ əv ðə ˈpɜːsən huː lɛd ðæt ˈprɒʤɛkt?",
+        "linking": "\"contact info\" → /ˈkɒntækt ˈɪnfəʊ/ (t + i linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "Yes, I’ll introduce you. Her name is Tanya — she’s the data architect whose team handled encryption.",
+        "ipa": "jɛs, aɪl ˌɪntrəˈdjuːs juː. hɜː neɪm ɪz ˈtænjə — ʃiːz ðə ˈdeɪtə ˈɑːkɪtɛkt huːz tiːm ˈhændld ɪnˈkrɪpʃən.",
+        "linking": "\"introduce you\" → /ˌɪntrəˈdjuːs juː/ (s + j linking)"
+    },
+    {
+        "speaker": "Raj",
+        "text": "Perfect. Oh, and I noticed a few functions in our codebase which nobody has touched in months.",
+        "ipa": "ˈpɜːfɪkt. əʊ, ənd aɪ ˈnəʊtɪst ə fjuː ˈfʌŋkʃənz ɪn aʊə ˈkəʊdbeɪs wɪʧ ˈnəʊbədi hæz tʌʧt ɪn mʌnθs.",
+        "linking": "\"touched in\" → /tʌʧt ɪn/ (t + i linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "We’re planning to clean up anything that isn’t being used. There’s a script which flags those files automatically.",
+        "ipa": "wɪə ˈplænɪŋ tuː kliːn ʌp ˈɛnɪθɪŋ ðæt ˈɪznt ˈbiːɪŋ juːzd. ðɛəz ə skrɪpt wɪʧ flæɡz ðəʊz faɪlz ˌɔːtəˈmætɪkli.",
+        "linking": "\"clean up\" → /kliːn ʌp/ (n + u linking)"
+    },
+    {
+        "speaker": "Raj",
+        "text": "Awesome. I also joined the forum where people discuss open-source monitoring tools. I’ll share any good ideas I find.",
+        "ipa": "ˈɔːsəm. aɪ ˈɔːlsəʊ ʤɔɪnd ðə ˈfɔːrəm weə ˈpiːpl dɪsˈkʌs ˈəʊpən sɔːs ˈmɒnɪtərɪŋ tuːlz. aɪl ʃeə ˈɛni ɡʊd aɪˈdɪəz aɪ faɪnd.",
+        "linking": "\"share any\" → /ʃeə ˈɛni/ (r + a linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "That’s really helpful. It’s those little things that make our platform more reliable.",
+        "ipa": "ðæts ˈrɪəli ˈhɛlpfʊl. ɪts ðəʊz ˈlɪtl θɪŋz ðæt meɪk aʊə ˈplætfɔːm mɔː rɪˈlaɪəbl.",
+        "linking": "\"make our\" → /meɪk aʊə/ (k + a linking)"
+    }
+]

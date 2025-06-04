@@ -1,0 +1,12 @@
+Elena: Did you see the new feedback {that} came in from the beta users?
+James: Yeah, especially the one {which} mentioned the settings panel {that} disappears too quickly.
+Elena: That’s the behavior {which} confused a lot of testers during onboarding.
+James: I spoke to the user {who} originally reported it. She's a project manager {whose} team uses the dashboard every day.
+Elena: Did she explain the moment {when} it usually happens?
+James: Yes — right after completing the form {that} updates their team’s profile.
+Elena: Okay. That helps. We also had a tester {who} recorded a session {which} clearly shows the bug.
+James: Perfect. I’ll send that to the engineer {who} owns that component.
+Elena: And maybe we can improve the help tooltip {that} shows up when users get stuck.
+James: Agreed. Let's also link to the onboarding guide {which} we updated last week.
+Elena: The one {that} includes the accessibility improvements?
+James: Exactly — the guide {which} covers keyboard navigation and screen reader support.

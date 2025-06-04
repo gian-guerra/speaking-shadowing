@@ -1,0 +1,79 @@
+[
+    {
+        "speaker": "Elena",
+        "text": "I’ve just found a bug in the modal component that displays user notifications.",
+        "ipa": "aɪv dʒʌst faʊnd ə bʌɡ ɪn ðə ˈməʊ.dəl kəmˈpəʊ.nənt ðæt dɪsˈpleɪz ˈjuː.zər ˌnəʊ.tɪ.fɪˈkeɪ.ʃənz.",
+        "stress": "I'VE JUST FOUND a BUG in the MODAL COMPONENT that DISPLAYS USER NOTIFICATIONS.",
+        "linking": "\"found a\" → /faʊnd ə/ (d + a linking)"
+    },
+    {
+        "speaker": "Victor",
+        "text": "Is it the one which we refactored last sprint?",
+        "ipa": "ɪz ɪt ðə wʌn wɪʧ wiː riːˈfæk.təd lɑːst sprɪnt?",
+        "stress": "IS it the ONE which we REFACTORED LAST SPRINT?",
+        "linking": "\"which we\" → /wɪʧ wiː/ (ch + w linking)"
+    },
+    {
+        "speaker": "Elena",
+        "text": "Yes. The logic that controls visibility doesn’t handle async responses properly anymore.",
+        "ipa": "jɛs. ðə ˈlɒ.dʒɪk ðæt kənˈtrəʊlz ˌvɪ.zəˈbɪ.lə.ti ˈdʌz.ənt ˈhæn.dl ˈeɪ.sɪŋk rɪˈspɒn.sɪz ˈprɒ.pə.li ˌɛ.niˈmɔː.",
+        "stress": "YES. The LOGIC that CONTROLS VISIBILITY DOESN'T HANDLE ASYNC RESPONSES PROPERLY ANYMORE.",
+        "linking": "\"doesn't handle\" → /ˈdʌz.ənt ˈhæn.dl/ (t + h linking)"
+    },
+    {
+        "speaker": "Victor",
+        "text": "Hmm. The feature flag system, which is supposed to control that logic, must be interfering.",
+        "ipa": "hmm. ðə ˈfiː.tʃər flæɡ ˈsɪs.təm wɪʧ ɪz səˈpəʊzd tuː kənˈtrəʊl ðæt ˈlɒ.dʒɪk mʌst biː ˌɪn.təˈfɪə.rɪŋ.",
+        "stress": "HMM. The FEATURE FLAG SYSTEM, which is SUPPOSED to CONTROL that LOGIC, MUST be INTERFERING.",
+        "linking": "\"must be\" → /mʌst biː/ (t + b linking)"
+    },
+    {
+        "speaker": "Elena",
+        "text": "I think so. I talked to Priya, who owns the toggle service, and she said the fallback values were recently updated.",
+        "ipa": "aɪ θɪŋk səʊ. aɪ tɔːkt tuː ˈpriː.jə huː əʊnz ðə ˈtɒɡ.l̩ ˈsɜː.vɪs ənd ʃiː sɛd ðə ˈfɔːl.bæk ˈvæl.juːz wə ˈriː.sənt.li ʌpˈdeɪ.tɪd.",
+        "stress": "I THINK SO. I TALKED to PRIYA, who OWNS the TOGGLE SERVICE, and SHE SAID the FALLBACK VALUES were RECENTLY UPDATED.",
+        "linking": "\"talked to\" → /tɔːkt tuː/ (t + t linking)"
+    },
+    {
+        "speaker": "Victor",
+        "text": "She’s the engineer whose idea it was to add the fallback system in the first place.",
+        "ipa": "ʃiːz ði ˌɛn.dʒɪˈnɪə huːz aɪˈdɪə ɪt wəz tuː æd ðə ˈfɔːl.bæk ˈsɪs.təm ɪn ðə fɜːst pleɪs.",
+        "stress": "SHE'S the ENGINEER whose IDEA it WAS to ADD the FALLBACK SYSTEM in the FIRST PLACE.",
+        "linking": "\"idea it\" → /aɪˈdɪə ɪt/ (a + i linking)"
+    },
+    {
+        "speaker": "Elena",
+        "text": "Right, and she showed me a test that simulates latency but doesn't assert proper state cleanup.",
+        "ipa": "raɪt ənd ʃiː ʃəʊd miː ə tɛst ðæt ˈsɪm.jʊ.leɪts ˈleɪ.tən.si bət ˈdʌz.ənt əˈsɜːt ˈprɒ.pə steɪt ˈkliː.nʌp.",
+        "stress": "RIGHT, and SHE SHOWED me a TEST that SIMULATES LATENCY but DOESN'T ASSERT PROPER STATE CLEANUP.",
+        "linking": "\"showed me\" → /ʃəʊd miː/ (d + m linking)"
+    },
+    {
+        "speaker": "Victor",
+        "text": "Maybe we should add a test case which mimics slower backend responses?",
+        "ipa": "ˈmeɪ.bi wiː ʃʊd æd ə tɛst keɪs wɪʧ ˈmɪ.mɪks ˈsləʊ.ər ˈbæk.ɛnd rɪˈspɒn.sɪz?",
+        "stress": "MAYBE we SHOULD ADD a TEST CASE which MIMICS SLOWER BACKEND RESPONSES?",
+        "linking": "\"should add\" → /ʃʊd æd/ (d + a linking)"
+    },
+    {
+        "speaker": "Elena",
+        "text": "Good idea. Also, the documentation that came with the toggle library is a bit vague on edge cases.",
+        "ipa": "ɡʊd aɪˈdɪə. ˈɔːl.səʊ ðə ˌdɒk.jʊ.menˈteɪ.ʃən ðæt keɪm wɪð ðə ˈtɒɡ.l̩ ˈlaɪ.brə.ri ɪz ə bɪt veɪɡ ɒn ɛdʒ keɪsɪz.",
+        "stress": "GOOD IDEA. ALSO, the DOCUMENTATION that CAME with the TOGGLE LIBRARY is a BIT VAGUE on EDGE CASES.",
+        "linking": "\"came with\" → /keɪm wɪð/ (m + w linking)"
+    },
+    {
+        "speaker": "Victor",
+        "text": "That’s probably the reason why we missed this in the first place.",
+        "ipa": "ðæts ˈprɒ.bə.bli ðə ˈriː.zən waɪ wiː mɪst ðɪs ɪn ðə fɜːst pleɪs.",
+        "stress": "THAT'S PROBABLY the REASON WHY we MISSED THIS in the FIRST PLACE.",
+        "linking": "\"missed this\" → /mɪst ðɪs/ (t + th linking)"
+    },
+    {
+        "speaker": "Elena",
+        "text": "Exactly. It’s one of those bugs that only appears when everything else is slightly off.",
+        "ipa": "ɪɡˈzæk.tli. ɪts wʌn əv ðəʊz bʌɡz ðæt ˈəʊn.li əˈpɪəz wen ˈev.ri.θɪŋ els ɪz ˈslaɪt.li ɒf.",
+        "stress": "EXACTLY. IT'S ONE of THOSE BUGS that ONLY APPEARS when EVERYTHING ELSE is SLIGHTLY OFF.",
+        "linking": "\"appears when\" → /əˈpɪəz wen/ (z + w linking)"
+    }
+]

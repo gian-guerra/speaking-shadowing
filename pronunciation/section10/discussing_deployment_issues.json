@@ -1,0 +1,68 @@
+[
+    {
+        "speaker": "Zara",
+        "text": "I checked the deployment logs from this morning. There’s a service that failed to restart after the database migration.",
+        "ipa": "aɪ ʧɛkt ðə dɪˈplɔɪmənt lɒɡz frəm ðɪs ˈmɔːnɪŋ. ðɛəz ə ˈsɜːvɪs ðæt feɪld tuː riːˈstɑːt ˈɑːftə ðə ˈdeɪtəbeɪs maɪˈɡreɪʃən.",
+        "linking": "\"failed to\" → /feɪld tuː/ (d + t linking)"
+    },
+    {
+        "speaker": "Omar",
+        "text": "Was it the analytics service which runs scheduled ETL jobs?",
+        "ipa": "wəz ɪt ði ˌænəˈlɪtɪks ˈsɜːvɪs wɪʧ rʌnz ˈʃɛdjuːld iː-tiː-ɛl ʤɒbz?",
+        "linking": "\"analytics service\" → /ˌænəˈlɪtɪks ˈsɜːvɪs/ (s + s linking)"
+    },
+    {
+        "speaker": "Zara",
+        "text": "Exactly. It relies on a cron expression that didn’t get updated in the latest config map.",
+        "ipa": "ɪɡˈzæktli. ɪt rɪˈlaɪz ɒn ə krɒn ɪkˈsprɛʃən ðæt ˈdɪdnt ɡɛt ʌpˈdeɪtɪd ɪn ðə ˈleɪtɪst ˈkɒnfɪɡ mæp.",
+        "linking": "\"relies on\" → /rɪˈlaɪz ɒn/ (z + o linking)"
+    },
+    {
+        "speaker": "Omar",
+        "text": "That's the same issue which caused last month’s delay. We need a more robust pre-deploy checklist that includes config diffs.",
+        "ipa": "ðæts ðə seɪm ˈɪʃuː wɪʧ kɔːzd lɑːst mʌnθs dɪˈleɪ. wiː niːd ə mɔː rəʊˈbʌst priː-dɪˈplɔɪ ˈʧɛklɪst ðæt ɪnˈkluːdz ˈkɒnfɪɡ dɪfs.",
+        "linking": "\"need a\" → /niːd ə/ (d + a linking)"
+    },
+    {
+        "speaker": "Zara",
+        "text": "Agreed. Also, the rollback script which you wrote for staging was super helpful.",
+        "ipa": "əˈɡriːd. ˈɔːlsəʊ, ðə ˈrəʊlbæk skrɪpt wɪʧ juː rəʊt fɔː ˈsteɪʤɪŋ wəz ˈsuːpə ˈhɛlpfʊl.",
+        "linking": "\"wrote for\" → /rəʊt fɔː/ (t + f linking)"
+    },
+    {
+        "speaker": "Omar",
+        "text": "Oh yeah, that one was inspired by a failure which happened in production during a Blue/Green rollout.",
+        "ipa": "əʊ jæ, ðæt wʌn wəz ɪnˈspaɪəd baɪ ə ˈfeɪljə wɪʧ ˈhæpənd ɪn prəˈdʌkʃən ˈdjʊərɪŋ ə bluː/ɡriːn ˈrəʊlaʊt.",
+        "linking": "\"happened in\" → /ˈhæpənd ɪn/ (d + i linking)"
+    },
+    {
+        "speaker": "Zara",
+        "text": "I remember that. The engineer who handled it barely had time to revert before alerts flooded in.",
+        "ipa": "aɪ rɪˈmɛmbə ðæt. ði ˌɛnʤɪˈnɪə huː ˈhændld ɪt ˈbeəli hæd taɪm tuː rɪˈvɜːt bɪˈfɔː əˈlɜːts ˈflʌdɪd ɪn.",
+        "linking": "\"revert before\" → /rɪˈvɜːt bɪˈfɔː/ (t + b linking)"
+    },
+    {
+        "speaker": "Omar",
+        "text": "She’s the one who suggested automating the health checks, right?",
+        "ipa": "ʃiːz ðə wʌn huː səˈʤɛstɪd ˈɔːtəmeɪtɪŋ ðə hɛlθ ʧɛks, raɪt?",
+        "linking": "\"suggested automating\" → /səˈʤɛstɪd ˈɔːtəmeɪtɪŋ/ (d + a linking)"
+    },
+    {
+        "speaker": "Zara",
+        "text": "Yep, and she also built the dashboard which now tracks service latency in real time.",
+        "ipa": "jɛp, ənd ʃiː ˈɔːlsəʊ bɪlt ðə ˈdæʃbɔːd wɪʧ naʊ træks ˈsɜːvɪs ˈleɪtənsi ɪn rɪəl taɪm.",
+        "linking": "\"built the\" → /bɪlt ðə/ (t + th linking)"
+    },
+    {
+        "speaker": "Omar",
+        "text": "That dashboard’s the only reason why we caught this so early today.",
+        "ipa": "ðæt ˈdæʃbɔːdz ði ˈəʊnli ˈriːzn waɪ wiː kɔːt ðɪs səʊ ˈɜːli təˈdeɪ.",
+        "linking": "\"caught this\" → /kɔːt ðɪs/ (t + th linking)"
+    },
+    {
+        "speaker": "Zara",
+        "text": "Honestly, it's one of those tools which make you wonder how we managed without them.",
+        "ipa": "ˈɒnɪstli, ɪts wʌn əv ðəʊz tuːlz wɪʧ meɪk juː ˈwʌndə haʊ wiː ˈmænɪʤd wɪˈðaʊt ðɛm.",
+        "linking": "\"managed without\" → /ˈmænɪʤd wɪˈðaʊt/ (d + w linking)"
+    }
+]
