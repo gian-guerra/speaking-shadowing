@@ -1,0 +1,56 @@
+[
+    {
+        "speaker": "Sofia",
+        "text": "Did you hear? The new checkout flow has been criticized by quite a few users.",
+        "ipa": "dɪd ju hɪr? ðə nu ˈʧɛkaʊt floʊ hæz bɪn ˈkrɪtɪˌsaɪzd baɪ kwaɪt ə fju ˈjuzərz.",
+        "linking": "\"checkout flow\" → /ˈʧɛkaʊt floʊ/ (t + f linking)"
+    },
+    {
+        "speaker": "Jake",
+        "text": "Yeah, I saw the reviews. Apparently, the design was copied from another site and wasn't adapted well for mobile.",
+        "ipa": "jæ, aɪ sɔ ðə rɪˈvjuz. əˈpɛrəntli, ðə dɪˈzaɪn wəz ˈkɑpid frəm əˈnʌðər saɪt ənd ˈwəzənt əˈdæptɪd wɛl fɔr ˈmoʊbəl.",
+        "linking": "\"was copied\" → /wəz ˈkɑpid/ (z + k linking)"
+    },
+    {
+        "speaker": "Sofia",
+        "text": "That's true. It was meant to streamline the process, but a lot of edge cases weren’t considered.",
+        "ipa": "ðæts tru. ɪt wəz mɛnt tu ˈstriːmlaɪn ðə ˈprɑsɛs, bət ə lɑt əv ɛʤ ˈkeɪsɪz ˈwɜrənt kənˈsɪdərd.",
+        "linking": "\"edge cases\" → /ɛʤ ˈkeɪsɪz/ (ʤ + k linking)"
+    },
+    {
+        "speaker": "Jake",
+        "text": "Also, the button labels are said to be confusing. We should have consulted the copy team earlier.",
+        "ipa": "ˈɔlsoʊ, ðə ˈbʌtən ˈleɪbəlz ɑr sɛd tu bi kənˈfjuzɪŋ. wi ʃəd hæv kənˈsʌltɪd ðə ˈkɑpi tim ˈɜrliər.",
+        "linking": "\"button labels\" → /ˈbʌtən ˈleɪbəlz/ (n + l linking)"
+    },
+    {
+        "speaker": "Sofia",
+        "text": "Definitely. A content audit is being scheduled this week. I already had a report drafted by the intern.",
+        "ipa": "ˈdɛfənətli. ə ˈkɑntɛnt ˈɔdɪt ɪz ˈbiɪŋ ˈskɛʤəld ðɪs wik. aɪ ɔlˈrɛdi hæd ə rɪˈpɔrt ˈdræftɪd baɪ ði ˈɪntɜrn.",
+        "linking": "\"report drafted\" → /rɪˈpɔrt ˈdræftɪd/ (t + d linking)"
+    },
+    {
+        "speaker": "Jake",
+        "text": "Nice. I think all touchpoints must be reviewed before the next update.",
+        "ipa": "naɪs. aɪ θɪŋk ɔl ˈtʌʧpɔɪnts məst bi rɪˈvjud bɪˈfɔr ðə nɛkst ˈʌpˌdeɪt.",
+        "linking": "\"touchpoints must\" → /ˈtʌʧpɔɪnts məst/ (s + m linking)"
+    },
+    {
+        "speaker": "Sofia",
+        "text": "The feedback form was redesigned last sprint, so maybe we’ll get more detailed responses this time.",
+        "ipa": "ðə ˈfidˌbæk fɔrm wəz ˌridɪˈzaɪnd læst sprɪnt, soʊ ˈmeɪbi wil ɡɛt mɔr dɪˈteɪld rɪˈspɑnsɪz ðɪs taɪm.",
+        "linking": "\"feedback form\" → /ˈfidˌbæk fɔrm/ (k + f linking)"
+    },
+    {
+        "speaker": "Jake",
+        "text": "Hopefully. Do you think the mobile version will be prioritized in the next sprint?",
+        "ipa": "ˈhoʊpfəli. du ju θɪŋk ðə ˈmoʊbəl ˈvɜrʒən wɪl bi praɪˈɔrəˌtaɪzd ɪn ðə nɛkst sprɪnt?",
+        "linking": "\"version will\" → /ˈvɜrʒən wɪl/ (n + w linking)"
+    },
+    {
+        "speaker": "Sofia",
+        "text": "Yes — it has been requested by multiple stakeholders already.",
+        "ipa": "jɛs — ɪt hæz bɪn rɪˈkwɛstɪd baɪ ˈmʌltəpəl ˈsteɪkˌhoʊldərz ɔlˈrɛdi.",
+        "linking": "\"been requested\" → /bɪn rɪˈkwɛstɪd/ (n + r linking)"
+    }
+]

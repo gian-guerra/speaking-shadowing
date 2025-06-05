@@ -1,0 +1,68 @@
+[
+    {
+        "speaker": "Rachel",
+        "text": "Has the changelog been written yet?",
+        "ipa": "hæz ðə ˈʧeɪndʒlɔːɡ bɪn ˈrɪtən jɛt?",
+        "linking": "\"changelog been\" → /ˈʧeɪndʒlɔːɡ bɪn/ (g + b linking)"
+    },
+    {
+        "speaker": "Tariq",
+        "text": "Yes, it was finalized this morning. All the new features are listed with brief descriptions.",
+        "ipa": "jɛs, ɪt wəz ˈfaɪnəlaɪzd ðɪs ˈmɔːnɪŋ. ɔːl ðə njuː ˈfiːʧəz ə ˈlɪstɪd wɪð briːf dɪˈskrɪpʃənz.",
+        "linking": "\"features are\" → /ˈfiːʧəz ə/ (z + ə linking)"
+    },
+    {
+        "speaker": "Rachel",
+        "text": "Perfect. And has the security team been informed about the patch to the authentication module?",
+        "ipa": "ˈpɜːfɪkt. ənd hæz ðə sɪˈkjʊərɪti tiːm bɪn ɪnˈfɔːmd əˈbaʊt ðə pæʧ tuː ði ɔːˌθɛntɪˈkeɪʃən ˈmɒdjuːl?",
+        "linking": "\"team been\" → /tiːm bɪn/ (m + b linking)"
+    },
+    {
+        "speaker": "Tariq",
+        "text": "They have. The update was reviewed last week, and no vulnerabilities were found.",
+        "ipa": "ðeɪ hæv. ði ˈʌpdeɪt wəz rɪˈvjuːd lɑːst wiːk, ənd nəʊ ˌvʌlnərəˈbɪlɪtiz wə faʊnd.",
+        "linking": "\"vulnerabilities were\" → /ˌvʌlnərəˈbɪlɪtiz wə/ (z + w linking)"
+    },
+    {
+        "speaker": "Rachel",
+        "text": "Great. Has legal been consulted about the new data handling flow?",
+        "ipa": "ɡreɪt. hæz ˈliːɡəl bɪn kənˈsʌltɪd əˈbaʊt ðə njuː ˈdeɪtə ˈhændlɪŋ fləʊ?",
+        "linking": "\"legal been\" → /ˈliːɡəl bɪn/ (l + b linking)"
+    },
+    {
+        "speaker": "Tariq",
+        "text": "Yep. A compliance note was added to the release package, and it has been approved.",
+        "ipa": "jɛp. ə kəmˈplaɪəns nəʊt wəz ˈædɪd tuː ðə rɪˈliːs ˈpækɪdʒ, ənd ɪt hæz bɪn əˈpruːvd.",
+        "linking": "\"has been\" → /hæz bɪn/ (z + b linking)"
+    },
+    {
+        "speaker": "Rachel",
+        "text": "Were any clients contacted about the downtime?",
+        "ipa": "wə ˈɛni ˈklaɪənts ˈkɒntæktɪd əˈbaʊt ðə ˈdaʊntaɪm?",
+        "linking": "\"clients contacted\" → /ˈklaɪənts ˈkɒntæktɪd/ (s + k linking)"
+    },
+    {
+        "speaker": "Tariq",
+        "text": "Yes, premium clients were notified by account managers. The rest will be alerted via status page updates.",
+        "ipa": "jɛs, ˈpriːmiəm ˈklaɪənts wə ˈnəʊtɪfaɪd baɪ əˈkaʊnt ˈmænɪdʒəz. ðə rɛst wɪl bi əˈlɜːtɪd ˈvaɪə ˈsteɪtəs peɪdʒ ˈʌpdeɪts.",
+        "linking": "\"clients were\" → /ˈklaɪənts wə/ (s + w linking)"
+    },
+    {
+        "speaker": "Rachel",
+        "text": "Awesome. Just make sure the rollback script is tested again — we can’t take risks at this stage.",
+        "ipa": "ˈɔːsəm. dʒəst meɪk ʃʊə ðə ˈrəʊlbæk skrɪpt ɪz ˈtɛstɪd əˈɡɛn — wi kɑːnt teɪk rɪsks æt ðɪs steɪdʒ.",
+        "linking": "\"script is\" → /skrɪpt ɪz/ (t + ɪ linking)"
+    },
+    {
+        "speaker": "Tariq",
+        "text": "Already done. It was executed in staging twice. Everything went smoothly.",
+        "ipa": "ɔːlˈrɛdi dʌn. ɪt wəz ˈɛksɪkjuːtɪd ɪn ˈsteɪdʒɪŋ twaɪs. ˈɛvrɪθɪŋ wɛnt ˈsmuːðli.",
+        "linking": "\"executed in\" → /ˈɛksɪkjuːtɪd ɪn/ (d + ɪ linking)"
+    },
+    {
+        "speaker": "Rachel",
+        "text": "Then it looks like we’re ready. Let’s get this shipped.",
+        "ipa": "ðɛn ɪt lʊks laɪk wɪə ˈrɛdi. lɛts ɡɛt ðɪs ʃɪpt.",
+        "linking": "\"get this\" → /ɡɛt ðɪs/ (t + ð linking)"
+    }
+]

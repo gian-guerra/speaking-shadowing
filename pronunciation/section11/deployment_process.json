@@ -1,0 +1,68 @@
+[
+    {
+        "speaker": "Carlos",
+        "text": "So, the new feature set was rolled out last night, right?",
+        "ipa": "soʊ ðə nu ˈfiːtʃər sɛt wəz roʊld aʊt læst naɪt raɪt",
+        "linking": "\"rolled out\" → /roʊld aʊt/ (d + aʊ linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "Yes, everything was deployed to production just after midnight. The migration script had been tested thoroughly, so there weren’t any surprises.",
+        "ipa": "jɛs ˈɛvrɪθɪŋ wəz dɪˈplɔɪd tu prəˈdʌkʃən dʒəst ˈæftər ˈmɪdnaɪt ðə maɪˈɡreɪʃən skrɪpt hæd bɪn ˈtɛstɪd ˈθʌrəli soʊ ðər wɜrənt ˈɛni səˈpraɪzɪz",
+        "linking": "\"script had\" → /skrɪpt hæd/ (t + h linking)"
+    },
+    {
+        "speaker": "Carlos",
+        "text": "Good. I noticed a couple of config files were modified — do you know if that was logged?",
+        "ipa": "ɡʊd aɪ ˈnoʊtɪst ə ˈkʌpəl əv ˈkɒnfɪɡ faɪlz wɜr ˈmɒdəˌfaɪd du ju noʊ ɪf ðæt wəz lɔɡd",
+        "linking": "\"files were\" → /faɪlz wɜr/ (z + w linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "Absolutely. All changes were tracked in Git and have been documented in the deployment notes.",
+        "ipa": "ˌæbsəˈlutli ɔl ˈʧeɪndʒəz wɜr trækt ɪn ɡɪt ənd hæv bɪn ˈdɒkjəˌmɛntɪd ɪn ðə dɪˈplɔɪmənt noʊts",
+        "linking": "\"changes were\" → /ˈʧeɪndʒəz wɜr/ (z + w linking)"
+    },
+    {
+        "speaker": "Carlos",
+        "text": "Awesome. I also heard the cache was invalidated globally to avoid stale data?",
+        "ipa": "ˈɔsəm aɪ ˈɔlsoʊ hɜrd ðə kæʃ wəz ɪnˈvælɪˌdeɪtɪd ˈɡloʊbəli tu əˈvɔɪd steɪl ˈdeɪtə",
+        "linking": "\"cache was\" → /kæʃ wəz/ (ʃ + w linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "Correct. That was triggered right after the database updates had been completed.",
+        "ipa": "kəˈrɛkt ðæt wəz ˈtrɪɡərd raɪt ˈæftər ðə ˈdeɪtəˌbeɪs ˈʌpˌdeɪts hæd bɪn kəmˈplitɪd",
+        "linking": "\"updates had\" → /ˈʌpˌdeɪts hæd/ (s + h linking)"
+    },
+    {
+        "speaker": "Carlos",
+        "text": "Nice. Any issues reported?",
+        "ipa": "naɪs ˈɛni ˈɪʃuz rɪˈpɔrtɪd",
+        "linking": "\"issues reported\" → /ˈɪʃuz rɪˈpɔrtɪd/ (z + r linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "One. A few user sessions were affected temporarily because of a token mismatch, but it was resolved within minutes.",
+        "ipa": "wʌn ə fju ˈjuzər ˈsɛʃənz wɜr əˈfɛktɪd ˌtɛmpəˈrɛrəli bɪˈkəz əv ə ˈtoʊkən ˈmɪsˌmætʃ bət ɪt wəz rɪˈzɑlvd wɪˈðɪn ˈmɪnɪts",
+        "linking": "\"sessions were\" → /ˈsɛʃənz wɜr/ (z + w linking)"
+    },
+    {
+        "speaker": "Carlos",
+        "text": "Alright. Let’s make sure that scenario is included in the incident review. It’s better if it gets analyzed for future prevention.",
+        "ipa": "ɔlˈraɪt lɛts meɪk ʃʊr ðæt səˈnɛrioʊ ɪz ɪnˈkludɪd ɪn ði ˈɪnsɪdənt rɪˈvju ɪts ˈbɛtər ɪf ɪt ɡɛts ˈænəˌlaɪzd fɔr ˈfjuʧər prɪˈvɛnʃən",
+        "linking": "\"make sure\" → /meɪk ʃʊr/ (k + ʃ linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "Already noted. A follow-up ticket has been created, and the engineering manager was notified this morning.",
+        "ipa": "ɔlˈrɛdi ˈnoʊtɪd ə ˈfɑloʊ ʌp ˈtɪkɪt hæz bɪn kriˈeɪtɪd ənd ði ˌɛnʤəˈnɪrɪŋ ˈmænəʤər wəz ˈnoʊtəˌfaɪd ðɪs ˈmɔrnɪŋ",
+        "linking": "\"ticket has\" → /ˈtɪkɪt hæz/ (t + h linking)"
+    },
+    {
+        "speaker": "Carlos",
+        "text": "Perfect. Another clean deployment — well done!",
+        "ipa": "ˈpɜrfɪkt əˈnʌðər klin dɪˈplɔɪmənt wɛl dʌn",
+        "linking": "\"well done\" → /wɛl dʌn/ (l + d linking)"
+    }
+]
