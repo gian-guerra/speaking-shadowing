@@ -1,0 +1,68 @@
+[
+    {
+        "speaker": "Nina",
+        "text": "Did you see the feedback from QA? Several onboarding screens weren’t being rendered properly on older Android versions.",
+        "ipa": "dɪd ju si ðə ˈfidˌbæk frəm ˌkjuːˈeɪ? ˈsɛvrəl ˈɔnˌbɔrdɪŋ skrinz ˈwɜrənt ˈbiɪŋ ˈrɛndərd ˈprɑpərli ɑn ˈoʊldər ˈændrɔɪd ˈvɜrʒənz.",
+        "linking": "\"feedback from\" → /ˈfidˌbæk frəm/ (k + f linking), \"being rendered\" → /ˈbiɪŋ ˈrɛndərd/ (ŋ + r linking)"
+    },
+    {
+        "speaker": "Dev",
+        "text": "Yeah, the layout XML was corrupted during the last merge. It must have been overwritten by an older branch.",
+        "ipa": "jæ, ðə ˈleɪˌaʊt ˌɛksɛmˈɛl wəz kəˈrʌptɪd ˈdʊrɪŋ ðə læst mɜrdʒ. ɪt məst həv bɪn ˌoʊvərˈrɪtən baɪ ən ˈoʊldər brænʧ.",
+        "linking": "\"layout XML\" → /ˈleɪˌaʊt ˌɛksɛmˈɛl/ (t + ɛ linking), \"been overwritten\" → /bɪn ˌoʊvərˈrɪtən/ (n + o linking)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "Has the issue been fixed?",
+        "ipa": "hæz ði ˈɪʃu bɪn fɪkst?",
+        "linking": "\"issue been\" → /ˈɪʃu bɪn/ (u + b linking)"
+    },
+    {
+        "speaker": "Dev",
+        "text": "The fix has already been pushed, and a patch release is being prepared for tonight.",
+        "ipa": "ðə fɪks hæz ɔlˈrɛdi bɪn pʊʃt, ənd ə pæʧ rɪˈlis ɪz ˈbiɪŋ prɪˈpɛrd fɔr təˈnaɪt.",
+        "linking": "\"been pushed\" → /bɪn pʊʃt/ (n + p linking), \"being prepared\" → /ˈbiɪŋ prɪˈpɛrd/ (ŋ + p linking)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "Good. Also, the animation on the welcome screen was removed, right?",
+        "ipa": "ɡʊd. ˈɔlsoʊ, ði ˌænəˈmeɪʃən ɑn ðə ˈwɛlkəm skrin wəz rɪˈmuvd, raɪt?",
+        "linking": "\"animation on\" → /ˌænəˈmeɪʃən ɑn/ (n + o linking), \"screen was\" → /skrin wəz/ (n + w linking)"
+    },
+    {
+        "speaker": "Dev",
+        "text": "Correct. It was considered too distracting, especially for accessibility compliance.",
+        "ipa": "kəˈrɛkt. ɪt wəz kənˈsɪdərd tu dɪˈstræktɪŋ, əˈspɛʃəli fɔr ækˌsɛsəˈbɪləti kəmˈplaɪəns.",
+        "linking": "\"was considered\" → /wəz kənˈsɪdərd/ (z + k linking), \"too distracting\" → /tu dɪˈstræktɪŋ/ (u + d linking)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "Have the UI assets been optimized?",
+        "ipa": "hæv ði ˌjuːˈaɪ ˈæsɛts bɪn ˈɑptəˌmaɪzd?",
+        "linking": "\"assets been\" → /ˈæsɛts bɪn/ (s + b linking)"
+    },
+    {
+        "speaker": "Dev",
+        "text": "Yes, we had them compressed by the design team. All images were exported using new performance settings.",
+        "ipa": "jɛs, wi hæd ðəm kəmˈprɛst baɪ ðə dɪˈzaɪn tim. ɔl ˈɪmɪʤɪz wɜr ɪkˈspɔrtɪd ˈjuzɪŋ nu pərˈfɔrməns ˈsɛtɪŋz.",
+        "linking": "\"had them\" → /hæd ðəm/ (d + ð linking), \"images were\" → /ˈɪmɪʤɪz wɜr/ (z + w linking)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "Perfect. And what about translation issues?",
+        "ipa": "ˈpɜrfɪkt. ənd wʌt əˈbaʊt trænsˈleɪʃən ˈɪʃuz?",
+        "linking": "\"what about\" → /wʌt əˈbaʊt/ (t + ə linking)"
+    },
+    {
+        "speaker": "Dev",
+        "text": "All string files have been reviewed, and we got the Korean version proofread by a native speaker before shipping.",
+        "ipa": "ɔl strɪŋ faɪlz hæv bɪn rɪˈvjud, ənd wi ɡɑt ðə kəˈriən ˈvɜrʒən ˈprufˌrɛd baɪ ə ˈneɪtɪv ˈspiːkər bɪˈfɔr ˈʃɪpɪŋ.",
+        "linking": "\"been reviewed\" → /bɪn rɪˈvjud/ (n + r linking), \"version proofread\" → /ˈvɜrʒən ˈprufˌrɛd/ (n + p linking)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "Excellent. Just make sure a changelog is generated for the patch. Legal requires it before sign-off.",
+        "ipa": "ˈɛksələnt. ʤəst meɪk ʃʊr ə ˈʧeɪnʤˌlɔg ɪz ˈʤɛnəˌreɪtɪd fɔr ðə pæʧ. ˈliɡəl rɪˈkwaɪərz ɪt bɪˈfɔr ˈsaɪnˌɔf.",
+        "linking": "\"changelog is\" → /ˈʧeɪnʤˌlɔg ɪz/ (g + ɪ linking), \"requires it\" → /rɪˈkwaɪərz ɪt/ (z + ɪ linking)"
+    }
+]

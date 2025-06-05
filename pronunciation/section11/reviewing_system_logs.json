@@ -1,0 +1,62 @@
+[
+    {
+        "speaker": "Leo",
+        "text": "Hey, have you seen the spike in traffic? The new endpoint was hit over 50,000 times in the last hour.",
+        "ipa": "heɪ, hæv ju sin ðə spaɪk ɪn ˈtræfɪk? ðə nu ˈɛndˌpɔɪnt wəz hɪt ˈoʊvər ˈfɪfti ˈθaʊzənd taɪmz ɪn ðə læst ˈaʊər.",
+        "linking": "\"have you\" → /hæv ju/ (v + j linking), \"was hit\" → /wəz hɪt/ (z + h linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "Yeah, and the database has been overwhelmed as a result. Several queries were delayed during peak usage.",
+        "ipa": "jæ, ənd ðə ˈdeɪtəˌbeɪs hæz bɪn ˌoʊvərˈwɛlmd æz ə rɪˈzʌlt. ˈsɛvrəl ˈkwɛriz wɜr dɪˈleɪd ˈdʊrɪŋ pik ˈjusɪdʒ.",
+        "linking": "\"has been\" → /hæz bɪn/ (z + b linking), \"were delayed\" → /wɜr dɪˈleɪd/ (r + d linking)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "That's what I was worried about. The cache layer should have been scaled before the rollout.",
+        "ipa": "ðæts wʌt aɪ wəz ˈwɜrid əˈbaʊt. ðə kæʃ ˈleɪər ʃəd həv bɪn skeɪld bɪˈfɔr ðə ˈroʊˌlaʊt.",
+        "linking": "\"should have\" → /ʃəd həv/ (d + h linking), \"been scaled\" → /bɪn skeɪld/ (n + s linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "Agreed. Also, the backup system wasn’t configured properly, so some logs weren’t captured.",
+        "ipa": "əˈɡrid. ˈɔlsoʊ, ðə ˈbækˌʌp ˈsɪstəm ˈwɑzənt kənˈfɪɡjərd ˈprɑpərli, soʊ sʌm lɔɡz ˈwɜrənt ˈkæpʧərd.",
+        "linking": "\"wasn't configured\" → /ˈwɑzənt kənˈfɪɡjərd/ (t + k linking), \"logs weren't\" → /lɔɡz ˈwɜrənt/ (z + w linking)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "Oh no. Was the incident reported to the SRE team?",
+        "ipa": "oʊ noʊ. wəz ði ˈɪnsɪdənt rɪˈpɔrtɪd tu ði ˌɛs.ɑrˈi tim?",
+        "linking": "\"was the\" → /wəz ði/ (z + ð linking), \"reported to\" → /rɪˈpɔrtɪd tu/ (d + t linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "Yes, an alert was generated automatically and was sent to their Slack channel.",
+        "ipa": "jɛs, ən əˈlɜrt wəz ˈʤɛnəˌreɪtɪd ˌɔtəˈmætɪkli ənd wəz sɛnt tu ðɛr slæk ˈʧænəl.",
+        "linking": "\"was generated\" → /wəz ˈʤɛnəˌreɪtɪd/ (z + ʤ linking), \"sent to\" → /sɛnt tu/ (t + t linking)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "That’s good. I guess the mitigation plan needs to be updated now.",
+        "ipa": "ðæts ɡʊd. aɪ ɡɛs ðə ˌmɪtɪˈɡeɪʃən plæn nidz tu bi ˈʌpˌdeɪtɪd naʊ.",
+        "linking": "\"needs to\" → /nidz tu/ (z + t linking), \"be updated\" → /bi ˈʌpˌdeɪtɪd/ (i + ʌ linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "Definitely. And we are going to be asked to present a postmortem next week.",
+        "ipa": "ˈdɛfənətli. ənd wi ɑr ˈɡoʊɪŋ tu bi æskt tu prɪˈzɛnt ə ˈpoʊstˌmɔrtəm nɛkst wik.",
+        "linking": "\"going to\" → /ˈɡoʊɪŋ tu/ (ŋ + t linking), \"be asked\" → /bi æskt/ (i + æ linking)"
+    },
+    {
+        "speaker": "Leo",
+        "text": "Let’s make sure all root causes are documented clearly.",
+        "ipa": "lɛts meɪk ʃʊr ɔl rut ˈkɔzɪz ɑr ˈdɑkjəˌmɛntɪd ˈklɪrli.",
+        "linking": "\"root causes\" → /rut ˈkɔzɪz/ (t + k linking), \"are documented\" → /ɑr ˈdɑkjəˌmɛntɪd/ (r + d linking)"
+    },
+    {
+        "speaker": "Maya",
+        "text": "Agreed. A few actions have already been assigned to different team members.",
+        "ipa": "əˈɡrid. ə fju ˈækʃənz hæv ɔlˈrɛdi bɪn əˈsaɪnd tu ˈdɪfərənt tim ˈmɛmbərz.",
+        "linking": "\"have already\" → /hæv ɔlˈrɛdi/ (v + ɔ linking), \"been assigned\" → /bɪn əˈsaɪnd/ (n + ə linking)"
+    }
+]
