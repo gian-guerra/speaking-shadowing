@@ -1,0 +1,11 @@
+Sarah: The network issue {was caused} by an unexpected DNS propagation delay.
+CTO: Was that something that {could have been prevented}?
+Sarah: Potentially. A warning {had been issued} by the infrastructure team two days before the rollout, but it {wasn't escalated} properly.
+CTO: So no contingency plan {was activated}?
+Sarah: Correct. A fallback route {was designed}, but unfortunately, it {wasn’t enabled} at the time of failure.
+CTO: Has the vendor {been contacted}?
+Sarah: Yes — they {were notified} as soon as packet loss {was detected}. Their engineers {are being looped in} for a joint RCA.
+CTO: What about the fix?
+Sarah: The faulty entry {was removed}, and a temporary patch {was applied}. A full update {is going to be deployed} tonight.
+CTO: Make sure a new runbook {is created}, and have the team {get it reviewed} by both DevOps and SecOps.
+Sarah: Already on it. Also, a post-incident summary {has been drafted} and {will be sent out} to all stakeholders today.

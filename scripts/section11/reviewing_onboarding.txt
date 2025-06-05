@@ -1,0 +1,11 @@
+Nina: Did you see the feedback from QA? Several onboarding screens {weren’t being rendered} properly on older Android versions.
+Dev: Yeah, the layout XML {was corrupted} during the last merge. It {must have been overwritten} by an older branch.
+Nina: Has the issue {been fixed}?
+Dev: The fix {has already been pushed}, and a patch release {is being prepared} for tonight.
+Nina: Good. Also, the animation on the welcome screen {was removed}, right?
+Dev: Correct. It {was considered} too distracting, especially for accessibility compliance.
+Nina: Have the UI assets {been optimized}?
+Dev: Yes, we {had them compressed} by the design team. All images {were exported} using new performance settings.
+Nina: Perfect. And what about translation issues?
+Dev: All string files {have been reviewed}, and we {got the Korean version proofread} by a native speaker before shipping.
+Nina: Excellent. Just make sure a changelog {is generated} for the patch. Legal requires it before sign-off.
