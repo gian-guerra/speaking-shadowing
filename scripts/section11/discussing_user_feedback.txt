@@ -1,0 +1,9 @@
+Sofia: Did you hear? The new checkout flow {has been criticized} by quite a few users.
+Jake: Yeah, I saw the reviews. Apparently, the design {was copied} from another site and {wasn't adapted} well for mobile.
+Sofia: That's true. It {was meant} to streamline the process, but a lot of edge cases {weren’t considered}.
+Jake: Also, the button labels {are said to be} confusing. We {should have consulted} the copy team earlier.
+Sofia: Definitely. A content audit {is being scheduled} this week. I already {had a report drafted} by the intern.
+Jake: Nice. I think all touchpoints {must be reviewed} before the next update.
+Sofia: The feedback form {was redesigned} last sprint, so maybe we’ll {get more detailed responses} this time.
+Jake: Hopefully. Do you think the mobile version {will be prioritized} in the next sprint?
+Sofia: Yes — it {has been requested} by multiple stakeholders already.

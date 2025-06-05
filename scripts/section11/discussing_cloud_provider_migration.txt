@@ -1,0 +1,11 @@
+Ivy: How’s the migration going? I heard the database {was moved} to the new cluster last night.
+Marcus: Yeah, everything {was transferred} successfully. The replication lag {was minimized} thanks to the new architecture.
+Ivy: Were the alerts {updated} accordingly?
+Marcus: They {have been reconfigured}, and the old monitoring rules {were archived}.
+Ivy: Nice. And the SSL certificates — are they still valid?
+Marcus: Nope, new ones {had to be issued} during the switchover. The DNS records {were updated} early this morning.
+Ivy: Did you {get the config files reviewed} before the deployment?
+Marcus: Yes, we {had them checked} by DevSecOps. A few risky defaults {were flagged} and fixed on time.
+Ivy: Awesome. And the users?
+Marcus: They {were notified} via email yesterday. A migration FAQ {was published} on our support portal too.
+Ivy: Solid job. Make sure the rollback plan {is documented} before we consider this final.

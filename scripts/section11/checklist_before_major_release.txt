@@ -1,0 +1,11 @@
+Rachel: Has the changelog {been written} yet?
+Tariq: Yes, it {was finalized} this morning. All the new features {are listed} with brief descriptions.
+Rachel: Perfect. And has the security team {been informed} about the patch to the authentication module?
+Tariq: They have. The update {was reviewed} last week, and no vulnerabilities {were found}.
+Rachel: Great. Has legal {been consulted} about the new data handling flow?
+Tariq: Yep. A compliance note {was added} to the release package, and it {has been approved}.
+Rachel: Were any clients {contacted} about the downtime?
+Tariq: Yes, premium clients {were notified} by account managers. The rest {will be alerted} via status page updates.
+Rachel: Awesome. Just make sure the rollback script {is tested} again — we can’t take risks at this stage.
+Tariq: Already done. It {was executed} in staging twice. Everything {went smoothly}.
+Rachel: Then it looks like we’re ready. Let’s get this {shipped}.
