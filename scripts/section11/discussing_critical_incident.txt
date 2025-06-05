@@ -1,0 +1,11 @@
+Erin: The incident report {was submitted} this morning. Have you seen it yet?
+Luis: Yeah, I have. Apparently, the wrong config file {was deployed} to production.
+Erin: Do we know how it {was missed} during the staging review?
+Luis: Not exactly. The staging review {was performed}, but the validation script {was skipped} by accident.
+Erin: That’s a serious oversight. Has the person responsible {been identified}?
+Luis: It hasn’t {been confirmed} yet, but the DevOps team {is being interviewed} today.
+Erin: Good. And the faulty deployment — has it {been rolled back}?
+Luis: Yes, it {was reverted} as soon as the error {was discovered}. No user data {was affected}, fortunately.
+Erin: Still, a root cause analysis needs to {be written}, and preventive steps must {be proposed}.
+Luis: Agreed. An internal audit {has already been scheduled} for Thursday.
+Erin: Let me know once the RCA {is drafted}. We’ll need it ready before the leadership sync.
