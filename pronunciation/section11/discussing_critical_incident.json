@@ -1,0 +1,68 @@
+[
+    {
+        "speaker": "Erin",
+        "text": "The incident report was submitted this morning. Have you seen it yet?",
+        "ipa": "ði ˈɪnsɪdənt rɪˈpɔrt wəz səbˈmɪtɪd ðɪs ˈmɔrnɪŋ. hæv ju sin ɪt jɛt?",
+        "linking": "\"report was\" → /rɪˈpɔrt wəz/ (t + w linking)"
+    },
+    {
+        "speaker": "Luis",
+        "text": "Yeah, I have. Apparently, the wrong config file was deployed to production.",
+        "ipa": "jæ, aɪ hæv. əˈpɛrəntli ðə rɔŋ ˈkɒnfɪɡ faɪl wəz dɪˈplɔɪd tu prəˈdʌkʃən.",
+        "linking": "\"file was\" → /faɪl wəz/ (l + w linking)"
+    },
+    {
+        "speaker": "Erin",
+        "text": "Do we know how it was missed during the staging review?",
+        "ipa": "du wi noʊ haʊ ɪt wəz mɪst ˈdʊrɪŋ ðə ˈsteɪʤɪŋ rɪˈvju?",
+        "linking": "\"was missed\" → /wəz mɪst/ (z + m linking)"
+    },
+    {
+        "speaker": "Luis",
+        "text": "Not exactly. The staging review was performed, but the validation script was skipped by accident.",
+        "ipa": "nɑt ɪɡˈzæktli. ðə ˈsteɪʤɪŋ rɪˈvju wəz pərˈfɔrmd, bət ðə ˌvælɪˈdeɪʃən skrɪpt wəz skɪpt baɪ ˈæksɪdənt.",
+        "linking": "\"script was\" → /skrɪpt wəz/ (t + w linking)"
+    },
+    {
+        "speaker": "Erin",
+        "text": "That’s a serious oversight. Has the person responsible been identified?",
+        "ipa": "ðæts ə ˈsɪriəs ˈoʊvərˌsaɪt. hæz ðə ˈpɜrsən rɪˈspɒnsəbl bɪn aɪˈdɛntəˌfaɪd?",
+        "linking": "\"person responsible\" → /ˈpɜrsən rɪˈspɒnsəbl/ (n + r linking)"
+    },
+    {
+        "speaker": "Luis",
+        "text": "It hasn’t been confirmed yet, but the DevOps team is being interviewed today.",
+        "ipa": "ɪt ˈhæzənt bɪn kənˈfɜrmd jɛt, bət ðə ˈdɛvˌɒps tim ɪz ˈbiɪŋ ˈɪntərˌvjud təˈdeɪ.",
+        "linking": "\"team is\" → /tim ɪz/ (m + ɪ linking)"
+    },
+    {
+        "speaker": "Erin",
+        "text": "Good. And the faulty deployment — has it been rolled back?",
+        "ipa": "ɡʊd. ənd ðə ˈfɔlti dɪˈplɔɪmənt — hæz ɪt bɪn roʊld bæk?",
+        "linking": "\"been rolled\" → /bɪn roʊld/ (n + r linking)"
+    },
+    {
+        "speaker": "Luis",
+        "text": "Yes, it was reverted as soon as the error was discovered. No user data was affected, fortunately.",
+        "ipa": "jɛs, ɪt wəz rɪˈvɜrtɪd əz sun əz ði ˈɛrər wəz dɪˈskʌvərd. noʊ ˈjuzər ˈdeɪtə wəz əˈfɛktɪd, ˈfɔrʧənətli.",
+        "linking": "\"was reverted\" → /wəz rɪˈvɜrtɪd/ (z + r linking)"
+    },
+    {
+        "speaker": "Erin",
+        "text": "Still, a root cause analysis needs to be written, and preventive steps must be proposed.",
+        "ipa": "stɪl, ə rut kɔz əˈnæləsɪs nidz tu bi ˈrɪtən, ənd prɪˈvɛntɪv stɛps məst bi prəˈpoʊzd.",
+        "linking": "\"steps must\" → /stɛps məst/ (s + m linking)"
+    },
+    {
+        "speaker": "Luis",
+        "text": "Agreed. An internal audit has already been scheduled for Thursday.",
+        "ipa": "əˈɡrid. ən ɪnˈtɜrnəl ˈɔdɪt hæz ɔlˈrɛdi bɪn ˈskɛʤəld fɔr ˈθɜrzdeɪ.",
+        "linking": "\"audit has\" → /ˈɔdɪt hæz/ (t + h linking)"
+    },
+    {
+        "speaker": "Erin",
+        "text": "Let me know once the RCA is drafted. We’ll need it ready before the leadership sync.",
+        "ipa": "lɛt mi noʊ wʌns ði ˌɑr.siˈeɪ ɪz ˈdræftɪd. wil nid ɪt ˈrɛdi bɪˈfɔr ðə ˈlidərˌʃɪp sɪŋk.",
+        "linking": "\"need it\" → /nid ɪt/ (d + ɪ linking)"
+    }
+]

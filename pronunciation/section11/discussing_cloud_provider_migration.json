@@ -1,0 +1,68 @@
+[
+    {
+        "speaker": "Ivy",
+        "text": "How’s the migration going? I heard the database was moved to the new cluster last night.",
+        "ipa": "haʊz ðə maɪˈɡreɪʃən ˈɡoʊɪŋ? aɪ hɜrd ðə ˈdeɪtəˌbeɪs wəz muvd tu ðə nu ˈklʌstər læst naɪt.",
+        "linking": "\"migration going\" → /maɪˈɡreɪʃən ˈɡoʊɪŋ/ (n + g linking)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "Yeah, everything was transferred successfully. The replication lag was minimized thanks to the new architecture.",
+        "ipa": "jæ, ˈɛvrɪθɪŋ wəz ˈtrænsfərd səkˈsɛsfəli. ðə ˌrɛplɪˈkeɪʃən læɡ wəz ˈmɪnəˌmaɪzd θæŋks tu ðə nu ˈɑrkɪˌtɛkʧər.",
+        "linking": "\"lag was\" → /læɡ wəz/ (g + w linking)"
+    },
+    {
+        "speaker": "Ivy",
+        "text": "Were the alerts updated accordingly?",
+        "ipa": "wɜr ði əˈlɜrts ˈʌpˌdeɪtɪd əˈkɔrdɪŋli?",
+        "linking": "\"alerts updated\" → /əˈlɜrts ˈʌpˌdeɪtɪd/ (s + ʌ linking)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "They have been reconfigured, and the old monitoring rules were archived.",
+        "ipa": "ðeɪ hæv bɪn ˌriˈkənˌfɪɡərd, ənd ði oʊld ˈmɒnɪtərɪŋ rulz wɜr ˈɑrˌkaɪvd.",
+        "linking": "\"rules were\" → /rulz wɜr/ (z + w linking)"
+    },
+    {
+        "speaker": "Ivy",
+        "text": "Nice. And the SSL certificates — are they still valid?",
+        "ipa": "naɪs. ənd ði ˌɛsˌɛsˈɛl sərˈtɪfɪkəts — ɑr ðeɪ stɪl ˈvælɪd?",
+        "linking": "\"certificates are\" → /sərˈtɪfɪkəts ɑr/ (s + ɑ linking)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "Nope, new ones had to be issued during the switchover. The DNS records were updated early this morning.",
+        "ipa": "noʊp, nu wʌnz hæd tu bi ˈɪʃud ˈdʊrɪŋ ðə ˈswɪʧˌoʊvər. ðə ˌdiˌɛnˈɛs ˈrɛkərdz wɜr ˈʌpˌdeɪtɪd ˈɜrli ðɪs ˈmɔrnɪŋ.",
+        "linking": "\"records were\" → /ˈrɛkərdz wɜr/ (z + w linking)"
+    },
+    {
+        "speaker": "Ivy",
+        "text": "Did you get the config files reviewed before the deployment?",
+        "ipa": "dɪd ju ɡɛt ðə ˈkɒnˌfɪɡ faɪlz rɪˈvjud bɪˈfɔr ðə dɪˈplɔɪmənt?",
+        "linking": "\"files reviewed\" → /faɪlz rɪˈvjud/ (z + r linking)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "Yes, we had them checked by DevSecOps. A few risky defaults were flagged and fixed on time.",
+        "ipa": "jɛs, wi hæd ðəm ʧɛkt baɪ ˈdɛvˌsɛkˌɒps. ə fju ˈrɪski dɪˈfɔlts wɜr flæɡd ənd fɪkst ɒn taɪm.",
+        "linking": "\"defaults were\" → /dɪˈfɔlts wɜr/ (s + w linking)"
+    },
+    {
+        "speaker": "Ivy",
+        "text": "Awesome. And the users?",
+        "ipa": "ˈɔsəm. ənd ðə ˈjuzərz?",
+        "linking": "\"and the\" → /ənd ðə/ (d + ð linking)"
+    },
+    {
+        "speaker": "Marcus",
+        "text": "They were notified via email yesterday. A migration FAQ was published on our support portal too.",
+        "ipa": "ðeɪ wɜr ˈnoʊtɪˌfaɪd ˈviə ˈiˌmeɪl ˈjɛstərˌdeɪ. ə maɪˈɡreɪʃən ˌɛfˌeɪˈkju wəz ˈpʌblɪʃt ɒn aʊr səˈpɔrt ˈpɔrtəl tu.",
+        "linking": "\"FAQ was\" → /ˌɛfˌeɪˈkju wəz/ (u + w linking)"
+    },
+    {
+        "speaker": "Ivy",
+        "text": "Solid job. Make sure the rollback plan is documented before we consider this final.",
+        "ipa": "ˈsɒlɪd ʤɒb. meɪk ʃʊr ðə ˈroʊlˌbæk plæn ɪz ˈdɒkjəˌmɛntɪd bɪˈfɔr wi kənˈsɪdər ðɪs ˈfaɪnəl.",
+        "linking": "\"plan is\" → /plæn ɪz/ (n + ɪ linking)"
+    }
+]
