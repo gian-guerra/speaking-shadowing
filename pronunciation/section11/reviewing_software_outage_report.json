@@ -1,0 +1,56 @@
+[
+    {
+        "speaker": "Nina",
+        "text": "So, the root cause was traced to a configuration error in the load balancer.",
+        "ipa": "soʊ ðə ruːt kɔːz wəz treɪst tu ə ˌkɒn.fɪˈɡjʊə.reɪ.ʃən ˈɛr.ər ɪn ðə loʊd ˈbæl.ənsər",
+        "linking": "\"cause was\" → /kɔːz wəz/ (z + w linking), \"error in\" → /ˈɛr.ər ɪn/ (r + ɪ linking)"
+    },
+    {
+        "speaker": "Omar",
+        "text": "I heard it had already been flagged during staging, but the alert was ignored.",
+        "ipa": "aɪ hɜrd ɪt həd ɔːlˈrɛdi bɪn flæɡd ˈdʊr.ɪŋ ˈsteɪ.dʒɪŋ bət ði əˈlɜrt wəz ɪɡˈnɔrd",
+        "linking": "\"had already\" → /həd ɔːlˈrɛdi/ (d + ɔ linking), \"alert was\" → /əˈlɜrt wəz/ (t + w linking)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "Exactly. The issue should have been addressed before deployment. QA was informed, but it seems no follow-up was made.",
+        "ipa": "ɪɡˈzæktli. ði ˈɪʃu ʃəd həv bɪn əˈdrɛst bɪˈfɔr dɪˈplɔɪ.mənt. ˌkjuːˈeɪ wəz ɪnˈfɔrmd bət ɪt simz noʊ ˈfɒloʊ ʌp wəz meɪd",
+        "linking": "\"should have\" → /ʃəd həv/ (d + h linking), \"follow-up was\" → /ˈfɒloʊ ʌp wəz/ (p + w linking)"
+    },
+    {
+        "speaker": "Omar",
+        "text": "Yeah, and the rollback was delayed because the pipeline had been locked by another process.",
+        "ipa": "jæ ənd ðə ˈroʊlˌbæk wəz dɪˈleɪd bɪˈkəz ðə ˈpaɪp.laɪn həd bɪn lɒkt baɪ əˈnʌðər ˈproʊ.ses",
+        "linking": "\"rollback was\" → /ˈroʊlˌbæk wəz/ (k + w linking), \"had been\" → /həd bɪn/ (d + b linking)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "A post-mortem is being prepared, and a new escalation workflow will be proposed during the review.",
+        "ipa": "ə poʊst ˈmɔr.təm ɪz ˈbiɪŋ prɪˈpɛrd ənd ə nu ˌɛs.kəˈleɪ.ʃən ˈwɜrk.floʊ wɪl bi prəˈpoʊzd ˈdʊr.ɪŋ ðə rɪˈvju",
+        "linking": "\"being prepared\" → /ˈbiɪŋ prɪˈpɛrd/ (ŋ + p linking), \"will be\" → /wɪl bi/ (l + b linking)"
+    },
+    {
+        "speaker": "Omar",
+        "text": "Have the clients been notified?",
+        "ipa": "hæv ðə ˈklaɪənts bɪn ˈnoʊ.təˌfaɪd",
+        "linking": "\"clients been\" → /ˈklaɪənts bɪn/ (s + b linking)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "Yes, a statement was drafted and was sent out last night. We even had it translated into Spanish and Portuguese.",
+        "ipa": "jɛs ə ˈsteɪt.mənt wəz ˈdræf.tɪd ənd wəz sɛnt aʊt læst naɪt. wi ˈi.vən həd ɪt trænsˈleɪ.tɪd ˈɪn.tu ˈspæn.ɪʃ ənd ˈpɔr.tʃəˌɡiːz",
+        "linking": "\"was drafted\" → /wəz ˈdræf.tɪd/ (z + d linking), \"sent out\" → /sɛnt aʊt/ (t + aʊ linking)"
+    },
+    {
+        "speaker": "Omar",
+        "text": "Good. From now on, alerts must be acted on immediately. No exceptions.",
+        "ipa": "ɡʊd. frəm naʊ ɒn əˈlɜrts məst bi ˈæk.tɪd ɒn ɪˈmi.di.ətli. noʊ ɪkˈsɛp.ʃənz",
+        "linking": "\"alerts must\" → /əˈlɜrts məst/ (s + m linking), \"acted on\" → /ˈæk.tɪd ɒn/ (d + ɒ linking)"
+    },
+    {
+        "speaker": "Nina",
+        "text": "Totally agree. And more observability needs to be added — we shouldn’t be relying on logs alone.",
+        "ipa": "ˈtoʊ.tə.li əˈɡri. ənd mɔr əbˌzɜr.vəˈbɪl.ə.ti nidz tu bi ˈæd.ɪd — wi ˈʃʊd.ənt bi rɪˈlaɪ.ɪŋ ɒn lɔɡz əˈloʊn",
+        "linking": "\"shouldn't be\" → /ˈʃʊd.ənt bi/ (t + b linking), \"relying on\" → /rɪˈlaɪ.ɪŋ ɒn/ (ŋ + ɒ linking)"
+    }
+]

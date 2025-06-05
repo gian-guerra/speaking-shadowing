@@ -1,0 +1,62 @@
+[
+    {
+        "speaker": "Julia",
+        "text": "Hey, just checking in — has the API documentation been finalized?",
+        "ipa": "heɪ, dʒəst ˈʧɛkɪŋ ɪn — hæz ði ˌeɪ.piːˈaɪ ˌdɒkjʊmɛnˈteɪʃən bɪn ˈfaɪnəlaɪzd?",
+        "linking": "\"checking in\" → /ˈʧɛkɪŋ ɪn/ (ŋ + ɪ linking), \"has the\" → /hæz ði/ (z + ð linking)"
+    },
+    {
+        "speaker": "Mark",
+        "text": "Almost. The structure was approved last week, and the diagrams are being reviewed now by the client.",
+        "ipa": "ˈɔːlməʊst. ðə ˈstrʌkʧə wəz əˈpruːvd lɑːst wiːk, ənd ðə ˈdaɪəɡræmz ə ˈbiːɪŋ rɪˈvjuːd naʊ baɪ ðə ˈklaɪənt.",
+        "linking": "\"being reviewed\" → /ˈbiːɪŋ rɪˈvjuːd/ (ŋ + r linking), \"now by\" → /naʊ baɪ/ (w + b linking)"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Great. And the PDF version — has that been shared with them yet?",
+        "ipa": "ɡreɪt. ənd ðə ˌpiː.diːˈɛf ˈvɜːʒən — hæz ðæt bɪn ʃeəd wɪð ðəm jɛt?",
+        "linking": "\"shared with\" → /ʃeəd wɪð/ (d + w linking), \"with them\" → /wɪð ðəm/ (ð + ð linking)"
+    },
+    {
+        "speaker": "Mark",
+        "text": "Not yet. It’ll be exported and sent once the final comments are incorporated.",
+        "ipa": "nɒt jɛt. ˈɪtl bi ɪkˈspɔːtɪd ənd sɛnt wʌns ðə ˈfaɪnəl ˈkɒments ə ɪnˈkɔːpəreɪtɪd.",
+        "linking": "\"be exported\" → /bi ɪkˈspɔːtɪd/ (i + ɪ linking), \"and sent\" → /ənd sɛnt/ (d + s linking)"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Makes sense. I heard the security audit report was requested by their legal team. Has that been handled?",
+        "ipa": "meɪks sɛns. aɪ hɜːd ðə sɪˈkjʊərɪti ˈɔːdɪt rɪˈpɔːt wəz rɪˈkwɛstɪd baɪ ðɛə ˈliːɡəl tiːm. hæz ðæt bɪn ˈhændəld?",
+        "linking": "\"audit report\" → /ˈɔːdɪt rɪˈpɔːt/ (t + r linking), \"been handled\" → /bɪn ˈhændəld/ (n + h linking)"
+    },
+    {
+        "speaker": "Mark",
+        "text": "Yes, it was delivered yesterday. The encryption protocols were outlined clearly, and no objections have been raised so far.",
+        "ipa": "jɛs, ɪt wəz dɪˈlɪvəd ˈjɛstədeɪ. ði ɪnˈkrɪpʃən ˈprəʊtəkɒlz wɜː ˈaʊtlaɪnd ˈklɪəli, ənd nəʊ əbˈʤɛkʃənz həv bɪn reɪzd səʊ fɑː.",
+        "linking": "\"were outlined\" → /wɜː ˈaʊtlaɪnd/ (r + a linking), \"have been\" → /həv bɪn/ (v + b linking)"
+    },
+    {
+        "speaker": "Julia",
+        "text": "That’s a relief. Also, can you make sure the glossary is included in the final doc package?",
+        "ipa": "ðæts ə rɪˈliːf. ˈɔːlsəʊ, kæn juː meɪk ʃʊə ðə ˈɡlɒsəri ɪz ɪnˈkluːdɪd ɪn ðə ˈfaɪnəl dɒk ˈpækɪdʒ?",
+        "linking": "\"make sure\" → /meɪk ʃʊə/ (k + ʃ linking), \"is included\" → /ɪz ɪnˈkluːdɪd/ (z + ɪ linking)"
+    },
+    {
+        "speaker": "Mark",
+        "text": "Absolutely. It’s already been prepared and will be appended to the end of the main file.",
+        "ipa": "ˈæbsəluːtli. ɪts ɔːlˈrɛdi bɪn prɪˈpeəd ənd wɪl bi əˈpɛndɪd tuː ði ɛnd əv ðə meɪn faɪl.",
+        "linking": "\"been prepared\" → /bɪn prɪˈpeəd/ (n + p linking), \"will be\" → /wɪl bi/ (l + b linking)"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Perfect. Once the doc is submitted, I’ll follow up with them to confirm everything was received properly.",
+        "ipa": "ˈpɜːfɪkt. wʌns ðə dɒk ɪz səbˈmɪtɪd, aɪl ˈfɒləʊ ʌp wɪð ðɛm tuː kənˈfɜːm ˈɛvrɪθɪŋ wəz rɪˈsiːvd ˈprɒpəli.",
+        "linking": "\"follow up\" → /ˈfɒləʊ ʌp/ (w + ʌ linking), \"was received\" → /wəz rɪˈsiːvd/ (z + r linking)"
+    },
+    {
+        "speaker": "Mark",
+        "text": "Got it. Everything should be wrapped up by EOD.",
+        "ipa": "ɡɒt ɪt. ˈɛvrɪθɪŋ ʃʊd bi ræpt ʌp baɪ ˌiː.oʊˈdiː.",
+        "linking": "\"should be\" → /ʃʊd bi/ (d + b linking), \"wrapped up\" → /ræpt ʌp/ (t + ʌ linking)"
+    }
+]

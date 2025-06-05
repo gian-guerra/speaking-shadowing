@@ -1,0 +1,68 @@
+[
+    {
+        "speaker": "Sarah",
+        "text": "The network issue was caused by an unexpected DNS propagation delay.",
+        "ipa": "ðə ˈnɛtwɜrk ˈɪʃu wəz kɔzd baɪ ən ˌʌnɪkˈspɛktɪd ˌdiɛnˈɛs ˌprɑpəˈɡeɪʃən dɪˈleɪ",
+        "linking": "\"issue was\" → /ˈɪʃu wəz/ (u + w linking)"
+    },
+    {
+        "speaker": "CTO",
+        "text": "Was that something that could have been prevented?",
+        "ipa": "wəz ðæt ˈsʌmθɪŋ ðæt kʊd həv bɪn prɪˈvɛntɪd",
+        "linking": "\"could have\" → /kʊd həv/ (d + h linking)"
+    },
+    {
+        "speaker": "Sarah",
+        "text": "Potentially. A warning had been issued by the infrastructure team two days before the rollout, but it wasn't escalated properly.",
+        "ipa": "pəˈtɛnʃəli. ə ˈwɔrnɪŋ həd bɪn ˈɪʃud baɪ ði ˈɪnfrəˌstrʌkʧər tim tu deɪz bɪˈfɔr ðə ˈroʊˌlaʊt, bət ɪt ˈwəzənt ˈɛskəˌleɪtɪd ˈprɑpərli",
+        "linking": "\"had been\" → /həd bɪn/ (d + b linking), \"wasn't escalated\" → /ˈwəzənt ˈɛskəˌleɪtɪd/ (t + e linking)"
+    },
+    {
+        "speaker": "CTO",
+        "text": "So no contingency plan was activated?",
+        "ipa": "soʊ noʊ kənˈtɪnʤənsi plæn wəz ˈæktəˌveɪtɪd",
+        "linking": "\"plan was\" → /plæn wəz/ (n + w linking)"
+    },
+    {
+        "speaker": "Sarah",
+        "text": "Correct. A fallback route was designed, but unfortunately, it wasn’t enabled at the time of failure.",
+        "ipa": "kəˈrɛkt. ə ˈfɔlˌbæk raʊt wəz dɪˈzaɪnd, bət ənˈfɔrʧənətli, ɪt ˈwəzənt ɛˈneɪbəld æt ðə taɪm əv ˈfeɪljər",
+        "linking": "\"route was\" → /raʊt wəz/ (t + w linking), \"wasn't enabled\" → /ˈwəzənt ɛˈneɪbəld/ (t + e linking)"
+    },
+    {
+        "speaker": "CTO",
+        "text": "Has the vendor been contacted?",
+        "ipa": "hæz ðə ˈvɛndər bɪn kənˈtæktɪd",
+        "linking": "\"vendor been\" → /ˈvɛndər bɪn/ (r + b linking)"
+    },
+    {
+        "speaker": "Sarah",
+        "text": "Yes — they were notified as soon as packet loss was detected. Their engineers are being looped in for a joint RCA.",
+        "ipa": "jɛs — ðeɪ wɜr ˈnoʊtəˌfaɪd əz sun əz ˈpækɪt lɔs wəz dɪˈtɛktɪd. ðɛr ˌɛnʤəˈnɪrz ɑr ˈbiɪŋ lupt ɪn fɔr ə ʤɔɪnt ˌɑr.siˈeɪ",
+        "linking": "\"packet loss\" → /ˈpækɪt lɔs/ (t + l linking), \"being looped\" → /ˈbiɪŋ lupt/ (ŋ + l linking)"
+    },
+    {
+        "speaker": "CTO",
+        "text": "What about the fix?",
+        "ipa": "wʌt əˈbaʊt ðə fɪks",
+        "linking": "\"What about\" → /wʌt əˈbaʊt/ (t + ə linking)"
+    },
+    {
+        "speaker": "Sarah",
+        "text": "The faulty entry was removed, and a temporary patch was applied. A full update is going to be deployed tonight.",
+        "ipa": "ðə ˈfɔlti ˈɛntri wəz rɪˈmuvd, ənd ə ˈtɛmpəˌrɛri pæʧ wəz əˈplaɪd. ə fʊl ˈʌpˌdeɪt ɪz ˈɡoʊɪŋ tu bi dɪˈplɔɪd təˈnaɪt",
+        "linking": "\"patch was\" → /pæʧ wəz/ (ʧ + w linking), \"going to be\" → /ˈɡoʊɪŋ tu bi/ (ŋ + t linking)"
+    },
+    {
+        "speaker": "CTO",
+        "text": "Make sure a new runbook is created, and have the team get it reviewed by both DevOps and SecOps.",
+        "ipa": "meɪk ʃʊr ə nu ˈrʌnˌbʊk ɪz kriˈeɪtɪd, ənd hæv ðə tim ɡɛt ɪt rɪˈvjud baɪ boʊθ ˈdɛvˌɑps ənd ˈsɛkˌɑps",
+        "linking": "\"get it\" → /ɡɛt ɪt/ (t + ɪ linking)"
+    },
+    {
+        "speaker": "Sarah",
+        "text": "Already on it. Also, a post-incident summary has been drafted and will be sent out to all stakeholders today.",
+        "ipa": "ɔlˈrɛdi ɑn ɪt. ˈɔlsoʊ, ə poʊst-ˈɪnsɪdənt ˈsʌməri hæz bɪn ˈdræftɪd ənd wɪl bi sɛnt aʊt tu ɔl ˈsteɪkˌhoʊldərz təˈdeɪ",
+        "linking": "\"been drafted\" → /bɪn ˈdræftɪd/ (n + d linking), \"sent out\" → /sɛnt aʊt/ (t + aʊ linking)"
+    }
+]
