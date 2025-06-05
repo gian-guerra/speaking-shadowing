@@ -1,0 +1,9 @@
+Nina: So, the root cause {was traced} to a configuration error in the load balancer.
+Omar: I heard it {had already been flagged} during staging, but the alert {was ignored}.
+Nina: Exactly. The issue {should have been addressed} before deployment. QA {was informed}, but it seems no follow-up {was made}.
+Omar: Yeah, and the rollback {was delayed} because the pipeline {had been locked} by another process.
+Nina: A post-mortem {is being prepared}, and a new escalation workflow {will be proposed} during the review.
+Omar: Have the clients {been notified}?
+Nina: Yes, a statement {was drafted} and {was sent out} last night. We even {had it translated} into Spanish and Portuguese.
+Omar: Good. From now on, alerts {must be acted on} immediately. No exceptions.
+Nina: Totally agree. And more observability {needs to be added} — we {shouldn’t be relying} on logs alone.

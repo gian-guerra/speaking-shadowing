@@ -1,0 +1,10 @@
+Leo: Hey, have you seen the spike in traffic? The new endpoint {was hit} over 50,000 times in the last hour.
+Maya: Yeah, and the database {has been overwhelmed} as a result. Several queries {were delayed} during peak usage.
+Leo: That's what I was worried about. The cache layer {should have been scaled} before the rollout.
+Maya: Agreed. Also, the backup system {wasn’t configured properly}, so some logs {weren’t captured}.
+Leo: Oh no. Was the incident {reported} to the SRE team?
+Maya: Yes, an alert {was generated} automatically and {was sent} to their Slack channel.
+Leo: That’s good. I guess the mitigation plan {needs to be updated} now.
+Maya: Definitely. And we {are going to be asked} to present a postmortem next week.
+Leo: Let’s make sure all root causes {are documented} clearly.
+Maya: Agreed. A few actions {have already been assigned} to different team members.
