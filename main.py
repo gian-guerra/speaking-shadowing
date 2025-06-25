@@ -12,7 +12,7 @@ BOLD = "\033[1m"
 BLUE = "\033[94m"
 
 
-SECTION_TO_PRACTICE = "section8B"
+SECTION_TO_PRACTICE = "vocabulary/intermediate/section1"
 SCRIPTS_DIR = f"scripts/{SECTION_TO_PRACTICE}"
 AUDIOS_DIR = f"audios/{SECTION_TO_PRACTICE}"
 PRONUNCIATION_DIR = f"pronunciation/{SECTION_TO_PRACTICE}"
@@ -24,9 +24,18 @@ def list_files(directory, extension=None):
 def format_line(line):
     return re.sub(r"\{(.*?)\}", f"{BOLD}{BLUE}\\1{RESET}", line)
 
-def load_script(script_path):
+def load_script(script_path, mode="lines"):
     with open(script_path, "r", encoding="utf-8") as f:
-        return [format_line(line.strip()) for line in f if line.strip()]
+        content = f.read().strip()
+        if mode == "chunk":
+            return [format_line(content)]  # return as a single-element list
+        return [format_line(line.strip()) for line in content.splitlines() if line.strip()]
+
+def load_audio_segments_for_mode(audio_path, mode, expected_segments=None):
+    if mode == "chunk":
+        return [AudioSegment.from_file(audio_path)]  # Single chunk
+    else:
+        return load_audio_segments_with_silence(audio_path, expected_segments)
 
 def load_audio_segments(audio_path, number_of_segments):
     audio = AudioSegment.from_file(audio_path)
@@ -71,7 +80,11 @@ def select_file(directory, extension):
             pass
         print("Invalid selection. Please enter a valid number")
 
-def shadowing_session(script_lines, audio_segments, pronunciation_data):
+def load_ipa_text(ipa_txt_path):
+    with open(ipa_txt_path, "r", encoding="utf-8") as f:
+        return f.read().strip()
+
+def shadowing_session(script_lines, audio_segments, pronunciation_data, mode):
     print("\n Shadowing Session Started ")
     print("Instructions: [r]epeat | [n]ext | [q]uit | [v]record and compare | [s]stress | [i]ipa | [l]linking | [a]all\n")
 
@@ -79,10 +92,13 @@ def shadowing_session(script_lines, audio_segments, pronunciation_data):
         while True:
             print(f"\n📢 {line}")
             print(f"IPA: {pronunciation_data[index].get('ipa', 'N/A')}")
-            print(f"Linking: {pronunciation_data[index].get('linking', 'N/A')}")
+            if mode == "lines":
+                print(f"Linking: {pronunciation_data[index].get('linking', 'N/A')}")
             play(audio_segments[index])
 
-            command = input(">> [r]epeat | [n]ext | [q]uit | [v]record and compare | [s]stress | [i]ipa | [l]linking | [a]all\n").strip().lower()
+            command = input(">> [r]epeat | [n]ext | [q]uit | [v]record and compare" +
+                            (" | [s]stress | [i]ipa | [l]linking | [a]all" if mode == "lines" else "") + "\n").strip().lower()
+            
             if command == "n":
                 break
             elif command == "q":
@@ -95,25 +111,26 @@ def shadowing_session(script_lines, audio_segments, pronunciation_data):
                 print("🔁 Playing your recording...")
                 record.save_and_play_recording(audio_data, sr)
                 break
-            elif command in ("s", "i", "l", "a"):
-                if 0 <= index < len(pronunciation_data):
-                    data = pronunciation_data[index]
-                    if command == "s":
-                        print(f"Stress: {data.get('stress', 'N/A')}")
-                    elif command == "i":
-                        print(f"IPA: {data.get('ipa', 'N/A')}")
-                    elif command == "l":
-                        print(f"Linking:\n{data.get('linking', 'N/A')}")
-                    elif command == "a":
-                        print(f"Stress: {data.get('stress', 'N/A')}")
-                        print(f"IPA: {data.get('ipa', 'N/A')}")
-                        print(f"Linking:\n{data.get('linking', 'N/A')}")
-                else:
-                    print("No pronunciation data available for this line.")
+            elif mode == "lines" and command in ("s", "i", "l", "a"):
+                data = pronunciation_data[index]
+                if command == "s":
+                    print(f"Stress: {data.get('stress', 'N/A')}")
+                elif command == "i":
+                    print(f"IPA: {data.get('ipa', 'N/A')}")
+                elif command == "l":
+                    print(f"Linking:\n{data.get('linking', 'N/A')}")
+                elif command == "a":
+                    print(f"Stress: {data.get('stress', 'N/A')}")
+                    print(f"IPA: {data.get('ipa', 'N/A')}")
+                    print(f"Linking:\n{data.get('linking', 'N/A')}")
             else:
-                print("Invalid input. Please try to use r/n/q/v/s/i/l/a")
+                print("Invalid input. Please try again.")
+
 def main():
-    print("Welcome to this pronounciation shadowing tool")
+    print("Welcome to this pronunciation shadowing tool")
+
+    mode = input("Select mode: [1] Line by line (dialogue) or [2] Full chunk (paragraph): ").strip()
+    mode = "chunk" if mode == "2" else "lines"
 
     script_file = select_file(SCRIPTS_DIR, ".txt")
     if not script_file:
@@ -123,19 +140,25 @@ def main():
     if not audio_file:
         return
 
-    pronunciation_file = select_file(PRONUNCIATION_DIR, ".json")
-    if not pronunciation_file:
-        return
+    if mode == "lines":
+        pronunciation_file = select_file(PRONUNCIATION_DIR, ".json")
+        if not pronunciation_file:
+            return
+        pronunciation_data = load_pronunciation_data(pronunciation_file, mode)
+    else:
+        pronunciation_file = select_file(PRONUNCIATION_DIR, ".txt")
+        if not pronunciation_file:
+            return
+        ipa_text = load_ipa_text(pronunciation_file)
+        pronunciation_data = [{"ipa": ipa_text}]
 
-    
-    script_lines = load_script(script_file)
-    audio_segments = load_audio_segments_with_silence(audio_file, len(script_lines))
-    pronunciation_data = load_pronunciation_data(pronunciation_file)
+    script_lines = load_script(script_file, mode=mode)
+    audio_segments = load_audio_segments_for_mode(audio_file, mode, len(script_lines) if mode == "lines" else None)
 
-    if len(audio_segments) != len(script_lines):
+    if mode == "lines" and len(audio_segments) != len(script_lines):
         print(f"Audio length: {len(audio_segments)} and script length: {len(script_lines)} may not match perfectly")
 
-    shadowing_session(script_lines, audio_segments, pronunciation_data)
+    shadowing_session(script_lines, audio_segments, pronunciation_data, mode)
 
 if __name__ == "__main__":
     main()
