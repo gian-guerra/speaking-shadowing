@@ -3,11 +3,14 @@ from pydub.playback import play
 from pydub.silence import split_on_silence
 from scipy.io.wavfile import write, read
 from modules import record, audio, files, pronunciation, scripts
+from pathlib import Path
+
+project_root = Path(__file__).resolve().parent
 
 SECTION_TO_PRACTICE = "grammar/section1A"
-SCRIPTS_DIR = f"scripts/{SECTION_TO_PRACTICE}"
-AUDIOS_DIR = f"audios/{SECTION_TO_PRACTICE}"
-PRONUNCIATION_DIR = f"pronunciation/{SECTION_TO_PRACTICE}"
+SCRIPTS_DIR = project_root / f"scripts/{SECTION_TO_PRACTICE}"
+AUDIOS_DIR = project_root / f"audios/{SECTION_TO_PRACTICE}"
+PRONUNCIATION_DIR = project_root / f"pronunciation/{SECTION_TO_PRACTICE}"
 INSTRUCTIONS = "Instructions: [r]epeat | [n]ext | [q]uit | [v]record and compare | [s]stress | [i]ipa | [l]linking | [a]all\n"
 
 def shadowing_session(script_lines, audio_segments, pronunciation_data, mode):
@@ -68,7 +71,7 @@ def main():
         pronunciation_file = files.select_file(PRONUNCIATION_DIR, ".json")
         if not pronunciation_file:
             return
-        pronunciation_data = pronunciation.load_pronunciation_data(pronunciation_file, mode)
+        pronunciation_data = pronunciation.load_pronunciation_data(pronunciation_file)
     else:
         pronunciation_file = files.select_file(PRONUNCIATION_DIR, ".txt")
         if not pronunciation_file:
