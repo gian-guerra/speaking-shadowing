@@ -16,25 +16,10 @@ def main():
         practicePath = f"{dimension}/{subDimension}/section{section}"
     paths = utils.getPaths(practicePath)
 
-    script_file = files.select_file(paths["script"], ".txt")
-    if not script_file:
+    topic = files.select_topic(paths["script"])
+    if not topic:
         return
-
-    audio_file = files.select_file(paths["audio"], ".mp3")
-    if not audio_file:
-        return
-
-    if mode == "lines":
-        pronunciation_file = files.select_file(paths["pronunciation"], ".json")
-        if not pronunciation_file:
-            return
-        pronunciation_data = pronunciation.load_pronunciation_data(pronunciation_file)
-    else:
-        pronunciation_file = files.select_file(paths["pronunciation"], ".txt")
-        if not pronunciation_file:
-            return
-        ipa_text = pronunciation.load_ipa_text(pronunciation_file)
-        pronunciation_data = [{"ipa": ipa_text}]
+    script_file, audio_file, pronunciation_data = files.load_files_for_topic(topic, paths, mode)
 
     script_lines = scripts.load_script(script_file, mode=mode)
     audio_segments = audio.load_audio_segments_for_mode(audio_file, mode, len(script_lines) if mode == "lines" else None)
