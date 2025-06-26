@@ -1,60 +1,5 @@
 
-from pydub.playback import play
-from pydub.silence import split_on_silence
-from scipy.io.wavfile import write, read
-from modules import record, audio, files, pronunciation, scripts
-from pathlib import Path
-
-project_root = Path(__file__).resolve().parent
-
-def getPaths(sectionToPractice):
-    scripts_path = project_root / f"scripts/{sectionToPractice}"
-    audios_path = project_root / f"audios/{sectionToPractice}"
-    pronunciation_path = project_root / f"pronunciation/{sectionToPractice}"
-    return {"script": scripts_path, "audio": audios_path, "pronunciation": pronunciation_path}
-
-SECTION_TO_PRACTICE = "grammar/section1A"
-
-INSTRUCTIONS = "Instructions: [r]epeat | [n]ext | [q]uit | [v]record and compare | [s]stress | [i]ipa | [l]linking | [a]all\n"
-
-def shadowing_session(script_lines, audio_segments, pronunciation_data, mode):
-    print("\n Shadowing Session Started ")
-    
-    for index, line in enumerate(script_lines):
-        while True:
-            pronunciation = pronunciation_data[index]
-            print(f"\n📢 {line}")
-            print(f"IPA: {pronunciation.get('ipa', 'N/A')}")
-            if mode == "lines":
-                print(f"Linking: {pronunciation.get('linking', 'N/A')}")
-            play(audio_segments[index])
-
-            command = input(INSTRUCTIONS).strip().lower()
-            if command == "n":
-                break
-            elif command == "q":
-                print("Exiting...")
-                return
-            elif command == "r":
-                continue
-            elif command == "v":
-                audio_data, sr = record.record_audio_until_keypress()
-                print("🔁 Playing your recording...")
-                record.save_and_play_recording(audio_data, sr)
-                break
-            elif command == "i":
-                print(f"IPA: {pronunciation.get('ipa', 'N/A')}")
-            elif mode == "lines" and command in ("s", "i", "l", "a"):
-                if command == "s":
-                    print(f"Stress: {pronunciation.get('stress', 'N/A')}")
-                elif command == "l":
-                    print(f"Linking:\n{pronunciation.get('linking', 'N/A')}")
-                elif command == "a":
-                    print(f"Stress: {pronunciation.get('stress', 'N/A')}")
-                    print(f"IPA: {pronunciation.get('ipa', 'N/A')}")
-                    print(f"Linking:\n{pronunciation.get('linking', 'N/A')}")
-            else:
-                print("Invalid input. Please try again.")
+from modules import index, audio, files, pronunciation, scripts, utils
 
 def main():
     print("Welcome to this pronunciation shadowing tool")
@@ -69,7 +14,7 @@ def main():
     practicePath = f"{dimension}/section{section}"
     if subDimension != "":
         practicePath = f"{dimension}/{subDimension}/section{section}"
-    paths = getPaths(practicePath)
+    paths = utils.getPaths(practicePath)
 
     script_file = files.select_file(paths["script"], ".txt")
     if not script_file:
@@ -97,7 +42,7 @@ def main():
     if mode == "lines" and len(audio_segments) != len(script_lines):
         print(f"Audio length: {len(audio_segments)} and script length: {len(script_lines)} may not match perfectly")
 
-    shadowing_session(script_lines, audio_segments, pronunciation_data, mode)
+    index.shadowing_session(script_lines, audio_segments, pronunciation_data, mode)
 
 if __name__ == "__main__":
     main()
