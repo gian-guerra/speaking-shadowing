@@ -1,26 +1,30 @@
 from pydub.playback import play
 from modules import record, utils
 
-INSTRUCTIONS = "Instructions: [r]epeat | [n]ext | [q]uit | [v]record and compare | [s]stress | [i]ipa | [l]linking | [a]all\n"
+INSTRUCTIONS = "Instructions: [r]epeat | [n]ext | [q]uit | [v]record and compare\n"
 
-
+EXTRA_OPTIONS = "| [s]stress | [i]ipa | [l]linking | [a]all"
     
 def shadowing_session(script_lines, audio_segments, pronunciation_data, mode):
     print("\n Shadowing Session Started ")
 
+    instructions = INSTRUCTIONS
+    if mode == "lines":
+        instructions = f"{instructions}/{EXTRA_OPTIONS}"
+
     for index, line in enumerate(script_lines):
         pronunciation = pronunciation_data[index]
-        toPrint = [f"\n📢 {line}", f"IPA: {pronunciation.get('ipa', 'N/A')}"]
+        toPrint = [f"\n📢 {line}", f"IPA: \n{pronunciation.get('ipa', 'N/A')}"]
         while True:
             utils.printMultipleLines(toPrint)
             nextPrintLines = [f"\n📢 {line}"]
             play(audio_segments[index])
 
-            ipaDisplay = nextPrintLines.append(f"IPA: {pronunciation.get('ipa', 'N/A')}")
-            stressDisplay = nextPrintLines.append(f"Stress: {pronunciation.get('stress', 'N/A')}")
-            linkingDisplay = nextPrintLines.append(f"Linking:\n{pronunciation.get('linking', 'N/A')}")
+            ipaDisplay = f"IPA: {pronunciation.get('ipa', 'N/A')}"
+            stressDisplay = f"Stress: {pronunciation.get('stress', 'N/A')}"
+            linkingDisplay = f"Linking:\n{pronunciation.get('linking', 'N/A')}"
             
-            command = input(INSTRUCTIONS).strip().lower()
+            command = input(instructions).strip().lower()
             if command == "n":
                 break
             elif command == "q":
