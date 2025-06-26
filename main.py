@@ -1,14 +1,5 @@
 
-from modules import index, audio, files, pronunciation, scripts
-from pathlib import Path
-
-project_root = Path(__file__).resolve().parent
-
-def getPaths(sectionToPractice):
-    scripts_path = project_root / f"scripts/{sectionToPractice}"
-    audios_path = project_root / f"audios/{sectionToPractice}"
-    pronunciation_path = project_root / f"pronunciation/{sectionToPractice}"
-    return {"script": scripts_path, "audio": audios_path, "pronunciation": pronunciation_path}
+from modules import index, audio, files, pronunciation, scripts, utils
 
 def main():
     print("Welcome to this pronunciation shadowing tool")
@@ -23,7 +14,7 @@ def main():
     practicePath = f"{dimension}/section{section}"
     if subDimension != "":
         practicePath = f"{dimension}/{subDimension}/section{section}"
-    paths = getPaths(practicePath)
+    paths = utils.getPaths(practicePath)
 
     script_file = files.select_file(paths["script"], ".txt")
     if not script_file:

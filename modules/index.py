@@ -1,13 +1,9 @@
 from pydub.playback import play
-from pydub.silence import split_on_silence
-from scipy.io.wavfile import write, read
-from modules import record
+from modules import record, utils
 
 INSTRUCTIONS = "Instructions: [r]epeat | [n]ext | [q]uit | [v]record and compare | [s]stress | [i]ipa | [l]linking | [a]all\n"
 
-def printMultipleLines(lines):
-    for _, line in enumerate(lines):
-        print(line)
+
     
 def shadowing_session(script_lines, audio_segments, pronunciation_data, mode):
     print("\n Shadowing Session Started ")
@@ -16,7 +12,7 @@ def shadowing_session(script_lines, audio_segments, pronunciation_data, mode):
         pronunciation = pronunciation_data[index]
         toPrint = [f"\n📢 {line}", f"IPA: {pronunciation.get('ipa', 'N/A')}"]
         while True:
-            printMultipleLines(toPrint)
+            utils.printMultipleLines(toPrint)
             nextPrintLines = [f"\n📢 {line}"]
             play(audio_segments[index])
 
