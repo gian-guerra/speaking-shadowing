@@ -7,22 +7,26 @@ from pathlib import Path
 
 project_root = Path(__file__).resolve().parent
 
+def getPaths(sectionToPractice):
+    scripts_path = project_root / f"scripts/{sectionToPractice}"
+    audios_path = project_root / f"audios/{sectionToPractice}"
+    pronunciation_path = project_root / f"pronunciation/{sectionToPractice}"
+    return {"script": scripts_path, "audio": audios_path, "pronunciation": pronunciation_path}
+
 SECTION_TO_PRACTICE = "grammar/section1A"
-SCRIPTS_DIR = project_root / f"scripts/{SECTION_TO_PRACTICE}"
-AUDIOS_DIR = project_root / f"audios/{SECTION_TO_PRACTICE}"
-PRONUNCIATION_DIR = project_root / f"pronunciation/{SECTION_TO_PRACTICE}"
+
 INSTRUCTIONS = "Instructions: [r]epeat | [n]ext | [q]uit | [v]record and compare | [s]stress | [i]ipa | [l]linking | [a]all\n"
 
 def shadowing_session(script_lines, audio_segments, pronunciation_data, mode):
     print("\n Shadowing Session Started ")
-    print(INSTRUCTIONS)
-
+    
     for index, line in enumerate(script_lines):
         while True:
+            pronunciation = pronunciation_data[index]
             print(f"\n📢 {line}")
-            print(f"IPA: {pronunciation_data[index].get('ipa', 'N/A')}")
+            print(f"IPA: {pronunciation.get('ipa', 'N/A')}")
             if mode == "lines":
-                print(f"Linking: {pronunciation_data[index].get('linking', 'N/A')}")
+                print(f"Linking: {pronunciation.get('linking', 'N/A')}")
             play(audio_segments[index])
 
             command = input(INSTRUCTIONS).strip().lower()
@@ -38,42 +42,50 @@ def shadowing_session(script_lines, audio_segments, pronunciation_data, mode):
                 print("🔁 Playing your recording...")
                 record.save_and_play_recording(audio_data, sr)
                 break
+            elif command == "i":
+                print(f"IPA: {pronunciation.get('ipa', 'N/A')}")
             elif mode == "lines" and command in ("s", "i", "l", "a"):
-                data = pronunciation_data[index]
                 if command == "s":
-                    print(f"Stress: {data.get('stress', 'N/A')}")
-                elif command == "i":
-                    print(f"IPA: {data.get('ipa', 'N/A')}")
+                    print(f"Stress: {pronunciation.get('stress', 'N/A')}")
                 elif command == "l":
-                    print(f"Linking:\n{data.get('linking', 'N/A')}")
+                    print(f"Linking:\n{pronunciation.get('linking', 'N/A')}")
                 elif command == "a":
-                    print(f"Stress: {data.get('stress', 'N/A')}")
-                    print(f"IPA: {data.get('ipa', 'N/A')}")
-                    print(f"Linking:\n{data.get('linking', 'N/A')}")
+                    print(f"Stress: {pronunciation.get('stress', 'N/A')}")
+                    print(f"IPA: {pronunciation.get('ipa', 'N/A')}")
+                    print(f"Linking:\n{pronunciation.get('linking', 'N/A')}")
             else:
                 print("Invalid input. Please try again.")
 
 def main():
     print("Welcome to this pronunciation shadowing tool")
 
-    mode = input("Select mode: [1] Line by line (dialogue) or [2] Full chunk (paragraph): ").strip()
+    mode = input("Select mode: [1] Line by line [2] Full chunk: ").strip()
     mode = "chunk" if mode == "2" else "lines"
 
-    script_file = files.select_file(SCRIPTS_DIR, ".txt")
+    dimension = input("Insert dimension: ")
+    subDimension = input("Insert subdimension: ")
+    section = input("Insert section: ")
+
+    practicePath = f"{dimension}/section{section}"
+    if subDimension != "":
+        practicePath = f"{dimension}/{subDimension}/section{section}"
+    paths = getPaths(practicePath)
+
+    script_file = files.select_file(paths["script"], ".txt")
     if not script_file:
         return
 
-    audio_file = files.select_file(AUDIOS_DIR, ".mp3")
+    audio_file = files.select_file(paths["audio"], ".mp3")
     if not audio_file:
         return
 
     if mode == "lines":
-        pronunciation_file = files.select_file(PRONUNCIATION_DIR, ".json")
+        pronunciation_file = files.select_file(paths["pronunciation"], ".json")
         if not pronunciation_file:
             return
         pronunciation_data = pronunciation.load_pronunciation_data(pronunciation_file)
     else:
-        pronunciation_file = files.select_file(PRONUNCIATION_DIR, ".txt")
+        pronunciation_file = files.select_file(paths["pronunciation"], ".txt")
         if not pronunciation_file:
             return
         ipa_text = pronunciation.load_ipa_text(pronunciation_file)
