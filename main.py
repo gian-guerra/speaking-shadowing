@@ -17,16 +17,21 @@ SECTION_TO_PRACTICE = "grammar/section1A"
 
 INSTRUCTIONS = "Instructions: [r]epeat | [n]ext | [q]uit | [v]record and compare | [s]stress | [i]ipa | [l]linking | [a]all\n"
 
+def printMultipleLines(lines):
+    for _, line in enumerate(lines):
+        print(line)
+    print(INSTRUCTIONS)
+    
 def shadowing_session(script_lines, audio_segments, pronunciation_data, mode):
     print("\n Shadowing Session Started ")
-    
+
     for index, line in enumerate(script_lines):
+        pronunciation = pronunciation_data[index]
+        toPrint = [f"\n📢 {line}", f"IPA: {pronunciation.get('ipa', 'N/A')}"]
         while True:
-            pronunciation = pronunciation_data[index]
-            print(f"\n📢 {line}")
-            print(f"IPA: {pronunciation.get('ipa', 'N/A')}")
-            if mode == "lines":
-                print(f"Linking: {pronunciation.get('linking', 'N/A')}")
+            printMultipleLines(toPrint)
+            nextPrintLines = [f"\n📢 {line}"]
+
             play(audio_segments[index])
 
             command = input(INSTRUCTIONS).strip().lower()
@@ -43,18 +48,19 @@ def shadowing_session(script_lines, audio_segments, pronunciation_data, mode):
                 record.save_and_play_recording(audio_data, sr)
                 break
             elif command == "i":
-                print(f"IPA: {pronunciation.get('ipa', 'N/A')}")
+                nextPrintLines.append(f"IPA: {pronunciation.get('ipa', 'N/A')}")
             elif mode == "lines" and command in ("s", "i", "l", "a"):
                 if command == "s":
-                    print(f"Stress: {pronunciation.get('stress', 'N/A')}")
+                    nextPrintLines.append(f"Stress: {pronunciation.get('stress', 'N/A')}")
                 elif command == "l":
-                    print(f"Linking:\n{pronunciation.get('linking', 'N/A')}")
+                    nextPrintLines.append(f"Linking:\n{pronunciation.get('linking', 'N/A')}")
                 elif command == "a":
-                    print(f"Stress: {pronunciation.get('stress', 'N/A')}")
-                    print(f"IPA: {pronunciation.get('ipa', 'N/A')}")
-                    print(f"Linking:\n{pronunciation.get('linking', 'N/A')}")
+                    nextPrintLines.append(f"Stress: {pronunciation.get('stress', 'N/A')}")
+                    nextPrintLines.append(f"IPA: {pronunciation.get('ipa', 'N/A')}")
+                    nextPrintLines.append(f"Linking:\n{pronunciation.get('linking', 'N/A')}")
             else:
                 print("Invalid input. Please try again.")
+            toPrint = nextPrintLines
 
 def main():
     print("Welcome to this pronunciation shadowing tool")
