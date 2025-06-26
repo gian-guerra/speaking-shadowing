@@ -14,7 +14,7 @@ def shadowing_session(script_lines, audio_segments, pronunciation_data, mode):
 
     for index, line in enumerate(script_lines):
         pronunciation = pronunciation_data[index]
-        toPrint = [f"\n📢 {line}", f"IPA: {pronunciation.get('ipa', 'N/A')}"]
+        toPrint = [f"\n📢 {line}", f"IPA: \n{pronunciation.get('ipa', 'N/A')}"]
         while True:
             utils.printMultipleLines(toPrint)
             nextPrintLines = [f"\n📢 {line}"]
