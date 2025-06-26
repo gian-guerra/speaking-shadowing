@@ -1,5 +1,5 @@
 
-from modules import index, audio, files, pronunciation, scripts, utils
+from modules import index, audio, files, scripts, utils
 
 def main():
     print("Welcome to this pronunciation shadowing tool")
