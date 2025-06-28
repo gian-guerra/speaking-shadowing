@@ -28,7 +28,6 @@ def main():
 
             script_file, audio_file, pronunciation_data = files.load_files_for_topic(topic, paths, mode)
             script_lines = scripts.load_script(script_file, mode=mode, ipa_path=os.path.join(paths["pronunciation"], f"{topic}.txt"))
-            print(script_lines)
             audio_segments = audio.load_audio_segments_for_mode(audio_file, mode, len(script_lines) if mode == "lines" else None)
 
             if mode == "lines" and len(audio_segments) != len(script_lines):
