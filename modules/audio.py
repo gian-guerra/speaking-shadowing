@@ -2,10 +2,10 @@ from pydub import AudioSegment
 from pydub.silence import split_on_silence
 
 def load_audio_segments_for_mode(audio_path, mode, expected_segments=None):
-    if mode == "chunk":
-        return [AudioSegment.from_file(audio_path)]
-    else:
+    if mode == "lines":
         return load_audio_segments_with_silence(audio_path, expected_segments)
+    else:
+        return [AudioSegment.from_file(audio_path)]
 
 def load_audio_segments(audio_path, number_of_segments):
     audio = AudioSegment.from_file(audio_path)
